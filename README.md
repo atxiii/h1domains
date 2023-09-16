@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Sep 16 09:14:04 UTC 2023)
+## Domains with Bounties (Last Updated Sat Sep 16 10:13:50 UTC 2023)
 ```
 prismalabsteam.com
 prisma-ai.com
@@ -241,9 +241,9 @@ login.tide.co
 app.tide.co
 api.tideplatform.in
 www.tide.co
+firefox.settings.services.mozilla.com
 crash-stats.allizom.org
 firefox-ci-tc.services.mozilla.com
-firefox.settings.services.mozilla.com
 accounts.firefox.com
 merino.services.mozilla.com
 sync.services.mozilla.com
@@ -251,10 +251,10 @@ push.services.mozilla.com
 bugzilla.mozilla.org
 addons.allizom.org
 hg.mozilla.org
-contile.services.mozilla.com
 shavar.services.mozilla.com
 lando.services.mozilla.com
 aus5.mozilla.org
+contile.services.mozilla.com
 crash-reports.allizom.org
 mozilla-pontoon-staging.herokuapp.com
 location.services.mozilla.com
@@ -1415,8 +1415,8 @@ hackers_chosendomain.larksuite.com
 *.exodus.io
 *.a.exodus.io
 *.exodus.com
-www.yotisign.com
 api.yoti.com
+www.yotisign.com
 core.yoti.com
 ccloud.yoti.com
 code.yoti.com
@@ -2478,10 +2478,10 @@ fanduel.design
 *.flickr.com
 matomo.cloud
 matomo.cloud
+*.xoom.com
 www.swiftfinancial.com
 swiftfinancial.com
 *.braintreepayments.com
-*.xoom.com
 py.pl
 *.paylution.com
 *.braintree-api.com
@@ -2492,8 +2492,8 @@ partner.swiftfinancial.com
 scrutiny.swiftfinancial.com
 paypal.me
 *.hyperwallet.com
-*.venmo.com
 my.loanbuilder.com
+*.venmo.com
 *.paypal.com
 *.braintree.tools
 pigeon.swiftfinancial.com
