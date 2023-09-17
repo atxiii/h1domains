@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Sep 16 23:13:59 UTC 2023)
+## Domains with Bounties (Last Updated Sun Sep 17 00:48:36 UTC 2023)
 ```
 prismalabsteam.com
 prisma-ai.com
@@ -1415,8 +1415,8 @@ hackers_chosendomain.larksuite.com
 *.exodus.io
 *.a.exodus.io
 *.exodus.com
-api.yoti.com
 www.yotisign.com
+api.yoti.com
 core.yoti.com
 ccloud.yoti.com
 code.yoti.com
@@ -1613,14 +1613,14 @@ hackerone.affirm-odin.com
 www.iciparisxl.lu
 app.marionnaud.hu
 www.marionnaud.ro
-www.marionnaud.fr
-www.watsons.com.tr
 www10.watsons.com.tw
 www10.watsons.com.ph
 www.watsons.com.ph
 www10.watsons.com.hk
 www20.watsons.co.th
 www.watsons.co.id
+www.marionnaud.fr
+www.watsons.com.tr
 mapi-sim.fortress.com.hk
 www.kruidvat.be
 www.theperfumeshop.com
@@ -2591,10 +2591,10 @@ shoppingcart.shipt.com
 www.shipt.com
 *.liberapay.com
 *.liberapay.com
-*.marcus.co.uk
-*.goldman.com
 *.gsselect.com
 *.gs-mosaic.gs.com
+*.marcus.co.uk
+*.goldman.com
 *.ayco.com
 *.unitedcp.com
 apigw.foliofn.com
@@ -2611,12 +2611,12 @@ goldmansachsindices.com
 *.foliodigitalwealth.com
 *.vennhypotheken.nl
 *.nextcapital.com
+research.gs.com
 *.gsam.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
-research.gs.com
-*.gs.de
 marquee.gs.com
+*.gs.de
 api.foliofn.com
 *.advisorsolutions.gs.com
 *.folioinstitutional.com
@@ -2714,12 +2714,12 @@ developer.newrelic.com
 *.infrastructure-data.newrelic.com
 learn.newrelic.com
 rpm.newrelic.com
-insights.newrelic.com
 one.newrelic.com
 *.nr-data.net
+*.nr-ops.net
+insights.newrelic.com
 *.blog.newrelic.com
 infrastructure.newrelic.com
-*.nr-ops.net
 *.newrelic.com
 synthetics.eu.newrelic.com
 support.newrelic.com
@@ -3041,11 +3041,11 @@ portswigger.net
 portswigger.net
 forum.portswigger.net
 https://enterprise-demo.portswigger.net/
+cart.starbucks.co.jp
 www.starbucksreserve.com
 www.starbucks.fr
 www.starbucks.co.uk
 www.starbucks.com.br
-cart.starbucks.co.jp
 card.starbucks.com.sg
 www.starbucks.com.sg
 secureui.starbucks.com
@@ -3300,8 +3300,8 @@ your-store.myshopify.com
 *.shopifycloud.com
 linkpop.com
 shop.app
-*.shopifykloud.com
 partners.shopify.com
+*.shopifykloud.com
 shopifyinbox.com
 shopify.plus
 *.shopify.com
@@ -3423,9 +3423,9 @@ m.airbnb.com
 support-api.airbnb.com
 omgpro.airbnb.com
 *.atairbnb.com
-next.airbnb.com
 one.airbnb.com
 *.withairbnb.com
+next.airbnb.com
 *.airbnbcitizen.com
 *.byairbnb.com
 *.muscache.com
@@ -3541,10 +3541,10 @@ embed.tumblr.com
 my.pressable.com
 happy.tools
 simplenote.com
-wordpress.com
-intensedebate.com
 api.tumblr.com
 assets.tumblr.com
+wordpress.com
+intensedebate.com
 safe.tumblr.com
 *.tumblr.com
 t.umblr.com
@@ -3640,22 +3640,22 @@ onepush.query.yahoo.com
 proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
+api.hackerone.com
 hackerone-user-content.com
 hackerone.com
-api.hackerone.com
 www.wearehackerone.com
 mta-sts.wearehackerone.com
 a5s.hackerone-ext-content.com
-hackathon-photos-us-east-2.hackerone-user-content.com
 cover-photos-us-east-2.hackerone-user-content.com
+hackathon-photos-us-east-2.hackerone-user-content.com
 *.vpn.hackerone.net
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 hackathon-photos.hackerone-user-content.com
 profile-photos.hackerone-user-content.com
-reviewer.pullrequest.com
 ctf.hacker101.com
-www.hackerone.com
 hackerone-ext-content.com
+www.hackerone.com
+reviewer.pullrequest.com
 cover-photos.hackerone-user-content.com
 b5s.hackerone-ext-content.com
 app.pullrequest.com
@@ -3916,15 +3916,15 @@ federalist.18f.gov
 login.fr.cloud.gov
 api.fr.cloud.gov
 api.data.gov
-tock.18f.gov
-*.code.gov
-marketplace.fedramp.gov
-*.search.gov
 ssh.fr.cloud.gov
 ci.fr.cloud.gov
 logs.fr.cloud.gov
 federation.data.gov
 inventory.data.gov
+tock.18f.gov
+*.code.gov
+marketplace.fedramp.gov
+*.search.gov
 logs-platform.fr.cloud.gov
 nessus.fr.cloud.gov
 www.fedramp.gov
