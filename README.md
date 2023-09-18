@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Sep 18 07:15:51 UTC 2023)
+## Domains with Bounties (Last Updated Mon Sep 18 08:19:49 UTC 2023)
 ```
 prismalabsteam.com
 lensa-ai.com
@@ -241,9 +241,9 @@ login.tide.co
 app.tide.co
 api.tideplatform.in
 www.tide.co
+firefox.settings.services.mozilla.com
 crash-stats.allizom.org
 firefox-ci-tc.services.mozilla.com
-firefox.settings.services.mozilla.com
 accounts.firefox.com
 merino.services.mozilla.com
 sync.services.mozilla.com
@@ -251,10 +251,10 @@ push.services.mozilla.com
 bugzilla.mozilla.org
 addons.allizom.org
 hg.mozilla.org
-contile.services.mozilla.com
 shavar.services.mozilla.com
 lando.services.mozilla.com
 aus5.mozilla.org
+contile.services.mozilla.com
 crash-reports.allizom.org
 mozilla-pontoon-staging.herokuapp.com
 location.services.mozilla.com
@@ -1263,9 +1263,9 @@ strapi.reddit.com
 m.reddit.com
 sh.reddit.com
 *.snooguts.net
-s.reddit.com
 ads-api.reddit.com
 gateway.reddit.com
+s.reddit.com
 www.spiketrap.io
 *.reddit.com
 *.redditblog.com
@@ -1481,9 +1481,9 @@ secure.sharefile.com
 ap-s.cloud.com
 accounts-internal.cloud.com
 adm.cloud.com
+secure.sharefile.eu
 (yoursubdomain).eu.iws.cloud.com
 (youriwssubdomain).cloud.com
-secure.sharefile.eu
 launch.cloud.com
 api.adm.cloud.com
 sf-rp.sharefile.com
@@ -2295,13 +2295,13 @@ res.vacations.discoverycove.com
 vacations.universalstudioshollywood.com
 vacations.us.palladiumhotelgroup.com
 www.wynnvacations.com
-res.sunscaperesorts.com
-res.vacations.buschgardens.com
-book.beachbound.com
 book.booktandl.com
 res.blueskytours.globalbookingsolutions.com
 res.universalorlandovacations.com
 reservations.wynnvacations.com
+res.sunscaperesorts.com
+res.vacations.buschgardens.com
+book.beachbound.com
 confluence.hyattdev.com
 ebsext.oft.hyatt.com
 newsroom.images.hyatt.com
@@ -2324,14 +2324,14 @@ upsell.hyatt.com
 res.skyteam.com
 res.vacations.seaworld.com
 www.beachbound.com
-media.triseptsolutions.com
-shop.wyndhamvacationownership.trisept.travel
-vacations.outrigger.com
-vacations.united.com
 res.breathlessresorts.com
 holidays-hk.fijiairways.com
 vacations.velasvallarta.com
 www.blueskytours.com
+media.triseptsolutions.com
+shop.wyndhamvacationownership.trisept.travel
+vacations.outrigger.com
+vacations.united.com
 world.hyatt.com
 book.extraholidaysvacations.com
 hyatt.com
@@ -2492,8 +2492,8 @@ partner.swiftfinancial.com
 scrutiny.swiftfinancial.com
 paypal.me
 *.hyperwallet.com
-my.loanbuilder.com
 *.venmo.com
+my.loanbuilder.com
 *.paypal.com
 *.braintree.tools
 pigeon.swiftfinancial.com
@@ -3041,11 +3041,11 @@ portswigger.net
 portswigger.net
 forum.portswigger.net
 https://enterprise-demo.portswigger.net/
-cart.starbucks.co.jp
 www.starbucksreserve.com
 www.starbucks.fr
 www.starbucks.co.uk
 www.starbucks.com.br
+cart.starbucks.co.jp
 card.starbucks.com.sg
 www.starbucks.com.sg
 secureui.starbucks.com
@@ -3300,8 +3300,8 @@ your-store.myshopify.com
 *.shopifycloud.com
 linkpop.com
 shop.app
-*.shopifykloud.com
 partners.shopify.com
+*.shopifykloud.com
 shopifyinbox.com
 shopify.plus
 *.shopify.com
@@ -3541,10 +3541,10 @@ embed.tumblr.com
 my.pressable.com
 happy.tools
 simplenote.com
-wordpress.com
-intensedebate.com
 api.tumblr.com
 assets.tumblr.com
+wordpress.com
+intensedebate.com
 safe.tumblr.com
 *.tumblr.com
 t.umblr.com
@@ -3614,11 +3614,11 @@ api.slack.com
 slackb.com
 slackatwork.com
 slack-redir.net
-*.quip.com
 app.slack.com
+*.quip.com
 edgeapi.slack.com
-slack.com
 slack-imgs.com
+slack.com
 www.quip.com
 slack.com
 api.slack.com
@@ -3640,8 +3640,8 @@ onepush.query.yahoo.com
 proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
-api.hackerone.com
 hackerone-user-content.com
+api.hackerone.com
 hackerone.com
 www.wearehackerone.com
 mta-sts.wearehackerone.com
@@ -3650,12 +3650,12 @@ hackathon-photos-us-east-2.hackerone-user-content.com
 cover-photos-us-east-2.hackerone-user-content.com
 *.vpn.hackerone.net
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
-reviewer.pullrequest.com
 ctf.hacker101.com
 hackathon-photos.hackerone-user-content.com
 profile-photos.hackerone-user-content.com
-www.hackerone.com
 hackerone-ext-content.com
+www.hackerone.com
+reviewer.pullrequest.com
 errors.hackerone.net
 app.pullrequest.com
 cover-photos.hackerone-user-content.com
@@ -3835,9 +3835,9 @@ https://github.com/evolveum/midpoint
 https://svn.filezilla-project.org/svn/filezilla3/trunk/src/putty
 magentolive.com
 account.magento.com
-accounts.magento.cloud
 magentocommerce.com
 repo.magento.com
+accounts.magento.cloud
 u.magento.com
 imagine.magento.com
 marketplace.magento.com
@@ -3916,15 +3916,15 @@ federalist.18f.gov
 login.fr.cloud.gov
 api.fr.cloud.gov
 api.data.gov
+tock.18f.gov
+*.code.gov
+marketplace.fedramp.gov
+*.search.gov
 ssh.fr.cloud.gov
 ci.fr.cloud.gov
 logs.fr.cloud.gov
 federation.data.gov
 inventory.data.gov
-tock.18f.gov
-*.code.gov
-marketplace.fedramp.gov
-*.search.gov
 logs-platform.fr.cloud.gov
 nessus.fr.cloud.gov
 www.fedramp.gov
