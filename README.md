@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Sep 18 10:16:22 UTC 2023)
+## Domains with Bounties (Last Updated Mon Sep 18 11:13:43 UTC 2023)
 ```
 prismalabsteam.com
 prisma-ai.com
@@ -15,6 +15,32 @@ lensa-ai.com
 prisma-ai.com
 appapi.neuralprisma.com
 https://simple-life-app.com/
+connect-sandbox.gocardless.com
+*.gocardless.io
+*.gocardless-banking.io
+*.gocardless-lab.io
+api-sandbox.gocardless.com
+xero-sandbox.gocardless.com
+pay-sandbox.gocardless.com
+oauth-sandbox.gocardless.com
+*.gocardless.com
+*.gocardless-cicd.io
+*.gocardless-staging.io
+www.gocardless.com
+manage-sandbox.gocardless.com
+*.gocardless.io
+*.gocardless-banking.io
+*.gocardless-cicd.io
+*.gocardless.com
+*.gocardless-staging.io
+*.gocardless-lab.io
+manage-sandbox.gocardless.com
+pay-sandbox.gocardless.com
+api-sandbox.gocardless.com
+connect-sandbox.gocardless.com
+www.gocardless.com
+oauth-sandbox.gocardless.com
+xero-sandbox.gocardless.com
 rei.com
 rei.com
 http://rei.com/rei-garage
@@ -191,9 +217,9 @@ http://yourdomain.myfreshworks.com/crm
 yourdomain.freshchat.com
 yourdomain.freshcaller.com
 api.krisha.kz
-api.kolesa.kz
 app.kolesa.kz
 id.kolesa.kz
+api.kolesa.kz
 avtoelon.uz
 m.krisha.kz
 app.avtoelon.uz
@@ -497,8 +523,8 @@ cloud8.8x8.com
 pay.8x8.com
 *.luckydays.com
 *.magicjackpot.ro
-*.superbet.com
 *.superbet.ro
+*.superbet.com
 *.luckydays.ca
 *.spinaway.com
 *.superbet.rs
@@ -1263,9 +1289,9 @@ strapi.reddit.com
 m.reddit.com
 sh.reddit.com
 *.snooguts.net
-s.reddit.com
 ads-api.reddit.com
 gateway.reddit.com
+s.reddit.com
 www.spiketrap.io
 *.reddit.com
 *.redditblog.com
@@ -1306,8 +1332,6 @@ matrix.redditspace.com
 redditforbusiness.com
 app.spiketrap.io
 www.spiketrap.io
-www.coinspot.com.au
-www.coinspot.com.au
 www.coinspot.com.au
 www.coinspot.com.au
 global-api.citymapper.com
@@ -1417,8 +1441,8 @@ hackers_chosendomain.larksuite.com
 *.exodus.io
 *.a.exodus.io
 *.exodus.com
-www.yotisign.com
 api.yoti.com
+www.yotisign.com
 core.yoti.com
 ccloud.yoti.com
 code.yoti.com
@@ -2593,9 +2617,9 @@ shoppingcart.shipt.com
 www.shipt.com
 *.liberapay.com
 *.liberapay.com
-*.marcus.co.uk
 *.gsselect.com
 *.gs-mosaic.gs.com
+*.marcus.co.uk
 *.unitedcp.com
 apigw.foliofn.com
 *.foliofirst.com
@@ -2613,12 +2637,12 @@ goldmansachsindices.com
 *.foliodigitalwealth.com
 *.vennhypotheken.nl
 *.nextcapital.com
+research.gs.com
 *.gsam.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
-research.gs.com
-*.gs.de
 marquee.gs.com
+*.gs.de
 api.foliofn.com
 *.advisorsolutions.gs.com
 *.folioinstitutional.com
@@ -2716,12 +2740,12 @@ developer.newrelic.com
 *.infrastructure-data.newrelic.com
 learn.newrelic.com
 rpm.newrelic.com
+insights.newrelic.com
 one.newrelic.com
 *.nr-data.net
-*.nr-ops.net
-insights.newrelic.com
 *.blog.newrelic.com
 infrastructure.newrelic.com
+*.nr-ops.net
 *.newrelic.com
 synthetics.eu.newrelic.com
 support.newrelic.com
@@ -3302,8 +3326,8 @@ your-store.myshopify.com
 *.shopifycloud.com
 linkpop.com
 shop.app
-partners.shopify.com
 *.shopifykloud.com
+partners.shopify.com
 shopifyinbox.com
 shopify.plus
 *.shopify.com
@@ -3543,10 +3567,10 @@ embed.tumblr.com
 my.pressable.com
 happy.tools
 simplenote.com
-api.tumblr.com
-assets.tumblr.com
 wordpress.com
 intensedebate.com
+api.tumblr.com
+assets.tumblr.com
 safe.tumblr.com
 *.tumblr.com
 t.umblr.com
@@ -3810,10 +3834,10 @@ ota.helium.com
 https://github.com/evolveum/midpoint
 https://svn.filezilla-project.org/svn/filezilla3/trunk/src/putty
 magentolive.com
-account.magento.com
 magentocommerce.com
 repo.magento.com
 accounts.magento.cloud
+account.magento.com
 u.magento.com
 imagine.magento.com
 marketplace.magento.com
@@ -3892,15 +3916,15 @@ federalist.18f.gov
 login.fr.cloud.gov
 api.fr.cloud.gov
 api.data.gov
+tock.18f.gov
+*.code.gov
+marketplace.fedramp.gov
+*.search.gov
 ssh.fr.cloud.gov
 ci.fr.cloud.gov
 logs.fr.cloud.gov
 federation.data.gov
 inventory.data.gov
-tock.18f.gov
-*.code.gov
-marketplace.fedramp.gov
-*.search.gov
 logs-platform.fr.cloud.gov
 nessus.fr.cloud.gov
 www.fedramp.gov
