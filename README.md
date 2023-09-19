@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Sep 19 19:13:56 UTC 2023)
+## Domains with Bounties (Last Updated Tue Sep 19 20:16:23 UTC 2023)
 ```
 prismalabsteam.com
 prisma-ai.com
@@ -764,8 +764,8 @@ www.hotelscombined.com
 www.checkfelix.com
 business.kayak.com
 www.kayak.com
-www.swoodoo.com
 www.cheapflights.com
+www.swoodoo.com
 www.kayak.com
 www.swoodoo.com
 www.checkfelix.com
@@ -1287,9 +1287,9 @@ m.reddit.com
 sh.reddit.com
 *.snooguts.net
 *.redditinc.com
-s.reddit.com
 ads-api.reddit.com
 gateway.reddit.com
+s.reddit.com
 www.spiketrap.io
 *.reddit.com
 *.redditblog.com
@@ -1505,9 +1505,9 @@ secure.sharefile.com
 ap-s.cloud.com
 accounts-internal.cloud.com
 adm.cloud.com
-secure.sharefile.eu
 (yoursubdomain).eu.iws.cloud.com
 (youriwssubdomain).cloud.com
+secure.sharefile.eu
 launch.cloud.com
 api.adm.cloud.com
 sf-rp.sharefile.com
@@ -1640,13 +1640,13 @@ helpcenter.affirm.ca
 helpcenter.affirm.com
 app.marionnaud.hu
 www.marionnaud.ro
-www.marionnaud.fr
 www10.watsons.com.tw
 www10.watsons.com.ph
 www.watsons.com.ph
 www10.watsons.com.hk
 www20.watsons.co.th
 www.watsons.co.id
+www.marionnaud.fr
 mapi-sim.fortress.com.hk
 www.iciparisxl.lu
 www.watsons.com.tr
@@ -2168,11 +2168,11 @@ mgmt-sensors.iris.production.forescoutcloud.net
 obs-sensors.iris.production.forescoutcloud.net
 uk.forescout.cloud
 de.forescout.cloud
+updates.forescout.com
 datapod-1-druid-ingest.production.forescoutcloud.net
 www.forescout.com
 datapod-2-ingest.acceptance.forescoutcloud.net
 community.forescout.com
-updates.forescout.com
 app.iris.acceptance.forescoutcloud.net
 obs-sensors.iris.acceptance.forescoutcloud.net
 streaming.iris.production.forescoutcloud.net
@@ -2743,12 +2743,12 @@ developer.newrelic.com
 learn.newrelic.com
 rpm.newrelic.com
 insights.newrelic.com
-one.newrelic.com
 *.nr-data.net
 *.blog.newrelic.com
 infrastructure.newrelic.com
 *.nr-ops.net
 *.newrelic.com
+one.newrelic.com
 synthetics.eu.newrelic.com
 support.newrelic.com
 blog.newrelic.com
@@ -3069,11 +3069,11 @@ portswigger.net
 portswigger.net
 forum.portswigger.net
 https://enterprise-demo.portswigger.net/
+cart.starbucks.co.jp
 www.starbucksreserve.com
 www.starbucks.fr
 www.starbucks.co.uk
 www.starbucks.com.br
-cart.starbucks.co.jp
 card.starbucks.com.sg
 www.starbucks.com.sg
 secureui.starbucks.com
@@ -3452,8 +3452,8 @@ support-api.airbnb.com
 omgpro.airbnb.com
 *.atairbnb.com
 one.airbnb.com
-next.airbnb.com
 *.withairbnb.com
+next.airbnb.com
 *.airbnbcitizen.com
 *.byairbnb.com
 *.muscache.com
@@ -3569,9 +3569,9 @@ embed.tumblr.com
 my.pressable.com
 happy.tools
 simplenote.com
-intensedebate.com
 api.tumblr.com
 assets.tumblr.com
+intensedebate.com
 wordpress.com
 safe.tumblr.com
 *.tumblr.com
@@ -3642,8 +3642,8 @@ api.slack.com
 slackb.com
 slackatwork.com
 slack-redir.net
-*.quip.com
 app.slack.com
+*.quip.com
 edgeapi.slack.com
 slack-imgs.com
 slack.com
