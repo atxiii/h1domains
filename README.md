@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Sep 20 20:16:57 UTC 2023)
+## Domains with Bounties (Last Updated Wed Sep 20 21:14:22 UTC 2023)
 ```
 test.nicehash.com
 nicex.com
@@ -102,8 +102,8 @@ explore.redoxengine.com
 www.redoxengine.com
 help.redoxengine.com
 www.mobile-phantom.com
-www.tecno-mobile.com
 *.palm.tech
+www.tecno-mobile.com
 security.tecno.com
 *.palm.tech
 www.tecno-mobile.com
@@ -1513,9 +1513,9 @@ secure.sharefile.com
 ap-s.cloud.com
 accounts-internal.cloud.com
 adm.cloud.com
-secure.sharefile.eu
 (yoursubdomain).eu.iws.cloud.com
 (youriwssubdomain).cloud.com
+secure.sharefile.eu
 launch.cloud.com
 api.adm.cloud.com
 sf-rp.sharefile.com
@@ -1585,6 +1585,7 @@ circle.logi.com
 www.ultimateears.com
 sync.logitech.com
 id.logi.com
+www.jaybirdsport.com
 *vc.logitech.com
 *.streamlabs.com
 *.getmeetio.com
@@ -2627,9 +2628,9 @@ shoppingcart.shipt.com
 www.shipt.com
 *.liberapay.com
 *.liberapay.com
-*.marcus.co.uk
 *.gsselect.com
 *.gs-mosaic.gs.com
+*.marcus.co.uk
 *.unitedcp.com
 apigw.foliofn.com
 *.foliofirst.com
@@ -2647,11 +2648,11 @@ goldmansachsindices.com
 *.foliodigitalwealth.com
 *.vennhypotheken.nl
 *.nextcapital.com
+research.gs.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
-research.gs.com
-*.gs.de
 marquee.gs.com
+*.gs.de
 api.foliofn.com
 *.advisorsolutions.gs.com
 *.folioinstitutional.com
@@ -3036,8 +3037,8 @@ circolocorecords.com/
 socialclub.rockstargames.com
 lifeinvader.com
 support.rockstargames.com
-prod.ros.rockstargames.com
 store.rockstargames.com
+prod.ros.rockstargames.com
 socialclub.rockstargames.com
 prod.ros.rockstargames.com
 support.rockstargames.com
@@ -3675,8 +3676,8 @@ proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
 api.hackerone.com
-hackerone-user-content.com
 hackerone.com
+hackerone-user-content.com
 www.wearehackerone.com
 mta-sts.wearehackerone.com
 a5s.hackerone-ext-content.com
@@ -3684,18 +3685,18 @@ hackathon-photos-us-east-2.hackerone-user-content.com
 cover-photos-us-east-2.hackerone-user-content.com
 *.vpn.hackerone.net
 reviewer.pullrequest.com
-ctf.hacker101.com
-hackathon-photos.hackerone-user-content.com
-profile-photos.hackerone-user-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 www.hackerone.com
 hackerone-ext-content.com
+ctf.hacker101.com
+hackathon-photos.hackerone-user-content.com
+profile-photos.hackerone-user-content.com
 b5s.hackerone-ext-content.com
 errors.hackerone.net
 app.pullrequest.com
-profile-photos-us-east-2.hackerone-user-content.com
-cover-photos.hackerone-user-content.com
 hackerone.live
+cover-photos.hackerone-user-content.com
+profile-photos-us-east-2.hackerone-user-content.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
@@ -3926,15 +3927,15 @@ federalist.18f.gov
 login.fr.cloud.gov
 api.fr.cloud.gov
 api.data.gov
+tock.18f.gov
+*.code.gov
+marketplace.fedramp.gov
+*.search.gov
 ssh.fr.cloud.gov
 ci.fr.cloud.gov
 logs.fr.cloud.gov
 federation.data.gov
 inventory.data.gov
-tock.18f.gov
-*.code.gov
-marketplace.fedramp.gov
-*.search.gov
 logs-platform.fr.cloud.gov
 nessus.fr.cloud.gov
 www.fedramp.gov
