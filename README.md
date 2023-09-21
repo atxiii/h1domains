@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Sep 20 23:13:59 UTC 2023)
+## Domains with Bounties (Last Updated Thu Sep 21 00:45:14 UTC 2023)
 ```
 test.nicehash.com
 nicex.com
@@ -1295,9 +1295,9 @@ m.reddit.com
 sh.reddit.com
 *.snooguts.net
 *.redditinc.com
-s.reddit.com
 ads-api.reddit.com
 gateway.reddit.com
+s.reddit.com
 www.spiketrap.io
 *.reddit.com
 *.redditblog.com
@@ -1618,8 +1618,8 @@ wiki.cs.money
 app.faraday.io
 app.faraday.io
 www.aiven.io
-api.aiven.io
 help.aiven.io
+api.aiven.io
 console.aiven.io
 aivencloud.com
 www.aiven.io
@@ -1935,8 +1935,8 @@ www.alibabagroup.com
 *.alimama.com
 *.Daraz.com
 *.1688.com
-*.aliyun.com
 *.aliexpress.com
+*.aliyun.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -2520,8 +2520,8 @@ swiftfinancial.com
 *.paylution.com
 *.braintree-api.com
 py.pl
-*.braintreepayments.com
 *.xoom.com
+*.braintreepayments.com
 www.swiftcapital.com
 my.swiftfinancial.com
 swiftcapital.com
@@ -2751,11 +2751,11 @@ developer.newrelic.com
 *.infrastructure-data.newrelic.com
 learn.newrelic.com
 rpm.newrelic.com
-insights.newrelic.com
 *.nr-data.net
+*.nr-ops.net
+insights.newrelic.com
 *.blog.newrelic.com
 infrastructure.newrelic.com
-*.nr-ops.net
 one.newrelic.com
 *.newrelic.com
 synthetics.eu.newrelic.com
@@ -3078,11 +3078,11 @@ portswigger.net
 portswigger.net
 forum.portswigger.net
 https://enterprise-demo.portswigger.net/
-cart.starbucks.co.jp
 www.starbucksreserve.com
 www.starbucks.fr
 www.starbucks.co.uk
 www.starbucks.com.br
+cart.starbucks.co.jp
 card.starbucks.com.sg
 www.starbucks.com.sg
 secureui.starbucks.com
@@ -3332,8 +3332,8 @@ yourcompany.udemy.com
 www.udemy.com
 www.udemy.com
 yourcompany.udemy.com
-your-store.myshopify.com
 arrive-server.shopifycloud.com
+your-store.myshopify.com
 *.shopifycloud.com
 shop.app
 linkpop.com

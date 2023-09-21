@@ -336,8 +336,8 @@ aboitizpower_corporation,aboitizpower.info,False
 aboitizpower_corporation,adventenergy.com.ph,False
 aboitizpower_corporation,retailelectricity.com.ph,False
 aboitizpower_corporation,snaboitizpower.com,False
-aboitizpower_corporation,*.aboitizpower.com,False
 aboitizpower_corporation,*.visayanelectric.com,False
+aboitizpower_corporation,*.aboitizpower.com,False
 aboitizpower_corporation,*.apps.sofa.csg.aboitizpower.org,False
 aboitizpower_corporation,aboitizpower.org,False
 aboitizpower_corporation,1882energyventures.com,False
@@ -605,8 +605,8 @@ visa,www.practicalbusinessskills.org,True
 visa,www.practicalmoneyskills.org,True
 daimler_truck,*omniplus.com,False
 daimler_truck,*exceleratorparts.com,False
-daimler_truck,*.mercedes-benz-trucks.com,False
 daimler_truck,*.setra.de,False
+daimler_truck,*.mercedes-benz-trucks.com,False
 daimler_truck,*detroitconnect.com,False
 daimler_truck,*.daimlertruck.com,False
 daimler_truck,*.westernstar.com,False
@@ -2944,8 +2944,8 @@ trellix,*.trellix.com,False
 trellix,*.skyhighsecurity.com,False
 sidefx,*.sidefx.com,True
 sidefx,*.sidefx.com,True
-tokenweb3,token.com,False
 tokenweb3,*.tokensvc.com,False
+tokenweb3,token.com,False
 tokenweb3,blog.token.com,False
 tokenweb3,*.tokensvc.com,False
 tokenweb3,token.com,False
@@ -3377,8 +3377,8 @@ costco,*.costcobusinesscentre.ca,False
 costco,*.costcotravel.com,False
 costco,*.costcotravel.ca,False
 mondelez,missionebonta.fattorieosella.it,False
-mondelez,createatreat.com,False
 mondelez,mueller.milka.de,False
+mondelez,createatreat.com,False
 mondelez,philadelphia.gr,False
 mondelez,oreoitalia.it,False
 mondelez,oreo.ru,False
@@ -3413,8 +3413,8 @@ mondelez,saboresconjuego.es,False
 mondelez,cadbury.co.uk,False
 mondelez,ejackson.co.uk,False
 mondelez,oboy.fi,False
-mondelez,sourpatchkids.com,False
 mondelez,pt.cocoalife.org,False
+mondelez,sourpatchkids.com,False
 mondelez,greenandblacks.co.uk,False
 mondelez,opavia.info,False
 mondelez,perfectsnacks.com,False
@@ -4055,6 +4055,9 @@ john-deere,stage-api.agrisync.com,False
 john-deere,stage-app.agrisync.com,False
 john-deere,stage-vhb.agrisync.com,False
 john-deere,vnd.agrisync.com,False
+john-deere,map.deere.com,False
+john-deere,us-central-1.r4.abc.expertconnect.support,False
+john-deere,us-central-1.r4.xyz.expertconnect.support,False
 john-deere,johndeeretours.deere.com,False
 john-deere,shop.deere.com,False
 john-deere,stellarsupport.deere.com,False
@@ -4063,9 +4066,6 @@ john-deere,machinereports.deere.com,False
 john-deere,notifications.deere.com,False
 john-deere,registration.deere.com,False
 john-deere,rewards.deere.com,False
-john-deere,map.deere.com,False
-john-deere,us-central-1.r4.abc.expertconnect.support,False
-john-deere,us-central-1.r4.xyz.expertconnect.support,False
 john-deere,johndeereinnovation.com,False
 john-deere,contest.deere.com,False
 john-deere,jdquote2.deere.com,False
@@ -4611,9 +4611,9 @@ reddit,m.reddit.com,True
 reddit,sh.reddit.com,True
 reddit,*.snooguts.net,True
 reddit,*.redditinc.com,True
-reddit,s.reddit.com,True
 reddit,ads-api.reddit.com,True
 reddit,gateway.reddit.com,True
+reddit,s.reddit.com,True
 reddit,www.spiketrap.io,True
 reddit,*.reddit.com,True
 reddit,*.redditblog.com,True
@@ -5587,8 +5587,8 @@ simple_poll,simplegoals.app,False
 simple_poll,simplepoll.rocks,False
 simple_poll,simplegoals.app,False
 aiven_ltd,www.aiven.io,True
-aiven_ltd,api.aiven.io,True
 aiven_ltd,help.aiven.io,True
+aiven_ltd,api.aiven.io,True
 aiven_ltd,console.aiven.io,True
 aiven_ltd,aivencloud.com,True
 aiven_ltd,www.aiven.io,True
@@ -5996,8 +5996,8 @@ alibaba,*.aliyun-inc.com,True
 alibaba,*.alimama.com,True
 alibaba,*.Daraz.com,True
 alibaba,*.1688.com,True
-alibaba,*.aliyun.com,True
 alibaba,*.aliexpress.com,True
+alibaba,*.aliyun.com,True
 alibaba,*.taobao.com,True
 alibaba,*.alibaba.com,True
 alibaba,*.aliexpress.com,True
@@ -7571,8 +7571,8 @@ paypal,swiftfinancial.com,True
 paypal,*.paylution.com,True
 paypal,*.braintree-api.com,True
 paypal,py.pl,True
-paypal,*.braintreepayments.com,True
 paypal,*.xoom.com,True
+paypal,*.braintreepayments.com,True
 paypal,www.swiftcapital.com,True
 paypal,my.swiftfinancial.com,True
 paypal,swiftcapital.com,True
@@ -7817,11 +7817,11 @@ newrelic,developer.newrelic.com,True
 newrelic,*.infrastructure-data.newrelic.com,True
 newrelic,learn.newrelic.com,True
 newrelic,rpm.newrelic.com,True
-newrelic,insights.newrelic.com,True
 newrelic,*.nr-data.net,True
+newrelic,*.nr-ops.net,True
+newrelic,insights.newrelic.com,True
 newrelic,*.blog.newrelic.com,True
 newrelic,infrastructure.newrelic.com,True
-newrelic,*.nr-ops.net,True
 newrelic,one.newrelic.com,True
 newrelic,*.newrelic.com,True
 newrelic,synthetics.eu.newrelic.com,True
@@ -8208,11 +8208,11 @@ portswigger,portswigger.net,True
 portswigger,portswigger.net,True
 portswigger,forum.portswigger.net,True
 portswigger,https://enterprise-demo.portswigger.net/,True
-starbucks,cart.starbucks.co.jp,True
 starbucks,www.starbucksreserve.com,True
 starbucks,www.starbucks.fr,True
 starbucks,www.starbucks.co.uk,True
 starbucks,www.starbucks.com.br,True
+starbucks,cart.starbucks.co.jp,True
 starbucks,card.starbucks.com.sg,True
 starbucks,www.starbucks.com.sg,True
 starbucks,secureui.starbucks.com,True
@@ -8508,8 +8508,8 @@ udemy,yourcompany.udemy.com,True
 udemy,www.udemy.com,True
 udemy,www.udemy.com,True
 udemy,yourcompany.udemy.com,True
-shopify,your-store.myshopify.com,True
 shopify,arrive-server.shopifycloud.com,True
+shopify,your-store.myshopify.com,True
 shopify,*.shopifycloud.com,True
 shopify,shop.app,True
 shopify,linkpop.com,True

@@ -335,8 +335,8 @@ aboitizpower.info
 adventenergy.com.ph
 retailelectricity.com.ph
 snaboitizpower.com
-*.aboitizpower.com
 *.visayanelectric.com
+*.aboitizpower.com
 *.apps.sofa.csg.aboitizpower.org
 aboitizpower.org
 1882energyventures.com
@@ -604,8 +604,8 @@ www.practicalbusinessskills.org
 www.practicalmoneyskills.org
 *omniplus.com
 *exceleratorparts.com
-*.mercedes-benz-trucks.com
 *.setra.de
+*.mercedes-benz-trucks.com
 *detroitconnect.com
 *.daimlertruck.com
 *.westernstar.com
@@ -2943,8 +2943,8 @@ www.dolap.com
 *.skyhighsecurity.com
 *.sidefx.com
 *.sidefx.com
-token.com
 *.tokensvc.com
+token.com
 blog.token.com
 *.tokensvc.com
 token.com
@@ -3376,8 +3376,8 @@ api.redislabs.com
 *.costcotravel.com
 *.costcotravel.ca
 missionebonta.fattorieosella.it
-createatreat.com
 mueller.milka.de
+createatreat.com
 philadelphia.gr
 oreoitalia.it
 oreo.ru
@@ -3412,8 +3412,8 @@ saboresconjuego.es
 cadbury.co.uk
 ejackson.co.uk
 oboy.fi
-sourpatchkids.com
 pt.cocoalife.org
+sourpatchkids.com
 greenandblacks.co.uk
 opavia.info
 perfectsnacks.com
@@ -4054,6 +4054,9 @@ stage-api.agrisync.com
 stage-app.agrisync.com
 stage-vhb.agrisync.com
 vnd.agrisync.com
+map.deere.com
+us-central-1.r4.abc.expertconnect.support
+us-central-1.r4.xyz.expertconnect.support
 johndeeretours.deere.com
 shop.deere.com
 stellarsupport.deere.com
@@ -4062,9 +4065,6 @@ machinereports.deere.com
 notifications.deere.com
 registration.deere.com
 rewards.deere.com
-map.deere.com
-us-central-1.r4.abc.expertconnect.support
-us-central-1.r4.xyz.expertconnect.support
 johndeereinnovation.com
 contest.deere.com
 jdquote2.deere.com
@@ -4610,9 +4610,9 @@ m.reddit.com
 sh.reddit.com
 *.snooguts.net
 *.redditinc.com
-s.reddit.com
 ads-api.reddit.com
 gateway.reddit.com
+s.reddit.com
 www.spiketrap.io
 *.reddit.com
 *.redditblog.com
@@ -5586,8 +5586,8 @@ simplegoals.app
 simplepoll.rocks
 simplegoals.app
 www.aiven.io
-api.aiven.io
 help.aiven.io
+api.aiven.io
 console.aiven.io
 aivencloud.com
 www.aiven.io
@@ -5995,8 +5995,8 @@ www.alibabagroup.com
 *.alimama.com
 *.Daraz.com
 *.1688.com
-*.aliyun.com
 *.aliexpress.com
+*.aliyun.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -7570,8 +7570,8 @@ swiftfinancial.com
 *.paylution.com
 *.braintree-api.com
 py.pl
-*.braintreepayments.com
 *.xoom.com
+*.braintreepayments.com
 www.swiftcapital.com
 my.swiftfinancial.com
 swiftcapital.com
@@ -7816,11 +7816,11 @@ developer.newrelic.com
 *.infrastructure-data.newrelic.com
 learn.newrelic.com
 rpm.newrelic.com
-insights.newrelic.com
 *.nr-data.net
+*.nr-ops.net
+insights.newrelic.com
 *.blog.newrelic.com
 infrastructure.newrelic.com
-*.nr-ops.net
 one.newrelic.com
 *.newrelic.com
 synthetics.eu.newrelic.com
@@ -8207,11 +8207,11 @@ portswigger.net
 portswigger.net
 forum.portswigger.net
 https://enterprise-demo.portswigger.net/
-cart.starbucks.co.jp
 www.starbucksreserve.com
 www.starbucks.fr
 www.starbucks.co.uk
 www.starbucks.com.br
+cart.starbucks.co.jp
 card.starbucks.com.sg
 www.starbucks.com.sg
 secureui.starbucks.com
@@ -8507,8 +8507,8 @@ yourcompany.udemy.com
 www.udemy.com
 www.udemy.com
 yourcompany.udemy.com
-your-store.myshopify.com
 arrive-server.shopifycloud.com
+your-store.myshopify.com
 *.shopifycloud.com
 shop.app
 linkpop.com
