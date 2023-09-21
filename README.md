@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Sep 21 20:13:59 UTC 2023)
+## Domains with Bounties (Last Updated Thu Sep 21 21:15:01 UTC 2023)
 ```
 test.nicehash.com
 nicex.com
@@ -276,19 +276,19 @@ login.tide.co
 app.tide.co
 api.tideplatform.in
 www.tide.co
+firefox.settings.services.mozilla.com
 crash-stats.allizom.org
 firefox-ci-tc.services.mozilla.com
-firefox.settings.services.mozilla.com
 accounts.firefox.com
 merino.services.mozilla.com
 sync.services.mozilla.com
 push.services.mozilla.com
 bugzilla.mozilla.org
 hg.mozilla.org
-contile.services.mozilla.com
 shavar.services.mozilla.com
 lando.services.mozilla.com
 aus5.mozilla.org
+contile.services.mozilla.com
 addons.allizom.org
 crash-reports.allizom.org
 mozilla-pontoon-staging.herokuapp.com
@@ -1296,9 +1296,9 @@ m.reddit.com
 sh.reddit.com
 *.snooguts.net
 *.redditinc.com
-s.reddit.com
 ads-api.reddit.com
 gateway.reddit.com
+s.reddit.com
 www.spiketrap.io
 *.reddit.com
 *.redditblog.com
@@ -1341,8 +1341,6 @@ app.spiketrap.io
 www.spiketrap.io
 www.coinspot.com.au
 www.coinspot.com.au
-global-api.citymapper.com
-global-api.citymapper.com
 *.withbuddies.com
 *.scopely.com
 *.scopely.io
@@ -1933,11 +1931,11 @@ www.alibabagroup.com
 *.aliexpress.ru
 *.alibaba-inc.com
 *.aliyun-inc.com
-*.alimama.com
 *.Daraz.com
 *.aliexpress.com
 *.aliyun.com
 *.1688.com
+*.alimama.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -2325,12 +2323,12 @@ res.vacations.discoverycove.com
 vacations.universalstudioshollywood.com
 vacations.us.palladiumhotelgroup.com
 www.wynnvacations.com
-book.booktandl.com
-res.blueskytours.globalbookingsolutions.com
-reservations.wynnvacations.com
 res.sunscaperesorts.com
 res.vacations.buschgardens.com
 book.beachbound.com
+book.booktandl.com
+res.blueskytours.globalbookingsolutions.com
+reservations.wynnvacations.com
 res.universalorlandovacations.com
 confluence.hyattdev.com
 ebsext.oft.hyatt.com
@@ -2354,14 +2352,14 @@ upsell.hyatt.com
 res.skyteam.com
 res.vacations.seaworld.com
 www.beachbound.com
-res.breathlessresorts.com
-holidays-hk.fijiairways.com
-vacations.velasvallarta.com
-www.blueskytours.com
 media.triseptsolutions.com
 shop.wyndhamvacationownership.trisept.travel
 vacations.outrigger.com
 vacations.united.com
+res.breathlessresorts.com
+holidays-hk.fijiairways.com
+vacations.velasvallarta.com
+www.blueskytours.com
 world.hyatt.com
 book.extraholidaysvacations.com
 hyatt.com
@@ -2621,9 +2619,9 @@ shoppingcart.shipt.com
 www.shipt.com
 *.liberapay.com
 *.liberapay.com
-*.marcus.co.uk
 *.gsselect.com
 *.gs-mosaic.gs.com
+*.marcus.co.uk
 *.unitedcp.com
 apigw.foliofn.com
 *.foliofirst.com
@@ -2641,11 +2639,11 @@ goldmansachsindices.com
 *.foliodigitalwealth.com
 *.vennhypotheken.nl
 *.nextcapital.com
+research.gs.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
-research.gs.com
-*.gs.de
 marquee.gs.com
+*.gs.de
 api.foliofn.com
 *.advisorsolutions.gs.com
 *.folioinstitutional.com
@@ -2744,11 +2742,11 @@ developer.newrelic.com
 *.infrastructure-data.newrelic.com
 learn.newrelic.com
 rpm.newrelic.com
-*.nr-data.net
-*.nr-ops.net
 insights.newrelic.com
+*.nr-data.net
 *.blog.newrelic.com
 infrastructure.newrelic.com
+*.nr-ops.net
 one.newrelic.com
 *.newrelic.com
 synthetics.eu.newrelic.com
@@ -3139,9 +3137,9 @@ yelptop100.com
 yelptop100.com
 www.thumbzilla.com
 *.tube8.com
-www.redtube.com
 www.modelhub.com
 www.pornhub.com
+www.redtube.com
 api.pornhub.com
 www.redtubepremium.com
 www.youpornpremium.com
@@ -3668,8 +3666,8 @@ onepush.query.yahoo.com
 proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
-hackerone.com
 api.hackerone.com
+hackerone.com
 hackerone-user-content.com
 www.wearehackerone.com
 mta-sts.wearehackerone.com
@@ -3679,11 +3677,11 @@ hackathon-photos-us-east-2.hackerone-user-content.com
 *.vpn.hackerone.net
 ctf.hacker101.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
-www.hackerone.com
 reviewer.pullrequest.com
 hackerone-ext-content.com
-profile-photos.hackerone-user-content.com
 hackathon-photos.hackerone-user-content.com
+www.hackerone.com
+profile-photos.hackerone-user-content.com
 errors.hackerone.net
 app.pullrequest.com
 b5s.hackerone-ext-content.com
