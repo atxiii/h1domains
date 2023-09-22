@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Sep 22 07:14:19 UTC 2023)
+## Domains with Bounties (Last Updated Fri Sep 22 08:17:36 UTC 2023)
 ```
 test.nicehash.com
 nicex.com
@@ -276,19 +276,19 @@ login.tide.co
 app.tide.co
 api.tideplatform.in
 www.tide.co
+firefox.settings.services.mozilla.com
 crash-stats.allizom.org
 firefox-ci-tc.services.mozilla.com
-firefox.settings.services.mozilla.com
 accounts.firefox.com
 merino.services.mozilla.com
 sync.services.mozilla.com
 push.services.mozilla.com
 bugzilla.mozilla.org
 hg.mozilla.org
-contile.services.mozilla.com
 shavar.services.mozilla.com
 lando.services.mozilla.com
 aus5.mozilla.org
+contile.services.mozilla.com
 addons.allizom.org
 crash-reports.allizom.org
 mozilla-pontoon-staging.herokuapp.com
@@ -1935,9 +1935,9 @@ www.alibabagroup.com
 *.aliyun-inc.com
 *.Daraz.com
 *.aliexpress.com
-*.aliyun.com
 *.1688.com
 *.alimama.com
+*.aliyun.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -1983,8 +1983,8 @@ fortmatic.com
 unibet.me
 *.highrolling.nu
 *.unibet.fr
-*.bingo.com
 *.kolikkopelit.com
+*.bingo.com
 maria.casino
 *.mariacasino.com
 *.kindredext.net
