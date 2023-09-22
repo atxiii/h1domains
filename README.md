@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Sep 22 19:12:09 UTC 2023)
+## Domains with Bounties (Last Updated Fri Sep 22 20:14:54 UTC 2023)
 ```
 test.nicehash.com
 nicex.com
@@ -34,8 +34,8 @@ oauth-sandbox.gocardless.com
 *.gocardless.com
 *.gocardless-staging.io
 *.gocardless-cicd.io
-www.gocardless.com
 manage-sandbox.gocardless.com
+www.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
 *.gocardless-cicd.io
@@ -698,8 +698,8 @@ blueprints.amazon.com
 a4k.amazon.com
 creator.amazon.com
 alexaanswers.amazon.com
-read.amazon.com
 alexa.amazon.com
+read.amazon.com
 skills-store.amazon.com
 read.amazon.com
 alexaanswers.amazon.com
@@ -1296,9 +1296,9 @@ m.reddit.com
 sh.reddit.com
 *.snooguts.net
 *.redditinc.com
+s.reddit.com
 ads-api.reddit.com
 gateway.reddit.com
-s.reddit.com
 www.spiketrap.io
 *.reddit.com
 *.redditblog.com
@@ -2119,8 +2119,8 @@ cloud.nordlocker.com
 *.nordvpn.com
 cloud.nordlocker.com
 app.nordpass.com
-*.line.me
 *.line-apps.com
+*.line.me
 *.line.biz
 *.line.naver.jp
 *.line.me
@@ -2178,11 +2178,11 @@ mgmt-sensors.iris.production.forescoutcloud.net
 obs-sensors.iris.production.forescoutcloud.net
 uk.forescout.cloud
 de.forescout.cloud
-updates.forescout.com
 datapod-1-druid-ingest.production.forescoutcloud.net
 www.forescout.com
 datapod-2-ingest.acceptance.forescoutcloud.net
 community.forescout.com
+updates.forescout.com
 app.iris.acceptance.forescoutcloud.net
 obs-sensors.iris.acceptance.forescoutcloud.net
 streaming.iris.production.forescoutcloud.net
@@ -3079,11 +3079,11 @@ portswigger.net
 portswigger.net
 forum.portswigger.net
 https://enterprise-demo.portswigger.net/
-cart.starbucks.co.jp
 www.starbucksreserve.com
 www.starbucks.fr
 www.starbucks.co.uk
 www.starbucks.com.br
+cart.starbucks.co.jp
 card.starbucks.com.sg
 www.starbucks.com.sg
 secureui.starbucks.com
@@ -3649,8 +3649,8 @@ api.slack.com
 slackb.com
 slackatwork.com
 slack-redir.net
-*.quip.com
 app.slack.com
+*.quip.com
 edgeapi.slack.com
 slack-imgs.com
 slack.com
@@ -3927,15 +3927,15 @@ federalist.18f.gov
 login.fr.cloud.gov
 api.fr.cloud.gov
 api.data.gov
-tock.18f.gov
-*.code.gov
-marketplace.fedramp.gov
-*.search.gov
 ssh.fr.cloud.gov
 ci.fr.cloud.gov
 logs.fr.cloud.gov
 federation.data.gov
 inventory.data.gov
+tock.18f.gov
+*.code.gov
+marketplace.fedramp.gov
+*.search.gov
 logs-platform.fr.cloud.gov
 nessus.fr.cloud.gov
 www.fedramp.gov
