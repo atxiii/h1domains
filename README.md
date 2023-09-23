@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Sep 23 04:14:56 UTC 2023)
+## Domains with Bounties (Last Updated Sat Sep 23 05:12:13 UTC 2023)
 ```
 test.nicehash.com
 nicex.com
@@ -276,19 +276,19 @@ login.tide.co
 app.tide.co
 api.tideplatform.in
 www.tide.co
+firefox.settings.services.mozilla.com
 crash-stats.allizom.org
 firefox-ci-tc.services.mozilla.com
-firefox.settings.services.mozilla.com
 accounts.firefox.com
 merino.services.mozilla.com
 sync.services.mozilla.com
 push.services.mozilla.com
 bugzilla.mozilla.org
 hg.mozilla.org
-contile.services.mozilla.com
 shavar.services.mozilla.com
 lando.services.mozilla.com
 aus5.mozilla.org
+contile.services.mozilla.com
 addons.allizom.org
 crash-reports.allizom.org
 mozilla-pontoon-staging.herokuapp.com
@@ -1448,8 +1448,8 @@ hackers_chosendomain.larksuite.com
 *.exodus.io
 *.a.exodus.io
 *.exodus.com
-www.yotisign.com
 api.yoti.com
+www.yotisign.com
 core.yoti.com
 ccloud.yoti.com
 code.yoti.com
@@ -1514,9 +1514,9 @@ secure.sharefile.com
 ap-s.cloud.com
 accounts-internal.cloud.com
 adm.cloud.com
-secure.sharefile.eu
 (yoursubdomain).eu.iws.cloud.com
 (youriwssubdomain).cloud.com
+secure.sharefile.eu
 launch.cloud.com
 api.adm.cloud.com
 sf-rp.sharefile.com
@@ -2142,9 +2142,9 @@ https://coda.io/signup/email
 codahosted.io
 codacontent.io
 vroid.com
-hub.vroid.com
 payment.pixiv.net
 neoket.net
+hub.vroid.com
 novel.pixiv.net
 www.pixiv.net
 booth.pm
@@ -2178,11 +2178,11 @@ mgmt-sensors.iris.production.forescoutcloud.net
 obs-sensors.iris.production.forescoutcloud.net
 uk.forescout.cloud
 de.forescout.cloud
+updates.forescout.com
 datapod-1-druid-ingest.production.forescoutcloud.net
 www.forescout.com
 datapod-2-ingest.acceptance.forescoutcloud.net
 community.forescout.com
-updates.forescout.com
 app.iris.acceptance.forescoutcloud.net
 obs-sensors.iris.acceptance.forescoutcloud.net
 streaming.iris.production.forescoutcloud.net
@@ -2629,9 +2629,9 @@ shoppingcart.shipt.com
 www.shipt.com
 *.liberapay.com
 *.liberapay.com
+*.marcus.co.uk
 *.gsselect.com
 *.gs-mosaic.gs.com
-*.marcus.co.uk
 *.unitedcp.com
 apigw.foliofn.com
 *.foliofirst.com
@@ -2649,11 +2649,11 @@ goldmansachsindices.com
 *.foliodigitalwealth.com
 *.vennhypotheken.nl
 *.nextcapital.com
-research.gs.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
-marquee.gs.com
+research.gs.com
 *.gs.de
+marquee.gs.com
 api.foliofn.com
 *.advisorsolutions.gs.com
 *.folioinstitutional.com
@@ -3371,7 +3371,6 @@ login.playcanvas.com
 relay.playcanvas.com
 store.playcanvas.com
 playcanv.as
-map.snapchat.com
 www.bitmoji.com
 store.snapchat.com
 business.snapchat.com
@@ -3380,6 +3379,7 @@ snappublisher.snapchat.com
 playcanvas.com
 app.snapchat.com
 my.snapchat.com
+map.snapchat.com
 geofilters.snapchat.com
 spectacles.com
 *.sc-corp.net
