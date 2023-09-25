@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Sep 25 20:16:08 UTC 2023)
+## Domains with Bounties (Last Updated Mon Sep 25 21:14:08 UTC 2023)
 ```
 app.moderntreasury.com
 cdn.moderntreasury.com
@@ -289,10 +289,10 @@ sync.services.mozilla.com
 push.services.mozilla.com
 bugzilla.mozilla.org
 hg.mozilla.org
+contile.services.mozilla.com
 shavar.services.mozilla.com
 lando.services.mozilla.com
 aus5.mozilla.org
-contile.services.mozilla.com
 addons.allizom.org
 crash-reports.allizom.org
 mozilla-pontoon-staging.herokuapp.com
@@ -1259,8 +1259,8 @@ www.elastic.co
 *.eops.nl
 www.elastic.co
 cloud.elastic.co
-*.stripe.com
 *.reckoproduction.com
+*.stripe.com
 *.link.co
 *.recko.io
 *.touchtechpayments.com
@@ -2182,10 +2182,10 @@ mgmt-sensors.iris.production.forescoutcloud.net
 obs-sensors.iris.production.forescoutcloud.net
 uk.forescout.cloud
 de.forescout.cloud
-updates.forescout.com
 datapod-1-druid-ingest.production.forescoutcloud.net
 datapod-2-ingest.acceptance.forescoutcloud.net
 community.forescout.com
+updates.forescout.com
 app.iris.acceptance.forescoutcloud.net
 obs-sensors.iris.acceptance.forescoutcloud.net
 streaming.iris.production.forescoutcloud.net
@@ -2633,9 +2633,9 @@ shoppingcart.shipt.com
 www.shipt.com
 *.liberapay.com
 *.liberapay.com
-*.marcus.co.uk
 *.gsselect.com
 *.gs-mosaic.gs.com
+*.marcus.co.uk
 *.unitedcp.com
 apigw.foliofn.com
 *.foliofirst.com
@@ -2653,11 +2653,11 @@ goldmansachsindices.com
 *.foliodigitalwealth.com
 *.vennhypotheken.nl
 *.nextcapital.com
+research.gs.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
-research.gs.com
-*.gs.de
 marquee.gs.com
+*.gs.de
 api.foliofn.com
 *.advisorsolutions.gs.com
 *.folioinstitutional.com
@@ -3472,8 +3472,8 @@ next.airbnb.com
 *.byairbnb.com
 *.muscache.com
 www.hoteltonight.com
-*.airbnb.com
 *.hoteltonight-test.com
+*.airbnb.com
 api.airbnb.com
 assets.airbnb.com
 callbacks.airbnb.com
@@ -3850,9 +3850,9 @@ https://github.com/evolveum/midpoint
 https://svn.filezilla-project.org/svn/filezilla3/trunk/src/putty
 magentolive.com
 magentocommerce.com
-account.magento.com
 accounts.magento.cloud
 repo.magento.com
+account.magento.com
 u.magento.com
 imagine.magento.com
 marketplace.magento.com
