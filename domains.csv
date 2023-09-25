@@ -1561,9 +1561,9 @@ mercadolibre_vdp,www.mercadopago.com.br,False
 mercadolibre_vdp,www.mercadopago.com.ar,False
 mercadolibre_vdp,www.mercadopago.com.pe,False
 mercadolibre_vdp,www.mercadopago.com.uy,False
-mercadolibre_vdp,www.mercadolivre.com.br,False
 mercadolibre_vdp,api.mercadopago.com,False
 mercadolibre_vdp,www.mercadopago.cl,False
+mercadolibre_vdp,www.mercadolivre.com.br,False
 mercadolibre_vdp,www.mercadolibre.cl,False
 mercadolibre_vdp,api.mercadolibre.com,False
 mercadolibre_vdp,api.mercadopago.com,False
@@ -2433,10 +2433,10 @@ resmed,resmed.fr,False
 resmed,resmed.nl,False
 resmed,resmed.no,False
 resmed,resmed.dk,False
-resmed,provider.propellerhealth.biz,False
-resmed,patient.propellerhealth.biz,False
 resmed,resmedshop.de,False
 resmed,resmed.jp,False
+resmed,provider.propellerhealth.biz,False
+resmed,patient.propellerhealth.biz,False
 resmed,produktion.api.praxispad.de/,False
 resmed,referenzkunden.api.praxispad.de,False
 resmed,app.citushealth.com/,False
@@ -3382,8 +3382,8 @@ costco,*.costcobusinesscentre.ca,False
 costco,*.costcotravel.com,False
 costco,*.costcotravel.ca,False
 mondelez,missionebonta.fattorieosella.it,False
-mondelez,createatreat.com,False
 mondelez,mueller.milka.de,False
+mondelez,createatreat.com,False
 mondelez,philadelphia.gr,False
 mondelez,oreoitalia.it,False
 mondelez,oreo.ru,False
@@ -3424,8 +3424,8 @@ mondelez,saboresconjuego.es,False
 mondelez,cadbury.co.uk,False
 mondelez,ejackson.co.uk,False
 mondelez,oboy.fi,False
-mondelez,sourpatchkids.com,False
 mondelez,pt.cocoalife.org,False
+mondelez,sourpatchkids.com,False
 mondelez,greenandblacks.co.uk,False
 mondelez,opavia.info,False
 mondelez,perfectsnacks.com,False
@@ -4097,6 +4097,9 @@ john-deere,stage-api.agrisync.com,False
 john-deere,stage-app.agrisync.com,False
 john-deere,stage-vhb.agrisync.com,False
 john-deere,vnd.agrisync.com,False
+john-deere,map.deere.com,False
+john-deere,us-central-1.r4.abc.expertconnect.support,False
+john-deere,us-central-1.r4.xyz.expertconnect.support,False
 john-deere,johndeeretours.deere.com,False
 john-deere,shop.deere.com,False
 john-deere,stellarsupport.deere.com,False
@@ -4105,9 +4108,6 @@ john-deere,machinereports.deere.com,False
 john-deere,notifications.deere.com,False
 john-deere,registration.deere.com,False
 john-deere,rewards.deere.com,False
-john-deere,map.deere.com,False
-john-deere,us-central-1.r4.abc.expertconnect.support,False
-john-deere,us-central-1.r4.xyz.expertconnect.support,False
 john-deere,johndeereinnovation.com,False
 john-deere,contest.deere.com,False
 john-deere,jdquote2.deere.com,False
@@ -4266,8 +4266,8 @@ john-deere,sustainability-programs.deere.com,False
 john-deere,adzone.deere.com,False
 john-deere,advertising.deere.com,False
 john-deere,satpredictor2.deere.com,False
-stripe,*.reckoproduction.com,True
 stripe,*.stripe.com,True
+stripe,*.reckoproduction.com,True
 stripe,*.link.co,True
 stripe,*.recko.io,True
 stripe,*.touchtechpayments.com,True
@@ -4656,9 +4656,9 @@ reddit,m.reddit.com,True
 reddit,sh.reddit.com,True
 reddit,*.snooguts.net,True
 reddit,*.redditinc.com,True
-reddit,s.reddit.com,True
 reddit,ads-api.reddit.com,True
 reddit,gateway.reddit.com,True
+reddit,s.reddit.com,True
 reddit,www.spiketrap.io,True
 reddit,*.reddit.com,True
 reddit,*.redditblog.com,True
@@ -5377,8 +5377,8 @@ exodus,*.a.exodus.io,True
 exodus,*.exodus.io,True
 exodus,*.a.exodus.io,True
 exodus,*.exodus.com,True
-yoti,api.yoti.com,True
 yoti,www.yotisign.com,True
+yoti,api.yoti.com,True
 yoti,core.yoti.com,True
 yoti,ccloud.yoti.com,True
 yoti,code.yoti.com,True
@@ -7039,10 +7039,10 @@ forescout_technologies,mgmt-sensors.iris.production.forescoutcloud.net,True
 forescout_technologies,obs-sensors.iris.production.forescoutcloud.net,True
 forescout_technologies,uk.forescout.cloud,True
 forescout_technologies,de.forescout.cloud,True
+forescout_technologies,updates.forescout.com,True
 forescout_technologies,datapod-1-druid-ingest.production.forescoutcloud.net,True
 forescout_technologies,datapod-2-ingest.acceptance.forescoutcloud.net,True
 forescout_technologies,community.forescout.com,True
-forescout_technologies,updates.forescout.com,True
 forescout_technologies,app.iris.acceptance.forescoutcloud.net,True
 forescout_technologies,obs-sensors.iris.acceptance.forescoutcloud.net,True
 forescout_technologies,streaming.iris.production.forescoutcloud.net,True
@@ -8568,8 +8568,8 @@ shopify,*.shopifykloud.com,True
 shopify,shopifyinbox.com,True
 shopify,partners.shopify.com,True
 shopify,shopify.plus,True
-shopify,*.shopify.com,True
 shopify,accounts.shopify.com,True
+shopify,*.shopify.com,True
 shopify,admin.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
@@ -8812,8 +8812,8 @@ airbnb,*.withairbnb.com,True
 airbnb,*.airbnbcitizen.com,True
 airbnb,*.byairbnb.com,True
 airbnb,*.muscache.com,True
-airbnb,*.hoteltonight-test.com,True
 airbnb,www.hoteltonight.com,True
+airbnb,*.hoteltonight-test.com,True
 airbnb,*.airbnb.com,True
 airbnb,api.airbnb.com,True
 airbnb,assets.airbnb.com,True
@@ -9004,8 +9004,8 @@ slack,api.slack.com,True
 slack,slackb.com,True
 slack,slackatwork.com,True
 slack,slack-redir.net,True
-slack,*.quip.com,True
 slack,app.slack.com,True
+slack,*.quip.com,True
 slack,edgeapi.slack.com,True
 slack,slack-imgs.com,True
 slack,slack.com,True
@@ -9303,9 +9303,9 @@ uphabit,web.uphabit.com,False
 uphabit,api.uphabit.com,False
 uphabit,api.uphabit.com,False
 uphabit,web.uphabit.com,False
-nuri,www.nuri.com,False
 nuri,www.bitwala.com,False
 nuri,api.app.bitwala.com,False
+nuri,www.nuri.com,False
 nuri,api.app.nuri.com,False
 nuri,app.bitwala.com,False
 nuri,app.nuri.com,False
