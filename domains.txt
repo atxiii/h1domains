@@ -2122,8 +2122,8 @@ cloud8.8x8.com
 pay.8x8.com
 *.magicjackpot.ro
 *.luckydays.com
-*.superbet.com
 *.superbet.ro
+*.superbet.com
 *.luckydays.ca
 *.spinaway.com
 *.superbet.rs
@@ -2948,8 +2948,8 @@ www.dolap.com
 *.skyhighsecurity.com
 *.sidefx.com
 *.sidefx.com
-*.tokensvc.com
 token.com
+*.tokensvc.com
 blog.token.com
 *.tokensvc.com
 token.com
@@ -3277,7 +3277,6 @@ new.myzap.com
 *.anywhere.re
 new.myzap.com
 academy.databricks.com
-accounts.cloud.databricks.com
 demo.cloud.databricks.com
 docs.databricks.com
 files.training.databricks.com
@@ -3288,6 +3287,7 @@ waf-test.corp.databricks.com
 docs.delta.io
 staging.spark-summit.org
 databricks.com
+accounts.cloud.databricks.com
 connect.databricks.com
 go.corp.databricks.com
 gw1-eu.corp.databricks.com
@@ -4096,6 +4096,9 @@ stage-api.agrisync.com
 stage-app.agrisync.com
 stage-vhb.agrisync.com
 vnd.agrisync.com
+map.deere.com
+us-central-1.r4.abc.expertconnect.support
+us-central-1.r4.xyz.expertconnect.support
 johndeeretours.deere.com
 shop.deere.com
 stellarsupport.deere.com
@@ -4104,9 +4107,6 @@ machinereports.deere.com
 notifications.deere.com
 registration.deere.com
 rewards.deere.com
-map.deere.com
-us-central-1.r4.abc.expertconnect.support
-us-central-1.r4.xyz.expertconnect.support
 johndeereinnovation.com
 contest.deere.com
 jdquote2.deere.com
@@ -4265,8 +4265,8 @@ sustainability-programs.deere.com
 adzone.deere.com
 advertising.deere.com
 satpredictor2.deere.com
-*.stripe.com
 *.reckoproduction.com
+*.stripe.com
 *.link.co
 *.recko.io
 *.touchtechpayments.com
@@ -4537,6 +4537,7 @@ wfc.zebra.com
 *.fetchcore-cloud.com
 stage-www.zebra.com
 artifactory-us.zebra.com
+*.cto-si.zebra.com
 zebratradeinprogram.com
 docs.zebra.com
 downloads.zebra.com
@@ -4654,9 +4655,9 @@ m.reddit.com
 sh.reddit.com
 *.snooguts.net
 *.redditinc.com
-s.reddit.com
 ads-api.reddit.com
 gateway.reddit.com
+s.reddit.com
 www.spiketrap.io
 *.reddit.com
 *.redditblog.com
@@ -5444,9 +5445,9 @@ secure.sharefile.com
 ap-s.cloud.com
 accounts-internal.cloud.com
 adm.cloud.com
+secure.sharefile.eu
 (yoursubdomain).eu.iws.cloud.com
 (youriwssubdomain).cloud.com
-secure.sharefile.eu
 launch.cloud.com
 api.adm.cloud.com
 sf-rp.sharefile.com
@@ -6131,9 +6132,9 @@ t.picsart.com
 api.picsart.com
 picsart.io
 api.picsart.io
-ai.picsart.com
 cdn-basic-content-api.picsart.io
 optifyr.com
+ai.picsart.com
 www.picsart.com
 picsart.io
 api.picsart.io
@@ -7039,11 +7040,11 @@ mgmt-sensors.iris.production.forescoutcloud.net
 obs-sensors.iris.production.forescoutcloud.net
 uk.forescout.cloud
 de.forescout.cloud
+updates.forescout.com
 datapod-1-druid-ingest.production.forescoutcloud.net
 www.forescout.com
 datapod-2-ingest.acceptance.forescoutcloud.net
 community.forescout.com
-updates.forescout.com
 app.iris.acceptance.forescoutcloud.net
 obs-sensors.iris.acceptance.forescoutcloud.net
 streaming.iris.production.forescoutcloud.net
@@ -7740,9 +7741,9 @@ cloud.rocket.chat
 *.arkadiyt.com
 *.liberapay.com
 *.liberapay.com
-*.marcus.co.uk
 *.gsselect.com
 *.gs-mosaic.gs.com
+*.marcus.co.uk
 *.unitedcp.com
 apigw.foliofn.com
 *.foliofirst.com
@@ -7760,11 +7761,11 @@ goldmansachsindices.com
 *.foliodigitalwealth.com
 *.vennhypotheken.nl
 *.nextcapital.com
+research.gs.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
-research.gs.com
-*.gs.de
 marquee.gs.com
+*.gs.de
 api.foliofn.com
 *.advisorsolutions.gs.com
 *.folioinstitutional.com
@@ -8569,8 +8570,8 @@ shopifyinbox.com
 partners.shopify.com
 shopify.plus
 *.shopify.com
-admin.shopify.com
 accounts.shopify.com
+admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com

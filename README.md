@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Sep 25 16:18:04 UTC 2023)
+## Domains with Bounties (Last Updated Mon Sep 25 17:14:47 UTC 2023)
 ```
 app.moderntreasury.com
 cdn.moderntreasury.com
@@ -536,8 +536,8 @@ cloud8.8x8.com
 pay.8x8.com
 *.magicjackpot.ro
 *.luckydays.com
-*.superbet.com
 *.superbet.ro
+*.superbet.com
 *.luckydays.ca
 *.spinaway.com
 *.superbet.rs
@@ -905,7 +905,6 @@ www.instacart.com
 admin.instacart.com
 shoppers.instacart.com
 academy.databricks.com
-accounts.cloud.databricks.com
 demo.cloud.databricks.com
 docs.databricks.com
 files.training.databricks.com
@@ -916,6 +915,7 @@ waf-test.corp.databricks.com
 docs.delta.io
 staging.spark-summit.org
 databricks.com
+accounts.cloud.databricks.com
 connect.databricks.com
 go.corp.databricks.com
 gw1-eu.corp.databricks.com
@@ -1259,8 +1259,8 @@ www.elastic.co
 *.eops.nl
 www.elastic.co
 cloud.elastic.co
-*.stripe.com
 *.reckoproduction.com
+*.stripe.com
 *.link.co
 *.recko.io
 *.touchtechpayments.com
@@ -1300,9 +1300,9 @@ m.reddit.com
 sh.reddit.com
 *.snooguts.net
 *.redditinc.com
-s.reddit.com
 ads-api.reddit.com
 gateway.reddit.com
+s.reddit.com
 www.spiketrap.io
 *.reddit.com
 *.redditblog.com
@@ -1518,9 +1518,9 @@ secure.sharefile.com
 ap-s.cloud.com
 accounts-internal.cloud.com
 adm.cloud.com
+secure.sharefile.eu
 (yoursubdomain).eu.iws.cloud.com
 (youriwssubdomain).cloud.com
-secure.sharefile.eu
 launch.cloud.com
 api.adm.cloud.com
 sf-rp.sharefile.com
@@ -2182,11 +2182,11 @@ mgmt-sensors.iris.production.forescoutcloud.net
 obs-sensors.iris.production.forescoutcloud.net
 uk.forescout.cloud
 de.forescout.cloud
+updates.forescout.com
 datapod-1-druid-ingest.production.forescoutcloud.net
 www.forescout.com
 datapod-2-ingest.acceptance.forescoutcloud.net
 community.forescout.com
-updates.forescout.com
 app.iris.acceptance.forescoutcloud.net
 obs-sensors.iris.acceptance.forescoutcloud.net
 streaming.iris.production.forescoutcloud.net
@@ -2633,9 +2633,9 @@ shoppingcart.shipt.com
 www.shipt.com
 *.liberapay.com
 *.liberapay.com
-*.marcus.co.uk
 *.gsselect.com
 *.gs-mosaic.gs.com
+*.marcus.co.uk
 *.unitedcp.com
 apigw.foliofn.com
 *.foliofirst.com
@@ -2653,11 +2653,11 @@ goldmansachsindices.com
 *.foliodigitalwealth.com
 *.vennhypotheken.nl
 *.nextcapital.com
+research.gs.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
-research.gs.com
-*.gs.de
 marquee.gs.com
+*.gs.de
 api.foliofn.com
 *.advisorsolutions.gs.com
 *.folioinstitutional.com
@@ -3347,8 +3347,8 @@ shopifyinbox.com
 partners.shopify.com
 shopify.plus
 *.shopify.com
-admin.shopify.com
 accounts.shopify.com
+admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com

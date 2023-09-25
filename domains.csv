@@ -2123,8 +2123,8 @@ kkr_vdp,processaccess.kkr.com,False
 8x8-bounty,pay.8x8.com,True
 superbet,*.magicjackpot.ro,True
 superbet,*.luckydays.com,True
-superbet,*.superbet.com,True
 superbet,*.superbet.ro,True
+superbet,*.superbet.com,True
 superbet,*.luckydays.ca,True
 superbet,*.spinaway.com,True
 superbet,*.superbet.rs,True
@@ -2949,8 +2949,8 @@ trellix,*.trellix.com,False
 trellix,*.skyhighsecurity.com,False
 sidefx,*.sidefx.com,True
 sidefx,*.sidefx.com,True
-tokenweb3,*.tokensvc.com,False
 tokenweb3,token.com,False
+tokenweb3,*.tokensvc.com,False
 tokenweb3,blog.token.com,False
 tokenweb3,*.tokensvc.com,False
 tokenweb3,token.com,False
@@ -3278,7 +3278,6 @@ anywhererealestate,*.mycbdesk.com,False
 anywhererealestate,*.anywhere.re,False
 anywhererealestate,new.myzap.com,False
 databricks,academy.databricks.com,True
-databricks,accounts.cloud.databricks.com,True
 databricks,demo.cloud.databricks.com,True
 databricks,docs.databricks.com,True
 databricks,files.training.databricks.com,True
@@ -3289,6 +3288,7 @@ databricks,waf-test.corp.databricks.com,True
 databricks,docs.delta.io,True
 databricks,staging.spark-summit.org,True
 databricks,databricks.com,True
+databricks,accounts.cloud.databricks.com,True
 databricks,connect.databricks.com,True
 databricks,go.corp.databricks.com,True
 databricks,gw1-eu.corp.databricks.com,True
@@ -4097,6 +4097,9 @@ john-deere,stage-api.agrisync.com,False
 john-deere,stage-app.agrisync.com,False
 john-deere,stage-vhb.agrisync.com,False
 john-deere,vnd.agrisync.com,False
+john-deere,map.deere.com,False
+john-deere,us-central-1.r4.abc.expertconnect.support,False
+john-deere,us-central-1.r4.xyz.expertconnect.support,False
 john-deere,johndeeretours.deere.com,False
 john-deere,shop.deere.com,False
 john-deere,stellarsupport.deere.com,False
@@ -4105,9 +4108,6 @@ john-deere,machinereports.deere.com,False
 john-deere,notifications.deere.com,False
 john-deere,registration.deere.com,False
 john-deere,rewards.deere.com,False
-john-deere,map.deere.com,False
-john-deere,us-central-1.r4.abc.expertconnect.support,False
-john-deere,us-central-1.r4.xyz.expertconnect.support,False
 john-deere,johndeereinnovation.com,False
 john-deere,contest.deere.com,False
 john-deere,jdquote2.deere.com,False
@@ -4266,8 +4266,8 @@ john-deere,sustainability-programs.deere.com,False
 john-deere,adzone.deere.com,False
 john-deere,advertising.deere.com,False
 john-deere,satpredictor2.deere.com,False
-stripe,*.stripe.com,True
 stripe,*.reckoproduction.com,True
+stripe,*.stripe.com,True
 stripe,*.link.co,True
 stripe,*.recko.io,True
 stripe,*.touchtechpayments.com,True
@@ -4538,6 +4538,7 @@ zebra_vdp,wfc.zebra.com,False
 zebra_vdp,*.fetchcore-cloud.com,False
 zebra_vdp,stage-www.zebra.com,False
 zebra_vdp,artifactory-us.zebra.com,False
+zebra_vdp,*.cto-si.zebra.com,False
 zebra_vdp,zebratradeinprogram.com,False
 zebra_vdp,docs.zebra.com,False
 zebra_vdp,downloads.zebra.com,False
@@ -4655,9 +4656,9 @@ reddit,m.reddit.com,True
 reddit,sh.reddit.com,True
 reddit,*.snooguts.net,True
 reddit,*.redditinc.com,True
-reddit,s.reddit.com,True
 reddit,ads-api.reddit.com,True
 reddit,gateway.reddit.com,True
+reddit,s.reddit.com,True
 reddit,www.spiketrap.io,True
 reddit,*.reddit.com,True
 reddit,*.redditblog.com,True
@@ -5445,9 +5446,9 @@ citrix,(yoursubdomain).sf-api.com,True
 citrix,ap-s.cloud.com,True
 citrix,accounts-internal.cloud.com,True
 citrix,adm.cloud.com,True
+citrix,secure.sharefile.eu,True
 citrix,(yoursubdomain).eu.iws.cloud.com,True
 citrix,(youriwssubdomain).cloud.com,True
-citrix,secure.sharefile.eu,True
 citrix,launch.cloud.com,True
 citrix,api.adm.cloud.com,True
 citrix,sf-rp.sharefile.com,True
@@ -6132,9 +6133,9 @@ picsart,t.picsart.com,False
 picsart,api.picsart.com,False
 picsart,picsart.io,False
 picsart,api.picsart.io,False
-picsart,ai.picsart.com,False
 picsart,cdn-basic-content-api.picsart.io,False
 picsart,optifyr.com,False
+picsart,ai.picsart.com,False
 picsart,www.picsart.com,False
 picsart,picsart.io,False
 picsart,api.picsart.io,False
@@ -7040,11 +7041,11 @@ forescout_technologies,mgmt-sensors.iris.production.forescoutcloud.net,True
 forescout_technologies,obs-sensors.iris.production.forescoutcloud.net,True
 forescout_technologies,uk.forescout.cloud,True
 forescout_technologies,de.forescout.cloud,True
+forescout_technologies,updates.forescout.com,True
 forescout_technologies,datapod-1-druid-ingest.production.forescoutcloud.net,True
 forescout_technologies,www.forescout.com,True
 forescout_technologies,datapod-2-ingest.acceptance.forescoutcloud.net,True
 forescout_technologies,community.forescout.com,True
-forescout_technologies,updates.forescout.com,True
 forescout_technologies,app.iris.acceptance.forescoutcloud.net,True
 forescout_technologies,obs-sensors.iris.acceptance.forescoutcloud.net,True
 forescout_technologies,streaming.iris.production.forescoutcloud.net,True
@@ -7741,9 +7742,9 @@ arkadiyt-projects,*.arkadiyt.com,False
 arkadiyt-projects,*.arkadiyt.com,False
 liberapay,*.liberapay.com,True
 liberapay,*.liberapay.com,True
-goldmansachs,*.marcus.co.uk,True
 goldmansachs,*.gsselect.com,True
 goldmansachs,*.gs-mosaic.gs.com,True
+goldmansachs,*.marcus.co.uk,True
 goldmansachs,*.unitedcp.com,True
 goldmansachs,apigw.foliofn.com,True
 goldmansachs,*.foliofirst.com,True
@@ -7761,11 +7762,11 @@ goldmansachs,*.finlifepartners.com,True
 goldmansachs,*.foliodigitalwealth.com,True
 goldmansachs,*.vennhypotheken.nl,True
 goldmansachs,*.nextcapital.com,True
+goldmansachs,research.gs.com,True
 goldmansachs,*.gs-mosaic.qa.gs.com,True
 goldmansachs,*.qaglobal-liquidity.gs.com,True
-goldmansachs,research.gs.com,True
-goldmansachs,*.gs.de,True
 goldmansachs,marquee.gs.com,True
+goldmansachs,*.gs.de,True
 goldmansachs,api.foliofn.com,True
 goldmansachs,*.advisorsolutions.gs.com,True
 goldmansachs,*.folioinstitutional.com,True
@@ -8570,8 +8571,8 @@ shopify,shopifyinbox.com,True
 shopify,partners.shopify.com,True
 shopify,shopify.plus,True
 shopify,*.shopify.com,True
-shopify,admin.shopify.com,True
 shopify,accounts.shopify.com,True
+shopify,admin.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
 shopify,*.shopifycloud.com,True
