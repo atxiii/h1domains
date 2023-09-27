@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Sep 27 10:14:32 UTC 2023)
+## Domains with Bounties (Last Updated Wed Sep 27 11:13:32 UTC 2023)
 ```
 app.moderntreasury.com
 cdn.moderntreasury.com
@@ -38,8 +38,8 @@ oauth-sandbox.gocardless.com
 *.gocardless.com
 *.gocardless-staging.io
 *.gocardless-cicd.io
-www.gocardless.com
 manage-sandbox.gocardless.com
+www.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
 *.gocardless-cicd.io
@@ -1454,8 +1454,8 @@ hackers_chosendomain.larksuite.com
 *.exodus.io
 *.a.exodus.io
 *.exodus.com
-api.yoti.com
 www.yotisign.com
+api.yoti.com
 core.yoti.com
 ccloud.yoti.com
 code.yoti.com
@@ -2525,10 +2525,10 @@ matomo.cloud
 www.swiftfinancial.com
 swiftfinancial.com
 *.paylution.com
-*.xoom.com
 *.braintreepayments.com
 py.pl
 *.braintree-api.com
+*.xoom.com
 www.swiftcapital.com
 my.swiftfinancial.com
 swiftcapital.com
@@ -2758,10 +2758,10 @@ developer.newrelic.com
 *.infrastructure-data.newrelic.com
 learn.newrelic.com
 rpm.newrelic.com
+*.nr-ops.net
 insights.newrelic.com
 *.blog.newrelic.com
 infrastructure.newrelic.com
-*.nr-ops.net
 *.newrelic.com
 one.newrelic.com
 *.nr-data.net
@@ -3705,8 +3705,8 @@ profile-photos-us-east-2.hackerone-user-content.com
 cover-photos.hackerone-user-content.com
 errors.hackerone.net
 hackerone.live
-app.pullrequest.com
 b5s.hackerone-ext-content.com
+app.pullrequest.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
