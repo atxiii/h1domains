@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Sep 27 21:13:45 UTC 2023)
+## Domains with Bounties (Last Updated Wed Sep 27 22:14:00 UTC 2023)
 ```
 app.moderntreasury.com
 cdn.moderntreasury.com
@@ -356,8 +356,8 @@ hiltonhotels.jp
 *.hiltonbusinessonline.com
 hilton.io
 hiltonlocalbiz.com
-*.hilton.com.tr
 hiltonbusinessonline.com
+*.hilton.com.tr
 *.hiltonlocalbiz.com
 hilton.com
 hilton.com.tr
@@ -1454,8 +1454,8 @@ hackers_chosendomain.larksuite.com
 *.exodus.io
 *.a.exodus.io
 *.exodus.com
-api.yoti.com
 www.yotisign.com
+api.yoti.com
 core.yoti.com
 ccloud.yoti.com
 code.yoti.com
@@ -1520,9 +1520,9 @@ secure.sharefile.com
 ap-s.cloud.com
 accounts-internal.cloud.com
 adm.cloud.com
-secure.sharefile.eu
 (yoursubdomain).eu.iws.cloud.com
 (youriwssubdomain).cloud.com
+secure.sharefile.eu
 launch.cloud.com
 api.adm.cloud.com
 sf-rp.sharefile.com
@@ -2304,8 +2304,8 @@ developers.smartsheet.com
 blog.creditkarma.com
 support.creditkarma.ca
 accounts.creditkarma.com
-www.creditkarma.ca
 api.creditkarma.com
+www.creditkarma.ca
 accounts.creditkarma.com
 www.creditkarma.ca
 api.creditkarma.com
@@ -2712,8 +2712,8 @@ www.counter-strike.net
 partner.steampowered.com
 api.steampowered.com
 www.dota2.com
-steamcommunity.com
 support.steampowered.com
+steamcommunity.com
 www.dota2.com
 support.steampowered.com
 partner.steampowered.com
@@ -2757,10 +2757,10 @@ developer.newrelic.com
 *.infrastructure-data.newrelic.com
 learn.newrelic.com
 rpm.newrelic.com
+*.nr-ops.net
 insights.newrelic.com
 *.blog.newrelic.com
 infrastructure.newrelic.com
-*.nr-ops.net
 *.newrelic.com
 one.newrelic.com
 *.nr-data.net
@@ -3084,11 +3084,11 @@ portswigger.net
 portswigger.net
 forum.portswigger.net
 https://enterprise-demo.portswigger.net/
-cart.starbucks.co.jp
 www.starbucksreserve.com
 www.starbucks.fr
 www.starbucks.co.uk
 www.starbucks.com.br
+cart.starbucks.co.jp
 card.starbucks.com.sg
 secureui.starbucks.com
 www.starbucks.de
@@ -3180,8 +3180,8 @@ moneybird.com
 moneybirdstorage.com
 moneybird.com
 moneybirdstorage.com
-npmjs.com
 api.github.com
+npmjs.com
 classroom.github.com
 *.githubapp.com
 *.github.net
@@ -3347,9 +3347,9 @@ shop.app
 shopifyinbox.com
 partners.shopify.com
 shopify.plus
-*.shopify.com
 admin.shopify.com
 accounts.shopify.com
+*.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
