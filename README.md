@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Sep 28 14:16:28 UTC 2023)
+## Domains with Bounties (Last Updated Thu Sep 28 15:14:44 UTC 2023)
 ```
 app.moderntreasury.com
 cdn.moderntreasury.com
@@ -289,10 +289,10 @@ sync.services.mozilla.com
 push.services.mozilla.com
 bugzilla.mozilla.org
 hg.mozilla.org
+contile.services.mozilla.com
 shavar.services.mozilla.com
 lando.services.mozilla.com
 aus5.mozilla.org
-contile.services.mozilla.com
 addons.allizom.org
 crash-reports.allizom.org
 mozilla-pontoon-staging.herokuapp.com
@@ -1302,9 +1302,9 @@ m.reddit.com
 sh.reddit.com
 *.snooguts.net
 *.redditinc.com
+s.reddit.com
 ads-api.reddit.com
 gateway.reddit.com
-s.reddit.com
 www.spiketrap.io
 *.reddit.com
 *.redditblog.com
@@ -1615,8 +1615,8 @@ www.figma.com
 api.figma.com
 wiki.cs.money
 support.cs.money
-3d.cs.money
 cs.money
+3d.cs.money
 cs.money
 support.cs.money
 wiki.cs.money
@@ -1999,8 +1999,8 @@ maria.casino
 *.igame.com
 *.vladcazino.ro
 *.ottokasino.com
-*.kes.kindredext.net
 www.32red.com
+*.kes.kindredext.net
 *.unibet.com
 *.unibet.fr
 *.storspiller.com
@@ -3326,8 +3326,8 @@ your-store.myshopify.com
 linkpop.com
 shop.app
 *.shopifykloud.com
-shopifyinbox.com
 partners.shopify.com
+shopifyinbox.com
 shopify.plus
 accounts.shopify.com
 *.shopify.com
@@ -3680,8 +3680,8 @@ profile-photos.hackerone-user-content.com
 hackerone-ext-content.com
 reviewer.pullrequest.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
-www.hackerone.com
 ctf.hacker101.com
+www.hackerone.com
 profile-photos-us-east-2.hackerone-user-content.com
 cover-photos.hackerone-user-content.com
 errors.hackerone.net
