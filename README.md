@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Sep 28 19:13:31 UTC 2023)
+## Domains with Bounties (Last Updated Thu Sep 28 20:13:03 UTC 2023)
 ```
 app.moderntreasury.com
 cdn.moderntreasury.com
@@ -319,8 +319,8 @@ phabricator.allizom.org
 support.mozilla.org
 hg.mozilla.org
 relay.firefox.com
-getpocket.com
 stage.taskcluster.nonprod.cloudops.mozgcp.net
+getpocket.com
 developer.mozilla.org
 monitor.firefox.com
 www.mozilla.org
@@ -1045,12 +1045,15 @@ harmonixmusic.com
 capturingreality.com
 wonderboxdev.com
 *.popjam.com
+*.bcbits.com
 *.3lateral.com
 *.psyonix.com
 *.bcbits.com
 *.dropmix.com
 *.harmonixmusic.com
 *.hmxwebservices.com
+*.bandcamp.com
+*.bcbits.com
 *.rocketleague.com
 *.psynet.gg
 *.unrealtournament.com
@@ -1514,9 +1517,9 @@ secure.sharefile.com
 ap-s.cloud.com
 accounts-internal.cloud.com
 adm.cloud.com
-secure.sharefile.eu
 (yoursubdomain).eu.iws.cloud.com
 (youriwssubdomain).cloud.com
+secure.sharefile.eu
 launch.cloud.com
 api.adm.cloud.com
 sf-rp.sharefile.com
@@ -2177,10 +2180,10 @@ mgmt-sensors.iris.production.forescoutcloud.net
 obs-sensors.iris.production.forescoutcloud.net
 uk.forescout.cloud
 de.forescout.cloud
-updates.forescout.com
 datapod-1-druid-ingest.production.forescoutcloud.net
 datapod-2-ingest.acceptance.forescoutcloud.net
 community.forescout.com
+updates.forescout.com
 app.iris.acceptance.forescoutcloud.net
 obs-sensors.iris.acceptance.forescoutcloud.net
 streaming.iris.production.forescoutcloud.net
@@ -2733,10 +2736,10 @@ developer.newrelic.com
 *.infrastructure-data.newrelic.com
 learn.newrelic.com
 rpm.newrelic.com
-*.nr-ops.net
 insights.newrelic.com
 *.blog.newrelic.com
 infrastructure.newrelic.com
+*.nr-ops.net
 *.newrelic.com
 one.newrelic.com
 *.nr-data.net
@@ -3323,9 +3326,9 @@ partners.shopify.com
 *.shopifykloud.com
 shopifyinbox.com
 shopify.plus
-*.shopify.com
 admin.shopify.com
 accounts.shopify.com
+*.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
