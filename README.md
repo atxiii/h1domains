@@ -2,20 +2,20 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Sep 28 17:14:20 UTC 2023)
+## Domains with Bounties (Last Updated Thu Sep 28 18:17:12 UTC 2023)
 ```
 app.moderntreasury.com
 cdn.moderntreasury.com
 app.moderntreasury.com
 cdn.moderntreasury.com
+test.nicex.com
 test.nicehash.com
-nicex.com
 test.nicehash.com
 https://test.nicehash.com/shop/
 https://test.nicex.com
-nicex.com
 https://api-test.nicex.com
 https://api-test.nicehash.com
+test.nicex.com
 prismalabsteam.com
 lensa-ai.com
 prisma-ai.com
@@ -289,10 +289,10 @@ sync.services.mozilla.com
 push.services.mozilla.com
 bugzilla.mozilla.org
 hg.mozilla.org
-contile.services.mozilla.com
 shavar.services.mozilla.com
 lando.services.mozilla.com
 aus5.mozilla.org
+contile.services.mozilla.com
 addons.allizom.org
 crash-reports.allizom.org
 mozilla-pontoon-staging.herokuapp.com
@@ -1049,7 +1049,6 @@ wonderboxdev.com
 *.psyonix.com
 *.bcbits.com
 *.dropmix.com
-www.rockband4.com
 *.harmonixmusic.com
 *.hmxwebservices.com
 *.rocketleague.com
@@ -1076,16 +1075,11 @@ twinmotion.unrealengine.com
 *.popjam.com
 *.rukkaz.com
 *.jellychat.com
-*.bandcamp.com
-isitbandcampfriday.com
 *.bcbits.com
 *.amplitude-game.com
 *.audicagame.com
 *.dancecentral.com
 *.dropmix.com
-ps3-meta.rockband.com
-www.rockband4.com
-*.rockbandvr.com
 *.singspacegame.com
 *.harmonixmusic.com
 *.hmxservices.com
@@ -1454,8 +1448,8 @@ hackers_chosendomain.larksuite.com
 *.exodus.io
 *.a.exodus.io
 *.exodus.com
-www.yotisign.com
 api.yoti.com
+www.yotisign.com
 core.yoti.com
 ccloud.yoti.com
 code.yoti.com
@@ -2183,10 +2177,10 @@ mgmt-sensors.iris.production.forescoutcloud.net
 obs-sensors.iris.production.forescoutcloud.net
 uk.forescout.cloud
 de.forescout.cloud
+updates.forescout.com
 datapod-1-druid-ingest.production.forescoutcloud.net
 datapod-2-ingest.acceptance.forescoutcloud.net
 community.forescout.com
-updates.forescout.com
 app.iris.acceptance.forescoutcloud.net
 obs-sensors.iris.acceptance.forescoutcloud.net
 streaming.iris.production.forescoutcloud.net
@@ -3326,12 +3320,12 @@ your-store.myshopify.com
 linkpop.com
 shop.app
 partners.shopify.com
-shopifyinbox.com
 *.shopifykloud.com
+shopifyinbox.com
 shopify.plus
-accounts.shopify.com
 *.shopify.com
 admin.shopify.com
+accounts.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -3369,8 +3363,8 @@ app.snapchat.com
 playcanvas.com
 geofilters.snapchat.com
 spectacles.com
-*.sc-corp.net
 web.snapchat.com
+*.sc-corp.net
 www.bitstrips.com
 kit.snapchat.com
 *.sc-core.net
@@ -3936,15 +3930,15 @@ federalist.18f.gov
 login.fr.cloud.gov
 api.fr.cloud.gov
 api.data.gov
-tock.18f.gov
-*.code.gov
-marketplace.fedramp.gov
-*.search.gov
 ssh.fr.cloud.gov
 ci.fr.cloud.gov
 logs.fr.cloud.gov
 federation.data.gov
 inventory.data.gov
+tock.18f.gov
+*.code.gov
+marketplace.fedramp.gov
+*.search.gov
 logs-platform.fr.cloud.gov
 nessus.fr.cloud.gov
 www.fedramp.gov
