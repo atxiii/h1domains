@@ -39,8 +39,8 @@ brightspeed.service-now.com
 brightspeedtsm.service-now.com
 gobrightspeed.net
 prismalabsteam.com
-prisma-ai.com
 lensa-ai.com
+prisma-ai.com
 appapi.neuralprisma.com
 neuralprisma.com
 neuralprisma.com
@@ -2258,8 +2258,8 @@ www.flights.com
 *.vrbo.com
 *.ean.com
 *.lastminute.co.nz
-*.orbitz.com
 *.expedia.com
+*.orbitz.com
 *.lastminute.com.au
 *.flights.com
 *.hoteles.com
@@ -4077,9 +4077,6 @@ stage-api.agrisync.com
 stage-app.agrisync.com
 stage-vhb.agrisync.com
 vnd.agrisync.com
-map.deere.com
-us-central-1.r4.abc.expertconnect.support
-us-central-1.r4.xyz.expertconnect.support
 johndeeretours.deere.com
 shop.deere.com
 stellarsupport.deere.com
@@ -4088,6 +4085,9 @@ machinereports.deere.com
 notifications.deere.com
 registration.deere.com
 rewards.deere.com
+map.deere.com
+us-central-1.r4.abc.expertconnect.support
+us-central-1.r4.xyz.expertconnect.support
 johndeereinnovation.com
 contest.deere.com
 jdquote2.deere.com
@@ -5975,9 +5975,9 @@ eu-aprms.omnipodapps.com
 www.poddercentral.com
 www.omnipod.com
 www.insulet.com
-affiliate-program.amazon.com
 track.amazon.com
 chat.amazon.com
+affiliate-program.amazon.com
 manufacturing.amazon.com
 apay-us.amazon.com
 api.amazon.com
@@ -6130,8 +6130,8 @@ stage.optifyr.com
 optifyr.com
 upload.picsart.com
 console.picsart.io
-relaxcdn.unibet.com
 unibet.me
+relaxcdn.unibet.com
 *.highrolling.nu
 *.unibet.fr
 *.kolikkopelit.com
@@ -7810,10 +7810,10 @@ developer.newrelic.com
 *.infrastructure-data.newrelic.com
 learn.newrelic.com
 rpm.newrelic.com
+*.nr-ops.net
 insights.newrelic.com
 *.blog.newrelic.com
 infrastructure.newrelic.com
-*.nr-ops.net
 *.nr-data.net
 one.newrelic.com
 *.newrelic.com
@@ -8201,11 +8201,11 @@ portswigger.net
 portswigger.net
 forum.portswigger.net
 https://enterprise-demo.portswigger.net/
-cart.starbucks.co.jp
 www.starbucksreserve.com
 www.starbucks.fr
 www.starbucks.co.uk
 www.starbucks.com.br
+cart.starbucks.co.jp
 card.starbucks.com.sg
 secureui.starbucks.com
 www.starbucks.de
@@ -8510,9 +8510,9 @@ linkpop.com
 shopifyinbox.com
 partners.shopify.com
 shopify.plus
+admin.shopify.com
 *.shopify.com
 accounts.shopify.com
-admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com

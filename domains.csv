@@ -40,8 +40,8 @@ brightspeed,brightspeed.service-now.com,False
 brightspeed,brightspeedtsm.service-now.com,False
 brightspeed,gobrightspeed.net,False
 palta,prismalabsteam.com,True
-palta,prisma-ai.com,True
 palta,lensa-ai.com,True
+palta,prisma-ai.com,True
 palta,appapi.neuralprisma.com,True
 palta,neuralprisma.com,True
 palta,neuralprisma.com,True
@@ -2259,8 +2259,8 @@ expediagroup,*.hoteis.com,False
 expediagroup,*.vrbo.com,False
 expediagroup,*.ean.com,False
 expediagroup,*.lastminute.co.nz,False
-expediagroup,*.orbitz.com,False
 expediagroup,*.expedia.com,False
+expediagroup,*.orbitz.com,False
 expediagroup,*.lastminute.com.au,False
 expediagroup,*.flights.com,False
 expediagroup,*.hoteles.com,False
@@ -4078,9 +4078,6 @@ john-deere,stage-api.agrisync.com,False
 john-deere,stage-app.agrisync.com,False
 john-deere,stage-vhb.agrisync.com,False
 john-deere,vnd.agrisync.com,False
-john-deere,map.deere.com,False
-john-deere,us-central-1.r4.abc.expertconnect.support,False
-john-deere,us-central-1.r4.xyz.expertconnect.support,False
 john-deere,johndeeretours.deere.com,False
 john-deere,shop.deere.com,False
 john-deere,stellarsupport.deere.com,False
@@ -4089,6 +4086,9 @@ john-deere,machinereports.deere.com,False
 john-deere,notifications.deere.com,False
 john-deere,registration.deere.com,False
 john-deere,rewards.deere.com,False
+john-deere,map.deere.com,False
+john-deere,us-central-1.r4.abc.expertconnect.support,False
+john-deere,us-central-1.r4.xyz.expertconnect.support,False
 john-deere,johndeereinnovation.com,False
 john-deere,contest.deere.com,False
 john-deere,jdquote2.deere.com,False
@@ -5976,9 +5976,9 @@ insulet_corporation,eu-aprms.omnipodapps.com,False
 insulet_corporation,www.poddercentral.com,False
 insulet_corporation,www.omnipod.com,False
 insulet_corporation,www.insulet.com,False
-amazonvrp,affiliate-program.amazon.com,True
 amazonvrp,track.amazon.com,True
 amazonvrp,chat.amazon.com,True
+amazonvrp,affiliate-program.amazon.com,True
 amazonvrp,manufacturing.amazon.com,True
 amazonvrp,apay-us.amazon.com,True
 amazonvrp,api.amazon.com,True
@@ -6131,8 +6131,8 @@ picsart,stage.optifyr.com,False
 picsart,optifyr.com,False
 picsart,upload.picsart.com,False
 picsart,console.picsart.io,False
-kindred_group,relaxcdn.unibet.com,False
 kindred_group,unibet.me,True
+kindred_group,relaxcdn.unibet.com,False
 kindred_group,*.highrolling.nu,True
 kindred_group,*.unibet.fr,True
 kindred_group,*.kolikkopelit.com,True
@@ -7811,10 +7811,10 @@ newrelic,developer.newrelic.com,True
 newrelic,*.infrastructure-data.newrelic.com,True
 newrelic,learn.newrelic.com,True
 newrelic,rpm.newrelic.com,True
+newrelic,*.nr-ops.net,True
 newrelic,insights.newrelic.com,True
 newrelic,*.blog.newrelic.com,True
 newrelic,infrastructure.newrelic.com,True
-newrelic,*.nr-ops.net,True
 newrelic,*.nr-data.net,True
 newrelic,one.newrelic.com,True
 newrelic,*.newrelic.com,True
@@ -8202,11 +8202,11 @@ portswigger,portswigger.net,True
 portswigger,portswigger.net,True
 portswigger,forum.portswigger.net,True
 portswigger,https://enterprise-demo.portswigger.net/,True
-starbucks,cart.starbucks.co.jp,True
 starbucks,www.starbucksreserve.com,True
 starbucks,www.starbucks.fr,True
 starbucks,www.starbucks.co.uk,True
 starbucks,www.starbucks.com.br,True
+starbucks,cart.starbucks.co.jp,True
 starbucks,card.starbucks.com.sg,True
 starbucks,secureui.starbucks.com,True
 starbucks,www.starbucks.de,True
@@ -8511,9 +8511,9 @@ shopify,*.shopifykloud.com,True
 shopify,shopifyinbox.com,True
 shopify,partners.shopify.com,True
 shopify,shopify.plus,True
+shopify,admin.shopify.com,True
 shopify,*.shopify.com,True
 shopify,accounts.shopify.com,True
-shopify,admin.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
 shopify,*.shopifycloud.com,True
