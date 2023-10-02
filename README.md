@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Oct  2 14:15:02 UTC 2023)
+## Domains with Bounties (Last Updated Mon Oct  2 15:16:10 UTC 2023)
 ```
 app.moderntreasury.com
 cdn.moderntreasury.com
@@ -469,9 +469,9 @@ work-staging.8x8.com
 user-profile-staging.8x8.com
 *.8x8.id
 *.chalet.8x8.com
-*.jit.si
 cloud8.8x8.com
 platform.8x8pilot.com
+*.jit.si
 platform.8x8.com
 voapi.8x8.com
 *.packet8.net
@@ -890,8 +890,8 @@ pgg11o.hubspot.databricks.com
 waf-test.corp.databricks.com
 docs.delta.io
 accounts.cloud.databricks.com
-staging.spark-summit.org
 databricks.com
+staging.spark-summit.org
 connect.databricks.com
 go.corp.databricks.com
 gw1-eu.corp.databricks.com
@@ -1273,9 +1273,9 @@ m.reddit.com
 sh.reddit.com
 *.snooguts.net
 *.redditinc.com
-s.reddit.com
 ads-api.reddit.com
 gateway.reddit.com
+s.reddit.com
 www.spiketrap.io
 *.reddit.com
 *.redditblog.com
@@ -1425,8 +1425,8 @@ hackers_chosendomain.larksuite.com
 *.exodus.io
 *.a.exodus.io
 *.exodus.com
-api.yoti.com
 www.yotisign.com
+api.yoti.com
 core.yoti.com
 ccloud.yoti.com
 code.yoti.com
@@ -1537,11 +1537,13 @@ ads.tiktok.com
 live-backstage.tiktok.com
 partner.tiktokshop.com
 tiktok.com
+www.pangleglobal.com
 careers.tiktok.com
-*.tiktokv.com
 business.tiktok.com
 creatormarketplace.tiktok.com
 *.tiktok.com
+*.tiktokv.com
+academy-outbound-ads.tiktok.com
 developers.tiktok.com
 shop.tiktok.com
 effecthouse.tiktok.com
@@ -1557,6 +1559,8 @@ effecthouse.tiktok.com
 partner.tiktokshop.com
 shop.tiktok.com
 live-backstage.tiktok.com
+academy-outbound-ads.tiktok.com
+www.pangleglobal.com
 www.logitech.com.cn
 www.logitechg.com
 circle.logi.com
@@ -1963,8 +1967,8 @@ unibet.me
 *.bingo.com
 maria.casino
 *.mariacasino.com
-*.unibet.com
 *.kindredext.net
+*.unibet.com
 *.storspiller.com
 *.casinohuone.com
 *.igame.com
@@ -2037,8 +2041,8 @@ www.goodrx.com
 www.goodrx.com
 *.rbx.com
 *.ra.roblox.com
-*.guilded.gg
 *.roblox.com
+*.guilded.gg
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -2131,10 +2135,10 @@ mgmt-sensors.iris.production.forescoutcloud.net
 obs-sensors.iris.production.forescoutcloud.net
 uk.forescout.cloud
 de.forescout.cloud
+updates.forescout.com
 datapod-1-druid-ingest.production.forescoutcloud.net
 datapod-2-ingest.acceptance.forescoutcloud.net
 community.forescout.com
-updates.forescout.com
 app.iris.acceptance.forescoutcloud.net
 obs-sensors.iris.acceptance.forescoutcloud.net
 streaming.iris.production.forescoutcloud.net
@@ -2687,10 +2691,10 @@ developer.newrelic.com
 *.infrastructure-data.newrelic.com
 learn.newrelic.com
 rpm.newrelic.com
+*.nr-ops.net
 insights.newrelic.com
 *.blog.newrelic.com
 infrastructure.newrelic.com
-*.nr-ops.net
 *.nr-data.net
 one.newrelic.com
 *.newrelic.com
@@ -3147,8 +3151,8 @@ design.gitlab.com
 advisories.gitlab.com
 docs.gitlab.com
 about.gitlab.com
-*.gitlab.org
 gitlab.com
+*.gitlab.org
 *.gitlab.net
 *.gitlab.org
 *.gitlap.com
@@ -3663,8 +3667,8 @@ hackerone.live
 connect-sandbox.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
-api-sandbox.gocardless.com
 *.gocardless-lab.io
+api-sandbox.gocardless.com
 pay-sandbox.gocardless.com
 xero-sandbox.gocardless.com
 oauth-sandbox.gocardless.com
