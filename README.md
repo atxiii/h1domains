@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Oct  5 09:14:04 UTC 2023)
+## Domains with Bounties (Last Updated Thu Oct  5 10:15:44 UTC 2023)
 ```
 pentesting2.gethypr.com
 *.hypr.com
@@ -1437,8 +1437,8 @@ hackers_chosendomain.larksuite.com
 *.exodus.io
 *.a.exodus.io
 *.exodus.com
-api.yoti.com
 www.yotisign.com
+api.yoti.com
 core.yoti.com
 ccloud.yoti.com
 code.yoti.com
@@ -2600,9 +2600,9 @@ goldmansachsindices.com
 *.vennhypotheken.nl
 *.nextcapital.com
 *.goldmansachs.com
+research.gs.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
-research.gs.com
 marquee.gs.com
 api.foliofn.com
 *.advisorsolutions.gs.com

@@ -85,7 +85,6 @@ pmp.shaya.com.tr
 *.americaneagle.com.bh
 *.americaneagle.com.kw
 *.westelm.com.kw
-*.victoriassecret.com.qa
 *.footlocker.com.eg
 *.debenhams.sa
 dev.alshaya.com
@@ -102,6 +101,7 @@ sa.hm.com
 *.mothercare.com.eg
 *.muji.qa
 card.starbucks.com.kz
+*.victoriassecret.com.qa
 boysweb.shaya.com.tr
 qt.boots.com
 sa.cosstores.com
@@ -124,10 +124,10 @@ sa.cosstores.com
 *.debenhams.ae
 *.bathandbodyworks.jo
 customercare.alshaya.com
-kuwait.kidzania.com
 *.shakeshack.co.uk
 *.potterybarnkids.ae
 kw.hm.com
+*.victoriassecret.pl
 *.shaya.com.tr
 *.starbucks.com.kz
 *.aloyoga.ae
@@ -2429,15 +2429,15 @@ resmed.ph
 resmed.nl
 resmed.no
 resmed.dk
+resmedshop.de
 provider.propellerhealth.biz
 patient.propellerhealth.biz
-resmedshop.de
 produktion.api.praxispad.de/
 referenzkunden.api.praxispad.de
 app.citushealth.com/
 app.medifox-therapie.de/
-resmed.jp
 resmed.fr
+resmed.jp
 resmed.co.in
 resmed.com.cn
 resmed.es
@@ -2943,8 +2943,8 @@ www.dolap.com
 *.skyhighsecurity.com
 *.sidefx.com
 *.sidefx.com
-*.tokensvc.com
 token.com
+*.tokensvc.com
 blog.token.com
 *.tokensvc.com
 token.com
@@ -2986,8 +2986,8 @@ www.cafepress.com
 www.simplytoimpress.com
 iseeme.com
 *.gifts.com
-www.canvasworld.com
 *.photoaffections.com
+www.canvasworld.com
 www.gifts.com
 *.iseeme.com
 *.cafepress.com
@@ -3378,8 +3378,8 @@ api.redislabs.com
 *.costcotravel.com
 *.costcotravel.ca
 missionebonta.fattorieosella.it
-createatreat.com
 mueller.milka.de
+createatreat.com
 philadelphia.gr
 oreoitalia.it
 oreo.ru
@@ -3419,8 +3419,8 @@ cadburyworld.co.uk
 saboresconjuego.es
 ejackson.co.uk
 oboy.fi
-sourpatchkids.com
 pt.cocoalife.org
+sourpatchkids.com
 greenandblacks.co.uk
 opavia.info
 perfectsnacks.com
@@ -4092,6 +4092,9 @@ stage-api.agrisync.com
 stage-app.agrisync.com
 stage-vhb.agrisync.com
 vnd.agrisync.com
+map.deere.com
+us-central-1.r4.abc.expertconnect.support
+us-central-1.r4.xyz.expertconnect.support
 johndeeretours.deere.com
 shop.deere.com
 stellarsupport.deere.com
@@ -4100,9 +4103,6 @@ machinereports.deere.com
 notifications.deere.com
 registration.deere.com
 rewards.deere.com
-map.deere.com
-us-central-1.r4.abc.expertconnect.support
-us-central-1.r4.xyz.expertconnect.support
 johndeereinnovation.com
 contest.deere.com
 parts.deere.africa
@@ -4511,8 +4511,8 @@ reflexisinc.com/
 *.zebrasports.com
 *.profitect.com
 cmm01.sl.zebra.com
-supportcommunity.zebra.com
 zsbsupport.zebra.com
+supportcommunity.zebra.com
 zebratradeinprogram.com
 docs.zebra.com
 design.zebra.com
@@ -5371,8 +5371,8 @@ notification.billing.appservices.mendix.com
 *.exodus.io
 *.a.exodus.io
 *.exodus.com
-api.yoti.com
 www.yotisign.com
+api.yoti.com
 core.yoti.com
 ccloud.yoti.com
 code.yoti.com
@@ -6148,8 +6148,8 @@ stage.optifyr.com
 optifyr.com
 upload.picsart.com
 console.picsart.io
-relaxcdn.unibet.com
 unibet.me
+relaxcdn.unibet.com
 *.highrolling.nu
 *.kolikkopelit.com
 *.bingo.com
@@ -6416,8 +6416,8 @@ get8x8.com
 *.thinkingphones.com
 *.8x8cloud.net
 connect.8x8.com
-*.8x8.com
 admin.8x8.com
+*.8x8.com
 *.fuze.com
 *.thinkingphones.net
 sms.8x8.com
@@ -7719,9 +7719,9 @@ goldmansachsindices.com
 *.vennhypotheken.nl
 *.nextcapital.com
 *.goldmansachs.com
+research.gs.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
-research.gs.com
 marquee.gs.com
 api.foliofn.com
 *.advisorsolutions.gs.com
@@ -8647,7 +8647,6 @@ community.adobe.com
 exchange.adobe.com
 licenses.adobe.com
 mobilemarketing.adobe.com
-theblog.adobe.com
 repo.magento.com
 stream.frame.io
 nicetryapril.na1.echosignsandbox.com
@@ -8656,6 +8655,7 @@ accounts.frame.io
 magento.com
 *.adobe.com
 app.frame.io
+theblog.adobe.com
 *.tt.omtrdc.net
 *.omniture.com
 *.typekit.com
