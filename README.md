@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Oct  5 13:19:31 UTC 2023)
+## Domains with Bounties (Last Updated Thu Oct  5 14:14:39 UTC 2023)
 ```
 pentesting2.gethypr.com
 *.hypr.com
@@ -586,14 +586,14 @@ www.abritel.fr
 www.expediagroup.com
 www.travelocity.com
 www.ebookers.com
-www.flights.com
 www.vrbo.com
+www.flights.com
 www.lastminute.co.nz
 www.lastminute.com.au
 www.cheaptickets.com
 www.fewo-direkt.de
-www.expedia.com
 www.bookabach.co.nz
+www.expedia.com
 www.travelocity.ca
 www.carrentals.com
 www.expediapartnercentral.com
@@ -2600,9 +2600,9 @@ goldmansachsindices.com
 *.vennhypotheken.nl
 *.nextcapital.com
 *.goldmansachs.com
+research.gs.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
-research.gs.com
 marquee.gs.com
 api.foliofn.com
 *.advisorsolutions.gs.com
@@ -3163,8 +3163,8 @@ design.gitlab.com
 advisories.gitlab.com
 docs.gitlab.com
 about.gitlab.com
-gitlab.com
 *.gitlab.org
+gitlab.com
 *.gitlab.net
 *.gitlab.org
 *.gitlap.com
@@ -3287,8 +3287,8 @@ yourcompany.udemy.com
 arrive-server.shopifycloud.com
 your-store.myshopify.com
 *.shopifycloud.com
-linkpop.com
 shop.app
+linkpop.com
 *.shopifykloud.com
 shopifyinbox.com
 partners.shopify.com
@@ -3947,15 +3947,15 @@ federalist.18f.gov
 login.fr.cloud.gov
 api.fr.cloud.gov
 api.data.gov
+tock.18f.gov
+*.code.gov
+marketplace.fedramp.gov
+*.search.gov
 ssh.fr.cloud.gov
 ci.fr.cloud.gov
 logs.fr.cloud.gov
 federation.data.gov
 inventory.data.gov
-tock.18f.gov
-*.code.gov
-marketplace.fedramp.gov
-*.search.gov
 logs-platform.fr.cloud.gov
 nessus.fr.cloud.gov
 www.fedramp.gov
