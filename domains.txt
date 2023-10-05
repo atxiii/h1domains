@@ -4510,9 +4510,9 @@ reflexisinc.com/
 *.zams.zebra.com
 *.zebrasports.com
 *.profitect.com
+supportcommunity.zebra.com
 cmm01.sl.zebra.com
 zsbsupport.zebra.com
-supportcommunity.zebra.com
 zebratradeinprogram.com
 docs.zebra.com
 design.zebra.com
@@ -5371,8 +5371,8 @@ notification.billing.appservices.mendix.com
 *.exodus.io
 *.a.exodus.io
 *.exodus.com
-api.yoti.com
 www.yotisign.com
+api.yoti.com
 core.yoti.com
 ccloud.yoti.com
 code.yoti.com
@@ -5438,9 +5438,9 @@ secure.sharefile.com
 ap-s.cloud.com
 accounts-internal.cloud.com
 adm.cloud.com
+secure.sharefile.eu
 (yoursubdomain).eu.iws.cloud.com
 (youriwssubdomain).cloud.com
-secure.sharefile.eu
 launch.cloud.com
 api.adm.cloud.com
 sf-rp.sharefile.com
@@ -6416,8 +6416,8 @@ get8x8.com
 *.thinkingphones.com
 *.8x8cloud.net
 connect.8x8.com
-*.8x8.com
 admin.8x8.com
+*.8x8.com
 *.fuze.com
 *.thinkingphones.net
 sms.8x8.com
@@ -6523,7 +6523,6 @@ mtnfastmail.com
 mtnmena.com
 mtnholdingsptyltd.net
 mtnatwork.com
-mtndeveloper.com
 mtnbanking.net
 mtnhomeland.com
 mtnrank.com
@@ -7003,8 +7002,6 @@ vroid.com
 payment.pixiv.net
 neoket.net
 novel.pixiv.net
-www.amitree.com
-www.amitree.com
 datapod-1-100-druid-ingest.development.forescoutcloud.net
 a360f0bcc63ca11ea92550aeac091f3d-1101372245.us-east-1.elb.amazonaws.com
 datapod-1-100-druid-query.production.forescoutcloud.net
@@ -7719,9 +7716,9 @@ goldmansachsindices.com
 *.vennhypotheken.nl
 *.nextcapital.com
 *.goldmansachs.com
+research.gs.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
-research.gs.com
 marquee.gs.com
 api.foliofn.com
 *.advisorsolutions.gs.com
@@ -7827,10 +7824,10 @@ developer.newrelic.com
 *.infrastructure-data.newrelic.com
 learn.newrelic.com
 rpm.newrelic.com
-*.nr-ops.net
 insights.newrelic.com
 *.blog.newrelic.com
 infrastructure.newrelic.com
+*.nr-ops.net
 *.nr-data.net
 *.newrelic.com
 one.newrelic.com
@@ -8771,8 +8768,8 @@ next.airbnb.com
 *.byairbnb.com
 *.muscache.com
 *.hoteltonight-test.com
-www.hoteltonight.com
 *.airbnb.com
+www.hoteltonight.com
 api.airbnb.com
 assets.airbnb.com
 open.airbnb.com
@@ -9228,7 +9225,6 @@ ns1.jimdo.com
 ns12.jimdo.com
 *.jimdo.systems
 *.jimdosite.com
-cms.jimdo.com
 cms.e.jimdo.com
 business-profile-service.jimdosite.com
 ns2.jimdo.com
@@ -9236,6 +9232,7 @@ jimdo.design
 *.jimdo-stable-staging.com
 *.jimdo-data-platform.net
 *.jimdo-dev-staging.com
+cms.jimdo.com
 ns11.jimdo.com
 logo.e.jimdo.com
 *.jimdofree.com
@@ -9395,6 +9392,8 @@ app.copper.com
 www.copper.com
 *.spell.run
 *.spell.run
+www.amitree.com
+www.amitree.com
 *.kartpay.com
 *.kartpay.com
 https://github.com/evolveum/midpoint

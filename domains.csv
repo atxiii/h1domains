@@ -1,5 +1,4 @@
 handle,domain,eligible_for_bounty
-blueapron,www.blueaapron.com,True
 blueapron,www.blueapron.com,False
 blueapron,https://blog.blueapron.com/,False
 blueapron,www.blueapron.com,False
@@ -4512,9 +4511,9 @@ zebra_vdp,reflexisinc.com/,False
 zebra_vdp,*.zams.zebra.com,False
 zebra_vdp,*.zebrasports.com,False
 zebra_vdp,*.profitect.com,False
+zebra_vdp,supportcommunity.zebra.com,False
 zebra_vdp,cmm01.sl.zebra.com,False
 zebra_vdp,zsbsupport.zebra.com,False
-zebra_vdp,supportcommunity.zebra.com,False
 zebra_vdp,zebratradeinprogram.com,False
 zebra_vdp,docs.zebra.com,False
 zebra_vdp,design.zebra.com,False
@@ -5373,8 +5372,8 @@ exodus,*.a.exodus.io,True
 exodus,*.exodus.io,True
 exodus,*.a.exodus.io,True
 exodus,*.exodus.com,True
-yoti,api.yoti.com,True
 yoti,www.yotisign.com,True
+yoti,api.yoti.com,True
 yoti,core.yoti.com,True
 yoti,ccloud.yoti.com,True
 yoti,code.yoti.com,True
@@ -5440,9 +5439,9 @@ citrix,(yoursubdomain).sf-api.com,True
 citrix,ap-s.cloud.com,True
 citrix,accounts-internal.cloud.com,True
 citrix,adm.cloud.com,True
+citrix,secure.sharefile.eu,True
 citrix,(yoursubdomain).eu.iws.cloud.com,True
 citrix,(youriwssubdomain).cloud.com,True
-citrix,secure.sharefile.eu,True
 citrix,launch.cloud.com,True
 citrix,api.adm.cloud.com,True
 citrix,sf-rp.sharefile.com,True
@@ -6418,8 +6417,8 @@ kubernetes,kubernetes-csi.github.io,True
 8x8,*.thinkingphones.com,False
 8x8,*.8x8cloud.net,False
 8x8,connect.8x8.com,False
-8x8,*.8x8.com,False
 8x8,admin.8x8.com,False
+8x8,*.8x8.com,False
 8x8,*.fuze.com,False
 8x8,*.thinkingphones.net,False
 8x8,sms.8x8.com,False
@@ -6525,7 +6524,6 @@ mtn_group,mtnfastmail.com,False
 mtn_group,mtnmena.com,False
 mtn_group,mtnholdingsptyltd.net,False
 mtn_group,mtnatwork.com,False
-mtn_group,mtndeveloper.com,False
 mtn_group,mtnbanking.net,False
 mtn_group,mtnhomeland.com,False
 mtn_group,mtnrank.com,False
@@ -7005,8 +7003,6 @@ pixiv,vroid.com,True
 pixiv,payment.pixiv.net,True
 pixiv,neoket.net,True
 pixiv,novel.pixiv.net,True
-amitree_inc,www.amitree.com,False
-amitree_inc,www.amitree.com,False
 forescout_technologies,datapod-1-100-druid-ingest.development.forescoutcloud.net,True
 forescout_technologies,a360f0bcc63ca11ea92550aeac091f3d-1101372245.us-east-1.elb.amazonaws.com,True
 forescout_technologies,datapod-1-100-druid-query.production.forescoutcloud.net,True
@@ -7721,9 +7717,9 @@ goldmansachs,*.foliodigitalwealth.com,True
 goldmansachs,*.vennhypotheken.nl,True
 goldmansachs,*.nextcapital.com,True
 goldmansachs,*.goldmansachs.com,True
+goldmansachs,research.gs.com,True
 goldmansachs,*.gs-mosaic.qa.gs.com,True
 goldmansachs,*.qaglobal-liquidity.gs.com,True
-goldmansachs,research.gs.com,True
 goldmansachs,marquee.gs.com,True
 goldmansachs,api.foliofn.com,True
 goldmansachs,*.advisorsolutions.gs.com,True
@@ -7829,10 +7825,10 @@ newrelic,developer.newrelic.com,True
 newrelic,*.infrastructure-data.newrelic.com,True
 newrelic,learn.newrelic.com,True
 newrelic,rpm.newrelic.com,True
-newrelic,*.nr-ops.net,True
 newrelic,insights.newrelic.com,True
 newrelic,*.blog.newrelic.com,True
 newrelic,infrastructure.newrelic.com,True
+newrelic,*.nr-ops.net,True
 newrelic,*.nr-data.net,True
 newrelic,*.newrelic.com,True
 newrelic,one.newrelic.com,True
@@ -8773,8 +8769,8 @@ airbnb,*.airbnbcitizen.com,True
 airbnb,*.byairbnb.com,True
 airbnb,*.muscache.com,True
 airbnb,*.hoteltonight-test.com,True
-airbnb,www.hoteltonight.com,True
 airbnb,*.airbnb.com,True
+airbnb,www.hoteltonight.com,True
 airbnb,api.airbnb.com,True
 airbnb,assets.airbnb.com,True
 airbnb,open.airbnb.com,True
@@ -9230,7 +9226,6 @@ jimdo,ns1.jimdo.com,False
 jimdo,ns12.jimdo.com,False
 jimdo,*.jimdo.systems,False
 jimdo,*.jimdosite.com,False
-jimdo,cms.jimdo.com,False
 jimdo,cms.e.jimdo.com,False
 jimdo,business-profile-service.jimdosite.com,False
 jimdo,ns2.jimdo.com,False
@@ -9238,6 +9233,7 @@ jimdo,jimdo.design,False
 jimdo,*.jimdo-stable-staging.com,False
 jimdo,*.jimdo-data-platform.net,False
 jimdo,*.jimdo-dev-staging.com,False
+jimdo,cms.jimdo.com,False
 jimdo,ns11.jimdo.com,False
 jimdo,logo.e.jimdo.com,False
 jimdo,*.jimdofree.com,False
@@ -9397,6 +9393,8 @@ copper,app.copper.com,False
 copper,www.copper.com,False
 spell,*.spell.run,False
 spell,*.spell.run,False
+amitree_inc,www.amitree.com,False
+amitree_inc,www.amitree.com,False
 kartpay,*.kartpay.com,False
 kartpay,*.kartpay.com,False
 midpoint_h1c,https://github.com/evolveum/midpoint,True
