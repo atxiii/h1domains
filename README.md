@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Oct  6 05:13:48 UTC 2023)
+## Domains with Bounties (Last Updated Fri Oct  6 06:16:39 UTC 2023)
 ```
 pentesting2.gethypr.com
 *.hypr.com
@@ -29,8 +29,8 @@ https://api-test.nicex.com
 https://api-test.nicehash.com
 test.nicex.com
 prismalabsteam.com
-prisma-ai.com
 lensa-ai.com
+prisma-ai.com
 appapi.neuralprisma.com
 neuralprisma.com
 neuralprisma.com
@@ -275,10 +275,10 @@ sync.services.mozilla.com
 push.services.mozilla.com
 bugzilla.mozilla.org
 hg.mozilla.org
+contile.services.mozilla.com
 shavar.services.mozilla.com
 lando.services.mozilla.com
 aus5.mozilla.org
-contile.services.mozilla.com
 addons.allizom.org
 crash-reports.allizom.org
 mozilla-pontoon-staging.herokuapp.com
@@ -1273,11 +1273,11 @@ www.urbancompany.com
 www.urbancompany.com
 www.urbanclap.com
 api.reddit.com
-*.redditmedia.com
 app.spiketrap.io
 old.reddit.com
 gql.reddit.com
 ads.reddit.com
+*.redditmedia.com
 new.reddit.com
 meta-api.reddit.com
 strapi.reddit.com
@@ -1437,8 +1437,8 @@ hackers_chosendomain.larksuite.com
 *.exodus.io
 *.a.exodus.io
 *.exodus.com
-www.yotisign.com
 api.yoti.com
+www.yotisign.com
 core.yoti.com
 ccloud.yoti.com
 code.yoti.com
@@ -1503,9 +1503,9 @@ secure.sharefile.com
 ap-s.cloud.com
 accounts-internal.cloud.com
 adm.cloud.com
+secure.sharefile.eu
 (yoursubdomain).eu.iws.cloud.com
 (youriwssubdomain).cloud.com
-secure.sharefile.eu
 launch.cloud.com
 api.adm.cloud.com
 sf-rp.sharefile.com
@@ -2600,9 +2600,9 @@ goldmansachsindices.com
 *.vennhypotheken.nl
 *.nextcapital.com
 *.goldmansachs.com
-research.gs.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
+research.gs.com
 marquee.gs.com
 api.foliofn.com
 *.advisorsolutions.gs.com
@@ -3030,11 +3030,11 @@ portswigger.net
 portswigger.net
 forum.portswigger.net
 https://enterprise-demo.portswigger.net/
-cart.starbucks.co.jp
 www.starbucksreserve.com
 www.starbucks.fr
 www.starbucks.co.uk
 www.starbucks.com.br
+cart.starbucks.co.jp
 card.starbucks.com.sg
 secureui.starbucks.com
 www.starbucks.de
@@ -3294,8 +3294,8 @@ shopifyinbox.com
 partners.shopify.com
 shopify.plus
 *.shopify.com
-admin.shopify.com
 accounts.shopify.com
+admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -3418,9 +3418,9 @@ next.airbnb.com
 *.airbnbcitizen.com
 *.byairbnb.com
 *.muscache.com
-*.hoteltonight-test.com
 www.hoteltonight.com
 *.airbnb.com
+*.hoteltonight-test.com
 api.airbnb.com
 assets.airbnb.com
 open.airbnb.com
@@ -3847,8 +3847,8 @@ fhir.dev.lifeomic.com
 https://github.com/evolveum/midpoint
 vault.omise.co
 link.omise.co
-www.opn.ooo
 dashboard.omise.co
+www.opn.ooo
 dashboard2.omise.co
 linksplus-dashboard.omise.co
 api.omise.co
