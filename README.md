@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Oct  7 19:12:06 UTC 2023)
+## Domains with Bounties (Last Updated Sat Oct  7 20:12:43 UTC 2023)
 ```
 pentesting2.gethypr.com
 *.hypr.com
@@ -582,8 +582,8 @@ www.hotwirepartnercentral.com
 www.expediapartnersolutions.com
 www.expediaagents.com
 www.abritel.fr
-www.hotels.com
 www.expediagroup.com
+www.hotels.com
 www.travelocity.com
 www.ebookers.com
 www.vrbo.com
@@ -592,8 +592,8 @@ www.lastminute.co.nz
 www.lastminute.com.au
 www.cheaptickets.com
 www.fewo-direkt.de
-www.bookabach.co.nz
 www.expedia.com
+www.bookabach.co.nz
 www.travelocity.ca
 www.carrentals.com
 www.expediapartnercentral.com
@@ -1285,8 +1285,8 @@ m.reddit.com
 sh.reddit.com
 *.redditinc.com
 *.snooguts.net
-ads-api.reddit.com
 s.reddit.com
+ads-api.reddit.com
 www.spiketrap.io
 *.reddit.com
 gateway.reddit.com
@@ -2618,9 +2618,9 @@ goldmansachsindices.com
 *.vennhypotheken.nl
 *.goldmansachs.com
 *.nextcapital.com
+research.gs.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
-research.gs.com
 marquee.gs.com
 api.foliofn.com
 *.advisorsolutions.gs.com
@@ -3518,8 +3518,8 @@ interseller.io
 app.interseller.io
 www.greenhouse.io
 *.vine.co
-*.twitter.com
 x.com
+*.twitter.com
 *.twimg.com
 gnip.com
 *.twitter.com
@@ -3648,8 +3648,8 @@ onepush.query.yahoo.com
 proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
-api.hackerone.com
 hackerone-user-content.com
+api.hackerone.com
 hackerone.com
 www.wearehackerone.com
 mta-sts.wearehackerone.com
@@ -3947,15 +3947,15 @@ federalist.18f.gov
 login.fr.cloud.gov
 api.fr.cloud.gov
 api.data.gov
+tock.18f.gov
+*.code.gov
+marketplace.fedramp.gov
+*.search.gov
 ssh.fr.cloud.gov
 ci.fr.cloud.gov
 logs.fr.cloud.gov
 federation.data.gov
 inventory.data.gov
-tock.18f.gov
-*.code.gov
-marketplace.fedramp.gov
-*.search.gov
 logs-platform.fr.cloud.gov
 nessus.fr.cloud.gov
 www.fedramp.gov
