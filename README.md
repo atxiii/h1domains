@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Oct  7 12:20:17 UTC 2023)
+## Domains with Bounties (Last Updated Sat Oct  7 13:13:53 UTC 2023)
 ```
 pentesting2.gethypr.com
 *.hypr.com
@@ -29,8 +29,8 @@ https://api-test.nicex.com
 https://api-test.nicehash.com
 test.nicex.com
 prismalabsteam.com
-lensa-ai.com
 prisma-ai.com
+lensa-ai.com
 appapi.neuralprisma.com
 neuralprisma.com
 neuralprisma.com
@@ -473,9 +473,9 @@ http://www.kiwi.com/stories
 jobs.kiwi.com
 work.8x8.com
 *.jitsi.net
-connect.8x8.com
 *.8x8.vc
 sso.8x8.com
+connect.8x8.com
 uc.8x8pilot.com
 work-staging.8x8.com
 user-profile-staging.8x8.com
@@ -582,8 +582,8 @@ www.hotwirepartnercentral.com
 www.expediapartnersolutions.com
 www.expediaagents.com
 www.abritel.fr
-www.hotels.com
 www.expediagroup.com
+www.hotels.com
 www.travelocity.com
 www.ebookers.com
 www.vrbo.com
@@ -646,8 +646,8 @@ zerobounce.net
 *.gravitational.co
 *.teleport.dev
 askpam.ai
-*.teleportinfra.sh
 cloud.gravitational.io
+*.teleportinfra.sh
 teleport.sh
 *.gravitational.io
 h1-your-domain.teleport.sh
@@ -1285,9 +1285,9 @@ m.reddit.com
 sh.reddit.com
 *.redditinc.com
 *.snooguts.net
-s.reddit.com
 ads-api.reddit.com
 gateway.reddit.com
+s.reddit.com
 www.spiketrap.io
 *.reddit.com
 *.redditblog.com
@@ -2147,10 +2147,10 @@ mgmt-sensors.iris.production.forescoutcloud.net
 obs-sensors.iris.production.forescoutcloud.net
 uk.forescout.cloud
 de.forescout.cloud
-updates.forescout.com
 datapod-1-druid-ingest.production.forescoutcloud.net
 datapod-2-ingest.acceptance.forescoutcloud.net
 community.forescout.com
+updates.forescout.com
 app.iris.acceptance.forescoutcloud.net
 obs-sensors.iris.acceptance.forescoutcloud.net
 streaming.iris.production.forescoutcloud.net
@@ -2511,9 +2511,9 @@ api.loanbuilder.com
 loanbuilder.com
 prequal.swiftfinancial.com
 decision.swiftfinancial.com
-paypalobjects.com
 *.paypalcorp.com
 *.braintreegateway.com
+paypalobjects.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -2618,9 +2618,9 @@ goldmansachsindices.com
 *.vennhypotheken.nl
 *.goldmansachs.com
 *.nextcapital.com
+research.gs.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
-research.gs.com
 marquee.gs.com
 api.foliofn.com
 *.advisorsolutions.gs.com
@@ -2721,10 +2721,10 @@ developer.newrelic.com
 *.infrastructure-data.newrelic.com
 learn.newrelic.com
 rpm.newrelic.com
+*.nr-ops.net
 insights.newrelic.com
 *.blog.newrelic.com
 infrastructure.newrelic.com
-*.nr-ops.net
 *.nr-data.net
 one.newrelic.com
 *.newrelic.com
@@ -3004,11 +3004,11 @@ gutenberg.run
 rockstarnorth.com
 *.rockstargames.com
 circolocorecords.com/
-socialclub.rockstargames.com
 lifeinvader.com
 support.rockstargames.com
 store.rockstargames.com
 prod.ros.rockstargames.com
+socialclub.rockstargames.com
 socialclub.rockstargames.com
 prod.ros.rockstargames.com
 support.rockstargames.com
@@ -3947,15 +3947,15 @@ federalist.18f.gov
 login.fr.cloud.gov
 api.fr.cloud.gov
 api.data.gov
-tock.18f.gov
-*.code.gov
-marketplace.fedramp.gov
-*.search.gov
 ssh.fr.cloud.gov
 ci.fr.cloud.gov
 logs.fr.cloud.gov
 federation.data.gov
 inventory.data.gov
+tock.18f.gov
+*.code.gov
+marketplace.fedramp.gov
+*.search.gov
 logs-platform.fr.cloud.gov
 nessus.fr.cloud.gov
 www.fedramp.gov
