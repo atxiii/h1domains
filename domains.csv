@@ -56,8 +56,8 @@ brightspeed,brightspeed.service-now.com,False
 brightspeed,brightspeedtsm.service-now.com,False
 brightspeed,gobrightspeed.net,False
 palta,prismalabsteam.com,True
-palta,prisma-ai.com,True
 palta,lensa-ai.com,True
+palta,prisma-ai.com,True
 palta,appapi.neuralprisma.com,True
 palta,neuralprisma.com,True
 palta,neuralprisma.com,True
@@ -101,8 +101,8 @@ alshaya,*.thebodyshop.com.kw,False
 alshaya,*.mothercare.com.eg,False
 alshaya,*.muji.qa,False
 alshaya,card.starbucks.com.kz,False
-alshaya,*.victoriassecret.com.qa,False
 alshaya,*.footlocker.com.eg,False
+alshaya,*.victoriassecret.com.qa,False
 alshaya,boysweb.shaya.com.tr,False
 alshaya,qt.boots.com,False
 alshaya,sa.cosstores.com,False
@@ -2223,8 +2223,8 @@ expediagroup_bbp,www.hotwirepartnercentral.com,True
 expediagroup_bbp,www.expediapartnersolutions.com,True
 expediagroup_bbp,www.expediaagents.com,True
 expediagroup_bbp,www.abritel.fr,True
-expediagroup_bbp,www.expediagroup.com,True
 expediagroup_bbp,www.hotels.com,True
+expediagroup_bbp,www.expediagroup.com,True
 expediagroup_bbp,www.travelocity.com,True
 expediagroup_bbp,www.ebookers.com,True
 expediagroup_bbp,www.vrbo.com,True
@@ -2233,8 +2233,8 @@ expediagroup_bbp,www.lastminute.co.nz,True
 expediagroup_bbp,www.lastminute.com.au,True
 expediagroup_bbp,www.cheaptickets.com,True
 expediagroup_bbp,www.fewo-direkt.de,True
-expediagroup_bbp,www.bookabach.co.nz,True
 expediagroup_bbp,www.expedia.com,True
+expediagroup_bbp,www.bookabach.co.nz,True
 expediagroup_bbp,www.travelocity.ca,True
 expediagroup_bbp,www.carrentals.com,True
 expediagroup_bbp,www.expediapartnercentral.com,True
@@ -2372,8 +2372,8 @@ teleport,*.gravitational.com,True
 teleport,*.gravitational.co,True
 teleport,*.teleport.dev,True
 teleport,askpam.ai,True
-teleport,cloud.gravitational.io,True
 teleport,*.teleportinfra.sh,True
+teleport,cloud.gravitational.io,True
 teleport,teleport.sh,True
 teleport,*.gravitational.io,True
 teleport,h1-your-domain.teleport.sh,True
@@ -4099,9 +4099,6 @@ john-deere,stage-api.agrisync.com,False
 john-deere,stage-app.agrisync.com,False
 john-deere,stage-vhb.agrisync.com,False
 john-deere,vnd.agrisync.com,False
-john-deere,map.deere.com,False
-john-deere,us-central-1.r4.abc.expertconnect.support,False
-john-deere,us-central-1.r4.xyz.expertconnect.support,False
 john-deere,johndeeretours.deere.com,False
 john-deere,shop.deere.com,False
 john-deere,stellarsupport.deere.com,False
@@ -4110,6 +4107,9 @@ john-deere,machinereports.deere.com,False
 john-deere,notifications.deere.com,False
 john-deere,registration.deere.com,False
 john-deere,rewards.deere.com,False
+john-deere,map.deere.com,False
+john-deere,us-central-1.r4.abc.expertconnect.support,False
+john-deere,us-central-1.r4.xyz.expertconnect.support,False
 john-deere,johndeereinnovation.com,False
 john-deere,contest.deere.com,False
 john-deere,parts.deere.africa,False
@@ -5452,9 +5452,9 @@ citrix,(yoursubdomain).sf-api.com,True
 citrix,ap-s.cloud.com,True
 citrix,accounts-internal.cloud.com,True
 citrix,adm.cloud.com,True
-citrix,secure.sharefile.eu,True
 citrix,(yoursubdomain).eu.iws.cloud.com,True
 citrix,(youriwssubdomain).cloud.com,True
+citrix,secure.sharefile.eu,True
 citrix,launch.cloud.com,True
 citrix,api.adm.cloud.com,True
 citrix,sf-rp.sharefile.com,True
@@ -6043,9 +6043,9 @@ amazonvrp,https://www.amazonpay.in/*,True
 amazonvrp,https://www.amazon.in/wealth/*,True
 amazonvrp,https://amazonpay.amazon.in/*,True
 alibaba,*.tmall.com,True
-alibaba,www.alibabagroup.com,True
 alibaba,*.alibabacloud.com,True
 alibaba,*.alibaba.com,True
+alibaba,www.alibabagroup.com,True
 alibaba,*.aliexpress.ru,True
 alibaba,*.alibaba-inc.com,True
 alibaba,*.aliyun-inc.com,True
@@ -7749,9 +7749,9 @@ goldmansachs,*.foliodigitalwealth.com,True
 goldmansachs,*.vennhypotheken.nl,True
 goldmansachs,*.goldmansachs.com,True
 goldmansachs,*.nextcapital.com,True
-goldmansachs,research.gs.com,True
 goldmansachs,*.gs-mosaic.qa.gs.com,True
 goldmansachs,*.qaglobal-liquidity.gs.com,True
+goldmansachs,research.gs.com,True
 goldmansachs,marquee.gs.com,True
 goldmansachs,api.foliofn.com,True
 goldmansachs,*.advisorsolutions.gs.com,True
@@ -7857,10 +7857,10 @@ newrelic,developer.newrelic.com,True
 newrelic,*.infrastructure-data.newrelic.com,True
 newrelic,learn.newrelic.com,True
 newrelic,rpm.newrelic.com,True
-newrelic,*.nr-ops.net,True
 newrelic,insights.newrelic.com,True
 newrelic,*.blog.newrelic.com,True
 newrelic,infrastructure.newrelic.com,True
+newrelic,*.nr-ops.net,True
 newrelic,*.nr-data.net,True
 newrelic,one.newrelic.com,True
 newrelic,*.newrelic.com,True
@@ -8887,8 +8887,8 @@ greenhouse,app.interseller.io,True
 greenhouse,www.greenhouse.io,True
 x,twitterflightschool.com,False
 x,*.vine.co,True
-x,x.com,True
 x,*.twitter.com,True
+x,x.com,True
 x,t.co,False
 x,*.twimg.com,True
 x,gnip.com,True
@@ -9023,8 +9023,8 @@ yahoo,proddata.xobni.yahoo.com,True
 yahoo,apis.mail.yahoo.com,True
 yahoo,yimg.com,True
 security,api.hackerone.com,True
-security,hackerone.com,True
 security,hackerone-user-content.com,True
+security,hackerone.com,True
 security,www.wearehackerone.com,True
 security,mta-sts.wearehackerone.com,True
 security,hackathon-photos-us-east-2.hackerone-user-content.com,True
