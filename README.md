@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Oct  9 03:14:38 UTC 2023)
+## Domains with Bounties (Last Updated Mon Oct  9 04:16:28 UTC 2023)
 ```
 pentesting2.gethypr.com
 *.hypr.com
@@ -67,10 +67,10 @@ help.redoxengine.com
 10x.redoxengine.com
 docs.redoxengine.com
 api.gamma.redoxstage.com
-evening-earth.gamma.redoxstage.com
 gamma.redoxstage.com
 sftp.gamma.redoxstage.com
 explore.redoxengine.com
+evening-earth.gamma.redoxstage.com
 app.gamma.redoxstage.com
 10x.redoxengine.com
 testapp.redoxengine.com
@@ -814,8 +814,8 @@ sts.etoro.com
 watchlistapi.etoro.com
 delta.app
 push-demo-lightstreamer.cloud.etoro.com
-www.etoro.com
 push-d-hap.cloud.etoro.com
+www.etoro.com
 aggregator.etoro.com
 cashier.etoro.com
 cashier-src.etoro.com
@@ -2618,9 +2618,9 @@ goldmansachsindices.com
 *.vennhypotheken.nl
 *.goldmansachs.com
 *.nextcapital.com
-research.gs.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
+research.gs.com
 marquee.gs.com
 api.foliofn.com
 *.advisorsolutions.gs.com
@@ -3947,15 +3947,15 @@ federalist.18f.gov
 login.fr.cloud.gov
 api.fr.cloud.gov
 api.data.gov
+tock.18f.gov
+*.code.gov
+marketplace.fedramp.gov
+*.search.gov
 ssh.fr.cloud.gov
 ci.fr.cloud.gov
 logs.fr.cloud.gov
 federation.data.gov
 inventory.data.gov
-tock.18f.gov
-*.code.gov
-marketplace.fedramp.gov
-*.search.gov
 logs-platform.fr.cloud.gov
 nessus.fr.cloud.gov
 www.fedramp.gov
