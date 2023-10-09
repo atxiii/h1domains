@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Oct  9 18:17:12 UTC 2023)
+## Domains with Bounties (Last Updated Mon Oct  9 19:12:49 UTC 2023)
 ```
 pentesting2.gethypr.com
 *.hypr.com
@@ -275,10 +275,10 @@ sync.services.mozilla.com
 push.services.mozilla.com
 bugzilla.mozilla.org
 hg.mozilla.org
-contile.services.mozilla.com
 shavar.services.mozilla.com
 lando.services.mozilla.com
 aus5.mozilla.org
+contile.services.mozilla.com
 addons.allizom.org
 crash-reports.allizom.org
 mozilla-pontoon-staging.herokuapp.com
@@ -646,8 +646,8 @@ zerobounce.net
 *.gravitational.co
 *.teleport.dev
 askpam.ai
-cloud.gravitational.io
 *.teleportinfra.sh
+cloud.gravitational.io
 teleport.sh
 *.gravitational.io
 h1-your-domain.teleport.sh
@@ -980,8 +980,8 @@ opensea.io
 pro.opensea.io
 analytics.krisp.ai
 upld.krisp.ai
-account.krisp.ai
 *.krisp.ai
+account.krisp.ai
 teams.krisp.ai
 api.krisp.ai
 download.krisp.ai
@@ -1285,8 +1285,8 @@ m.reddit.com
 sh.reddit.com
 *.redditinc.com
 *.snooguts.net
-ads-api.reddit.com
 s.reddit.com
+ads-api.reddit.com
 www.spiketrap.io
 *.reddit.com
 gateway.reddit.com
@@ -1503,9 +1503,9 @@ secure.sharefile.com
 ap-s.cloud.com
 accounts-internal.cloud.com
 adm.cloud.com
+secure.sharefile.eu
 (yoursubdomain).eu.iws.cloud.com
 (youriwssubdomain).cloud.com
-secure.sharefile.eu
 launch.cloud.com
 api.adm.cloud.com
 sf-rp.sharefile.com
@@ -2145,10 +2145,10 @@ mgmt-sensors.iris.production.forescoutcloud.net
 obs-sensors.iris.production.forescoutcloud.net
 uk.forescout.cloud
 de.forescout.cloud
-updates.forescout.com
 datapod-1-druid-ingest.production.forescoutcloud.net
 datapod-2-ingest.acceptance.forescoutcloud.net
 community.forescout.com
+updates.forescout.com
 app.iris.acceptance.forescoutcloud.net
 obs-sensors.iris.acceptance.forescoutcloud.net
 streaming.iris.production.forescoutcloud.net
@@ -2570,6 +2570,7 @@ api-staging.airtable.com
 *.staging.airtable.com
 staging.airtable.com
 api-staging.airtable.com
+https://staging.airtable.com/admin
 shop.shipt.com
 staging-api.shipt.com
 admin.shipt.com
@@ -2616,9 +2617,9 @@ goldmansachsindices.com
 *.vennhypotheken.nl
 *.goldmansachs.com
 *.nextcapital.com
+research.gs.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
-research.gs.com
 marquee.gs.com
 api.foliofn.com
 *.advisorsolutions.gs.com
@@ -2719,10 +2720,10 @@ developer.newrelic.com
 *.infrastructure-data.newrelic.com
 learn.newrelic.com
 rpm.newrelic.com
-*.nr-ops.net
 insights.newrelic.com
 *.blog.newrelic.com
 infrastructure.newrelic.com
+*.nr-ops.net
 *.nr-data.net
 one.newrelic.com
 *.newrelic.com
@@ -3046,11 +3047,11 @@ portswigger.net
 portswigger.net
 forum.portswigger.net
 https://enterprise-demo.portswigger.net/
-cart.starbucks.co.jp
 www.starbucksreserve.com
 www.starbucks.fr
 www.starbucks.co.uk
 www.starbucks.com.br
+cart.starbucks.co.jp
 card.starbucks.com.sg
 secureui.starbucks.com
 www.starbucks.de
@@ -3467,8 +3468,8 @@ api.vimeo.com
 vimeo.magisto.com
 *.magisto.com
 *.livestream.com
-api.vhx.tv
 vhx.tv
+api.vhx.tv
 *.new.livestream.com
 checkout.vimeo.com
 staging.magisto.com
@@ -3663,11 +3664,11 @@ reviewer.pullrequest.com
 www.hackerone.com
 ctf.hacker101.com
 profile-photos-us-east-2.hackerone-user-content.com
-hackerone.live
 app.pullrequest.com
 cover-photos.hackerone-user-content.com
 errors.hackerone.net
 b5s.hackerone-ext-content.com
+hackerone.live
 hackerone.com
 api.hackerone.com
 www.hackerone.com
