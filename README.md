@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Oct 10 16:16:01 UTC 2023)
+## Domains with Bounties (Last Updated Tue Oct 10 17:13:54 UTC 2023)
 ```
 www.compass.com
 www.compass.com
@@ -303,10 +303,10 @@ sync.services.mozilla.com
 push.services.mozilla.com
 bugzilla.mozilla.org
 hg.mozilla.org
-contile.services.mozilla.com
 shavar.services.mozilla.com
 lando.services.mozilla.com
 aus5.mozilla.org
+contile.services.mozilla.com
 addons.allizom.org
 crash-reports.allizom.org
 mozilla-pontoon-staging.herokuapp.com
@@ -501,9 +501,9 @@ http://www.kiwi.com/stories
 jobs.kiwi.com
 work.8x8.com
 *.jitsi.net
-sso.8x8.com
-connect.8x8.com
 *.8x8.vc
+connect.8x8.com
+sso.8x8.com
 uc.8x8pilot.com
 work-staging.8x8.com
 user-profile-staging.8x8.com
@@ -673,8 +673,8 @@ zerobounce.net
 *.gravitational.com
 *.gravitational.co
 askpam.ai
-*.teleportinfra.sh
 cloud.gravitational.io
+*.teleportinfra.sh
 *.teleport.dev
 teleport.sh
 *.gravitational.io
@@ -2329,12 +2329,12 @@ res.marival.globalbookingsolutions.com
 res.vacations.discoverycove.com
 vacations.universalstudioshollywood.com
 vacations.us.palladiumhotelgroup.com
-res.sunscaperesorts.com
-res.vacations.buschgardens.com
-book.beachbound.com
 book.booktandl.com
 res.blueskytours.globalbookingsolutions.com
 reservations.wynnvacations.com
+res.sunscaperesorts.com
+res.vacations.buschgardens.com
+book.beachbound.com
 res.universalorlandovacations.com
 www.wynnvacations.com
 confluence.hyattdev.com
@@ -2358,14 +2358,14 @@ upsell.hyatt.com
 res.skyteam.com
 res.vacations.seaworld.com
 www.beachbound.com
-media.triseptsolutions.com
-shop.wyndhamvacationownership.trisept.travel
-vacations.outrigger.com
-vacations.united.com
 res.breathlessresorts.com
 holidays-hk.fijiairways.com
 vacations.velasvallarta.com
 www.blueskytours.com
+media.triseptsolutions.com
+shop.wyndhamvacationownership.trisept.travel
+vacations.outrigger.com
+vacations.united.com
 assets.hyatt.com
 book.extraholidaysvacations.com
 world.hyatt.com
@@ -2750,10 +2750,10 @@ developer.newrelic.com
 *.infrastructure-data.newrelic.com
 learn.newrelic.com
 rpm.newrelic.com
-*.nr-ops.net
 insights.newrelic.com
 *.blog.newrelic.com
 infrastructure.newrelic.com
+*.nr-ops.net
 *.nr-data.net
 one.newrelic.com
 *.newrelic.com
@@ -3036,8 +3036,8 @@ circolocorecords.com/
 lifeinvader.com
 support.rockstargames.com
 store.rockstargames.com
-prod.ros.rockstargames.com
 socialclub.rockstargames.com
+prod.ros.rockstargames.com
 socialclub.rockstargames.com
 prod.ros.rockstargames.com
 support.rockstargames.com
@@ -3077,11 +3077,11 @@ portswigger.net
 portswigger.net
 forum.portswigger.net
 https://enterprise-demo.portswigger.net/
+cart.starbucks.co.jp
 www.starbucksreserve.com
 www.starbucks.fr
 www.starbucks.co.uk
 www.starbucks.com.br
-cart.starbucks.co.jp
 card.starbucks.com.sg
 secureui.starbucks.com
 www.starbucks.de
@@ -3341,8 +3341,8 @@ shopifyinbox.com
 partners.shopify.com
 shopify.plus
 admin.shopify.com
-accounts.shopify.com
 *.shopify.com
+accounts.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
