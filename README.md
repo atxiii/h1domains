@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Oct  9 23:14:19 UTC 2023)
+## Domains with Bounties (Last Updated Tue Oct 10 00:44:45 UTC 2023)
 ```
 pentesting2.gethypr.com
 *.hypr.com
@@ -305,15 +305,15 @@ phabricator.allizom.org
 support.mozilla.org
 hg.mozilla.org
 relay.firefox.com
-stage.taskcluster.nonprod.cloudops.mozgcp.net
 getpocket.com
+stage.taskcluster.nonprod.cloudops.mozgcp.net
 monitor.firefox.com
 developer.mozilla.org
 www.mozilla.org
 profiler.firefox.com
 community-tc.services.mozilla.com
-api.profiler.firefox.com
 vpn.mozilla.org
+api.profiler.firefox.com
 developer.mozilla.org
 profiler.firefox.com
 vpn.mozilla.org
@@ -473,9 +473,9 @@ http://www.kiwi.com/stories
 jobs.kiwi.com
 work.8x8.com
 *.jitsi.net
-sso.8x8.com
-connect.8x8.com
 *.8x8.vc
+connect.8x8.com
+sso.8x8.com
 uc.8x8pilot.com
 work-staging.8x8.com
 user-profile-staging.8x8.com
@@ -1195,9 +1195,9 @@ rubygems.org
 rubygems.org
 trufflesuite.com
 staking-uat.codefi.network
-activate.codefi.network
 consensys.net
 on-ramp.metaswap-dev.codefi.network
+activate.codefi.network
 staking.codefi.network
 bridge.codefi.network
 webhooks-api-experimental.codefi.network
@@ -1437,8 +1437,8 @@ hackers_chosendomain.larksuite.com
 *.exodus.io
 *.a.exodus.io
 *.exodus.com
-api.yoti.com
 www.yotisign.com
+api.yoti.com
 core.yoti.com
 ccloud.yoti.com
 code.yoti.com
@@ -1554,8 +1554,8 @@ careers.tiktok.com
 creatormarketplace.tiktok.com
 academy-outbound-ads.tiktok.com
 business.tiktok.com
-*.tiktokv.com
 *.tiktok.com
+*.tiktokv.com
 developers.tiktok.com
 shop.tiktok.com
 effecthouse.tiktok.com
@@ -2145,10 +2145,10 @@ mgmt-sensors.iris.production.forescoutcloud.net
 obs-sensors.iris.production.forescoutcloud.net
 uk.forescout.cloud
 de.forescout.cloud
-updates.forescout.com
 datapod-1-druid-ingest.production.forescoutcloud.net
 datapod-2-ingest.acceptance.forescoutcloud.net
 community.forescout.com
+updates.forescout.com
 app.iris.acceptance.forescoutcloud.net
 obs-sensors.iris.acceptance.forescoutcloud.net
 streaming.iris.production.forescoutcloud.net
@@ -2720,10 +2720,10 @@ developer.newrelic.com
 *.infrastructure-data.newrelic.com
 learn.newrelic.com
 rpm.newrelic.com
-*.nr-ops.net
 insights.newrelic.com
 *.blog.newrelic.com
 infrastructure.newrelic.com
+*.nr-ops.net
 *.nr-data.net
 one.newrelic.com
 *.newrelic.com
@@ -3150,9 +3150,9 @@ classroom.github.com
 *.github.net
 education.github.com
 npmjs.org
-github.com
 gist.github.com
 *.githubusercontent.com
+github.com
 github.com
 api.github.com
 gist.github.com
@@ -3648,8 +3648,8 @@ proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
 hackerone-user-content.com
-hackerone.com
 api.hackerone.com
+hackerone.com
 www.wearehackerone.com
 mta-sts.wearehackerone.com
 hackathon-photos-us-east-2.hackerone-user-content.com
