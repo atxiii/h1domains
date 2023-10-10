@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Oct 10 14:13:38 UTC 2023)
+## Domains with Bounties (Last Updated Tue Oct 10 15:15:30 UTC 2023)
 ```
 www.compass.com
 www.compass.com
@@ -501,9 +501,9 @@ http://www.kiwi.com/stories
 jobs.kiwi.com
 work.8x8.com
 *.jitsi.net
-*.8x8.vc
-connect.8x8.com
 sso.8x8.com
+connect.8x8.com
+*.8x8.vc
 uc.8x8pilot.com
 work-staging.8x8.com
 user-profile-staging.8x8.com
@@ -606,12 +606,12 @@ dookeydash.com
 hv-mtl.com
 www.mrjet.se
 www.hotwirepartnercentral.com
-www.expediapartnersolutions.com
 www.expediaagents.com
 www.hotels.com
 www.expediagroup.com
 www.abritel.fr
 www.orbitz.com
+www.expediapartnersolutions.com
 www.travelocity.com
 www.vrbo.com
 www.flights.com
@@ -1459,8 +1459,8 @@ hackers_chosendomain.larksuite.com
 *.exodus.io
 *.a.exodus.io
 *.exodus.com
-api.yoti.com
 www.yotisign.com
+api.yoti.com
 core.yoti.com
 ccloud.yoti.com
 code.yoti.com
@@ -1618,8 +1618,8 @@ meetiobook.com
 www.logicool.co.jp
 logitechg.com.cn
 gaming.logicool.co.jp
-www.figma.com
 api.figma.com
+www.figma.com
 www.figma.com
 api.figma.com
 wiki.cs.money
@@ -1662,25 +1662,33 @@ helpcenter.affirm.ca
 hackerone.affirm-odin.com
 helpcenter.affirm.ca
 helpcenter.affirm.com
+www10.watsons.com.hk
+www.iciparisxl.lu
 app.marionnaud.hu
 www.marionnaud.ro
-www10.watsons.com.tw
-www10.watsons.com.ph
-www10.watsons.com.hk
 www20.watsons.co.th
-www.watsons.co.id
-www.iciparisxl.lu
-mapi-sim.fortress.com.hk
-www.marionnaud.fr
+www10.watsons.com.tw
 www.watsons.com.ph
+www.watsons.co.id
+www10.watsons.com.ph
+mapi-sim.fortress.com.hk
 www.watsons.com.tr
+www.marionnaud.fr
 www.kruidvat.be
+api.watsons.com.hk
+www.kruidvat.nl
+www.pns.hk
+www.theperfumeshop.com
+api.iciparisxl.lu
 app.marionnaud.cz
 app.marionnaud.it
 app.marionnaud.ro
 www.marionnaud.sk
 www10.watsons.com.my
-api.watsons.com.hk
+api.watsons.com.tw
+www.watsons.com.tw
+api.watsons.co.id
+api.watsons.com.ph
 app.watsons.com.tr
 www.superdrug.com
 www.kruidvat.nl
@@ -2001,8 +2009,8 @@ unibet.me
 *.bingo.com
 maria.casino
 *.mariacasino.com
-*.unibet.com
 *.kindredext.net
+*.unibet.com
 *.storspiller.com
 *.casinohuone.com
 *.ottokasino.com
@@ -2167,10 +2175,10 @@ mgmt-sensors.iris.production.forescoutcloud.net
 obs-sensors.iris.production.forescoutcloud.net
 uk.forescout.cloud
 de.forescout.cloud
+updates.forescout.com
 datapod-1-druid-ingest.production.forescoutcloud.net
 datapod-2-ingest.acceptance.forescoutcloud.net
 community.forescout.com
-updates.forescout.com
 app.iris.acceptance.forescoutcloud.net
 obs-sensors.iris.acceptance.forescoutcloud.net
 streaming.iris.production.forescoutcloud.net
@@ -2742,10 +2750,10 @@ developer.newrelic.com
 *.infrastructure-data.newrelic.com
 learn.newrelic.com
 rpm.newrelic.com
-*.nr-ops.net
 insights.newrelic.com
 *.blog.newrelic.com
 infrastructure.newrelic.com
+*.nr-ops.net
 *.nr-data.net
 one.newrelic.com
 *.newrelic.com
@@ -3069,11 +3077,11 @@ portswigger.net
 portswigger.net
 forum.portswigger.net
 https://enterprise-demo.portswigger.net/
+cart.starbucks.co.jp
 www.starbucksreserve.com
 www.starbucks.fr
 www.starbucks.co.uk
 www.starbucks.com.br
-cart.starbucks.co.jp
 card.starbucks.com.sg
 secureui.starbucks.com
 www.starbucks.de
@@ -3331,9 +3339,9 @@ linkpop.com
 *.shopifykloud.com
 shopifyinbox.com
 partners.shopify.com
-admin.shopify.com
 *.shopify.com
 shopify.plus
+admin.shopify.com
 accounts.shopify.com
 *.shopify.com
 *.shopifykloud.com
@@ -3452,8 +3460,8 @@ support-api.airbnb.com
 omgpro.airbnb.com
 *.atairbnb.com
 one.airbnb.com
-*.withairbnb.com
 next.airbnb.com
+*.withairbnb.com
 *.airbnbcitizen.com
 *.byairbnb.com
 *.muscache.com
