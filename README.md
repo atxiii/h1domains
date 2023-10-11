@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Oct 11 08:19:39 UTC 2023)
+## Domains with Bounties (Last Updated Wed Oct 11 09:16:05 UTC 2023)
 ```
 www.compass.com
 www.compass.com
@@ -609,9 +609,9 @@ www.hotels.com
 www.expediagroup.com
 www.abritel.fr
 www.orbitz.com
-www.hotwirepartnercentral.com
 www.expediapartnersolutions.com
 www.expediaagents.com
+www.hotwirepartnercentral.com
 www.travelocity.com
 www.vrbo.com
 www.flights.com
@@ -1308,8 +1308,8 @@ m.reddit.com
 sh.reddit.com
 *.redditinc.com
 *.snooguts.net
-s.reddit.com
 ads-api.reddit.com
+s.reddit.com
 www.spiketrap.io
 gateway.reddit.com
 *.reddit.com
@@ -1457,8 +1457,8 @@ hackers_chosendomain.larksuite.com
 *.exodus.io
 *.a.exodus.io
 *.exodus.com
-api.yoti.com
 www.yotisign.com
+api.yoti.com
 core.yoti.com
 ccloud.yoti.com
 code.yoti.com
@@ -1523,9 +1523,9 @@ secure.sharefile.com
 ap-s.cloud.com
 accounts-internal.cloud.com
 adm.cloud.com
-secure.sharefile.eu
 (yoursubdomain).eu.iws.cloud.com
 (youriwssubdomain).cloud.com
+secure.sharefile.eu
 launch.cloud.com
 api.adm.cloud.com
 sf-rp.sharefile.com
@@ -1660,7 +1660,6 @@ helpcenter.affirm.ca
 hackerone.affirm-odin.com
 helpcenter.affirm.ca
 helpcenter.affirm.com
-www10.watsons.com.hk
 www.iciparisxl.lu
 app.marionnaud.hu
 www.marionnaud.ro
@@ -1672,7 +1671,7 @@ www10.watsons.com.ph
 mapi-sim.fortress.com.hk
 www.watsons.com.tr
 www.marionnaud.fr
-www.kruidvat.be
+www10.watsons.com.hk
 www.kruidvat.nl
 www.pns.hk
 api.iciparisxl.lu
@@ -1680,7 +1679,6 @@ app.marionnaud.cz
 app.marionnaud.it
 app.marionnaud.ro
 www.marionnaud.sk
-www10.watsons.com.my
 api.watsons.com.tw
 www.watsons.com.tw
 api.watsons.co.id
@@ -1754,6 +1752,7 @@ api.iciparisxl.be
 api.iciparisxl.lu
 api.iciparisxl.nl
 blog.watsons.com.tr
+https://www.kruidvat.nl/fotoservice
 chat.clario.co
 dl.clario.co
 event.clario.co
@@ -1986,8 +1985,8 @@ api.magic.link
 dashboard.fortmatic.com
 api.fortmatic.com
 fortmatic.com
-dashboard.magic.link
 auth.magic.link
+dashboard.magic.link
 x2.fortmatic.com
 careers.fortmatic.com
 api.fortmatic.com
@@ -2640,9 +2639,9 @@ goldmansachsindices.com
 *.finlife.com
 *.finlifepartners.com
 *.foliodigitalwealth.com
-*.vennhypotheken.nl
 *.goldmansachs.com
 *.nextcapital.com
+*.vennhypotheken.nl
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
 research.gs.com
@@ -3956,15 +3955,15 @@ federalist.18f.gov
 login.fr.cloud.gov
 api.fr.cloud.gov
 api.data.gov
+tock.18f.gov
+*.code.gov
+marketplace.fedramp.gov
+*.search.gov
 ssh.fr.cloud.gov
 ci.fr.cloud.gov
 logs.fr.cloud.gov
 federation.data.gov
 inventory.data.gov
-tock.18f.gov
-*.code.gov
-marketplace.fedramp.gov
-*.search.gov
 logs-platform.fr.cloud.gov
 nessus.fr.cloud.gov
 www.fedramp.gov
