@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Oct 11 16:17:44 UTC 2023)
+## Domains with Bounties (Last Updated Wed Oct 11 17:14:32 UTC 2023)
 ```
 www.compass.com
 www.compass.com
@@ -501,9 +501,9 @@ http://www.kiwi.com/stories
 jobs.kiwi.com
 work.8x8.com
 *.jitsi.net
-*.8x8.vc
-connect.8x8.com
 sso.8x8.com
+connect.8x8.com
+*.8x8.vc
 uc.8x8pilot.com
 work-staging.8x8.com
 user-profile-staging.8x8.com
@@ -673,8 +673,8 @@ zerobounce.net
 *.gravitational.com
 *.gravitational.co
 askpam.ai
-*.teleportinfra.sh
 cloud.gravitational.io
+*.teleportinfra.sh
 *.teleport.dev
 teleport.sh
 *.gravitational.io
@@ -1308,8 +1308,8 @@ m.reddit.com
 sh.reddit.com
 *.redditinc.com
 *.snooguts.net
-ads-api.reddit.com
 s.reddit.com
+ads-api.reddit.com
 www.spiketrap.io
 gateway.reddit.com
 *.reddit.com
@@ -1457,8 +1457,8 @@ hackers_chosendomain.larksuite.com
 *.exodus.io
 *.a.exodus.io
 *.exodus.com
-api.yoti.com
 www.yotisign.com
+api.yoti.com
 core.yoti.com
 ccloud.yoti.com
 code.yoti.com
@@ -2639,9 +2639,9 @@ goldmansachsindices.com
 *.finlife.com
 *.finlifepartners.com
 *.foliodigitalwealth.com
-*.goldmansachs.com
 *.nextcapital.com
 *.vennhypotheken.nl
+*.goldmansachs.com
 research.gs.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
@@ -2937,8 +2937,8 @@ bma.badoo.com
 badoocdn.com
 heyfiesta.com
 ccardseu1.badoo.com
-badoo.com
 www.bumble.com
+badoo.com
 mus1.badoo.com
 translate.badoo.com
 www.bumble.com
@@ -3072,11 +3072,11 @@ portswigger.net
 portswigger.net
 forum.portswigger.net
 https://enterprise-demo.portswigger.net/
-cart.starbucks.co.jp
 www.starbucksreserve.com
 www.starbucks.fr
 www.starbucks.co.uk
 www.starbucks.com.br
+cart.starbucks.co.jp
 card.starbucks.com.sg
 secureui.starbucks.com
 www.starbucks.de
@@ -3955,15 +3955,15 @@ federalist.18f.gov
 login.fr.cloud.gov
 api.fr.cloud.gov
 api.data.gov
-tock.18f.gov
-*.code.gov
-marketplace.fedramp.gov
-*.search.gov
 ssh.fr.cloud.gov
 ci.fr.cloud.gov
 logs.fr.cloud.gov
 federation.data.gov
 inventory.data.gov
+tock.18f.gov
+*.code.gov
+marketplace.fedramp.gov
+*.search.gov
 logs-platform.fr.cloud.gov
 nessus.fr.cloud.gov
 www.fedramp.gov
