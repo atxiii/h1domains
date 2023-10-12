@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Oct 12 14:14:49 UTC 2023)
+## Domains with Bounties (Last Updated Thu Oct 12 15:13:58 UTC 2023)
 ```
 www.compass.com
 www.compass.com
@@ -10,8 +10,8 @@ pentesting2.gethypr.com
 *.hypr.com
 pentesting3.gethypr.com
 pentesting.gethypr.com
-hypr74352.gethypr.com
 hypr37448.gethypr.com
+hypr74352.gethypr.com
 *.hypr.com
 pentesting.gethypr.com
 pentesting3.gethypr.com
@@ -48,8 +48,9 @@ connect-sandbox.gocardless.com
 api-sandbox.gocardless.com
 pay-sandbox.gocardless.com
 xero-sandbox.gocardless.com
+ob.gocardless.com
 oauth-sandbox.gocardless.com
-*.gocardless.com
+bankaccountdata.gocardless.com
 *.gocardless-staging.io
 *.gocardless-cicd.io
 manage-sandbox.gocardless.com
@@ -57,7 +58,6 @@ www.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
 *.gocardless-cicd.io
-*.gocardless.com
 *.gocardless-staging.io
 *.gocardless-lab.io
 manage-sandbox.gocardless.com
@@ -67,6 +67,8 @@ connect-sandbox.gocardless.com
 www.gocardless.com
 oauth-sandbox.gocardless.com
 xero-sandbox.gocardless.com
+bankaccountdata.gocardless.com
+ob.gocardless.com
 rei.com
 rei.com
 http://rei.com/rei-garage
@@ -501,9 +503,9 @@ http://www.kiwi.com/stories
 jobs.kiwi.com
 work.8x8.com
 *.jitsi.net
-sso.8x8.com
-connect.8x8.com
 *.8x8.vc
+connect.8x8.com
+sso.8x8.com
 uc.8x8pilot.com
 work-staging.8x8.com
 user-profile-staging.8x8.com
@@ -1523,9 +1525,9 @@ secure.sharefile.com
 ap-s.cloud.com
 accounts-internal.cloud.com
 adm.cloud.com
-secure.sharefile.eu
 (yoursubdomain).eu.iws.cloud.com
 (youriwssubdomain).cloud.com
+secure.sharefile.eu
 launch.cloud.com
 api.adm.cloud.com
 sf-rp.sharefile.com
@@ -1573,9 +1575,9 @@ www.pangleglobal.com
 careers.tiktok.com
 creatormarketplace.tiktok.com
 academy-outbound-ads.tiktok.com
-*.tiktokv.com
-*.tiktok.com
 business.tiktok.com
+*.tiktok.com
+*.tiktokv.com
 developers.tiktok.com
 shop.tiktok.com
 effecthouse.tiktok.com
@@ -2170,10 +2172,10 @@ mgmt-sensors.iris.production.forescoutcloud.net
 obs-sensors.iris.production.forescoutcloud.net
 uk.forescout.cloud
 de.forescout.cloud
-updates.forescout.com
 datapod-1-druid-ingest.production.forescoutcloud.net
 datapod-2-ingest.acceptance.forescoutcloud.net
 community.forescout.com
+updates.forescout.com
 app.iris.acceptance.forescoutcloud.net
 obs-sensors.iris.acceptance.forescoutcloud.net
 streaming.iris.production.forescoutcloud.net
@@ -2642,9 +2644,9 @@ goldmansachsindices.com
 *.nextcapital.com
 *.vennhypotheken.nl
 *.goldmansachs.com
+research.gs.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
-research.gs.com
 marquee.gs.com
 api.foliofn.com
 *.advisorsolutions.gs.com
