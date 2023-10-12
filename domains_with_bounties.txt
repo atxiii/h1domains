@@ -297,10 +297,10 @@ sync.services.mozilla.com
 push.services.mozilla.com
 bugzilla.mozilla.org
 hg.mozilla.org
+contile.services.mozilla.com
 shavar.services.mozilla.com
 lando.services.mozilla.com
 aus5.mozilla.org
-contile.services.mozilla.com
 addons.allizom.org
 crash-reports.allizom.org
 mozilla-pontoon-staging.herokuapp.com
@@ -601,11 +601,11 @@ hv-mtl.com
 www.mrjet.se
 www.hotels.com
 www.expediagroup.com
-www.abritel.fr
 www.orbitz.com
 www.expediapartnersolutions.com
 www.hotwirepartnercentral.com
 www.expediaagents.com
+www.abritel.fr
 www.travelocity.com
 www.vrbo.com
 www.ebookers.com
@@ -1302,8 +1302,8 @@ m.reddit.com
 sh.reddit.com
 *.redditinc.com
 *.snooguts.net
-s.reddit.com
 ads-api.reddit.com
+s.reddit.com
 www.spiketrap.io
 gateway.reddit.com
 *.reddit.com
@@ -3667,8 +3667,8 @@ proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
 hackerone-user-content.com
-hackerone.com
 api.hackerone.com
+hackerone.com
 www.wearehackerone.com
 mta-sts.wearehackerone.com
 hackathon-photos-us-east-2.hackerone-user-content.com
