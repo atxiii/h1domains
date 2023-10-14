@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Oct 14 05:13:26 UTC 2023)
+## Domains with Bounties (Last Updated Sat Oct 14 06:16:27 UTC 2023)
 ```
 www.compass.com
 www.compass.com
@@ -300,10 +300,10 @@ merino.services.mozilla.com
 sync.services.mozilla.com
 push.services.mozilla.com
 bugzilla.mozilla.org
+contile.services.mozilla.com
 shavar.services.mozilla.com
 lando.services.mozilla.com
 aus5.mozilla.org
-contile.services.mozilla.com
 addons.allizom.org
 hg.mozilla.org
 crash-reports.allizom.org
@@ -550,8 +550,8 @@ pay.8x8.com
 admin.8x8.com
 *.magicjackpot.ro
 *.luckydays.com
-*.superbet.ro
 *.superbet.com
+*.superbet.ro
 *.luckydays.ca
 *.spinaway.com
 *.superbet.rs
@@ -2462,8 +2462,8 @@ service.tvg.com
 www.4njbets.com
 fanduel.design
 com.fanduel.android.live
-login.tvg.com
 pabets.tvg.com
+login.tvg.com
 fdbox.net
 sportsbook.fanduel.com
 ia.tvg.com
@@ -3668,8 +3668,8 @@ proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
 hackerone-user-content.com
-hackerone.com
 api.hackerone.com
+hackerone.com
 mta-sts.wearehackerone.com
 www.wearehackerone.com
 hackathon-photos-us-east-2.hackerone-user-content.com
