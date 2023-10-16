@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Oct 16 12:21:51 UTC 2023)
+## Domains with Bounties (Last Updated Mon Oct 16 13:18:00 UTC 2023)
 ```
 www.compass.com
 www.compass.com
@@ -1304,8 +1304,8 @@ m.reddit.com
 sh.reddit.com
 *.redditinc.com
 *.snooguts.net
-ads-api.reddit.com
 s.reddit.com
+ads-api.reddit.com
 www.spiketrap.io
 gateway.reddit.com
 *.reddit.com
@@ -1517,9 +1517,9 @@ secure.sharefile.com
 ap-s.cloud.com
 accounts-internal.cloud.com
 adm.cloud.com
+secure.sharefile.eu
 (yoursubdomain).eu.iws.cloud.com
 (youriwssubdomain).cloud.com
-secure.sharefile.eu
 launch.cloud.com
 api.adm.cloud.com
 sf-rp.sharefile.com
@@ -1946,8 +1946,8 @@ www.alibabagroup.com
 *.aliyun-inc.com
 *.aliyun.com
 *.1688.com
-*.Daraz.com
 *.aliexpress.com
+*.Daraz.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -2635,9 +2635,9 @@ goldmansachsindices.com
 *.nextcapital.com
 *.vennhypotheken.nl
 *.goldmansachs.com
-research.gs.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
+research.gs.com
 marquee.gs.com
 api.foliofn.com
 *.advisorsolutions.gs.com
@@ -3065,11 +3065,11 @@ portswigger.net
 portswigger.net
 forum.portswigger.net
 https://enterprise-demo.portswigger.net/
-cart.starbucks.co.jp
 www.starbucksreserve.com
 www.starbucks.fr
 www.starbucks.co.uk
 www.starbucks.com.br
+cart.starbucks.co.jp
 card.starbucks.com.sg
 secureui.starbucks.com
 www.starbucks.de
@@ -3679,8 +3679,8 @@ profile-photos.hackerone-user-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 reviewer.pullrequest.com
 hackerone-ext-content.com
-ctf.hacker101.com
 www.hackerone.com
+ctf.hacker101.com
 profile-photos-us-east-2.hackerone-user-content.com
 hackerone.live
 app.pullrequest.com
