@@ -119,7 +119,6 @@ dev.alshaya.com
 devimages.alshaya.com
 suppliertraining.alshaya.com
 kw.boots.com
-*.starbuckscardtr.com
 *.aloyoga.com.kw
 bakimonarim.shaya.com.tr
 kw.shopjustice.me
@@ -132,6 +131,7 @@ card.starbucks.com.kz
 *.bathandbodyworks.com.kw
 *.alshayaenterprises.com
 *.victoriassecret.com.qa
+*.starbuckscardtr.com
 boysweb.shaya.com.tr
 sa.cosstores.com
 *.aloyoga.ae
@@ -2402,8 +2402,8 @@ zerobounce.net
 *.gravitational.com
 *.gravitational.co
 askpam.ai
-*.teleportinfra.sh
 cloud.gravitational.io
+*.teleportinfra.sh
 *.teleport.dev
 teleport.sh
 *.gravitational.io
@@ -2466,15 +2466,15 @@ resmed.ph
 resmed.nl
 resmed.no
 resmed.dk
+resmedshop.de
 provider.propellerhealth.biz
 patient.propellerhealth.biz
-resmedshop.de
 produktion.api.praxispad.de/
 referenzkunden.api.praxispad.de
 app.citushealth.com/
 app.medifox-therapie.de/
-resmed.jp
 resmed.fr
+resmed.jp
 account.resmed.com
 resmed.com.cn
 resmed.es
@@ -3418,8 +3418,8 @@ api.redislabs.com
 *.costcotravel.com
 *.costcotravel.ca
 missionebonta.fattorieosella.it
-createatreat.com
 mueller.milka.de
+createatreat.com
 philadelphia.gr
 oreoitalia.it
 oreo.ru
@@ -3460,8 +3460,8 @@ cadburyworld.co.uk
 saboresconjuego.es
 ejackson.co.uk
 oboy.fi
-sourpatchkids.com
 pt.cocoalife.org
+sourpatchkids.com
 greenandblacks.co.uk
 opavia.info
 perfectsnacks.com
@@ -4153,9 +4153,6 @@ stage-api.agrisync.com
 stage-app.agrisync.com
 stage-vhb.agrisync.com
 vnd.agrisync.com
-map.deere.com
-us-central-1.r4.abc.expertconnect.support
-us-central-1.r4.xyz.expertconnect.support
 johndeeretours.deere.com
 shop.deere.com
 stellarsupport.deere.com
@@ -4164,6 +4161,9 @@ machinereports.deere.com
 notifications.deere.com
 registration.deere.com
 rewards.deere.com
+map.deere.com
+us-central-1.r4.abc.expertconnect.support
+us-central-1.r4.xyz.expertconnect.support
 johndeereinnovation.com
 contest.deere.com
 parts.deere.africa
@@ -6311,8 +6311,8 @@ stage.optifyr.com
 optifyr.com
 upload.picsart.com
 console.picsart.io
-unibet.me
 relaxcdn.unibet.com
+unibet.me
 *.highrolling.nu
 *.kolikkopelit.com
 *.bingo.com
@@ -8004,10 +8004,10 @@ developer.newrelic.com
 *.infrastructure-data.newrelic.com
 learn.newrelic.com
 rpm.newrelic.com
+*.nr-ops.net
 insights.newrelic.com
 *.blog.newrelic.com
 infrastructure.newrelic.com
-*.nr-ops.net
 *.nr-data.net
 one.newrelic.com
 *.newrelic.com

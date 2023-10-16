@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Oct 16 01:52:02 UTC 2023)
+## Domains with Bounties (Last Updated Mon Oct 16 02:24:27 UTC 2023)
 ```
 www.compass.com
 www.compass.com
@@ -671,8 +671,8 @@ zerobounce.net
 *.gravitational.com
 *.gravitational.co
 askpam.ai
-*.teleportinfra.sh
 cloud.gravitational.io
+*.teleportinfra.sh
 *.teleport.dev
 teleport.sh
 *.gravitational.io
@@ -2740,10 +2740,10 @@ developer.newrelic.com
 *.infrastructure-data.newrelic.com
 learn.newrelic.com
 rpm.newrelic.com
+*.nr-ops.net
 insights.newrelic.com
 *.blog.newrelic.com
 infrastructure.newrelic.com
-*.nr-ops.net
 *.nr-data.net
 one.newrelic.com
 *.newrelic.com
