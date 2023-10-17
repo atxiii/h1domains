@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Oct 17 19:11:43 UTC 2023)
+## Domains with Bounties (Last Updated Tue Oct 17 20:15:33 UTC 2023)
 ```
 *.front.com
 app.frontapp.com
@@ -24,8 +24,8 @@ api.mergify.com
 dashboard.mergify.com
 www.compass.com
 www.compass.com
-pentesting2.gethypr.com
 *.hypr.com
+pentesting2.gethypr.com
 pentesting3.gethypr.com
 pentesting.gethypr.com
 hypr37448.gethypr.com
@@ -2695,10 +2695,10 @@ developer.newrelic.com
 *.infrastructure-data.newrelic.com
 learn.newrelic.com
 rpm.newrelic.com
-*.nr-ops.net
 insights.newrelic.com
 *.blog.newrelic.com
 infrastructure.newrelic.com
+*.nr-ops.net
 *.nr-data.net
 one.newrelic.com
 *.newrelic.com
@@ -3022,11 +3022,11 @@ portswigger.net
 portswigger.net
 forum.portswigger.net
 https://enterprise-demo.portswigger.net/
-cart.starbucks.co.jp
 www.starbucksreserve.com
 www.starbucks.fr
-www.starbucks.co.uk
 www.starbucks.com.br
+cart.starbucks.co.jp
+www.starbucks.co.uk
 card.starbucks.com.sg
 secureui.starbucks.com
 www.starbucks.de
@@ -3595,9 +3595,9 @@ spaces.pm
 api.slack.com
 slackb.com
 slackatwork.com
-slack-redir.net
 *.quip.com
 app.slack.com
+slack-redir.net
 edgeapi.slack.com
 slack-imgs.com
 slack.com
