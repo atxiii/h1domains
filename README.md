@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Oct 17 04:16:23 UTC 2023)
+## Domains with Bounties (Last Updated Tue Oct 17 05:13:28 UTC 2023)
 ```
 dashboard.mergify.com
 api.mergify.com
@@ -675,8 +675,8 @@ zerobounce.net
 *.gravitational.com
 *.gravitational.co
 askpam.ai
-cloud.gravitational.io
 *.teleportinfra.sh
+cloud.gravitational.io
 *.teleport.dev
 teleport.sh
 *.gravitational.io
@@ -1572,8 +1572,8 @@ careers.tiktok.com
 creatormarketplace.tiktok.com
 *.tiktokv.com
 academy-outbound-ads.tiktok.com
-business.tiktok.com
 *.tiktok.com
+business.tiktok.com
 developers.tiktok.com
 effecthouse.tiktok.com
 shop.tiktok.com
@@ -1845,7 +1845,6 @@ faucet.polygon.technology
 *.betfair.it
 *.paddypower.it
 *.sbgcdn.com
-*.skybet.com
 *.betviewapi.com
 *.skybingo.com
 *.msgsvc.io
@@ -1855,6 +1854,7 @@ faucet.polygon.technology
 *.sportinglife.com
 *.skyvegas.com
 *.betfair.com
+*.skybet.com
 *.betfair.se
 *.skygamingcontent.com
 *.skypoker.com
@@ -2639,9 +2639,9 @@ goldmansachsindices.com
 *.nextcapital.com
 *.vennhypotheken.nl
 *.goldmansachs.com
-research.gs.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
+research.gs.com
 marquee.gs.com
 api.foliofn.com
 *.advisorsolutions.gs.com
@@ -3458,8 +3458,8 @@ one.airbnb.com
 *.byairbnb.com
 *.muscache.com
 www.hoteltonight.com
-*.hoteltonight-test.com
 *.airbnb.com
+*.hoteltonight-test.com
 assets.airbnb.com
 open.airbnb.com
 callbacks.airbnb.com
@@ -3954,15 +3954,15 @@ federalist.18f.gov
 login.fr.cloud.gov
 api.fr.cloud.gov
 api.data.gov
-tock.18f.gov
-*.code.gov
-marketplace.fedramp.gov
-*.search.gov
 ssh.fr.cloud.gov
 ci.fr.cloud.gov
 logs.fr.cloud.gov
 federation.data.gov
 inventory.data.gov
+tock.18f.gov
+*.code.gov
+marketplace.fedramp.gov
+*.search.gov
 logs-platform.fr.cloud.gov
 nessus.fr.cloud.gov
 www.fedramp.gov
