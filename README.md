@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Oct 19 18:19:29 UTC 2023)
+## Domains with Bounties (Last Updated Thu Oct 19 19:13:21 UTC 2023)
 ```
 app.frontapp.com
 *.front.com
@@ -1230,8 +1230,8 @@ www.elastic.co
 *.eops.nl
 www.elastic.co
 cloud.elastic.co
-*.stripe.com
 *.reckoproduction.com
+*.stripe.com
 *.link.co
 *.recko.io
 *.touchtechpayments.com
@@ -1898,9 +1898,9 @@ www.alibabagroup.com
 *.aliexpress.ru
 *.Daraz.com
 *.aliexpress.com
-*.aliyun.com
 *.1688.com
 *.aliyun-inc.com
+*.aliyun.com
 *.alimama.com
 *.taobao.com
 *.alibaba.com
@@ -2707,8 +2707,8 @@ blog.newrelic.com
 alerts.newrelic.com
 login.newrelic.com
 discuss.newrelic.com
+alerts.eu.newrelic.com
 *.infrastructure.newrelic.com
-synthetics.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
 *.infrastructure-data.newrelic.com
@@ -3154,8 +3154,8 @@ design.gitlab.com
 advisories.gitlab.com
 docs.gitlab.com
 about.gitlab.com
-gitlab.com
 *.gitlab.org
+gitlab.com
 *.gitlab.net
 *.gitlab.org
 *.gitlap.com
@@ -3283,10 +3283,10 @@ linkpop.com
 partners.shopify.com
 *.shopifykloud.com
 shopifyinbox.com
-*.shopify.com
 accounts.shopify.com
 shopify.plus
 admin.shopify.com
+*.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -3406,12 +3406,12 @@ omgpro.airbnb.com
 next.airbnb.com
 one.airbnb.com
 *.withairbnb.com
-*.airbnb.com
 *.airbnbcitizen.com
 *.byairbnb.com
 *.muscache.com
 *.hoteltonight-test.com
 www.hoteltonight.com
+*.airbnb.com
 www.airbnb.com
 api.airbnb.com
 assets.airbnb.com
@@ -3639,10 +3639,10 @@ reviewer.pullrequest.com
 ctf.hacker101.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 errors.hackerone.net
+app.pullrequest.com
 b5s.hackerone-ext-content.com
 cover-photos.hackerone-user-content.com
 profile-photos-us-east-2.hackerone-user-content.com
-app.pullrequest.com
 hackerone.live
 hackerone.com
 api.hackerone.com
@@ -3815,10 +3815,10 @@ marketplace.dev.lifeomic.com
 ga4gh.dev.lifeomic.com
 api.dev.lifeomic.com
 *.dev.lifeomic.com
+apps.wellness.dev.lifeomic.com
 apps.dev.skillspring.com
 fhir.dev.lifeomic.com
 *.infra.lifeomic.com
-apps.wellness.dev.lifeomic.com
 *.infra.lifeomic.com
 *.dev.lifeomic.com
 apps.wellness.dev.lifeomic.com
