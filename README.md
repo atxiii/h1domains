@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Oct 19 17:14:29 UTC 2023)
+## Domains with Bounties (Last Updated Thu Oct 19 18:19:29 UTC 2023)
 ```
 app.frontapp.com
 *.front.com
@@ -1260,10 +1260,10 @@ www.urbancompany.com
 www.urbanclap.com
 old.reddit.com
 api.reddit.com
-ads.reddit.com
 gql.reddit.com
 *.redditmedia.com
 app.spiketrap.io
+ads.reddit.com
 new.reddit.com
 *.redditinc.com
 *.snooguts.net
@@ -2188,10 +2188,10 @@ de.forescout.cloud
 cysiv.com
 app.command.cysiv.com
 admin.rezserver.com
-www.priceline.com
 reservations.rezserver.com
 www.bookingholdings.com
 www.getaroom.com
+www.priceline.com
 secure.rezserver.com
 api.rezserver.com
 cruises.priceline.com
@@ -2707,8 +2707,8 @@ blog.newrelic.com
 alerts.newrelic.com
 login.newrelic.com
 discuss.newrelic.com
-alerts.eu.newrelic.com
 *.infrastructure.newrelic.com
+synthetics.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
 *.infrastructure-data.newrelic.com
@@ -3124,9 +3124,9 @@ classroom.github.com
 *.github.net
 education.github.com
 npmjs.org
-github.com
 gist.github.com
 *.githubusercontent.com
+github.com
 github.com
 api.github.com
 gist.github.com
@@ -3446,7 +3446,6 @@ api.vhx.tv
 *.livestream.com
 *.new.livestream.com
 checkout.vimeo.com
-*.vhx.tv
 magisto.com
 www.magisto.com
 staging.magisto.com
@@ -3493,9 +3492,9 @@ jss.greenhouse.io
 interseller.io
 app.interseller.io
 www.greenhouse.io
-*.twitter.com
 *.vine.co
 x.com
+*.twitter.com
 *.twimg.com
 gnip.com
 *.twitter.com
@@ -3816,10 +3815,10 @@ marketplace.dev.lifeomic.com
 ga4gh.dev.lifeomic.com
 api.dev.lifeomic.com
 *.dev.lifeomic.com
-apps.wellness.dev.lifeomic.com
 apps.dev.skillspring.com
 fhir.dev.lifeomic.com
 *.infra.lifeomic.com
+apps.wellness.dev.lifeomic.com
 *.infra.lifeomic.com
 *.dev.lifeomic.com
 apps.wellness.dev.lifeomic.com
