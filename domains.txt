@@ -1,5 +1,5 @@
-*.front.com
 app.frontapp.com
+*.front.com
 help.front.com
 api2.frontapp.com
 *.front.com
@@ -661,9 +661,9 @@ www.practicalmoneyskills.org
 *fleetboard.de
 *.freightliner.com
 *.bharatbenz.com
+*.mitsubishi-fuso.com
 *evobus.com
 *fleetboard.com
-*.mitsubishi-fuso.com
 *exceleratorparts.com
 *.mercedes-benz-trucks.com
 *.mitsubishi-fuso.com
@@ -1829,8 +1829,8 @@ hiltonhotels.jp
 *.paystack.com
 *.paystackintegrations.com
 checkout.paystack.com
-dashboard.paystack.com
 standard.paystack.co
+dashboard.paystack.com
 nigerialogos.com
 legacy.paystack.co
 api.paystack.co
@@ -2298,8 +2298,8 @@ www.expediapartnercentral.com
 www.wotif.com
 www.hotwire.com
 www.ebookers.fi
-www.expediacruises.com
 www.stayz.com.au
+www.expediacruises.com
 www.hotels.com
 www.expedia.com
 www.expediapartnercentral.com
@@ -6029,7 +6029,6 @@ faucet.polygon.technology
 *.betfair.it
 *.paddypower.it
 *.sbgcdn.com
-*.skybet.com
 *.betviewapi.com
 *.skyvegas.com
 *.skybingo.com
@@ -6039,6 +6038,7 @@ faucet.polygon.technology
 *.skybettest.net
 *.sportinglife.com
 *.betfair.com
+*.skybet.com
 *.betfair.se
 *.skygamingcontent.com
 *.skypoker.com
@@ -7444,9 +7444,9 @@ www.bookingholdings.com
 *.capitalone.ca
 *.teamstercardnow.com
 *.usejewel.com
-*.wikibuy.com
 *.luma.co.uk
 *.capitalonecareers.co.uk
+*.wikibuy.com
 *.capitalone.com
 *.paribus.co
 *.capitalone360.com
@@ -8648,8 +8648,8 @@ devmaximum.com
 www.coursera.org
 www.coursera.org
 developer.zendesk.com
-h1-your-domain.zendesk.com
 smooch.io
+h1-your-domain.zendesk.com
 www.zendesk.com
 apps.zendesk.com
 api.smooch.io
@@ -8769,11 +8769,11 @@ blog.ui.com
 ispdesign.ui.com
 ca.store.ui.com
 help.ui.com
-account.ui.com
 rma.ui.com
 careers.ui.com
 dev-training.ui.com
 wiki.ui.com
+account.ui.com
 fw-update.ubnt.com
 uisp.com
 *.ubnt.com
