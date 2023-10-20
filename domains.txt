@@ -2584,8 +2584,8 @@ brightree.net/
 app.citushealth.com/
 www.citushealth.com
 app.citushealth.ca
-test.deribit.com
 pb.deribit.com
+test.deribit.com
 insights.deribit.com
 tools.deribit.com
 metrics.deribit.com
@@ -7446,9 +7446,9 @@ www.bookingholdings.com
 *.capitalone.ca
 *.teamstercardnow.com
 *.usejewel.com
-*.wikibuy.com
 *.luma.co.uk
 *.capitalonecareers.co.uk
+*.wikibuy.com
 *.capitalone.com
 *.paribus.co
 *.capitalone360.com
@@ -8800,7 +8800,6 @@ dev-training.ui.com
 wiki.ui.com
 *.adobeaemcloud.com
 *.mixamo.com
-auth.services.adobe.com
 community.adobe.com
 exchange.adobe.com
 licenses.adobe.com
@@ -8814,6 +8813,7 @@ app.frame.io
 stream.frame.io
 firefly.adobe.com
 nicetryapril.na1.echosignsandbox.com
+auth.services.adobe.com
 *.tt.omtrdc.net
 *.marketo.com
 *.omniture.com
@@ -9695,10 +9695,10 @@ inventory.data.gov
 logs-platform.fr.cloud.gov
 nessus.fr.cloud.gov
 manage.data.gov
-www.fedramp.gov
 diagrams.fr.cloud.gov
 prometheus.fr.cloud.gov
 federalist-docs.18f.gov
+dashboard.fr.cloud.gov
 *.login.gov
 *.code.gov
 *.search.gov
@@ -9761,10 +9761,10 @@ socket.ukrn.io
 sysops.ukrn.io
 u.ukrn.io
 utils.ukrn.io
+unikrn.ly
 virtual.ukrn.io
 cashier-w.unikrn.com
 cashier.unikrn.com
-unikrn.ly
 unikrn.com
 api.ukrn.io
 auth-adm.ukrn.io

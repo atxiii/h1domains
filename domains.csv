@@ -2585,8 +2585,8 @@ resmed,brightree.net/,False
 resmed,app.citushealth.com/,False
 resmed,www.citushealth.com,False
 resmed,app.citushealth.ca,False
-deribit,test.deribit.com,True
 deribit,pb.deribit.com,True
+deribit,test.deribit.com,True
 deribit,insights.deribit.com,True
 deribit,tools.deribit.com,True
 deribit,metrics.deribit.com,True
@@ -7447,9 +7447,9 @@ capital-one,*.capitalonebank.com,False
 capital-one,*.capitalone.ca,False
 capital-one,*.teamstercardnow.com,False
 capital-one,*.usejewel.com,False
-capital-one,*.wikibuy.com,False
 capital-one,*.luma.co.uk,False
 capital-one,*.capitalonecareers.co.uk,False
+capital-one,*.wikibuy.com,False
 capital-one,*.capitalone.com,False
 capital-one,*.paribus.co,False
 capital-one,*.capitalone360.com,False
@@ -8801,7 +8801,6 @@ ui,dev-training.ui.com,False
 ui,wiki.ui.com,False
 adobe,*.adobeaemcloud.com,False
 adobe,*.mixamo.com,False
-adobe,auth.services.adobe.com,False
 adobe,community.adobe.com,False
 adobe,exchange.adobe.com,False
 adobe,licenses.adobe.com,False
@@ -8815,6 +8814,7 @@ adobe,app.frame.io,False
 adobe,stream.frame.io,False
 adobe,firefly.adobe.com,False
 adobe,nicetryapril.na1.echosignsandbox.com,False
+adobe,auth.services.adobe.com,False
 adobe,*.tt.omtrdc.net,False
 adobe,*.marketo.com,False
 adobe,*.omniture.com,False
@@ -9696,10 +9696,10 @@ tts,18f.gsa.gov,False
 tts,logs-platform.fr.cloud.gov,True
 tts,nessus.fr.cloud.gov,True
 tts,manage.data.gov,False
-tts,www.fedramp.gov,True
 tts,diagrams.fr.cloud.gov,True
 tts,prometheus.fr.cloud.gov,True
 tts,federalist-docs.18f.gov,True
+tts,dashboard.fr.cloud.gov,True
 tts,*.login.gov,True
 tts,*.code.gov,True
 tts,*.search.gov,True
@@ -9762,10 +9762,10 @@ unikrn,socket.ukrn.io,True
 unikrn,sysops.ukrn.io,True
 unikrn,u.ukrn.io,True
 unikrn,utils.ukrn.io,True
+unikrn,unikrn.ly,True
 unikrn,virtual.ukrn.io,True
 unikrn,cashier-w.unikrn.com,True
 unikrn,cashier.unikrn.com,True
-unikrn,unikrn.ly,True
 unikrn,unikrn.com,True
 unikrn,api.ukrn.io,True
 unikrn,auth-adm.ukrn.io,True
