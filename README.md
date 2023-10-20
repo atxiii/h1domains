@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Oct 20 00:45:02 UTC 2023)
+## Domains with Bounties (Last Updated Fri Oct 20 01:49:07 UTC 2023)
 ```
 *.front.com
 app.frontapp.com
@@ -2707,8 +2707,8 @@ blog.newrelic.com
 alerts.newrelic.com
 login.newrelic.com
 discuss.newrelic.com
-alerts.eu.newrelic.com
 *.infrastructure.newrelic.com
+synthetics.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
 *.infrastructure-data.newrelic.com
@@ -3216,10 +3216,10 @@ dropr.nl
 werkenbijdnb.nl
 acme-challenge.nl
 nossl.nl
-wp-mail.nl
 ruddercms.com
 *.maximum.nl
 werkenbijdefensie.nl
+wp-mail.nl
 mijnkombijdepolitie.nl
 no-reply.cloud
 maximum-status.com
@@ -3929,10 +3929,10 @@ federation.data.gov
 inventory.data.gov
 logs-platform.fr.cloud.gov
 nessus.fr.cloud.gov
+www.fedramp.gov
 diagrams.fr.cloud.gov
 prometheus.fr.cloud.gov
 federalist-docs.18f.gov
-dashboard.fr.cloud.gov
 *.login.gov
 *.code.gov
 *.search.gov

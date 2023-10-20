@@ -1746,9 +1746,9 @@ shutterfly_vdp,snapfish.it,False
 shutterfly_vdp,photo.walgreens.com,False
 shutterfly_vdp,staging.spoonflower.com,False
 shutterfly_vdp,snapfish.de,False
-shutterfly_vdp,www.borrowlenses.com,False
 shutterfly_vdp,lifetouch.com,False
 shutterfly_vdp,prestigeportraits.com,False
+shutterfly_vdp,www.borrowlenses.com,False
 shutterfly_vdp,snapfish.com,False
 shutterfly_vdp,admin.spoonflower.com,False
 shutterfly_vdp,shutterfly.com,False
@@ -7997,8 +7997,8 @@ newrelic,blog.newrelic.com,True
 newrelic,alerts.newrelic.com,True
 newrelic,login.newrelic.com,True
 newrelic,discuss.newrelic.com,True
-newrelic,alerts.eu.newrelic.com,True
 newrelic,*.infrastructure.newrelic.com,True
+newrelic,synthetics.newrelic.com,True
 newrelic,*.newrelic.com,True
 newrelic,*.infrastructure.newrelic.com,True
 newrelic,*.infrastructure-data.newrelic.com,True
@@ -8612,10 +8612,10 @@ radancy,dropr.nl,True
 radancy,werkenbijdnb.nl,True
 radancy,acme-challenge.nl,True
 radancy,nossl.nl,True
-radancy,wp-mail.nl,True
 radancy,ruddercms.com,True
 radancy,*.maximum.nl,True
 radancy,werkenbijdefensie.nl,True
+radancy,wp-mail.nl,True
 radancy,mijnkombijdepolitie.nl,True
 radancy,no-reply.cloud,True
 radancy,maximum-status.com,True
@@ -8811,8 +8811,8 @@ adobe,magento.com,True
 adobe,accounts.frame.io,False
 adobe,app.frame.io,False
 adobe,stream.frame.io,False
-adobe,firefly.adobe.com,False
 adobe,nicetryapril.na1.echosignsandbox.com,False
+adobe,firefly.adobe.com,False
 adobe,*.tt.omtrdc.net,False
 adobe,*.marketo.com,False
 adobe,*.omniture.com,False
@@ -9698,10 +9698,10 @@ tts,18f.gsa.gov,False
 tts,logs-platform.fr.cloud.gov,True
 tts,nessus.fr.cloud.gov,True
 tts,manage.data.gov,False
+tts,www.fedramp.gov,True
 tts,diagrams.fr.cloud.gov,True
 tts,prometheus.fr.cloud.gov,True
 tts,federalist-docs.18f.gov,True
-tts,dashboard.fr.cloud.gov,True
 tts,*.login.gov,True
 tts,*.code.gov,True
 tts,*.search.gov,True
