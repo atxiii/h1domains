@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Oct 20 20:14:54 UTC 2023)
+## Domains with Bounties (Last Updated Fri Oct 20 21:13:34 UTC 2023)
 ```
 *.front.com
 app.frontapp.com
@@ -847,8 +847,8 @@ social-trading.exness.com
 https://my.exness.com/pa/socialtrading
 exness.com
 app.smtp2go.com
-smtp2go.com
 api.smtp2go.com
+smtp2go.com
 smtp2go.com
 app.smtp2go.com
 api.smtp2go.com
@@ -1222,8 +1222,8 @@ main.trafficfactory.biz
 *.elasticnet.co
 *.eops.nl
 cloud.elastic.co
-*.elastic.co
 www.elastic.co
+*.elastic.co
 *.elastic.co
 *.found.io
 *.swiftype.com
@@ -2709,8 +2709,8 @@ blog.newrelic.com
 alerts.newrelic.com
 login.newrelic.com
 discuss.newrelic.com
+alerts.eu.newrelic.com
 *.infrastructure.newrelic.com
-synthetics.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
 *.infrastructure-data.newrelic.com
@@ -3642,9 +3642,9 @@ ctf.hacker101.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 www.hackerone.com
 errors.hackerone.net
+app.pullrequest.com
 cover-photos.hackerone-user-content.com
 profile-photos-us-east-2.hackerone-user-content.com
-app.pullrequest.com
 hackerone.live
 b5s.hackerone-ext-content.com
 hackerone.com
@@ -3927,10 +3927,10 @@ federation.data.gov
 inventory.data.gov
 logs-platform.fr.cloud.gov
 nessus.fr.cloud.gov
-www.fedramp.gov
 diagrams.fr.cloud.gov
 prometheus.fr.cloud.gov
 federalist-docs.18f.gov
+dashboard.fr.cloud.gov
 *.login.gov
 *.code.gov
 *.search.gov
