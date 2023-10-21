@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Oct 21 22:12:01 UTC 2023)
+## Domains with Bounties (Last Updated Sat Oct 21 23:12:13 UTC 2023)
 ```
 *.front.com
 app.frontapp.com
@@ -2709,8 +2709,8 @@ blog.newrelic.com
 alerts.newrelic.com
 login.newrelic.com
 discuss.newrelic.com
-alerts.eu.newrelic.com
 *.infrastructure.newrelic.com
+synthetics.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
 *.infrastructure-data.newrelic.com
@@ -3328,11 +3328,11 @@ geofilters.snapchat.com
 spectacles.com
 *.sc-corp.net
 web.snapchat.com
-www.bitstrips.com
 kit.snapchat.com
 developer.playcanvas.com
 launch.playcanvas.com
 *.sc-core.net
+www.bitstrips.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
@@ -3625,9 +3625,9 @@ onepush.query.yahoo.com
 proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
-api.hackerone.com
 hackerone-user-content.com
 hackerone.com
+api.hackerone.com
 mta-sts.wearehackerone.com
 www.wearehackerone.com
 a5s.hackerone-ext-content.com
