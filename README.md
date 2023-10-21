@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Oct 21 16:15:30 UTC 2023)
+## Domains with Bounties (Last Updated Sat Oct 21 17:12:39 UTC 2023)
 ```
 *.front.com
 app.frontapp.com
@@ -12,8 +12,8 @@ api2.frontapp.com
 app.frontapp.com
 api2.frontapp.com
 http://help.front.com
-*.booztlet.com
 *.boozt.com
+*.booztlet.com
 *.boozt.com
 *.booztlet.com
 *.trip.com
@@ -1530,8 +1530,8 @@ api.adm.cloud.com
 (youriwssubdomain).cloud.com
 ads.tiktok.com
 live-backstage.tiktok.com
-tiktok.com
 partner.tiktokshop.com
+tiktok.com
 www.pangleglobal.com
 careers.tiktok.com
 creatormarketplace.tiktok.com
@@ -3330,9 +3330,9 @@ web.snapchat.com
 *.sc-corp.net
 www.bitstrips.com
 kit.snapchat.com
-*.sc-core.net
 developer.playcanvas.com
 launch.playcanvas.com
+*.sc-core.net
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
@@ -3639,11 +3639,11 @@ hackathon-photos.hackerone-user-content.com
 profile-photos.hackerone-user-content.com
 reviewer.pullrequest.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
-www.hackerone.com
 ctf.hacker101.com
-app.pullrequest.com
+www.hackerone.com
 cover-photos.hackerone-user-content.com
 profile-photos-us-east-2.hackerone-user-content.com
+app.pullrequest.com
 hackerone.live
 errors.hackerone.net
 b5s.hackerone-ext-content.com
