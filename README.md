@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Oct 21 09:13:11 UTC 2023)
+## Domains with Bounties (Last Updated Sat Oct 21 10:12:20 UTC 2023)
 ```
 *.front.com
 app.frontapp.com
@@ -936,9 +936,9 @@ admin.instacart.com
 shoppers.instacart.com
 databricks.com
 academy.databricks.com
-accounts.cloud.databricks.com
 demo.cloud.databricks.com
 docs.databricks.com
+accounts.cloud.databricks.com
 kb.databricks.com
 support.databricks.com
 community.databricks.com
@@ -1276,8 +1276,8 @@ sh.reddit.com
 s.reddit.com
 ads-api.reddit.com
 gateway.reddit.com
-*.reddit.com
 www.spiketrap.io
+*.reddit.com
 *.redditblog.com
 reddit.secure.force.com
 amp.reddit.com
@@ -2709,8 +2709,8 @@ blog.newrelic.com
 alerts.newrelic.com
 login.newrelic.com
 discuss.newrelic.com
-alerts.eu.newrelic.com
 *.infrastructure.newrelic.com
+synthetics.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
 *.infrastructure-data.newrelic.com
@@ -3814,10 +3814,10 @@ marketplace.dev.lifeomic.com
 ga4gh.dev.lifeomic.com
 api.dev.lifeomic.com
 *.dev.lifeomic.com
-apps.wellness.dev.lifeomic.com
 apps.dev.skillspring.com
 fhir.dev.lifeomic.com
 *.infra.lifeomic.com
+apps.wellness.dev.lifeomic.com
 *.infra.lifeomic.com
 *.dev.lifeomic.com
 apps.wellness.dev.lifeomic.com
@@ -3927,10 +3927,10 @@ federation.data.gov
 inventory.data.gov
 logs-platform.fr.cloud.gov
 nessus.fr.cloud.gov
+www.fedramp.gov
 diagrams.fr.cloud.gov
 prometheus.fr.cloud.gov
 federalist-docs.18f.gov
-dashboard.fr.cloud.gov
 *.login.gov
 *.code.gov
 *.search.gov

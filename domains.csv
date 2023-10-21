@@ -3343,9 +3343,9 @@ anywhererealestate,*.anywhere.re,False
 anywhererealestate,new.myzap.com,False
 databricks,databricks.com,True
 databricks,academy.databricks.com,True
-databricks,accounts.cloud.databricks.com,True
 databricks,demo.cloud.databricks.com,True
 databricks,docs.databricks.com,True
+databricks,accounts.cloud.databricks.com,True
 databricks,kb.databricks.com,True
 databricks,support.databricks.com,True
 databricks,community.databricks.com,True
@@ -4826,8 +4826,8 @@ reddit,sh.reddit.com,True
 reddit,s.reddit.com,True
 reddit,ads-api.reddit.com,True
 reddit,gateway.reddit.com,True
-reddit,*.reddit.com,True
 reddit,www.spiketrap.io,True
+reddit,*.reddit.com,True
 reddit,*.redditblog.com,True
 reddit,reddit.secure.force.com,True
 reddit,amp.reddit.com,True
@@ -7101,10 +7101,10 @@ keybank,*.keyequipmentfinance.com,False
 keybank,*.xup-onboarding.com,False
 keybank,*.xuphub.com,False
 keybank,*.xupsupport.com,False
-keybank,*.key.com,False
 keybank,*.key2businesscard.com,False
 keybank,*.laurelroad.com,False
 keybank,*.xuppay-statement-analyzer.com,False
+keybank,*.key.com,False
 keybank,*.keyapsolutions.com,False
 keybank,*.keybank.com,False
 keybank,*.xuppay.com,False
@@ -7467,9 +7467,9 @@ capital-one,*.capitalonebank.com,False
 capital-one,*.capitalone.ca,False
 capital-one,*.teamstercardnow.com,False
 capital-one,*.usejewel.com,False
-capital-one,*.wikibuy.com,False
 capital-one,*.luma.co.uk,False
 capital-one,*.capitalonecareers.co.uk,False
+capital-one,*.wikibuy.com,False
 capital-one,*.capitalone.com,False
 capital-one,*.paribus.co,False
 capital-one,*.capitalone360.com,False
@@ -8019,8 +8019,8 @@ newrelic,blog.newrelic.com,True
 newrelic,alerts.newrelic.com,True
 newrelic,login.newrelic.com,True
 newrelic,discuss.newrelic.com,True
-newrelic,alerts.eu.newrelic.com,True
 newrelic,*.infrastructure.newrelic.com,True
+newrelic,synthetics.newrelic.com,True
 newrelic,*.newrelic.com,True
 newrelic,*.infrastructure.newrelic.com,True
 newrelic,*.infrastructure-data.newrelic.com,True
@@ -9501,10 +9501,10 @@ lifeomic,marketplace.dev.lifeomic.com,True
 lifeomic,ga4gh.dev.lifeomic.com,True
 lifeomic,api.dev.lifeomic.com,True
 lifeomic,*.dev.lifeomic.com,True
-lifeomic,apps.wellness.dev.lifeomic.com,True
 lifeomic,apps.dev.skillspring.com,True
 lifeomic,fhir.dev.lifeomic.com,True
 lifeomic,*.infra.lifeomic.com,True
+lifeomic,apps.wellness.dev.lifeomic.com,True
 lifeomic,*.infra.lifeomic.com,True
 lifeomic,*.dev.lifeomic.com,True
 lifeomic,apps.wellness.dev.lifeomic.com,True
@@ -9708,10 +9708,10 @@ tts,18f.gsa.gov,False
 tts,logs-platform.fr.cloud.gov,True
 tts,nessus.fr.cloud.gov,True
 tts,manage.data.gov,False
+tts,www.fedramp.gov,True
 tts,diagrams.fr.cloud.gov,True
 tts,prometheus.fr.cloud.gov,True
 tts,federalist-docs.18f.gov,True
-tts,dashboard.fr.cloud.gov,True
 tts,*.login.gov,True
 tts,*.code.gov,True
 tts,*.search.gov,True
