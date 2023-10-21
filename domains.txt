@@ -1,5 +1,5 @@
-*.front.com
 app.frontapp.com
+*.front.com
 help.front.com
 api2.frontapp.com
 *.front.com
@@ -661,9 +661,9 @@ www.practicalmoneyskills.org
 *fleetboard.de
 *.bharatbenz.com
 *.freightliner.com
-*.mitsubishi-fuso.com
 *evobus.com
 *fleetboard.com
+*.mitsubishi-fuso.com
 *exceleratorparts.com
 *.mercedes-benz-trucks.com
 *.mitsubishi-fuso.com
@@ -1745,9 +1745,9 @@ snapfish.it
 photo.walgreens.com
 staging.spoonflower.com
 snapfish.de
-lifetouch.com
 prestigeportraits.com
 www.borrowlenses.com
+lifetouch.com
 snapfish.com
 admin.spoonflower.com
 shutterfly.com
@@ -2331,7 +2331,6 @@ www.flights.com
 *.hotwirepartnercentral.com
 *.expediapartnersolutions.com
 *.expediaagents.com
-*.expedia.com
 *.orbitz.com
 *.wotif.com
 *.cruiseshipcenters.com
@@ -2340,6 +2339,7 @@ www.flights.com
 *.vrbo.com
 *.ean.com
 *.lastminute.co.nz
+*.expedia.com
 *.lastminute.com.au
 *.flights.com
 *.hoteles.com
@@ -4797,8 +4797,8 @@ https://av.lumiradx.com/era/webconsole/
 https://connect.lumiradx.com/factory
 www.lumiradx.com
 investors.lumiradx.com
-www.drugs.com
 blog.drugs.com
+www.drugs.com
 www.medicine.com
 www.question.com
 newsletters.drugs.com
@@ -8018,8 +8018,8 @@ blog.newrelic.com
 alerts.newrelic.com
 login.newrelic.com
 discuss.newrelic.com
+alerts.eu.newrelic.com
 *.infrastructure.newrelic.com
-synthetics.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
 *.infrastructure-data.newrelic.com
@@ -9184,15 +9184,15 @@ hackerone-ext-content.com
 hackathon-photos.hackerone-user-content.com
 profile-photos.hackerone-user-content.com
 reviewer.pullrequest.com
-ctf.hacker101.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 www.hackerone.com
-errors.hackerone.net
+ctf.hacker101.com
 cover-photos.hackerone-user-content.com
 profile-photos-us-east-2.hackerone-user-content.com
 app.pullrequest.com
 hackerone.live
 b5s.hackerone-ext-content.com
+errors.hackerone.net
 hackerone.com
 api.hackerone.com
 www.hackerone.com
