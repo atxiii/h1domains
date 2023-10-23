@@ -662,9 +662,9 @@ daimler_truck,*.westernstar.com,False
 daimler_truck,*fleetboard.de,False
 daimler_truck,*.bharatbenz.com,False
 daimler_truck,*.freightliner.com,False
+daimler_truck,*.mitsubishi-fuso.com,False
 daimler_truck,*evobus.com,False
 daimler_truck,*fleetboard.com,False
-daimler_truck,*.mitsubishi-fuso.com,False
 daimler_truck,*exceleratorparts.com,False
 daimler_truck,*.mercedes-benz-trucks.com,False
 daimler_truck,*.mitsubishi-fuso.com,False
@@ -1939,8 +1939,8 @@ grindr,*.grindr.mobi,True
 grindr,web.grindr.com,True
 grindr,*.dev.grindr.io,False
 grindr,preprod1.grindr.com,False
-skinport,app.skinport.com,True
 skinport,api.skinport.com,True
+skinport,app.skinport.com,True
 skinport,skinport.com,True
 skinport,skinport.com,True
 skinport,app.skinport.com,True
@@ -2404,10 +2404,10 @@ magic-eden,*.magiceden.dev,True
 magic-eden,*.magiceden.workers.dev,True
 magic-eden,eng.magiceden.io,False
 magic-eden,eng.magiceden.dev,False
-varonis,*.varonis.com,False
 varonis,blog.varonis.de,False
 varonis,blog.varonis.br,False
 varonis,blog.varonis.ru,False
+varonis,*.varonis.com,False
 varonis,blog.varonis.es,False
 varonis,*.varonis.io,False
 varonis,varonis.net,False
@@ -3874,7 +3874,6 @@ epicgames,*.fortnite.com,True
 epicgames,forum.sketchfab.com,False
 epicgames,*.bcbits.com,True
 epicgames,*.dropmix.com,True
-epicgames,*.harmonixmusic.com,True
 epicgames,*.hmxwebservices.com,True
 epicgames,*.bandcamp.com,True
 epicgames,*.bcbits.com,True
@@ -4835,8 +4834,8 @@ reddit,*.reddithelp.com,True
 reddit,accounts.reddit.com,True
 reddit,matrix.redditspace.com,True
 reddit,mod.reddit.com,True
-reddit,oauth.reddit.com,True
 reddit,www.reddit.com,True
+reddit,oauth.reddit.com,True
 reddit,*.snooguts.net,True
 reddit,*.redditmedia.com,True
 reddit,*.reddit.com,True
@@ -6242,9 +6241,9 @@ digitalocean,cloud.digitalocean.com,False
 digitalocean,developers.cloudways.com,False
 digitalocean,api.digitalocean.com,False
 digitalocean,marketplace.digitalocean.com,False
-digitalocean,*.digitalocean.com,False
 digitalocean,169.254.169.254,False
 digitalocean,api.cloudways.com,False
+digitalocean,*.digitalocean.com,False
 digitalocean,www.cloudways.com,False
 digitalocean,do.co,False
 digitalocean,hacktoberfest.com,False
@@ -7466,9 +7465,9 @@ capital-one,*.capitalonebank.com,False
 capital-one,*.capitalone.ca,False
 capital-one,*.teamstercardnow.com,False
 capital-one,*.usejewel.com,False
+capital-one,*.wikibuy.com,False
 capital-one,*.luma.co.uk,False
 capital-one,*.capitalonecareers.co.uk,False
-capital-one,*.wikibuy.com,False
 capital-one,*.capitalone.com,False
 capital-one,*.paribus.co,False
 capital-one,*.capitalone360.com,False
@@ -9755,10 +9754,10 @@ unikrn,socket.ukrn.io,True
 unikrn,sysops.ukrn.io,True
 unikrn,u.ukrn.io,True
 unikrn,utils.ukrn.io,True
-unikrn,unikrn.ly,True
 unikrn,virtual.ukrn.io,True
 unikrn,cashier-w.unikrn.com,True
 unikrn,cashier.unikrn.com,True
+unikrn,unikrn.ly,True
 unikrn,unikrn.com,True
 unikrn,api.ukrn.io,True
 unikrn,auth-adm.ukrn.io,True
