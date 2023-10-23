@@ -7,8 +7,8 @@ fronthq,*.front.com,True
 fronthq,app.frontapp.com,True
 fronthq,api2.frontapp.com,True
 fronthq,http://help.front.com,True
-boozt,*.boozt.com,True
 boozt,*.booztlet.com,True
+boozt,*.boozt.com,True
 boozt,*.boozt.com,True
 boozt,*.booztlet.com,True
 trip_com,*.trip.com,True
@@ -5493,11 +5493,11 @@ mendix,3s.mendixcloud.com,False
 mendix,*.timeseries.nl,False
 mendix,notification.billing.appservices.mendix.com,False
 mendix,servicemanagement-accp.mendixcloud.com,False
-mendix,3dvis.mendixcloud.com,False
-mendix,mxbpconfig.mendixcloud.com,False
 mendix,dataprivacy.mendixcloud.com,False
 mendix,alm.mendixcloud.com,False
 mendix,simplate.mendixcloud.com,False
+mendix,3dvis.mendixcloud.com,False
+mendix,mxbpconfig.mendixcloud.com,False
 mendix,*.mendix.com,False
 mendix,*.timeseries.com,False
 mendix,*.timeseries.nl,False
@@ -6174,9 +6174,9 @@ amazonvrp,https://www.amazonpay.in/*,True
 amazonvrp,https://www.amazon.in/wealth/*,True
 amazonvrp,https://amazonpay.amazon.in/*,True
 alibaba,*.alibaba.com,True
-alibaba,*.alibabacloud.com,True
 alibaba,www.alibabagroup.com,True
 alibaba,*.tmall.com,True
+alibaba,*.alibabacloud.com,True
 alibaba,*.alibaba-inc.com,True
 alibaba,*.aliexpress.ru,True
 alibaba,*.Daraz.com,True
@@ -6591,6 +6591,7 @@ kubernetes,kubernetes-csi.github.io,True
 8x8,*.packet8.net,False
 8x8,work-staging.8x8.com,False
 8x8,express.8x8.com,False
+8x8,*.p8t.us,False
 8x8,*.ucverse.com,False
 8x8,*.8x8.com,False
 8x8,*.packet8.net,False
@@ -9169,11 +9170,11 @@ security,hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com,T
 security,hackerone-ext-content.com,True
 security,ctf.hacker101.com,True
 security,www.hackerone.com,True
-security,app.pullrequest.com,True
 security,profile-photos-us-east-2.hackerone-user-content.com,True
+security,app.pullrequest.com,True
 security,hackerone.live,True
-security,b5s.hackerone-ext-content.com,True
 security,errors.hackerone.net,True
+security,b5s.hackerone-ext-content.com,True
 security,cover-photos.hackerone-user-content.com,True
 security,hackerone.com,True
 security,api.hackerone.com,True
