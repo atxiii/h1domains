@@ -546,7 +546,6 @@ www.tecno-mobile.com
 www.boomplay.com
 security.tecno.com
 www.mobile-phantom.com
-www.visa.com.tw
 www.visa.com.cn
 www.visa.com.hk
 www.visa.com.lc
@@ -557,6 +556,7 @@ www.yellowpepper.com
 www.fraedom.com
 www.practicalmoneyskills.com
 www.practicalmoneyskills.org
+www.visa.com.tw
 bb.visa.com
 www.visa.com.mx
 visa.com.ru
@@ -6591,7 +6591,6 @@ accountmanager.8x8.com
 *.packet8.net
 work-staging.8x8.com
 express.8x8.com
-*.p8t.us
 *.ucverse.com
 *.8x8.com
 *.packet8.net
@@ -7465,9 +7464,9 @@ www.bookingholdings.com
 *.capitalone.ca
 *.teamstercardnow.com
 *.usejewel.com
-*.wikibuy.com
 *.luma.co.uk
 *.capitalonecareers.co.uk
+*.wikibuy.com
 *.capitalone.com
 *.paribus.co
 *.capitalone360.com
@@ -8012,9 +8011,9 @@ support.newrelic.com
 blog.newrelic.com
 alerts.newrelic.com
 discuss.newrelic.com
+alerts.eu.newrelic.com
 *.infrastructure.newrelic.com
 synthetics.newrelic.com
-alerts.eu.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
 *.infrastructure-data.newrelic.com
@@ -8700,8 +8699,8 @@ yourcompany.udemy.com
 your-store.myshopify.com
 arrive-server.shopifycloud.com
 linkpop.com
-shop.app
 *.shopifycloud.com
+shop.app
 partners.shopify.com
 *.shopifykloud.com
 shopifyinbox.com
@@ -8949,10 +8948,10 @@ one.airbnb.com
 next.airbnb.com
 *.airbnbcitizen.com
 *.byairbnb.com
-*.muscache.com
 *.hoteltonight-test.com
 www.hoteltonight.com
 *.airbnb.com
+*.muscache.com
 assets.airbnb.com
 open.airbnb.com
 callbacks.airbnb.com
@@ -9760,10 +9759,10 @@ socket.ukrn.io
 sysops.ukrn.io
 u.ukrn.io
 utils.ukrn.io
-unikrn.ly
 virtual.ukrn.io
 cashier-w.unikrn.com
 cashier.unikrn.com
+unikrn.ly
 unikrn.com
 api.ukrn.io
 auth-adm.ukrn.io
