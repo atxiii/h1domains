@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Oct 24 13:18:44 UTC 2023)
+## Domains with Bounties (Last Updated Tue Oct 24 14:12:32 UTC 2023)
 ```
 *.front.com
 app.frontapp.com
@@ -1535,8 +1535,8 @@ careers.tiktok.com
 creatormarketplace.tiktok.com
 academy-outbound-ads.tiktok.com
 business.tiktok.com
-*.tiktok.com
 *.tiktokv.com
+*.tiktok.com
 developers.tiktok.com
 effecthouse.tiktok.com
 shop.tiktok.com
@@ -2024,8 +2024,8 @@ www.goodrx.com
 www.goodrx.com
 *.rbx.com
 *.ra.roblox.com
-*.roblox.com
 *.guilded.gg
+*.roblox.com
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -2706,9 +2706,9 @@ support.newrelic.com
 blog.newrelic.com
 alerts.newrelic.com
 discuss.newrelic.com
-alerts.eu.newrelic.com
 *.infrastructure.newrelic.com
 synthetics.newrelic.com
+alerts.eu.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
 *.infrastructure-data.newrelic.com
@@ -3585,8 +3585,8 @@ api.slack.com
 slackb.com
 slackatwork.com
 slack-redir.net
-app.slack.com
 *.quip.com
+app.slack.com
 edgeapi.slack.com
 slack-imgs.com
 slack.com
@@ -3913,10 +3913,10 @@ federation.data.gov
 inventory.data.gov
 logs-platform.fr.cloud.gov
 nessus.fr.cloud.gov
-www.fedramp.gov
 diagrams.fr.cloud.gov
 prometheus.fr.cloud.gov
 federalist-docs.18f.gov
+dashboard.fr.cloud.gov
 *.login.gov
 *.code.gov
 *.search.gov

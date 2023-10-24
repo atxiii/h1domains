@@ -662,9 +662,9 @@ daimler_truck,*.westernstar.com,False
 daimler_truck,*fleetboard.de,False
 daimler_truck,*.bharatbenz.com,False
 daimler_truck,*.freightliner.com,False
-daimler_truck,*.mitsubishi-fuso.com,False
 daimler_truck,*evobus.com,False
 daimler_truck,*fleetboard.com,False
+daimler_truck,*.mitsubishi-fuso.com,False
 daimler_truck,*exceleratorparts.com,False
 daimler_truck,*.mercedes-benz-trucks.com,False
 daimler_truck,*.mitsubishi-fuso.com,False
@@ -5494,11 +5494,11 @@ mendix,3s.mendixcloud.com,False
 mendix,*.timeseries.nl,False
 mendix,notification.billing.appservices.mendix.com,False
 mendix,servicemanagement-accp.mendixcloud.com,False
+mendix,3dvis.mendixcloud.com,False
+mendix,mxbpconfig.mendixcloud.com,False
 mendix,dataprivacy.mendixcloud.com,False
 mendix,alm.mendixcloud.com,False
 mendix,simplate.mendixcloud.com,False
-mendix,3dvis.mendixcloud.com,False
-mendix,mxbpconfig.mendixcloud.com,False
 mendix,*.mendix.com,False
 mendix,*.timeseries.com,False
 mendix,*.timeseries.nl,False
@@ -5645,8 +5645,8 @@ tiktok,careers.tiktok.com,True
 tiktok,creatormarketplace.tiktok.com,True
 tiktok,academy-outbound-ads.tiktok.com,True
 tiktok,business.tiktok.com,True
-tiktok,*.tiktok.com,True
 tiktok,*.tiktokv.com,True
+tiktok,*.tiktok.com,True
 tiktok,developers.tiktok.com,True
 tiktok,effecthouse.tiktok.com,True
 tiktok,shop.tiktok.com,True
@@ -6375,8 +6375,8 @@ goodrx,www.goodrx.com,True
 goodrx,www.goodrx.com,True
 roblox,*.rbx.com,True
 roblox,*.ra.roblox.com,True
-roblox,*.roblox.com,True
 roblox,*.guilded.gg,True
+roblox,*.roblox.com,True
 roblox,*.roblox.com,True
 roblox,*.rbx.com,True
 roblox,*.guilded.gg,True
@@ -8013,9 +8013,9 @@ newrelic,support.newrelic.com,True
 newrelic,blog.newrelic.com,True
 newrelic,alerts.newrelic.com,True
 newrelic,discuss.newrelic.com,True
-newrelic,alerts.eu.newrelic.com,True
 newrelic,*.infrastructure.newrelic.com,True
 newrelic,synthetics.newrelic.com,True
+newrelic,alerts.eu.newrelic.com,True
 newrelic,*.newrelic.com,True
 newrelic,*.infrastructure.newrelic.com,True
 newrelic,*.infrastructure-data.newrelic.com,True
@@ -9129,8 +9129,8 @@ slack,api.slack.com,True
 slack,slackb.com,True
 slack,slackatwork.com,True
 slack,slack-redir.net,True
-slack,app.slack.com,True
 slack,*.quip.com,True
+slack,app.slack.com,True
 slack,edgeapi.slack.com,True
 slack,slack-imgs.com,True
 slack,slack.com,True
@@ -9695,10 +9695,10 @@ tts,18f.gsa.gov,False
 tts,logs-platform.fr.cloud.gov,True
 tts,nessus.fr.cloud.gov,True
 tts,manage.data.gov,False
-tts,www.fedramp.gov,True
 tts,diagrams.fr.cloud.gov,True
 tts,prometheus.fr.cloud.gov,True
 tts,federalist-docs.18f.gov,True
+tts,dashboard.fr.cloud.gov,True
 tts,*.login.gov,True
 tts,*.code.gov,True
 tts,*.search.gov,True
