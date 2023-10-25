@@ -4702,6 +4702,7 @@ dcs-polarion.zebra.com
 www.matrox.com
 artifactory-us.zebra.com
 zsl.zebra.com
+wfc.zebra.com
 *.cto-si.zebra.com
 zebratradeinprogram.com
 docs.zebra.com
@@ -5685,12 +5686,12 @@ jira.logitech.com
 logitechgchallenge.com
 id.logi.com
 *.logitechmusic.com
-feedback.logitech.com
 *.melonapp.com
 *.lucra.live
 www.logitechclub.com
 sync.logitech.com
 external.logitech.com
+feedback.logitech.com
 partner.logitech.com
 maintenance.logitech.com
 *vc.logitech.com
@@ -6592,7 +6593,6 @@ accountmanager.8x8.com
 *.packet8.net
 work-staging.8x8.com
 express.8x8.com
-*.p8t.us
 *.ucverse.com
 *.8x8.com
 *.packet8.net
@@ -9103,8 +9103,8 @@ pro.coinbase.com
 custody.coinbase.com
 paradex.io
 *.cbhq.net
-prime.coinbase.com
 *.coinbase.com
+prime.coinbase.com
 api.coinbase.com
 cloud.coinbase.com
 institutional.coinbase.com

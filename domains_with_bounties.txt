@@ -3553,8 +3553,8 @@ pro.coinbase.com
 custody.coinbase.com
 paradex.io
 *.cbhq.net
-prime.coinbase.com
 *.coinbase.com
+prime.coinbase.com
 api.coinbase.com
 cloud.coinbase.com
 institutional.coinbase.com

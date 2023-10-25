@@ -4703,6 +4703,7 @@ zebra_vdp,dcs-polarion.zebra.com,False
 zebra_vdp,www.matrox.com,False
 zebra_vdp,artifactory-us.zebra.com,False
 zebra_vdp,zsl.zebra.com,False
+zebra_vdp,wfc.zebra.com,False
 zebra_vdp,*.cto-si.zebra.com,False
 zebra_vdp,zebratradeinprogram.com,False
 zebra_vdp,docs.zebra.com,False
@@ -5686,12 +5687,12 @@ logitech,jira.logitech.com,False
 logitech,logitechgchallenge.com,False
 logitech,id.logi.com,True
 logitech,*.logitechmusic.com,False
-logitech,feedback.logitech.com,False
 logitech,*.melonapp.com,False
 logitech,*.lucra.live,False
 logitech,www.logitechclub.com,False
 logitech,sync.logitech.com,True
 logitech,external.logitech.com,False
+logitech,feedback.logitech.com,False
 logitech,partner.logitech.com,False
 logitech,maintenance.logitech.com,False
 logitech,*vc.logitech.com,True
@@ -6593,7 +6594,6 @@ kubernetes,kubernetes-csi.github.io,True
 8x8,*.packet8.net,False
 8x8,work-staging.8x8.com,False
 8x8,express.8x8.com,False
-8x8,*.p8t.us,False
 8x8,*.ucverse.com,False
 8x8,*.8x8.com,False
 8x8,*.packet8.net,False
@@ -9104,8 +9104,8 @@ coinbase,pro.coinbase.com,True
 coinbase,custody.coinbase.com,True
 coinbase,paradex.io,True
 coinbase,*.cbhq.net,True
-coinbase,prime.coinbase.com,True
 coinbase,*.coinbase.com,True
+coinbase,prime.coinbase.com,True
 coinbase,api.coinbase.com,True
 coinbase,cloud.coinbase.com,True
 coinbase,institutional.coinbase.com,True
