@@ -3225,8 +3225,8 @@ push-d-hap.cloud.etoro.com
 push-demo-lightstreamer.cloud.etoro.com
 sts.etoro.com
 watchlistapi.etoro.com
-www.etoro.com
 delta.app
+www.etoro.com
 aggregator.etoro.com
 cashier.etoro.com
 cashier-src.etoro.com
@@ -8700,8 +8700,8 @@ yourcompany.udemy.com
 your-store.myshopify.com
 arrive-server.shopifycloud.com
 linkpop.com
-*.shopifycloud.com
 shop.app
+*.shopifycloud.com
 partners.shopify.com
 *.shopifykloud.com
 shopifyinbox.com
@@ -8951,8 +8951,8 @@ next.airbnb.com
 *.byairbnb.com
 *.hoteltonight-test.com
 www.hoteltonight.com
-*.muscache.com
 *.airbnb.com
+*.muscache.com
 assets.airbnb.com
 open.airbnb.com
 callbacks.airbnb.com
@@ -9159,9 +9159,9 @@ api.hackerone.com
 hackerone.com
 www.wearehackerone.com
 mta-sts.wearehackerone.com
-a5s.hackerone-ext-content.com
 hackathon-photos-us-east-2.hackerone-user-content.com
 cover-photos-us-east-2.hackerone-user-content.com
+a5s.hackerone-ext-content.com
 *.vpn.hackerone.net
 hackathon-photos.hackerone-user-content.com
 profile-photos.hackerone-user-content.com
@@ -9694,10 +9694,10 @@ inventory.data.gov
 logs-platform.fr.cloud.gov
 nessus.fr.cloud.gov
 manage.data.gov
+www.fedramp.gov
 diagrams.fr.cloud.gov
 prometheus.fr.cloud.gov
 federalist-docs.18f.gov
-dashboard.fr.cloud.gov
 *.login.gov
 *.code.gov
 *.search.gov
@@ -9760,10 +9760,10 @@ socket.ukrn.io
 sysops.ukrn.io
 u.ukrn.io
 utils.ukrn.io
+unikrn.ly
 virtual.ukrn.io
 cashier-w.unikrn.com
 cashier.unikrn.com
-unikrn.ly
 unikrn.com
 api.ukrn.io
 auth-adm.ukrn.io
