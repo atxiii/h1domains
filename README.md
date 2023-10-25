@@ -2,10 +2,10 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Oct 25 20:13:45 UTC 2023)
+## Domains with Bounties (Last Updated Wed Oct 25 21:11:53 UTC 2023)
 ```
-app.frontapp.com
 *.front.com
+app.frontapp.com
 help.front.com
 api2.frontapp.com
 *.front.com
@@ -2459,11 +2459,11 @@ matomo.cloud
 matomo.cloud
 www.swiftfinancial.com
 swiftfinancial.com
-*.braintree-api.com
 py.pl
 *.paylution.com
 *.xoom.com
 *.braintreepayments.com
+*.braintree-api.com
 www.swiftcapital.com
 my.swiftfinancial.com
 swiftcapital.com
@@ -2706,9 +2706,9 @@ support.newrelic.com
 blog.newrelic.com
 alerts.newrelic.com
 discuss.newrelic.com
-alerts.eu.newrelic.com
 *.infrastructure.newrelic.com
 synthetics.newrelic.com
+alerts.eu.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
 *.infrastructure-data.newrelic.com
@@ -3029,9 +3029,9 @@ www.starbucks.com.br
 card.starbucks.com.sg
 secureui.starbucks.com
 www.starbucks.de
-www.starbucks.com
 www.starbucks.com.sg
 app.starbucks.com
+www.starbucks.com
 www.starbucks.co.kr
 login.starbucks.co.jp
 www.starbucks.co.jp
@@ -3293,8 +3293,8 @@ partners.shopify.com
 shopifyinbox.com
 shopify.plus
 accounts.shopify.com
-admin.shopify.com
 *.shopify.com
+admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -3800,10 +3800,10 @@ marketplace.dev.lifeomic.com
 ga4gh.dev.lifeomic.com
 api.dev.lifeomic.com
 *.dev.lifeomic.com
+apps.wellness.dev.lifeomic.com
 apps.dev.skillspring.com
 fhir.dev.lifeomic.com
 *.infra.lifeomic.com
-apps.wellness.dev.lifeomic.com
 *.infra.lifeomic.com
 *.dev.lifeomic.com
 apps.wellness.dev.lifeomic.com
@@ -3976,10 +3976,10 @@ socket.ukrn.io
 sysops.ukrn.io
 u.ukrn.io
 utils.ukrn.io
+unikrn.ly
 virtual.ukrn.io
 cashier-w.unikrn.com
 cashier.unikrn.com
-unikrn.ly
 unikrn.com
 api.ukrn.io
 auth-adm.ukrn.io
