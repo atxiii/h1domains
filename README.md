@@ -2,10 +2,10 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Oct 26 17:14:10 UTC 2023)
+## Domains with Bounties (Last Updated Thu Oct 26 18:17:27 UTC 2023)
 ```
-*.front.com
 app.frontapp.com
+*.front.com
 help.front.com
 api2.frontapp.com
 *.front.com
@@ -539,7 +539,6 @@ user-profile.8x8.com
 *.wavecell.com
 *.8x8cloud.net
 pay.8x8.com
-admin.8x8.com
 *.8x8.vc
 *.jit.si
 *.jitsi.net

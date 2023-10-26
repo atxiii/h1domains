@@ -1,6 +1,6 @@
 handle,domain,eligible_for_bounty
-fronthq,*.front.com,True
 fronthq,app.frontapp.com,True
+fronthq,*.front.com,True
 fronthq,help.front.com,True
 fronthq,api2.frontapp.com,True
 fronthq,*.front.com,True
@@ -662,9 +662,9 @@ daimler_truck,*.westernstar.com,False
 daimler_truck,*fleetboard.de,False
 daimler_truck,*.bharatbenz.com,False
 daimler_truck,*.freightliner.com,False
-daimler_truck,*.mitsubishi-fuso.com,False
 daimler_truck,*evobus.com,False
 daimler_truck,*fleetboard.com,False
+daimler_truck,*.mitsubishi-fuso.com,False
 daimler_truck,*exceleratorparts.com,False
 daimler_truck,*.mercedes-benz-trucks.com,False
 daimler_truck,*.mitsubishi-fuso.com,False
@@ -2157,7 +2157,6 @@ kkr_vdp,ksam.com,False
 8x8-bounty,*.wavecell.com,True
 8x8-bounty,*.8x8cloud.net,True
 8x8-bounty,pay.8x8.com,True
-8x8-bounty,admin.8x8.com,True
 8x8-bounty,*.8x8.vc,True
 8x8-bounty,*.jit.si,True
 8x8-bounty,*.jitsi.net,True
@@ -6592,7 +6591,6 @@ kubernetes,kubernetes-csi.github.io,True
 8x8,*.packet8.net,False
 8x8,work-staging.8x8.com,False
 8x8,express.8x8.com,False
-8x8,*.p8t.us,False
 8x8,*.ucverse.com,False
 8x8,*.8x8.com,False
 8x8,*.packet8.net,False
@@ -6634,6 +6632,7 @@ kubernetes,kubernetes-csi.github.io,True
 8x8,supersite.8x8.com,False
 8x8,pay.8x8.com,False
 8x8,admin.8x8.com,False
+8x8,vm.8x8.com,False
 8x8,www.8x8.com,False
 8x8,get8x8.com,False
 palo_alto_software,www.paloalto.com,False
@@ -7466,9 +7465,9 @@ capital-one,*.capitalonebank.com,False
 capital-one,*.capitalone.ca,False
 capital-one,*.teamstercardnow.com,False
 capital-one,*.usejewel.com,False
+capital-one,*.wikibuy.com,False
 capital-one,*.luma.co.uk,False
 capital-one,*.capitalonecareers.co.uk,False
-capital-one,*.wikibuy.com,False
 capital-one,*.capitalone.com,False
 capital-one,*.paribus.co,False
 capital-one,*.capitalone360.com,False
