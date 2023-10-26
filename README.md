@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Oct 26 07:16:58 UTC 2023)
+## Domains with Bounties (Last Updated Thu Oct 26 08:17:26 UTC 2023)
 ```
 *.front.com
 app.frontapp.com
@@ -515,11 +515,11 @@ auth.skypicker.com
 tequila.kiwi.com
 http://www.kiwi.com/stories
 jobs.kiwi.com
-connect.8x8.com
 sso.8x8.com
 work.8x8.com
 *.jitsi.net
 *.8x8.vc
+connect.8x8.com
 *.jit.si
 platform.8x8pilot.com
 work-staging.8x8.com
@@ -3129,12 +3129,12 @@ npmjs.com
 api.github.com
 classroom.github.com
 *.githubapp.com
-*.github.net
 education.github.com
 npmjs.org
 *.githubusercontent.com
 gist.github.com
 github.com
+*.github.net
 github.com
 api.github.com
 gist.github.com
@@ -3625,8 +3625,8 @@ profile-photos.hackerone-user-content.com
 reviewer.pullrequest.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 hackerone-ext-content.com
-www.hackerone.com
 ctf.hacker101.com
+www.hackerone.com
 profile-photos-us-east-2.hackerone-user-content.com
 hackerone.live
 cover-photos.hackerone-user-content.com
