@@ -6593,6 +6593,7 @@ kubernetes,kubernetes-csi.github.io,True
 8x8,*.packet8.net,False
 8x8,work-staging.8x8.com,False
 8x8,express.8x8.com,False
+8x8,*.p8t.us,False
 8x8,*.ucverse.com,False
 8x8,*.8x8.com,False
 8x8,*.packet8.net,False
@@ -7466,9 +7467,9 @@ capital-one,*.capitalonebank.com,False
 capital-one,*.capitalone.ca,False
 capital-one,*.teamstercardnow.com,False
 capital-one,*.usejewel.com,False
+capital-one,*.wikibuy.com,False
 capital-one,*.luma.co.uk,False
 capital-one,*.capitalonecareers.co.uk,False
-capital-one,*.wikibuy.com,False
 capital-one,*.capitalone.com,False
 capital-one,*.paribus.co,False
 capital-one,*.capitalone360.com,False
@@ -8013,9 +8014,9 @@ newrelic,support.newrelic.com,True
 newrelic,blog.newrelic.com,True
 newrelic,alerts.newrelic.com,True
 newrelic,discuss.newrelic.com,True
+newrelic,alerts.eu.newrelic.com,True
 newrelic,*.infrastructure.newrelic.com,True
 newrelic,synthetics.newrelic.com,True
-newrelic,alerts.eu.newrelic.com,True
 newrelic,*.newrelic.com,True
 newrelic,*.infrastructure.newrelic.com,True
 newrelic,*.infrastructure-data.newrelic.com,True
@@ -8338,9 +8339,9 @@ rockstargames,*.rockstargames.com,True
 rockstargames,circolocorecords.com/,True
 rockstargames,socialclub.rockstargames.com,True
 rockstargames,lifeinvader.com,True
-rockstargames,support.rockstargames.com,True
 rockstargames,store.rockstargames.com,True
 rockstargames,prod.ros.rockstargames.com,True
+rockstargames,support.rockstargames.com,True
 rockstargames,socialclub.rockstargames.com,True
 rockstargames,prod.ros.rockstargames.com,True
 rockstargames,support.rockstargames.com,True
@@ -8593,8 +8594,8 @@ zomato,*.hyperpure.com,True
 zomato,blinkit.com,True
 zomato,winecellar.zomato.com,True
 zomato,*.zdev.net,True
-zomato,*.zomato.com,True
 zomato,*.zomans.com,True
+zomato,*.zomato.com,True
 zomato,*.runnr.in,True
 zomato,*.zomato.com,True
 zomato,*.zdev.net,True
@@ -9156,8 +9157,8 @@ yahoo,proddata.xobni.yahoo.com,True
 yahoo,apis.mail.yahoo.com,True
 yahoo,yimg.com,True
 security,hackerone-user-content.com,True
-security,api.hackerone.com,True
 security,hackerone.com,True
+security,api.hackerone.com,True
 security,www.wearehackerone.com,True
 security,mta-sts.wearehackerone.com,True
 security,hackathon-photos-us-east-2.hackerone-user-content.com,True
@@ -9695,10 +9696,10 @@ tts,18f.gsa.gov,False
 tts,logs-platform.fr.cloud.gov,True
 tts,nessus.fr.cloud.gov,True
 tts,manage.data.gov,False
+tts,www.fedramp.gov,True
 tts,diagrams.fr.cloud.gov,True
 tts,prometheus.fr.cloud.gov,True
 tts,federalist-docs.18f.gov,True
-tts,dashboard.fr.cloud.gov,True
 tts,*.login.gov,True
 tts,*.code.gov,True
 tts,*.search.gov,True
