@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Oct 27 03:15:02 UTC 2023)
+## Domains with Bounties (Last Updated Fri Oct 27 04:16:12 UTC 2023)
 ```
 *.front.com
 app.frontapp.com
@@ -688,9 +688,9 @@ zerobounce.net
 *.gravitational.com
 *.teleport.dev
 *.gravitational.co
-*.teleportinfra.sh
 cloud.gravitational.io
 askpam.ai
+*.teleportinfra.sh
 teleport.sh
 *.gravitational.io
 h1-your-domain.teleport.sh
@@ -2704,9 +2704,9 @@ support.newrelic.com
 blog.newrelic.com
 alerts.newrelic.com
 discuss.newrelic.com
+alerts.eu.newrelic.com
 *.infrastructure.newrelic.com
 synthetics.newrelic.com
-alerts.eu.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
 *.infrastructure-data.newrelic.com
@@ -3306,12 +3306,12 @@ admin.shopify.com
 linkpop.com
 shopifyinbox.com
 story.snapchat.com
-ads.snapchat.com
 create.snapchat.com
 businesshelp.snapchat.com
 msg.playcanvas.com
 accounts.snapchat.com
 forum.playcanvas.com
+ads.snapchat.com
 scan.snapchat.com
 blog.playcanvas.com
 code.playcanvas.com
