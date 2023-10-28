@@ -662,9 +662,9 @@ daimler_truck,*.westernstar.com,False
 daimler_truck,*fleetboard.de,False
 daimler_truck,*.bharatbenz.com,False
 daimler_truck,*.freightliner.com,False
+daimler_truck,*.mitsubishi-fuso.com,False
 daimler_truck,*evobus.com,False
 daimler_truck,*fleetboard.com,False
-daimler_truck,*.mitsubishi-fuso.com,False
 daimler_truck,*exceleratorparts.com,False
 daimler_truck,*.mercedes-benz-trucks.com,False
 daimler_truck,*.mitsubishi-fuso.com,False
@@ -5519,11 +5519,11 @@ mendix,3s.mendixcloud.com,False
 mendix,*.timeseries.nl,False
 mendix,notification.billing.appservices.mendix.com,False
 mendix,servicemanagement-accp.mendixcloud.com,False
-mendix,3dvis.mendixcloud.com,False
-mendix,mxbpconfig.mendixcloud.com,False
 mendix,dataprivacy.mendixcloud.com,False
 mendix,alm.mendixcloud.com,False
 mendix,simplate.mendixcloud.com,False
+mendix,3dvis.mendixcloud.com,False
+mendix,mxbpconfig.mendixcloud.com,False
 mendix,*.mendix.com,False
 mendix,*.timeseries.com,False
 mendix,*.timeseries.nl,False
@@ -7076,8 +7076,8 @@ mtn_group,progressivetech.holdings,False
 mtn_group,ayo.ba,False
 datastax,downloads.datastax.com,True
 datastax,www.datastax.com,True
-datastax,astra.datastax.com,True
 datastax,docs.datastax.com,True
+datastax,astra.datastax.com,True
 datastax,www.datastax.com,True
 datastax,downloads.datastax.com,True
 datastax,docs.datastax.com,True
@@ -7782,9 +7782,9 @@ paypal,www.swiftfinancial.com,True
 paypal,swiftfinancial.com,True
 paypal,py.pl,True
 paypal,*.paylution.com,True
-paypal,*.xoom.com,True
 paypal,*.braintreepayments.com,True
 paypal,*.braintree-api.com,True
+paypal,*.xoom.com,True
 paypal,www.swiftcapital.com,True
 paypal,my.swiftfinancial.com,True
 paypal,swiftcapital.com,True
@@ -8733,8 +8733,8 @@ shopify,*.shopifykloud.com,True
 shopify,shopifyinbox.com,True
 shopify,shopify.plus,True
 shopify,accounts.shopify.com,True
-shopify,admin.shopify.com,True
 shopify,*.shopify.com,True
+shopify,admin.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
 shopify,*.shopifycloud.com,True
@@ -8977,8 +8977,8 @@ airbnb,*.airbnbcitizen.com,True
 airbnb,*.byairbnb.com,True
 airbnb,www.hoteltonight.com,True
 airbnb,*.muscache.com,True
-airbnb,*.airbnb.com,True
 airbnb,*.hoteltonight-test.com,True
+airbnb,*.airbnb.com,True
 airbnb,assets.airbnb.com,True
 airbnb,open.airbnb.com,True
 airbnb,api.airbnb.com,True
@@ -9045,8 +9045,8 @@ informatica,*.informatica.com,False
 informatica,*.informaticacloud.com,False
 x,*.vine.co,True
 x,twitterflightschool.com,False
-x,*.twitter.com,True
 x,x.com,True
+x,*.twitter.com,True
 x,t.co,False
 x,*.twimg.com,True
 x,gnip.com,True
@@ -9199,8 +9199,8 @@ security,profile-photos-us-east-2.hackerone-user-content.com,True
 security,hackerone.live,True
 security,errors.hackerone.net,True
 security,app.pullrequest.com,True
-security,cover-photos.hackerone-user-content.com,True
 security,b5s.hackerone-ext-content.com,True
+security,cover-photos.hackerone-user-content.com,True
 security,hackerone.com,True
 security,api.hackerone.com,True
 security,www.hackerone.com,True
@@ -9508,10 +9508,10 @@ lifeomic,marketplace.dev.lifeomic.com,True
 lifeomic,ga4gh.dev.lifeomic.com,True
 lifeomic,api.dev.lifeomic.com,True
 lifeomic,*.dev.lifeomic.com,True
+lifeomic,apps.wellness.dev.lifeomic.com,True
 lifeomic,apps.dev.skillspring.com,True
 lifeomic,fhir.dev.lifeomic.com,True
 lifeomic,*.infra.lifeomic.com,True
-lifeomic,apps.wellness.dev.lifeomic.com,True
 lifeomic,*.infra.lifeomic.com,True
 lifeomic,*.dev.lifeomic.com,True
 lifeomic,apps.wellness.dev.lifeomic.com,True

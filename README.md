@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Oct 28 14:12:49 UTC 2023)
+## Domains with Bounties (Last Updated Sat Oct 28 15:12:30 UTC 2023)
 ```
 *.front.com
 app.frontapp.com
@@ -2045,8 +2045,8 @@ k8s.io
 kubernetes-csi.github.io
 downloads.datastax.com
 www.datastax.com
-astra.datastax.com
 docs.datastax.com
+astra.datastax.com
 www.datastax.com
 downloads.datastax.com
 docs.datastax.com
@@ -2459,9 +2459,9 @@ www.swiftfinancial.com
 swiftfinancial.com
 py.pl
 *.paylution.com
-*.xoom.com
 *.braintreepayments.com
 *.braintree-api.com
+*.xoom.com
 www.swiftcapital.com
 my.swiftfinancial.com
 swiftcapital.com
@@ -3291,8 +3291,8 @@ partners.shopify.com
 shopifyinbox.com
 shopify.plus
 accounts.shopify.com
-admin.shopify.com
 *.shopify.com
+admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -3416,8 +3416,8 @@ next.airbnb.com
 *.byairbnb.com
 www.hoteltonight.com
 *.muscache.com
-*.airbnb.com
 *.hoteltonight-test.com
+*.airbnb.com
 assets.airbnb.com
 open.airbnb.com
 api.airbnb.com
@@ -3479,8 +3479,8 @@ applause1.magisto.com
 www.livestream.com
 donations.livestream.com
 *.vine.co
-*.twitter.com
 x.com
+*.twitter.com
 *.twimg.com
 gnip.com
 *.twitter.com
@@ -3628,8 +3628,8 @@ profile-photos-us-east-2.hackerone-user-content.com
 hackerone.live
 errors.hackerone.net
 app.pullrequest.com
-cover-photos.hackerone-user-content.com
 b5s.hackerone-ext-content.com
+cover-photos.hackerone-user-content.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
@@ -3797,10 +3797,10 @@ marketplace.dev.lifeomic.com
 ga4gh.dev.lifeomic.com
 api.dev.lifeomic.com
 *.dev.lifeomic.com
+apps.wellness.dev.lifeomic.com
 apps.dev.skillspring.com
 fhir.dev.lifeomic.com
 *.infra.lifeomic.com
-apps.wellness.dev.lifeomic.com
 *.infra.lifeomic.com
 *.dev.lifeomic.com
 apps.wellness.dev.lifeomic.com
