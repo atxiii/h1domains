@@ -1,4 +1,5 @@
 handle,domain,eligible_for_bounty
+test.test.com
 fronthq,*.front.com,True
 fronthq,app.frontapp.com,True
 fronthq,help.front.com,True
