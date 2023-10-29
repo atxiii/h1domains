@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Oct 29 06:16:13 UTC 2023)
+## Domains with Bounties (Last Updated Sun Oct 29 07:13:01 UTC 2023)
 ```
 *.front.com
 app.frontapp.com
@@ -3290,8 +3290,8 @@ partners.shopify.com
 *.shopifykloud.com
 shopifyinbox.com
 shopify.plus
-accounts.shopify.com
 admin.shopify.com
+accounts.shopify.com
 *.shopify.com
 *.shopify.com
 *.shopifykloud.com
@@ -3559,8 +3559,8 @@ paradex.io
 *.cbhq.net
 prime.coinbase.com
 *.coinbase.com
-api.coinbase.com
 cloud.coinbase.com
+api.coinbase.com
 institutional.coinbase.com
 api.custody.coinbase.com
 *.base.org
