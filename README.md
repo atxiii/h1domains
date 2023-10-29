@@ -2,18 +2,18 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Oct 29 19:12:14 UTC 2023)
+## Domains with Bounties (Last Updated Sun Oct 29 20:14:08 UTC 2023)
 ```
-*.front.com
 app.frontapp.com
+*.front.com
 help.front.com
 api2.frontapp.com
 *.front.com
 app.frontapp.com
 api2.frontapp.com
 http://help.front.com
-*.boozt.com
 *.booztlet.com
+*.boozt.com
 *.boozt.com
 *.booztlet.com
 *.trip.com
@@ -312,8 +312,8 @@ api.tideplatform.in
 www.tide.co
 firefox.settings.services.mozilla.com
 crash-stats.allizom.org
-firefox-ci-tc.services.mozilla.com
 accounts.firefox.com
+firefox-ci-tc.services.mozilla.com
 merino.services.mozilla.com
 sync.services.mozilla.com
 push.services.mozilla.com
@@ -2704,9 +2704,9 @@ support.newrelic.com
 blog.newrelic.com
 alerts.newrelic.com
 discuss.newrelic.com
-alerts.eu.newrelic.com
 *.infrastructure.newrelic.com
 synthetics.newrelic.com
+alerts.eu.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
 *.infrastructure-data.newrelic.com
@@ -3130,8 +3130,8 @@ classroom.github.com
 education.github.com
 gist.github.com
 *.githubusercontent.com
-github.com
 npmjs.org
+github.com
 *.github.net
 github.com
 api.github.com
@@ -3309,9 +3309,9 @@ story.snapchat.com
 create.snapchat.com
 businesshelp.snapchat.com
 msg.playcanvas.com
-accounts.snapchat.com
 forum.playcanvas.com
 ads.snapchat.com
+accounts.snapchat.com
 scan.snapchat.com
 blog.playcanvas.com
 code.playcanvas.com
@@ -3478,8 +3478,8 @@ staging.magisto.com
 applause1.magisto.com
 www.livestream.com
 donations.livestream.com
-x.com
 *.twitter.com
+x.com
 *.vine.co
 *.twimg.com
 gnip.com
@@ -3910,10 +3910,10 @@ federation.data.gov
 inventory.data.gov
 logs-platform.fr.cloud.gov
 nessus.fr.cloud.gov
+www.fedramp.gov
 diagrams.fr.cloud.gov
 prometheus.fr.cloud.gov
 federalist-docs.18f.gov
-dashboard.fr.cloud.gov
 *.login.gov
 *.code.gov
 *.search.gov
