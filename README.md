@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Oct 29 21:11:17 UTC 2023)
+## Domains with Bounties (Last Updated Sun Oct 29 22:13:17 UTC 2023)
 ```
 app.frontapp.com
 *.front.com
@@ -2704,9 +2704,9 @@ support.newrelic.com
 blog.newrelic.com
 alerts.newrelic.com
 discuss.newrelic.com
-alerts.eu.newrelic.com
 *.infrastructure.newrelic.com
 synthetics.newrelic.com
+alerts.eu.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
 *.infrastructure-data.newrelic.com
@@ -3130,8 +3130,8 @@ classroom.github.com
 education.github.com
 gist.github.com
 *.githubusercontent.com
-npmjs.org
 github.com
+npmjs.org
 *.github.net
 github.com
 api.github.com
@@ -3290,9 +3290,9 @@ partners.shopify.com
 *.shopifykloud.com
 shopifyinbox.com
 shopify.plus
-admin.shopify.com
-accounts.shopify.com
 *.shopify.com
+accounts.shopify.com
+admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -3910,10 +3910,10 @@ federation.data.gov
 inventory.data.gov
 logs-platform.fr.cloud.gov
 nessus.fr.cloud.gov
-www.fedramp.gov
 diagrams.fr.cloud.gov
 prometheus.fr.cloud.gov
 federalist-docs.18f.gov
+dashboard.fr.cloud.gov
 *.login.gov
 *.code.gov
 *.search.gov
