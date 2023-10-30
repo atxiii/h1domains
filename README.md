@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Oct 30 07:14:28 UTC 2023)
+## Domains with Bounties (Last Updated Mon Oct 30 08:16:17 UTC 2023)
 ```
 *.front.com
 app.frontapp.com
@@ -567,8 +567,8 @@ pay.8x8.com
 admin.8x8.com
 *.magicjackpot.ro
 *.luckydays.com
-*.superbet.com
 *.superbet.ro
+*.superbet.com
 *.luckydays.ca
 *.spinaway.com
 *.superbet.rs
@@ -1946,8 +1946,8 @@ fortmatic.com
 unibet.me
 *.highrolling.nu
 *.kolikkopelit.com
-*.bingo.com
 *.unibet.fr
+*.bingo.com
 maria.casino
 *.mariacasino.com
 *.kindredext.net
@@ -2022,8 +2022,8 @@ www.goodrx.com
 www.goodrx.com
 *.rbx.com
 *.ra.roblox.com
-*.roblox.com
 *.guilded.gg
+*.roblox.com
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -2704,9 +2704,9 @@ support.newrelic.com
 blog.newrelic.com
 alerts.newrelic.com
 discuss.newrelic.com
+alerts.eu.newrelic.com
 *.infrastructure.newrelic.com
 synthetics.newrelic.com
-alerts.eu.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
 *.infrastructure-data.newrelic.com
@@ -3130,8 +3130,8 @@ classroom.github.com
 education.github.com
 gist.github.com
 *.githubusercontent.com
-github.com
 npmjs.org
+github.com
 *.github.net
 github.com
 api.github.com
@@ -3292,9 +3292,9 @@ partners.shopify.com
 *.shopifykloud.com
 shopifyinbox.com
 shopify.plus
-*.shopify.com
-accounts.shopify.com
 admin.shopify.com
+accounts.shopify.com
+*.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -3624,8 +3624,8 @@ profile-photos.hackerone-user-content.com
 reviewer.pullrequest.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 hackerone-ext-content.com
-ctf.hacker101.com
 www.hackerone.com
+ctf.hacker101.com
 profile-photos-us-east-2.hackerone-user-content.com
 app.pullrequest.com
 cover-photos.hackerone-user-content.com
@@ -3912,10 +3912,10 @@ federation.data.gov
 inventory.data.gov
 logs-platform.fr.cloud.gov
 nessus.fr.cloud.gov
+www.fedramp.gov
 diagrams.fr.cloud.gov
 prometheus.fr.cloud.gov
 federalist-docs.18f.gov
-dashboard.fr.cloud.gov
 *.login.gov
 *.code.gov
 *.search.gov
