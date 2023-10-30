@@ -637,8 +637,8 @@ www.expediapartnercentral.com
 www.ebookers.fi
 www.stayz.com.au
 www.wotif.com
-www.hotwire.com
 www.expediacruises.com
+www.hotwire.com
 www.hotels.com
 www.expedia.com
 www.expediapartnercentral.com
@@ -2698,9 +2698,9 @@ support.newrelic.com
 blog.newrelic.com
 alerts.newrelic.com
 discuss.newrelic.com
+alerts.eu.newrelic.com
 *.infrastructure.newrelic.com
 synthetics.newrelic.com
-alerts.eu.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
 *.infrastructure-data.newrelic.com
@@ -3024,10 +3024,10 @@ www.starbucks.de
 www.starbucks.com.sg
 www.starbucks.com
 app.starbucks.com
-login.starbucks.co.jp
 www.starbucks.co.jp
 www.starbucks.com.cn
 www.starbucks.co.kr
+login.starbucks.co.jp
 openapi.starbucks.com
 www.starbucks.ca
 gift.starbucks.co.jp
@@ -3280,8 +3280,8 @@ yourcompany.udemy.com
 arrive-server.shopifycloud.com
 your-store.myshopify.com
 linkpop.com
-*.shopifycloud.com
 shop.app
+*.shopifycloud.com
 partners.shopify.com
 *.shopifykloud.com
 shopifyinbox.com
@@ -3474,9 +3474,9 @@ staging.magisto.com
 applause1.magisto.com
 www.livestream.com
 donations.livestream.com
+*.twitter.com
 x.com
 *.vine.co
-*.twitter.com
 *.twimg.com
 gnip.com
 *.twitter.com
@@ -3605,8 +3605,8 @@ proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
 hackerone-user-content.com
-api.hackerone.com
 hackerone.com
+api.hackerone.com
 www.wearehackerone.com
 mta-sts.wearehackerone.com
 hackathon-photos-us-east-2.hackerone-user-content.com
