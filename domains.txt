@@ -7,7 +7,6 @@ portal.au.frontegg.com
 *.cbre-ea.com
 *.cbrecap.com
 *.cbreclarion.com
-*.cbrehotels.com
 *.cbreresidential.es
 *.cbrichardellis.com
 *.famecoretail.com
@@ -46,6 +45,7 @@ cbreproperties.cz
 cbre-marketplace.com
 cbrerm.com
 cbrelive.com
+www.navesylogisticacbre.com
 *.mainstreamsasp.com
 *.bovis.es
 *.cbreglobalinvestors.com
@@ -2830,11 +2830,11 @@ profile-api.eu-east-1.indriverapp.com
 priority.eu-east-1.indriverapp.com
 *.indriverapp.com
 watchdocs.indriverapp.com
-injob.indriver.com
 super-services.indriverapp.com
 volans.tech
 wga.volans.tech
 file-storage-front.eu-east-1.indriverapp.com
+injob.indriver.com
 *.indriverapp.com
 *.indrive.com
 *.indriver.com
@@ -3976,8 +3976,8 @@ www.cafepress.com
 iseeme.com
 www.simplytoimpress.com
 *.photoaffections.com
-www.canvasworld.com
 *.gifts.com
+www.canvasworld.com
 *.personalcreations.com
 *.canvasworld.com
 *.iseeme.com
@@ -4108,8 +4108,8 @@ ws.sorare.com
 *.shein.com
 *.romwe.com
 *.sheingsp.com
-exnessaffiliates.com
 my.exness.com
+exnessaffiliates.com
 exness.com
 pay.ibex.exchange
 pwapi.ex2b.com
@@ -5746,8 +5746,8 @@ redditforbusiness.com
 accounts.reddit.com
 mod.reddit.com
 matrix.redditspace.com
-www.reddit.com
 oauth.reddit.com
+www.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -6411,11 +6411,11 @@ deskallocation.mendixcloud.com
 *.timeseries.nl
 notification.billing.appservices.mendix.com
 servicemanagement-accp.mendixcloud.com
-3dvis.mendixcloud.com
-mxbpconfig.mendixcloud.com
 dataprivacy.mendixcloud.com
 alm.mendixcloud.com
 simplate.mendixcloud.com
+3dvis.mendixcloud.com
+mxbpconfig.mendixcloud.com
 *.mendix.com
 *.timeseries.com
 *.timeseries.nl
@@ -7102,9 +7102,9 @@ www.alibabagroup.com
 *.alimama.com
 *.1688.com
 *.aliyun-inc.com
-*.Daraz.com
 *.aliexpress.com
 *.aliyun.com
+*.Daraz.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -8352,6 +8352,7 @@ www.priceline.com
 www.getaroom.com
 secure.rezserver.com
 api.rezserver.com
+flyiin.com
 cruises.priceline.com
 press.priceline.com
 www.priceline.com
@@ -8361,6 +8362,7 @@ cruises.priceline.com
 api.rezserver.com
 admin.rezserver.com
 www.getaroom.com
+flyiin.com
 press.priceline.com
 www.bookingholdings.com
 *.pyopenssl.org
@@ -8379,8 +8381,8 @@ www.bookingholdings.com
 *.capitalone.ca
 *.teamstercardnow.com
 *.usejewel.com
-*.wikibuy.com
 *.luma.co.uk
+*.wikibuy.com
 *.capitalonecareers.co.uk
 *.capitalone.com
 *.paribus.co
@@ -9733,8 +9735,8 @@ magento.com
 *.adobe.com
 firefly.adobe.com
 *.adobeaemcloud.com
-nicetryapril.na1.echosignsandbox.com
 auth.services.adobe.com
+nicetryapril.na1.echosignsandbox.com
 *.tt.omtrdc.net
 *.omniture.com
 *.tubemogul.com
@@ -10070,8 +10072,8 @@ www.hackerone.com
 profile-photos-us-east-2.hackerone-user-content.com
 errors.hackerone.net
 hackerone.live
-cover-photos.hackerone-user-content.com
 app.pullrequest.com
+cover-photos.hackerone-user-content.com
 b5s.hackerone-ext-content.com
 hackerone.com
 api.hackerone.com
@@ -10430,10 +10432,10 @@ marketplace.dev.lifeomic.com
 ga4gh.dev.lifeomic.com
 api.dev.lifeomic.com
 *.dev.lifeomic.com
+apps.wellness.dev.lifeomic.com
 apps.dev.skillspring.com
 fhir.dev.lifeomic.com
 *.infra.lifeomic.com
-apps.wellness.dev.lifeomic.com
 *.infra.lifeomic.com
 *.dev.lifeomic.com
 apps.wellness.dev.lifeomic.com
