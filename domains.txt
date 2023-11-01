@@ -902,8 +902,8 @@ my.porsche.com
 configurator.porsche.com
 signup.porsche.com
 shop.porsche.com
-porsche.com
 identity.porsche.com
+porsche.com
 api.emea.gravity.porsche.com
 configurator.porsche.com
 connect-store.porsche.com
@@ -2600,8 +2600,8 @@ preprod.oyorooms.ms
 http://patron.oyo.com/blog/in
 firefox.settings.services.mozilla.com
 crash-stats.allizom.org
-accounts.firefox.com
 firefox-ci-tc.services.mozilla.com
+accounts.firefox.com
 merino.services.mozilla.com
 sync.services.mozilla.com
 push.services.mozilla.com
@@ -3054,9 +3054,9 @@ kinfra.com
 ksam.com
 work.8x8.com
 *.jitsi.net
-connect.8x8.com
 sso.8x8.com
 *.8x8.vc
+connect.8x8.com
 *.jit.si
 platform.8x8pilot.com
 work-staging.8x8.com
@@ -3972,8 +3972,8 @@ www.cafepress.com
 iseeme.com
 www.simplytoimpress.com
 *.photoaffections.com
-*.gifts.com
 www.canvasworld.com
+*.gifts.com
 *.personalcreations.com
 *.canvasworld.com
 www.gifts.com
@@ -6407,11 +6407,11 @@ deskallocation.mendixcloud.com
 *.timeseries.nl
 notification.billing.appservices.mendix.com
 servicemanagement-accp.mendixcloud.com
-3dvis.mendixcloud.com
-mxbpconfig.mendixcloud.com
 dataprivacy.mendixcloud.com
 alm.mendixcloud.com
 simplate.mendixcloud.com
+3dvis.mendixcloud.com
+mxbpconfig.mendixcloud.com
 *.mendix.com
 *.timeseries.com
 *.timeseries.nl
@@ -8381,8 +8381,8 @@ www.bookingholdings.com
 *.capitalone.ca
 *.teamstercardnow.com
 *.usejewel.com
-*.wikibuy.com
 *.luma.co.uk
+*.wikibuy.com
 *.capitalonecareers.co.uk
 *.capitalone.com
 *.paribus.co
@@ -8928,9 +8928,9 @@ support.newrelic.com
 blog.newrelic.com
 alerts.newrelic.com
 discuss.newrelic.com
-alerts.eu.newrelic.com
 *.infrastructure.newrelic.com
 synthetics.newrelic.com
+alerts.eu.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
 *.infrastructure-data.newrelic.com
@@ -10073,8 +10073,8 @@ profile-photos-us-east-2.hackerone-user-content.com
 errors.hackerone.net
 hackerone.live
 b5s.hackerone-ext-content.com
-cover-photos.hackerone-user-content.com
 app.pullrequest.com
+cover-photos.hackerone-user-content.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
@@ -10661,10 +10661,10 @@ inventory.data.gov
 logs-platform.fr.cloud.gov
 nessus.fr.cloud.gov
 manage.data.gov
+www.fedramp.gov
 diagrams.fr.cloud.gov
 prometheus.fr.cloud.gov
 federalist-docs.18f.gov
-dashboard.fr.cloud.gov
 *.login.gov
 *.code.gov
 *.search.gov
