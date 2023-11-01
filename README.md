@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Nov  1 18:17:52 UTC 2023)
+## Domains with Bounties (Last Updated Wed Nov  1 19:13:47 UTC 2023)
 ```
 portal.au.frontegg.com
 api.au.frontegg.com
@@ -1561,8 +1561,8 @@ careers.tiktok.com
 creatormarketplace.tiktok.com
 academy-outbound-ads.tiktok.com
 *.tiktokv.com
-*.tiktok.com
 business.tiktok.com
+*.tiktok.com
 developers.tiktok.com
 effecthouse.tiktok.com
 shop.tiktok.com
@@ -2601,7 +2601,6 @@ shoppingcart.shipt.com
 www.shipt.com
 *.liberapay.com
 *.liberapay.com
-*.gsselect.com
 *.gs-mosaic.gs.com
 *.marcus.co.uk
 *.ayco.com
@@ -2610,6 +2609,7 @@ apigw.foliofn.com
 *.foliofirst.com
 *.foliofn.com
 *.goldman.com
+*.gsselect.com
 *.global-liquidity.gs.com
 *.honestdollar.com
 *.gspublishing.com
@@ -3661,8 +3661,8 @@ www.hackerone.com
 profile-photos-us-east-2.hackerone-user-content.com
 errors.hackerone.net
 hackerone.live
-cover-photos.hackerone-user-content.com
 app.pullrequest.com
+cover-photos.hackerone-user-content.com
 b5s.hackerone-ext-content.com
 hackerone.com
 api.hackerone.com
