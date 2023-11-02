@@ -2,24 +2,24 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Nov  2 20:14:25 UTC 2023)
+## Domains with Bounties (Last Updated Thu Nov  2 21:12:28 UTC 2023)
 ```
 portal.au.frontegg.com
 api.au.frontegg.com
 api.au.frontegg.com
 portal.au.frontegg.com
 api.emea.gravity.porsche.com
-jobs.porsche.com
 connect-store.porsche.com
+jobs.porsche.com
 skyway.porsche.com
 finder.porsche.com
-my.porsche.com
 newsroom.porsche.com
+my.porsche.com
 configurator.porsche.com
-signup.porsche.com
 shop.porsche.com
-porsche.com
 identity.porsche.com
+porsche.com
+signup.porsche.com
 api.emea.gravity.porsche.com
 configurator.porsche.com
 connect-store.porsche.com
@@ -40,8 +40,8 @@ api2.frontapp.com
 app.frontapp.com
 api2.frontapp.com
 http://help.front.com
-*.boozt.com
 *.booztlet.com
+*.boozt.com
 *.boozt.com
 *.booztlet.com
 *.trip.com
@@ -1946,8 +1946,8 @@ www.alibabagroup.com
 *.1688.com
 www.alibabagroup.com
 www.mini.de
-configure.bmw.de
 www.bmw.de
+configure.bmw.de
 www.bmw-motorrad.de
 configure.mini.de
 konfigurator.bmw-motorrad.de
