@@ -2,24 +2,24 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Nov  2 16:17:55 UTC 2023)
+## Domains with Bounties (Last Updated Thu Nov  2 17:14:39 UTC 2023)
 ```
 portal.au.frontegg.com
 api.au.frontegg.com
 api.au.frontegg.com
 portal.au.frontegg.com
-connect-store.porsche.com
 api.emea.gravity.porsche.com
+connect-store.porsche.com
 jobs.porsche.com
 skyway.porsche.com
 finder.porsche.com
-my.porsche.com
 newsroom.porsche.com
+my.porsche.com
 configurator.porsche.com
 identity.porsche.com
-signup.porsche.com
 shop.porsche.com
 porsche.com
+signup.porsche.com
 api.emea.gravity.porsche.com
 configurator.porsche.com
 connect-store.porsche.com
@@ -32,16 +32,16 @@ porsche.com
 shop.porsche.com
 signup.porsche.com
 skyway.porsche.com
-app.frontapp.com
 *.front.com
+app.frontapp.com
 help.front.com
 api2.frontapp.com
 *.front.com
 app.frontapp.com
 api2.frontapp.com
 http://help.front.com
-*.booztlet.com
 *.boozt.com
+*.booztlet.com
 *.boozt.com
 *.booztlet.com
 *.trip.com
@@ -549,13 +549,13 @@ sso.8x8.com
 *.jitsi.net
 connect.8x8.com
 *.jit.si
-platform.8x8pilot.com
 work-staging.8x8.com
 user-profile-staging.8x8.com
 *.chalet.8x8.com
 cloud8.8x8.com
 uc.8x8pilot.com
 *.8x8.id
+platform.8x8pilot.com
 platform.8x8.com
 voapi.8x8.com
 *.packet8.net
@@ -1244,8 +1244,8 @@ main.trafficfactory.biz
 *.swiftype.com
 *.elasticnet.co
 *.eops.nl
-*.elstc.co
 cloud.elastic.co
+*.elstc.co
 www.elastic.co
 *.elastic.co
 *.elastic.co
@@ -1358,9 +1358,9 @@ www.chime.com
 wp-dev3.chime.com
 wp-dev1.chime.com
 wp-integ.chime.com
-*.chime.com
 wp-dev4.chime.com
 wp-qa.chime.com
+*.chime.com
 *.1debit.com
 *.chmfin.com
 wp-dev2.chime.com
@@ -1554,8 +1554,8 @@ api.adm.cloud.com
 (youriwssubdomain).cloud.com
 ads.tiktok.com
 live-backstage.tiktok.com
-partner.tiktokshop.com
 tiktok.com
+partner.tiktokshop.com
 www.pangleglobal.com
 careers.tiktok.com
 creatormarketplace.tiktok.com
@@ -2736,9 +2736,9 @@ support.newrelic.com
 blog.newrelic.com
 alerts.newrelic.com
 discuss.newrelic.com
-alerts.eu.newrelic.com
 *.infrastructure.newrelic.com
 synthetics.newrelic.com
+alerts.eu.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
 *.infrastructure-data.newrelic.com
@@ -3662,8 +3662,8 @@ profile-photos-us-east-2.hackerone-user-content.com
 hackerone.live
 cover-photos.hackerone-user-content.com
 errors.hackerone.net
-app.pullrequest.com
 b5s.hackerone-ext-content.com
+app.pullrequest.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
