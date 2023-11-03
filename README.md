@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Nov  3 21:13:11 UTC 2023)
+## Domains with Bounties (Last Updated Fri Nov  3 22:14:39 UTC 2023)
 ```
 portal.au.frontegg.com
 api.au.frontegg.com
@@ -165,8 +165,8 @@ explore.redoxengine.com
 www.redoxengine.com
 help.redoxengine.com
 www.mobile-phantom.com
-*.palm.tech
 www.tecno-mobile.com
+*.palm.tech
 security.tecno.com
 *.palm.tech
 www.tecno-mobile.com
@@ -545,8 +545,8 @@ http://www.kiwi.com/stories
 jobs.kiwi.com
 work.8x8.com
 *.jitsi.net
-sso.8x8.com
 connect.8x8.com
+sso.8x8.com
 *.8x8.vc
 *.jit.si
 work-staging.8x8.com
@@ -963,8 +963,8 @@ admin.instacart.com
 shoppers.instacart.com
 academy.databricks.com
 docs.databricks.com
-demo.cloud.databricks.com
 databricks.com
+demo.cloud.databricks.com
 accounts.cloud.databricks.com
 kb.databricks.com
 support.databricks.com
@@ -3210,9 +3210,9 @@ api2.grofers.com
 *.hyperpure.com
 blinkit.com
 winecellar.zomato.com
-*.zdev.net
 *.zomans.com
 *.zomato.com
+*.zdev.net
 *.runnr.in
 *.zomato.com
 *.zdev.net

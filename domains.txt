@@ -1501,8 +1501,8 @@ explore.redoxengine.com
 www.redoxengine.com
 help.redoxengine.com
 www.mobile-phantom.com
-*.palm.tech
 www.tecno-mobile.com
+*.palm.tech
 security.tecno.com
 *.palm.tech
 www.tecno-mobile.com
@@ -3099,8 +3099,8 @@ kinfra.com
 ksam.com
 work.8x8.com
 *.jitsi.net
-sso.8x8.com
 connect.8x8.com
+sso.8x8.com
 *.8x8.vc
 *.jit.si
 work-staging.8x8.com
@@ -4017,8 +4017,8 @@ www.cafepress.com
 iseeme.com
 www.simplytoimpress.com
 *.photoaffections.com
-*.gifts.com
 www.canvasworld.com
+*.gifts.com
 *.personalcreations.com
 *.canvasworld.com
 *.iseeme.com
@@ -4306,8 +4306,8 @@ new.myzap.com
 new.myzap.com
 academy.databricks.com
 docs.databricks.com
-demo.cloud.databricks.com
 databricks.com
+demo.cloud.databricks.com
 accounts.cloud.databricks.com
 kb.databricks.com
 support.databricks.com
@@ -8472,8 +8472,8 @@ www.bookingholdings.com
 *.capitalone.ca
 *.teamstercardnow.com
 *.usejewel.com
-*.wikibuy.com
 *.luma.co.uk
+*.wikibuy.com
 *.capitalonecareers.co.uk
 *.capitalone.com
 *.paribus.co
@@ -9580,9 +9580,9 @@ api2.grofers.com
 *.hyperpure.com
 blinkit.com
 winecellar.zomato.com
-*.zdev.net
 *.zomans.com
 *.zomato.com
+*.zdev.net
 *.runnr.in
 *.zomato.com
 *.zdev.net
@@ -9826,8 +9826,8 @@ magento.com
 *.adobeaemcloud.com
 firefly.adobe.com
 *.adobe.com
-auth.services.adobe.com
 nicetryapril.na1.echosignsandbox.com
+auth.services.adobe.com
 *.tt.omtrdc.net
 *.omniture.com
 *.tubemogul.com
