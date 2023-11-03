@@ -1039,8 +1039,8 @@ brightspeed,brightspeed.service-now.com,False
 brightspeed,brightspeedtsm.service-now.com,False
 brightspeed,gobrightspeed.net,False
 palta,prismalabsteam.com,True
-palta,prisma-ai.com,True
 palta,lensa-ai.com,True
+palta,prisma-ai.com,True
 palta,neuralprisma.com,True
 palta,appapi.neuralprisma.com,True
 palta,neuralprisma.com,True
@@ -4018,8 +4018,8 @@ planetart,www.cafepress.com,False
 planetart,iseeme.com,False
 planetart,www.simplytoimpress.com,False
 planetart,*.photoaffections.com,False
-planetart,*.gifts.com,False
 planetart,www.canvasworld.com,False
+planetart,*.gifts.com,False
 planetart,*.personalcreations.com,False
 planetart,*.canvasworld.com,False
 planetart,*.iseeme.com,False
@@ -4376,7 +4376,6 @@ mondelez,cadburyfc.com,False
 mondelez,milka.bg,False
 mondelez,milka.ru,False
 mondelez,fattorieosella.it,False
-mondelez,missionebonta.fattorieosella.it,False
 mondelez,oreo.ru,False
 mondelez,fr.philadelphia.ch,False
 mondelez,milka.cz,False
@@ -4404,8 +4403,8 @@ mondelez,epack.mondelezinternational.com,False
 mondelez,mitiendamondelez.com.ar,False
 mondelez,cadbury-gifting.com,False
 mondelez,fodboldrejse.marabou.dk,False
+mondelez,marabouchokladhus.se,False
 mondelez,cadbury.co.uk,False
-mondelez,de.oreo.eu,False
 mondelez,mondelezinternational.com,False
 mondelez,ir.mondelezinternational.com,False
 mondelez,cadbury.co.uk,False
@@ -4441,7 +4440,6 @@ mondelez,cadbury.co.nz,False
 mondelez,cadburygifting.in,False
 mondelez,deliciousdisplay.co.uk,False
 mondelez,fattorieosella.it,False
-mondelez,missionebonta.fattorieosella.it,False
 mondelez,lu.fr,False
 mondelez,milka.at,False
 mondelez,mmmax.milka.at,False
@@ -4465,6 +4463,7 @@ mondelez,www.clifbar.com,False
 mondelez,enjoylifefoods.com,False
 mondelez,freia.no,False
 mondelez,catalogo.hellojoy.es,False
+mondelez,loteriadelicje.pl,False
 mondelez,marabou.se,False
 mondelez,mdlzinsights.com,False
 mondelez,milka.be,False
@@ -4675,6 +4674,12 @@ mondelez,entdeckeallesorten.milka.de,False
 mondelez,fodboldrejse.marabou.dk,False
 mondelez,go.7days.com,False
 mondelez,heritageadvertising.cadbury.co.uk,False
+mondelez,loteria7days.pl,False
+mondelez,marabouchokladhus.se,False
+mondelez,milkamaxtrenutak.ba,False
+mondelez,milkamaxtrenutak.hr,False
+mondelez,milkamaxtrenutak.rs,False
+mondelez,milkamaxtrenutek.si,False
 mondelez,https://otm.croc.ru,False
 mondelez,https://milka.ru,False
 mondelez,https://alpengold.me,False
@@ -5808,9 +5813,9 @@ reddit,redditforbusiness.com,True
 reddit,*.reddithelp.com,True
 reddit,mod.reddit.com,True
 reddit,matrix.redditspace.com,True
-reddit,www.reddit.com,True
 reddit,accounts.reddit.com,True
 reddit,oauth.reddit.com,True
+reddit,www.reddit.com,True
 reddit,*.snooguts.net,True
 reddit,*.redditmedia.com,True
 reddit,*.reddit.com,True
@@ -8447,8 +8452,8 @@ capital-one,*.capitalonebank.com,False
 capital-one,*.capitalone.ca,False
 capital-one,*.teamstercardnow.com,False
 capital-one,*.usejewel.com,False
-capital-one,*.wikibuy.com,False
 capital-one,*.luma.co.uk,False
+capital-one,*.wikibuy.com,False
 capital-one,*.capitalonecareers.co.uk,False
 capital-one,*.capitalone.com,False
 capital-one,*.paribus.co,False
@@ -10799,10 +10804,10 @@ unikrn,socket.ukrn.io,True
 unikrn,sysops.ukrn.io,True
 unikrn,u.ukrn.io,True
 unikrn,utils.ukrn.io,True
+unikrn,unikrn.ly,True
 unikrn,virtual.ukrn.io,True
 unikrn,cashier-w.unikrn.com,True
 unikrn,cashier.unikrn.com,True
-unikrn,unikrn.ly,True
 unikrn,unikrn.com,True
 unikrn,api.ukrn.io,True
 unikrn,auth-adm.ukrn.io,True

@@ -1038,8 +1038,8 @@ brightspeed.service-now.com
 brightspeedtsm.service-now.com
 gobrightspeed.net
 prismalabsteam.com
-prisma-ai.com
 lensa-ai.com
+prisma-ai.com
 neuralprisma.com
 appapi.neuralprisma.com
 neuralprisma.com
@@ -4017,8 +4017,8 @@ www.cafepress.com
 iseeme.com
 www.simplytoimpress.com
 *.photoaffections.com
-*.gifts.com
 www.canvasworld.com
+*.gifts.com
 *.personalcreations.com
 *.canvasworld.com
 *.iseeme.com
@@ -4375,7 +4375,6 @@ cadburyfc.com
 milka.bg
 milka.ru
 fattorieosella.it
-missionebonta.fattorieosella.it
 oreo.ru
 fr.philadelphia.ch
 milka.cz
@@ -4403,8 +4402,8 @@ epack.mondelezinternational.com
 mitiendamondelez.com.ar
 cadbury-gifting.com
 fodboldrejse.marabou.dk
+marabouchokladhus.se
 cadbury.co.uk
-de.oreo.eu
 mondelezinternational.com
 ir.mondelezinternational.com
 cadbury.co.uk
@@ -4440,7 +4439,6 @@ cadbury.co.nz
 cadburygifting.in
 deliciousdisplay.co.uk
 fattorieosella.it
-missionebonta.fattorieosella.it
 lu.fr
 milka.at
 mmmax.milka.at
@@ -4464,6 +4462,7 @@ www.clifbar.com
 enjoylifefoods.com
 freia.no
 catalogo.hellojoy.es
+loteriadelicje.pl
 marabou.se
 mdlzinsights.com
 milka.be
@@ -4674,6 +4673,12 @@ entdeckeallesorten.milka.de
 fodboldrejse.marabou.dk
 go.7days.com
 heritageadvertising.cadbury.co.uk
+loteria7days.pl
+marabouchokladhus.se
+milkamaxtrenutak.ba
+milkamaxtrenutak.hr
+milkamaxtrenutak.rs
+milkamaxtrenutek.si
 https://otm.croc.ru
 https://milka.ru
 https://alpengold.me
@@ -5807,9 +5812,9 @@ redditforbusiness.com
 *.reddithelp.com
 mod.reddit.com
 matrix.redditspace.com
-www.reddit.com
 accounts.reddit.com
 oauth.reddit.com
+www.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -8446,8 +8451,8 @@ www.bookingholdings.com
 *.capitalone.ca
 *.teamstercardnow.com
 *.usejewel.com
-*.wikibuy.com
 *.luma.co.uk
+*.wikibuy.com
 *.capitalonecareers.co.uk
 *.capitalone.com
 *.paribus.co
@@ -10798,10 +10803,10 @@ socket.ukrn.io
 sysops.ukrn.io
 u.ukrn.io
 utils.ukrn.io
+unikrn.ly
 virtual.ukrn.io
 cashier-w.unikrn.com
 cashier.unikrn.com
-unikrn.ly
 unikrn.com
 api.ukrn.io
 auth-adm.ukrn.io
