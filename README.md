@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Nov  3 03:15:37 UTC 2023)
+## Domains with Bounties (Last Updated Fri Nov  3 04:16:42 UTC 2023)
 ```
 portal.au.frontegg.com
 api.au.frontegg.com
@@ -544,10 +544,10 @@ tequila.kiwi.com
 http://www.kiwi.com/stories
 jobs.kiwi.com
 work.8x8.com
-sso.8x8.com
 *.8x8.vc
 *.jitsi.net
 connect.8x8.com
+sso.8x8.com
 *.jit.si
 work-staging.8x8.com
 user-profile-staging.8x8.com

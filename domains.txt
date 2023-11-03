@@ -11,8 +11,8 @@ dsparkingportal.com
 temp.msbpay.com
 apply2.navirefi.com
 www.pampayments.com
-sandiego.dsmyportal.com
 www.pamcollectionsin.com
+sandiego.dsmyportal.com
 onlineserviceshub.com
 temp.msbnexus.com
 www.navirefi.com
@@ -3098,10 +3098,10 @@ kkrpec.com
 kinfra.com
 ksam.com
 work.8x8.com
-sso.8x8.com
 *.8x8.vc
 *.jitsi.net
 connect.8x8.com
+sso.8x8.com
 *.jit.si
 work-staging.8x8.com
 user-profile-staging.8x8.com
@@ -3846,8 +3846,8 @@ fossil.at
 banfield.us
 *.miroyalcanin.com.ar
 *.royalcanin.be
-*.banfield.com
 *.myroyalcanin.gr
+*.banfield.com
 *.orbitgum.com
 *.extragum.com
 *.jornadasroyalcanin.com.ar
@@ -6455,11 +6455,11 @@ deskallocation.mendixcloud.com
 *.timeseries.nl
 notification.billing.appservices.mendix.com
 servicemanagement-accp.mendixcloud.com
+3dvis.mendixcloud.com
+mxbpconfig.mendixcloud.com
 dataprivacy.mendixcloud.com
 alm.mendixcloud.com
 simplate.mendixcloud.com
-3dvis.mendixcloud.com
-mxbpconfig.mendixcloud.com
 *.mendix.com
 *.timeseries.com
 *.timeseries.nl
@@ -7542,9 +7542,9 @@ platform.8x8.com
 8x8.force.com
 pay.8x8.com
 *.jitsi.org
-sso.8x8.com
 *.8x8.id
 *.jitsi.net
+sso.8x8.com
 accountmanager.8x8.com
 *.contactnow.8x8.com
 *.wavecell.com
@@ -9779,8 +9779,8 @@ magento.com
 *.adobeaemcloud.com
 firefly.adobe.com
 auth.services.adobe.com
-nicetryapril.na1.echosignsandbox.com
 *.adobe.com
+nicetryapril.na1.echosignsandbox.com
 *.tt.omtrdc.net
 *.omniture.com
 *.tubemogul.com
