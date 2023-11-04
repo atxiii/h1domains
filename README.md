@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Nov  4 18:14:50 UTC 2023)
+## Domains with Bounties (Last Updated Sat Nov  4 19:12:33 UTC 2023)
 ```
 portal.au.frontegg.com
 api.au.frontegg.com
@@ -181,9 +181,9 @@ visa.com.ua
 www.visa.co.jp
 www.yellowpepper.com
 www.fraedom.com
-www.practicalmoneyskills.com
 www.practicalmoneyskills.org
 www.visa.com.tw
+www.practicalmoneyskills.com
 bb.visa.com
 www.visa.com.mx
 visa.com.ru
@@ -625,9 +625,9 @@ doppler.team
 api.doppler.com
 dashboard.doppler.com
 share.doppler.com
-*.yuga.com
 *.mdvmm.xyz
 *.otherside.xyz
+*.yuga.com
 *.10ktf.com
 *.meebits.app
 *.cryptopunks.app
@@ -963,8 +963,8 @@ admin.instacart.com
 shoppers.instacart.com
 academy.databricks.com
 docs.databricks.com
-databricks.com
 demo.cloud.databricks.com
+databricks.com
 accounts.cloud.databricks.com
 kb.databricks.com
 support.databricks.com
@@ -1554,8 +1554,8 @@ api.adm.cloud.com
 (youriwssubdomain).cloud.com
 ads.tiktok.com
 live-backstage.tiktok.com
-partner.tiktokshop.com
 tiktok.com
+partner.tiktokshop.com
 www.pangleglobal.com
 careers.tiktok.com
 creatormarketplace.tiktok.com
@@ -2253,9 +2253,9 @@ developers.smartsheet.com
 *invitations-api.trustpilot.com
 *share.trustpilot.com
 *www.trustpilot.com
-*api.trustpilot.com
 *b2b.trustpilot.com
 *widget.trustpilot.com
+*api.trustpilot.com
 *legal.trustpilot.com
 *api.trustpilot.com
 *authenticate.trustpilot.com
@@ -2432,8 +2432,8 @@ www.triseptapi.com
 www.triseptdemo.com
 vacations.united.com
 www.applevacations.com
-*.grammarly.com
 *.grammarlyaws.com
+*.grammarly.com
 *.grammarly.io
 grammarly.ai
 *.grammarly.io
@@ -2737,9 +2737,9 @@ support.newrelic.com
 blog.newrelic.com
 alerts.newrelic.com
 discuss.newrelic.com
-alerts.eu.newrelic.com
 *.infrastructure.newrelic.com
 synthetics.newrelic.com
+alerts.eu.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
 *.infrastructure-data.newrelic.com
@@ -3326,8 +3326,8 @@ shopifyinbox.com
 *.shopifykloud.com
 shopify.plus
 *.shopify.com
-accounts.shopify.com
 admin.shopify.com
+accounts.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -3945,10 +3945,10 @@ federation.data.gov
 inventory.data.gov
 logs-platform.fr.cloud.gov
 nessus.fr.cloud.gov
+www.fedramp.gov
 diagrams.fr.cloud.gov
 prometheus.fr.cloud.gov
 federalist-docs.18f.gov
-dashboard.fr.cloud.gov
 *.login.gov
 *.code.gov
 *.search.gov
@@ -4008,10 +4008,10 @@ socket.ukrn.io
 sysops.ukrn.io
 u.ukrn.io
 utils.ukrn.io
-unikrn.ly
 virtual.ukrn.io
 cashier-w.unikrn.com
 cashier.unikrn.com
+unikrn.ly
 unikrn.com
 api.ukrn.io
 auth-adm.ukrn.io
