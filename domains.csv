@@ -7212,8 +7212,8 @@ alibaba,*.aliexpress.ru,True
 alibaba,*.1688.com,True
 alibaba,www.alibabagroup.com,True
 bmwgroup,www.mini.de,True
-bmwgroup,www.bmw.de,True
 bmwgroup,configure.bmw.de,True
+bmwgroup,www.bmw.de,True
 bmwgroup,www.bmw-motorrad.de,True
 bmwgroup,configure.mini.de,True
 bmwgroup,konfigurator.bmw-motorrad.de,True
@@ -9826,9 +9826,9 @@ adobe,repo.magento.com,True
 adobe,*.adobeaemcloud.com,False
 adobe,firefly.adobe.com,False
 adobe,*.adobe.com,False
-adobe,magento.com,True
 adobe,auth.services.adobe.com,False
 adobe,nicetryapril.na1.echosignsandbox.com,False
+adobe,magento.com,True
 adobe,*.tt.omtrdc.net,False
 adobe,*.omniture.com,False
 adobe,*.tubemogul.com,False
@@ -10158,9 +10158,9 @@ security,hackathon-photos.hackerone-user-content.com,True
 security,hackerone-ext-content.com,True
 security,profile-photos.hackerone-user-content.com,True
 security,ctf.hacker101.com,True
+security,www.hackerone.com,True
 security,hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com,True
 security,reviewer.pullrequest.com,True
-security,www.hackerone.com,True
 security,profile-photos-us-east-2.hackerone-user-content.com,True
 security,b5s.hackerone-ext-content.com,True
 security,cover-photos.hackerone-user-content.com,True
