@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Nov  4 17:11:50 UTC 2023)
+## Domains with Bounties (Last Updated Sat Nov  4 18:14:50 UTC 2023)
 ```
 portal.au.frontegg.com
 api.au.frontegg.com
@@ -13,8 +13,8 @@ connect-store.porsche.com
 jobs.porsche.com
 skyway.porsche.com
 newsroom.porsche.com
-my.porsche.com
 finder.porsche.com
+my.porsche.com
 configurator.porsche.com
 signup.porsche.com
 shop.porsche.com
@@ -32,8 +32,8 @@ porsche.com
 shop.porsche.com
 signup.porsche.com
 skyway.porsche.com
-app.frontapp.com
 *.front.com
+app.frontapp.com
 help.front.com
 api2.frontapp.com
 *.front.com
@@ -595,8 +595,8 @@ pay.8x8.com
 admin.8x8.com
 *.luckydays.com
 *.magicjackpot.ro
-*.superbet.ro
 *.superbet.com
+*.superbet.ro
 *.luckydays.ca
 *.spinaway.com
 *.superbet.rs
@@ -963,8 +963,8 @@ admin.instacart.com
 shoppers.instacart.com
 academy.databricks.com
 docs.databricks.com
-demo.cloud.databricks.com
 databricks.com
+demo.cloud.databricks.com
 accounts.cloud.databricks.com
 kb.databricks.com
 support.databricks.com
@@ -2432,8 +2432,8 @@ www.triseptapi.com
 www.triseptdemo.com
 vacations.united.com
 www.applevacations.com
-*.grammarlyaws.com
 *.grammarly.com
+*.grammarlyaws.com
 *.grammarly.io
 grammarly.ai
 *.grammarly.io
@@ -3657,13 +3657,13 @@ hackerone-ext-content.com
 profile-photos.hackerone-user-content.com
 ctf.hacker101.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
-www.hackerone.com
 reviewer.pullrequest.com
+www.hackerone.com
 profile-photos-us-east-2.hackerone-user-content.com
-app.pullrequest.com
 b5s.hackerone-ext-content.com
-hackerone.live
 cover-photos.hackerone-user-content.com
+app.pullrequest.com
+hackerone.live
 errors.hackerone.net
 hackerone.com
 api.hackerone.com
