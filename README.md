@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Nov  5 11:12:59 UTC 2023)
+## Domains with Bounties (Last Updated Sun Nov  5 12:20:50 UTC 2023)
 ```
 portal.au.frontegg.com
 api.au.frontegg.com
@@ -32,8 +32,8 @@ porsche.com
 shop.porsche.com
 signup.porsche.com
 skyway.porsche.com
-*.front.com
 app.frontapp.com
+*.front.com
 help.front.com
 api2.frontapp.com
 *.front.com
@@ -963,8 +963,8 @@ admin.instacart.com
 shoppers.instacart.com
 academy.databricks.com
 docs.databricks.com
-databricks.com
 demo.cloud.databricks.com
+databricks.com
 accounts.cloud.databricks.com
 kb.databricks.com
 support.databricks.com
@@ -1040,13 +1040,13 @@ api.evernote.com
 *.jellychat.com
 *.audicagame.com
 fallguys.com
-fortnite.com
 harmonixmusic.com
 wonderboxdev.com
 capturingreality.com
 *.bcbits.com
 *.mediatonic.co.uk
 *.popjam.com
+fortnite.com
 *.3lateral.com
 *.psyonix.com
 *.bcbits.com
@@ -1554,8 +1554,8 @@ api.adm.cloud.com
 (youriwssubdomain).cloud.com
 ads.tiktok.com
 live-backstage.tiktok.com
-tiktok.com
 partner.tiktokshop.com
+tiktok.com
 www.pangleglobal.com
 careers.tiktok.com
 creatormarketplace.tiktok.com
@@ -2737,9 +2737,9 @@ support.newrelic.com
 blog.newrelic.com
 alerts.newrelic.com
 discuss.newrelic.com
-alerts.eu.newrelic.com
 *.infrastructure.newrelic.com
 synthetics.newrelic.com
+alerts.eu.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
 *.infrastructure-data.newrelic.com
