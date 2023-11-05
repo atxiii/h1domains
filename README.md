@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Nov  5 15:13:42 UTC 2023)
+## Domains with Bounties (Last Updated Sun Nov  5 16:14:53 UTC 2023)
 ```
 portal.au.frontegg.com
 api.au.frontegg.com
@@ -545,8 +545,8 @@ http://www.kiwi.com/stories
 jobs.kiwi.com
 work.8x8.com
 *.jitsi.net
-sso.8x8.com
 connect.8x8.com
+sso.8x8.com
 *.8x8.vc
 *.jit.si
 work-staging.8x8.com
@@ -963,8 +963,8 @@ admin.instacart.com
 shoppers.instacart.com
 academy.databricks.com
 docs.databricks.com
-demo.cloud.databricks.com
 databricks.com
+demo.cloud.databricks.com
 accounts.cloud.databricks.com
 kb.databricks.com
 support.databricks.com
@@ -2737,9 +2737,9 @@ support.newrelic.com
 blog.newrelic.com
 alerts.newrelic.com
 discuss.newrelic.com
-alerts.eu.newrelic.com
 *.infrastructure.newrelic.com
 synthetics.newrelic.com
+alerts.eu.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
 *.infrastructure-data.newrelic.com
@@ -3832,10 +3832,10 @@ marketplace.dev.lifeomic.com
 ga4gh.dev.lifeomic.com
 api.dev.lifeomic.com
 *.dev.lifeomic.com
+apps.wellness.dev.lifeomic.com
 apps.dev.skillspring.com
 fhir.dev.lifeomic.com
 *.infra.lifeomic.com
-apps.wellness.dev.lifeomic.com
 *.infra.lifeomic.com
 *.dev.lifeomic.com
 apps.wellness.dev.lifeomic.com
