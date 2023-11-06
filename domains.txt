@@ -945,10 +945,10 @@ newsroom.porsche.com
 finder.porsche.com
 my.porsche.com
 configurator.porsche.com
-signup.porsche.com
 identity.porsche.com
 shop.porsche.com
 porsche.com
+signup.porsche.com
 api.emea.gravity.porsche.com
 configurator.porsche.com
 connect-store.porsche.com
@@ -969,8 +969,8 @@ api2.frontapp.com
 app.frontapp.com
 api2.frontapp.com
 http://help.front.com
-*.booztlet.com
 *.boozt.com
+*.booztlet.com
 *.boozt.com
 *.booztlet.com
 *.trip.com
@@ -3358,8 +3358,8 @@ thailand.airasiago.com
 http://www.cruiseshipcenters.com/api/searchcenter
 eng.magiceden.io
 *.magiceden.workers.dev
-*.magiceden.io
 eng.magiceden.dev
+*.magiceden.io
 magiceden.io
 *.magiceden.dev
 magiceden.io
@@ -4021,8 +4021,8 @@ www.canvasworld.com
 *.photoaffections.com
 *.canvasworld.com
 *.iseeme.com
-*.cafepress.com
 www.gifts.com
+*.cafepress.com
 *.personalcreations.com
 *.cafepress.com
 *.canvasworld.com
@@ -6528,8 +6528,8 @@ notification.billing.appservices.mendix.com
 *.exodus.io
 *.a.exodus.io
 *.exodus.com
-api.yoti.com
 www.yotisign.com
+api.yoti.com
 core.yoti.com
 ccloud.yoti.com
 code.yoti.com
@@ -8766,9 +8766,9 @@ partner.swiftfinancial.com
 scrutiny.swiftfinancial.com
 *.hyperwallet.com
 paypal.me
-*.venmo.com
 my.loanbuilder.com
 *.paypal.com
+*.venmo.com
 *.braintree.tools
 pigeon.swiftfinancial.com
 *.paydiant.com
@@ -9012,9 +9012,9 @@ support.newrelic.com
 blog.newrelic.com
 alerts.newrelic.com
 discuss.newrelic.com
+alerts.eu.newrelic.com
 *.infrastructure.newrelic.com
 synthetics.newrelic.com
-alerts.eu.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
 *.infrastructure-data.newrelic.com
@@ -9690,9 +9690,9 @@ shopifyinbox.com
 *.shopifykloud.com
 partners.shopify.com
 shopify.plus
-admin.shopify.com
 *.shopify.com
 accounts.shopify.com
+admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -10003,8 +10003,8 @@ donations.livestream.com
 *.informaticacloud.com
 *.vine.co
 twitterflightschool.com
-x.com
 *.twitter.com
+x.com
 t.co
 *.twimg.com
 gnip.com
@@ -10526,10 +10526,10 @@ marketplace.dev.lifeomic.com
 ga4gh.dev.lifeomic.com
 api.dev.lifeomic.com
 *.dev.lifeomic.com
-apps.wellness.dev.lifeomic.com
 apps.dev.skillspring.com
 fhir.dev.lifeomic.com
 *.infra.lifeomic.com
+apps.wellness.dev.lifeomic.com
 *.infra.lifeomic.com
 *.dev.lifeomic.com
 apps.wellness.dev.lifeomic.com
