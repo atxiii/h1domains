@@ -969,8 +969,8 @@ api2.frontapp.com
 app.frontapp.com
 api2.frontapp.com
 http://help.front.com
-*.boozt.com
 *.booztlet.com
+*.boozt.com
 *.boozt.com
 *.booztlet.com
 *.trip.com
@@ -2715,8 +2715,8 @@ www.borrowlenses.com
 admin.spoonflower.com
 shutterfly.com
 jcpportraits.com
-snapfish.com
 *.snapfish.com
+snapfish.com
 snapfish.co.uk
 snapfish.com.au
 snapfish.co.nz
@@ -5701,7 +5701,6 @@ hcm.zebra.com
 stage-www.zebra.com
 test-marketing-api.zebra.com
 dcs-polarion.zebra.com
-www.matrox.com
 artifactory-us.zebra.com
 zsl.zebra.com
 wfc.zebra.com
@@ -10761,10 +10760,10 @@ inventory.data.gov
 logs-platform.fr.cloud.gov
 nessus.fr.cloud.gov
 manage.data.gov
+www.fedramp.gov
 diagrams.fr.cloud.gov
 prometheus.fr.cloud.gov
 federalist-docs.18f.gov
-dashboard.fr.cloud.gov
 *.login.gov
 *.code.gov
 *.search.gov
@@ -10827,10 +10826,10 @@ socket.ukrn.io
 sysops.ukrn.io
 u.ukrn.io
 utils.ukrn.io
-unikrn.ly
 virtual.ukrn.io
 cashier-w.unikrn.com
 cashier.unikrn.com
+unikrn.ly
 unikrn.com
 api.ukrn.io
 auth-adm.ukrn.io
