@@ -4023,8 +4023,8 @@ planetart,*.photoaffections.com,False
 planetart,*.personalcreations.com,False
 planetart,*.canvasworld.com,False
 planetart,*.iseeme.com,False
-planetart,*.cafepress.com,False
 planetart,www.gifts.com,False
+planetart,*.cafepress.com,False
 planetart,*.cafepress.com,False
 planetart,*.canvasworld.com,False
 planetart,*.gifts.com,False
@@ -9012,9 +9012,9 @@ newrelic,support.newrelic.com,True
 newrelic,blog.newrelic.com,True
 newrelic,alerts.newrelic.com,True
 newrelic,discuss.newrelic.com,True
-newrelic,alerts.eu.newrelic.com,True
 newrelic,*.infrastructure.newrelic.com,True
 newrelic,synthetics.newrelic.com,True
+newrelic,alerts.eu.newrelic.com,True
 newrelic,*.newrelic.com,True
 newrelic,*.infrastructure.newrelic.com,True
 newrelic,*.infrastructure-data.newrelic.com,True
@@ -9081,8 +9081,8 @@ coalition,platform.thecoalition.com,False
 coalition,api.thecoalition.com,False
 coalition,coalitioninc.com,False
 crowdstrike,www.crowdstrike.com,True
-crowdstrike,*.securecircle.com,True
 crowdstrike,*.humio.com,True
+crowdstrike,*.securecircle.com,True
 crowdstrike,www.crowdstrike.org,True
 crowdstrike,*.crowdstrike.com,True
 crowdstrike,hybrid-analysis.com,True
@@ -10524,10 +10524,10 @@ lifeomic,marketplace.dev.lifeomic.com,True
 lifeomic,ga4gh.dev.lifeomic.com,True
 lifeomic,api.dev.lifeomic.com,True
 lifeomic,*.dev.lifeomic.com,True
-lifeomic,apps.wellness.dev.lifeomic.com,True
 lifeomic,apps.dev.skillspring.com,True
 lifeomic,fhir.dev.lifeomic.com,True
 lifeomic,*.infra.lifeomic.com,True
+lifeomic,apps.wellness.dev.lifeomic.com,True
 lifeomic,*.infra.lifeomic.com,True
 lifeomic,*.dev.lifeomic.com,True
 lifeomic,apps.wellness.dev.lifeomic.com,True
