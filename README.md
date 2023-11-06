@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Nov  6 08:19:00 UTC 2023)
+## Domains with Bounties (Last Updated Mon Nov  6 09:15:45 UTC 2023)
 ```
 portal.au.frontegg.com
 api.au.frontegg.com
@@ -165,8 +165,8 @@ explore.redoxengine.com
 www.redoxengine.com
 help.redoxengine.com
 www.mobile-phantom.com
-www.tecno-mobile.com
 *.palm.tech
+www.tecno-mobile.com
 security.tecno.com
 *.palm.tech
 www.tecno-mobile.com
@@ -492,8 +492,8 @@ http://miro.com/blog
 *.mb-cosmos.com
 *.cloud.malwarebytes.com
 cloud.malwarebytes.com
-my.malwarebytes.com
 *.mwbsys.com
+my.malwarebytes.com
 *.mbamupdates.com
 *.mwb-threatintel.com
 oneview.malwarebytes.com
@@ -761,8 +761,8 @@ a4k.amazon.com
 blueprints.amazon.com
 creator.amazon.com
 alexaanswers.amazon.com
-read.amazon.com
 alexa.amazon.com
+read.amazon.com
 skills-store.amazon.com
 read.amazon.com
 alexaanswers.amazon.com
@@ -2737,9 +2737,9 @@ support.newrelic.com
 blog.newrelic.com
 alerts.newrelic.com
 discuss.newrelic.com
+alerts.eu.newrelic.com
 *.infrastructure.newrelic.com
 synthetics.newrelic.com
-alerts.eu.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
 *.infrastructure-data.newrelic.com
