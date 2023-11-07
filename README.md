@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Nov  7 06:18:09 UTC 2023)
+## Domains with Bounties (Last Updated Tue Nov  7 07:15:24 UTC 2023)
 ```
 portal.au.frontegg.com
 api.au.frontegg.com
@@ -448,10 +448,10 @@ priority.eu-east-1.indriverapp.com
 watchdocs.indriverapp.com
 *.indriverapp.com
 super-services.indriverapp.com
-volans.tech
 wga.volans.tech
 file-storage-front.eu-east-1.indriverapp.com
 injob.indriver.com
+volans.tech
 *.indriverapp.com
 *.indrive.com
 *.indriver.com
@@ -856,8 +856,8 @@ ws.sorare.com
 *.shein.com
 *.romwe.com
 *.sheingsp.com
-exnessaffiliates.com
 my.exness.com
+exnessaffiliates.com
 pay.ibex.exchange
 exness.com
 pwapi.ex2b.com
@@ -2503,8 +2503,8 @@ scrutiny.swiftfinancial.com
 *.hyperwallet.com
 paypal.me
 *.venmo.com
-*.paypal.com
 my.loanbuilder.com
+*.paypal.com
 *.braintree.tools
 pigeon.swiftfinancial.com
 *.paydiant.com
@@ -4010,10 +4010,10 @@ socket.ukrn.io
 sysops.ukrn.io
 u.ukrn.io
 utils.ukrn.io
-unikrn.ly
 virtual.ukrn.io
 cashier-w.unikrn.com
 cashier.unikrn.com
+unikrn.ly
 unikrn.com
 api.ukrn.io
 auth-adm.ukrn.io
