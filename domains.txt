@@ -1501,8 +1501,8 @@ explore.redoxengine.com
 www.redoxengine.com
 help.redoxengine.com
 www.mobile-phantom.com
-www.tecno-mobile.com
 *.palm.tech
+www.tecno-mobile.com
 security.tecno.com
 *.palm.tech
 www.tecno-mobile.com
@@ -4007,9 +4007,9 @@ paetec.net
 *.mystreetscape.com
 *.wealthscape.com
 *.fidelity.com
-ai.planetart.com
 www.personalcreations.com
 www.mycustomcase.com
+ai.planetart.com
 www.photoaffections.com
 *.simplytoimpress.com
 *.mycustomcase.com
@@ -7563,8 +7563,8 @@ get8x8.com
 *.thinkingphones.com
 *.8x8cloud.net
 *.8x8.com
-admin.8x8.com
 connect.8x8.com
+admin.8x8.com
 *.fuze.com
 *.thinkingphones.net
 sms.8x8.com
@@ -8766,8 +8766,8 @@ partner.swiftfinancial.com
 scrutiny.swiftfinancial.com
 *.hyperwallet.com
 paypal.me
-*.paypal.com
 *.venmo.com
+*.paypal.com
 my.loanbuilder.com
 *.braintree.tools
 pigeon.swiftfinancial.com
@@ -10526,10 +10526,10 @@ marketplace.dev.lifeomic.com
 ga4gh.dev.lifeomic.com
 api.dev.lifeomic.com
 *.dev.lifeomic.com
-apps.wellness.dev.lifeomic.com
 apps.dev.skillspring.com
 fhir.dev.lifeomic.com
 *.infra.lifeomic.com
+apps.wellness.dev.lifeomic.com
 *.infra.lifeomic.com
 *.dev.lifeomic.com
 apps.wellness.dev.lifeomic.com
