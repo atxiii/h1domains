@@ -2592,9 +2592,9 @@ kolesagroup,api.krisha.kz,True
 kolesagroup,api.kolesa.kz,True
 kolesagroup,app.kolesa.kz,True
 kolesagroup,id.kolesa.kz,True
-kolesagroup,avtoelon.uz,True
 kolesagroup,app.avtoelon.uz,True
 kolesagroup,m.krisha.kz,True
+kolesagroup,avtoelon.uz,True
 kolesagroup,m.avtoelon.uz,True
 kolesagroup,id.avtoelon.uz,True
 kolesagroup,kolesa.kz,True
@@ -3673,10 +3673,10 @@ fossil,www.skagenbrand.de,False
 fossil,www.skagenglobal.com,False
 fossil,*.watchstation.com,False
 fossil,www.watchstation.fr,False
-fossil,www.fossil.co.id,False
 fossil,*.fossil.com.hk,False
 fossil,*.cdgfossil.com,False
 fossil,*.fossil.vn,False
+fossil,www.fossil.co.id,False
 fossil,m.fossil.co.uk,False
 fossil,m.fossil.de,False
 fossil,www.fossil.ch,False
@@ -4022,9 +4022,9 @@ planetart,*.photoaffections.com,False
 planetart,*.gifts.com,False
 planetart,*.canvasworld.com,False
 planetart,*.iseeme.com,False
-planetart,*.personalcreations.com,False
 planetart,*.cafepress.com,False
 planetart,www.gifts.com,False
+planetart,*.personalcreations.com,False
 planetart,*.cafepress.com,False
 planetart,*.canvasworld.com,False
 planetart,*.gifts.com,False
@@ -5134,7 +5134,6 @@ john-deere,us-central-1.r4.abc.expertconnect.support,False
 john-deere,us-central-1.r4.xyz.expertconnect.support,False
 john-deere,johndeeretours.deere.com,False
 john-deere,shop.deere.com,False
-john-deere,stellarsupport.deere.com,False
 john-deere,connections.deere.com,False
 john-deere,machinereports.deere.com,False
 john-deere,notifications.deere.com,False
@@ -5168,6 +5167,7 @@ john-deere,filebox-dev.kreiselelectric.com,False
 john-deere,video.kreiselelectric.com,False
 john-deere,vpn.kreiselelectric.com,False
 john-deere,ghost.harvestprofit.com,False
+john-deere,johndeereinnovation.com,False
 john-deere,partsadvisor.deere.com,False
 john-deere,jdisonline.com,False
 john-deere,myjohndeere.deere.com,False
@@ -5389,6 +5389,7 @@ john-deere,dev-qdrant.isg-aa-comp-vision-training-devl-standalone2.us.e01.c01.jo
 john-deere,ewdocs.deere.com,False
 john-deere,i3dhub.ghns-web-platform-r2-prod-standalone4.eu.e00.c01.johndeerecloud.com,False
 john-deere,wwhui-legacy.channel-warranty-warehouse-devl-vpn2.us.e06.c01.johndeerecloud.com,False
+john-deere,displaysimulator.deere.com,False
 john-deere,agrisync.com,False
 john-deere,api.agrisync.com,False
 john-deere,app.agrisync.com,False
@@ -6496,11 +6497,11 @@ mendix,3s.mendixcloud.com,False
 mendix,*.timeseries.nl,False
 mendix,notification.billing.appservices.mendix.com,False
 mendix,servicemanagement-accp.mendixcloud.com,False
-mendix,3dvis.mendixcloud.com,False
-mendix,mxbpconfig.mendixcloud.com,False
 mendix,dataprivacy.mendixcloud.com,False
 mendix,alm.mendixcloud.com,False
 mendix,simplate.mendixcloud.com,False
+mendix,3dvis.mendixcloud.com,False
+mendix,mxbpconfig.mendixcloud.com,False
 mendix,*.mendix.com,False
 mendix,*.timeseries.com,False
 mendix,*.timeseries.nl,False
@@ -9020,9 +9021,9 @@ newrelic,support.newrelic.com,True
 newrelic,blog.newrelic.com,True
 newrelic,alerts.newrelic.com,True
 newrelic,discuss.newrelic.com,True
-newrelic,alerts.eu.newrelic.com,True
 newrelic,*.infrastructure.newrelic.com,True
 newrelic,synthetics.newrelic.com,True
+newrelic,alerts.eu.newrelic.com,True
 newrelic,*.newrelic.com,True
 newrelic,*.infrastructure.newrelic.com,True
 newrelic,*.infrastructure-data.newrelic.com,True
@@ -9973,10 +9974,10 @@ airbnb,www.hoteltonight.com,True
 vimeo,donations.livestream.com,True
 vimeo,api.vimeo.com,True
 vimeo,vimeo.magisto.com,True
-vimeo,vhx.tv,True
 vimeo,api.vhx.tv,True
 vimeo,*.magisto.com,True
 vimeo,*.livestream.com,True
+vimeo,vhx.tv,True
 vimeo,*.new.livestream.com,True
 vimeo,checkout.vimeo.com,True
 vimeo,staging.magisto.com,True
@@ -10011,8 +10012,8 @@ informatica,*.informatica.com,False
 informatica,*.informaticacloud.com,False
 x,*.vine.co,True
 x,twitterflightschool.com,False
-x,x.com,True
 x,*.twitter.com,True
+x,x.com,True
 x,t.co,False
 x,*.twimg.com,True
 x,gnip.com,True
@@ -10122,8 +10123,8 @@ slack,api.slack.com,True
 slack,slackb.com,True
 slack,slackatwork.com,True
 slack,slack-redir.net,True
-slack,*.quip.com,True
 slack,app.slack.com,True
+slack,*.quip.com,True
 slack,edgeapi.slack.com,True
 slack,slack-imgs.com,True
 slack,slack.com,True
@@ -10763,10 +10764,10 @@ tts,18f.gsa.gov,False
 tts,logs-platform.fr.cloud.gov,True
 tts,nessus.fr.cloud.gov,True
 tts,manage.data.gov,False
+tts,www.fedramp.gov,True
 tts,diagrams.fr.cloud.gov,True
 tts,prometheus.fr.cloud.gov,True
 tts,federalist-docs.18f.gov,True
-tts,dashboard.fr.cloud.gov,True
 tts,*.login.gov,True
 tts,*.code.gov,True
 tts,*.search.gov,True

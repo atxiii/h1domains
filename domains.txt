@@ -2591,9 +2591,9 @@ api.krisha.kz
 api.kolesa.kz
 app.kolesa.kz
 id.kolesa.kz
-avtoelon.uz
 app.avtoelon.uz
 m.krisha.kz
+avtoelon.uz
 m.avtoelon.uz
 id.avtoelon.uz
 kolesa.kz
@@ -3672,10 +3672,10 @@ www.skagenbrand.de
 www.skagenglobal.com
 *.watchstation.com
 www.watchstation.fr
-www.fossil.co.id
 *.fossil.com.hk
 *.cdgfossil.com
 *.fossil.vn
+www.fossil.co.id
 m.fossil.co.uk
 m.fossil.de
 www.fossil.ch
@@ -4021,9 +4021,9 @@ www.canvasworld.com
 *.gifts.com
 *.canvasworld.com
 *.iseeme.com
-*.personalcreations.com
 *.cafepress.com
 www.gifts.com
+*.personalcreations.com
 *.cafepress.com
 *.canvasworld.com
 *.gifts.com
@@ -5133,7 +5133,6 @@ us-central-1.r4.abc.expertconnect.support
 us-central-1.r4.xyz.expertconnect.support
 johndeeretours.deere.com
 shop.deere.com
-stellarsupport.deere.com
 connections.deere.com
 machinereports.deere.com
 notifications.deere.com
@@ -5167,6 +5166,7 @@ filebox-dev.kreiselelectric.com
 video.kreiselelectric.com
 vpn.kreiselelectric.com
 ghost.harvestprofit.com
+johndeereinnovation.com
 partsadvisor.deere.com
 jdisonline.com
 myjohndeere.deere.com
@@ -5388,6 +5388,7 @@ dev-qdrant.isg-aa-comp-vision-training-devl-standalone2.us.e01.c01.johndeereclou
 ewdocs.deere.com
 i3dhub.ghns-web-platform-r2-prod-standalone4.eu.e00.c01.johndeerecloud.com
 wwhui-legacy.channel-warranty-warehouse-devl-vpn2.us.e06.c01.johndeerecloud.com
+displaysimulator.deere.com
 agrisync.com
 api.agrisync.com
 app.agrisync.com
@@ -6495,11 +6496,11 @@ deskallocation.mendixcloud.com
 *.timeseries.nl
 notification.billing.appservices.mendix.com
 servicemanagement-accp.mendixcloud.com
-3dvis.mendixcloud.com
-mxbpconfig.mendixcloud.com
 dataprivacy.mendixcloud.com
 alm.mendixcloud.com
 simplate.mendixcloud.com
+3dvis.mendixcloud.com
+mxbpconfig.mendixcloud.com
 *.mendix.com
 *.timeseries.com
 *.timeseries.nl
@@ -9019,9 +9020,9 @@ support.newrelic.com
 blog.newrelic.com
 alerts.newrelic.com
 discuss.newrelic.com
-alerts.eu.newrelic.com
 *.infrastructure.newrelic.com
 synthetics.newrelic.com
+alerts.eu.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
 *.infrastructure-data.newrelic.com
@@ -9972,10 +9973,10 @@ www.hoteltonight.com
 donations.livestream.com
 api.vimeo.com
 vimeo.magisto.com
-vhx.tv
 api.vhx.tv
 *.magisto.com
 *.livestream.com
+vhx.tv
 *.new.livestream.com
 checkout.vimeo.com
 staging.magisto.com
@@ -10010,8 +10011,8 @@ donations.livestream.com
 *.informaticacloud.com
 *.vine.co
 twitterflightschool.com
-x.com
 *.twitter.com
+x.com
 t.co
 *.twimg.com
 gnip.com
@@ -10121,8 +10122,8 @@ api.slack.com
 slackb.com
 slackatwork.com
 slack-redir.net
-*.quip.com
 app.slack.com
+*.quip.com
 edgeapi.slack.com
 slack-imgs.com
 slack.com
@@ -10762,10 +10763,10 @@ inventory.data.gov
 logs-platform.fr.cloud.gov
 nessus.fr.cloud.gov
 manage.data.gov
+www.fedramp.gov
 diagrams.fr.cloud.gov
 prometheus.fr.cloud.gov
 federalist-docs.18f.gov
-dashboard.fr.cloud.gov
 *.login.gov
 *.code.gov
 *.search.gov
