@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Nov  8 13:16:30 UTC 2023)
+## Domains with Bounties (Last Updated Wed Nov  8 14:59:49 UTC 2023)
 ```
 portal.au.frontegg.com
 api.au.frontegg.com
@@ -858,8 +858,8 @@ ws.sorare.com
 *.sheingsp.com
 exnessaffiliates.com
 my.exness.com
-pay.ibex.exchange
 exness.com
+pay.ibex.exchange
 pwapi.ex2b.com
 social-trading.exness.com
 api.excalls.mobi
@@ -2717,9 +2717,9 @@ testnet-croeseid-4.crypto.org
 https://crypto.com/nft
 tax.crypto.com
 https://crypto.com/price
-insights.eu.newrelic.com
 *.eu.newrelic.com
 docs.newrelic.com
+insights.eu.newrelic.com
 developer.newrelic.com
 infrastructure.eu.newrelic.com
 *.infrastructure-data.newrelic.com
@@ -3618,8 +3618,8 @@ api.slack.com
 slackb.com
 slackatwork.com
 slack-redir.net
-app.slack.com
 *.quip.com
+app.slack.com
 edgeapi.slack.com
 slack-imgs.com
 slack.com
