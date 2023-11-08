@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Nov  8 03:15:41 UTC 2023)
+## Domains with Bounties (Last Updated Wed Nov  8 04:16:37 UTC 2023)
 ```
 portal.au.frontegg.com
 api.au.frontegg.com
@@ -3363,10 +3363,10 @@ business.snapchat.com
 store.snapchat.com
 app.snapchat.com
 my.snapchat.com
-geofilters.snapchat.com
 spectacles.com
 *.sc-corp.net
 web.snapchat.com
+geofilters.snapchat.com
 kit.snapchat.com
 developer.playcanvas.com
 launch.playcanvas.com
@@ -3449,10 +3449,10 @@ next.airbnb.com
 one.airbnb.com
 *.airbnbcitizen.com
 *.byairbnb.com
-www.hoteltonight.com
-*.hoteltonight-test.com
 *.muscache.com
 *.airbnb.com
+*.hoteltonight-test.com
+www.hoteltonight.com
 assets.airbnb.com
 open.airbnb.com
 api.airbnb.com
