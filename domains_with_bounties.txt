@@ -3311,8 +3311,8 @@ yourcompany.udemy.com
 arrive-server.shopifycloud.com
 your-store.myshopify.com
 *.shopifycloud.com
-shop.app
 linkpop.com
+shop.app
 *.shopifykloud.com
 partners.shopify.com
 shopifyinbox.com

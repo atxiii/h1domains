@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Nov  8 14:59:49 UTC 2023)
+## Domains with Bounties (Last Updated Wed Nov  8 15:17:10 UTC 2023)
 ```
 portal.au.frontegg.com
 api.au.frontegg.com
@@ -3317,8 +3317,8 @@ yourcompany.udemy.com
 arrive-server.shopifycloud.com
 your-store.myshopify.com
 *.shopifycloud.com
-shop.app
 linkpop.com
+shop.app
 *.shopifykloud.com
 partners.shopify.com
 shopifyinbox.com
