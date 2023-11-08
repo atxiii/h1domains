@@ -62,7 +62,6 @@ bms.cbreesi.com
 conductor.cbreesi.com
 iopleasant.cbreesi.com
 mosaic-bff.cbreesi.com
-emea.cbreglobalinvestors.com
 lp1.cbreinvestors.com
 lp3.cbreinvestors.com
 pcg.cbre.com.au
@@ -969,8 +968,8 @@ api2.frontapp.com
 app.frontapp.com
 api2.frontapp.com
 http://help.front.com
-*.booztlet.com
 *.boozt.com
+*.booztlet.com
 *.boozt.com
 *.booztlet.com
 *.trip.com
@@ -3179,10 +3178,10 @@ doppler.team
 api.doppler.com
 dashboard.doppler.com
 share.doppler.com
-*.IBWC.GOV
 *.SUPPORTFAN.GOV
 *.USDOSCLOUD.GOV
 *.FAN.GOV
+*.IBWC.GOV
 *.DEVTESTFAN1.GOV
 *.IAWG.GOV
 *.OSAC.GOV
@@ -3846,8 +3845,8 @@ fossil.at
 banfield.us
 *.miroyalcanin.com.ar
 *.royalcanin.be
-*.myroyalcanin.gr
 *.banfield.com
+*.myroyalcanin.gr
 *.orbitgum.com
 *.extragum.com
 *.jornadasroyalcanin.com.ar
@@ -6675,8 +6674,8 @@ www.logitechstore.com.br
 alert.logitech.com
 *.crossclip.com
 *.logi.com
-*.myharmony.com
 www.logitechg.com
+*.myharmony.com
 *.logitech.com
 *.streamlabscharity.com
 www.ultimateears.com
@@ -6815,8 +6814,8 @@ account.acronis.com
 direct-hackerone.affirm-odin.com
 vcn-hackerone.affirm-odin.com
 helpcenter.affirm.com
-hackerone.affirm-odin.com
 helpcenter.affirm.ca
+hackerone.affirm-odin.com
 hackerone.affirm-odin.com
 helpcenter.affirm.ca
 helpcenter.affirm.com
@@ -8182,7 +8181,6 @@ uk.forescout.cloud
 de.forescout.cloud
 updates.forescout.com
 datapod-1-druid-ingest.production.forescoutcloud.net
-www.forescout.com
 datapod-2-ingest.acceptance.forescoutcloud.net
 community.forescout.com
 app.iris.acceptance.forescoutcloud.net
@@ -8190,6 +8188,7 @@ obs-sensors.iris.acceptance.forescoutcloud.net
 streaming.iris.production.forescoutcloud.net
 streaming-api.iris.production.forescoutcloud.net
 us.forescout.cloud
+www.forescout.com
 iris-testing-us-east-1-nlb-4df4bbde6f6e2bbb.elb.us-east-1.amazonaws.com
 www.forescout.com
 datapod-2-ingest.acceptance.forescoutcloud.net
@@ -8439,9 +8438,9 @@ chain.link
 chain.link
 admin.rezserver.com
 reservations.rezserver.com
+www.priceline.com
 www.bookingholdings.com
 www.getaroom.com
-www.priceline.com
 api.rezserver.com
 secure.rezserver.com
 flyiin.com
@@ -9531,10 +9530,10 @@ classroom.github.com
 *.githubapp.com
 education.github.com
 gist.github.com
-*.githubusercontent.com
 npmjs.org
 *.github.net
 github.com
+*.githubusercontent.com
 github.com
 api.github.com
 gist.github.com
@@ -9690,15 +9689,15 @@ yourcompany.udemy.com
 arrive-server.shopifycloud.com
 your-store.myshopify.com
 *.shopifycloud.com
-linkpop.com
 shop.app
+linkpop.com
 *.shopifykloud.com
 partners.shopify.com
 shopifyinbox.com
 shopify.plus
 *.shopify.com
-accounts.shopify.com
 admin.shopify.com
+accounts.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
