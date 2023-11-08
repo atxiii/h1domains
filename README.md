@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Nov  8 10:16:35 UTC 2023)
+## Domains with Bounties (Last Updated Wed Nov  8 11:12:10 UTC 2023)
 ```
 portal.au.frontegg.com
 api.au.frontegg.com
@@ -18,8 +18,8 @@ finder.porsche.com
 configurator.porsche.com
 signup.porsche.com
 shop.porsche.com
-identity.porsche.com
 porsche.com
+identity.porsche.com
 api.emea.gravity.porsche.com
 configurator.porsche.com
 connect-store.porsche.com
@@ -52,8 +52,8 @@ api.mergify.com
 dashboard.mergify.com
 www.compass.com
 www.compass.com
-*.hypr.com
 pentesting2.gethypr.com
+*.hypr.com
 pentesting3.gethypr.com
 pentesting.gethypr.com
 hypr74352.gethypr.com
@@ -2432,8 +2432,8 @@ www.triseptapi.com
 www.triseptdemo.com
 vacations.united.com
 www.applevacations.com
-*.grammarlyaws.com
 *.grammarly.com
+*.grammarlyaws.com
 *.grammarly.io
 grammarly.ai
 *.grammarly.io
