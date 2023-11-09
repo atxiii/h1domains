@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Nov  9 03:15:16 UTC 2023)
+## Domains with Bounties (Last Updated Thu Nov  9 04:17:06 UTC 2023)
 ```
 portal.au.frontegg.com
 api.au.frontegg.com
@@ -141,8 +141,8 @@ explore.redoxengine.com
 www.redoxengine.com
 help.redoxengine.com
 www.mobile-phantom.com
-www.tecno-mobile.com
 *.palm.tech
+www.tecno-mobile.com
 security.tecno.com
 *.palm.tech
 www.tecno-mobile.com
@@ -528,10 +528,10 @@ connect.8x8.com
 work-staging.8x8.com
 user-profile-staging.8x8.com
 *.chalet.8x8.com
-cloud8.8x8.com
 uc.8x8pilot.com
 *.8x8.id
 platform.8x8pilot.com
+cloud8.8x8.com
 platform.8x8.com
 voapi.8x8.com
 *.packet8.net
@@ -1341,8 +1341,8 @@ wp-qa.chime.com
 *.chmfin.com
 wp-dev2.chime.com
 wp-dev5.chime.com
-app.chime.com
 *.chimebank.com
+app.chime.com
 wp-ci.chime.com
 *.1debit.com
 *.chimebank.com
@@ -1896,9 +1896,9 @@ payments.amazon.*
 https://www.amazonpay.in/*
 https://www.amazon.in/wealth/*
 https://amazonpay.amazon.in/*
-www.alibabagroup.com
 *.tmall.com
 *.alibabacloud.com
+www.alibabagroup.com
 *.alibaba.com
 *.aliexpress.ru
 *.alibaba-inc.com
@@ -1987,8 +1987,8 @@ www.marriott.com
 reservations.all-inclusive.marriott.com
 dcfgatewaytst1.marriott.com
 gatewaydsaptst1.marriott.com
-activities.marriott.com
 jobs.marriott.com
+activities.marriott.com
 all-inclusive.marriott.com
 cpp.marriott.com
 marriottfranchisetransactions.marriott.com
@@ -2436,8 +2436,8 @@ m.4njbets.tvg.com
 promos.tvg.com
 us.tvg.com
 *racing.fanduel.com
-*.fanduel.com
 tvg.com
+*.fanduel.com
 *.fanduel.com
 *racing.fanduel.com
 fdbox.net
@@ -3620,8 +3620,8 @@ proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
 hackerone-user-content.com
-api.hackerone.com
 hackerone.com
+api.hackerone.com
 www.wearehackerone.com
 mta-sts.wearehackerone.com
 hackathon-photos-us-east-2.hackerone-user-content.com
