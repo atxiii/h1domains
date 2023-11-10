@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Nov 10 18:18:46 UTC 2023)
+## Domains with Bounties (Last Updated Fri Nov 10 19:13:51 UTC 2023)
 ```
 portal.au.frontegg.com
 api.au.frontegg.com
@@ -1256,9 +1256,9 @@ www.urbanclap.com
 api.reddit.com
 gql.reddit.com
 *.redditmedia.com
-app.spiketrap.io
 old.reddit.com
 ads.reddit.com
+app.spiketrap.io
 new.reddit.com
 *.redditinc.com
 *.snooguts.net
@@ -1529,8 +1529,8 @@ www.pangleglobal.com
 creatormarketplace.tiktok.com
 academy-outbound-ads.tiktok.com
 *.tiktokv.com
-careers.tiktok.com
 *.tiktok.com
+careers.tiktok.com
 business.tiktok.com
 developers.tiktok.com
 effecthouse.tiktok.com
