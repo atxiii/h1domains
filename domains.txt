@@ -6804,8 +6804,8 @@ www20.watsons.co.th
 www.watsons.co.id
 www.marionnaud.fr
 www.watsons.com.ph
-www.marionnaud.ro
 www.watsons.com.tr
+www.marionnaud.ro
 www.kruidvat.nl
 www.kruidvat.be
 app.marionnaud.cz
@@ -7352,8 +7352,8 @@ www.goodrx.com
 www.goodrx.com
 *.rbx.com
 *.ra.roblox.com
-*.guilded.gg
 *.roblox.com
+*.guilded.gg
 *.roblox.com
 *.rbx.com
 *.guilded.gg
