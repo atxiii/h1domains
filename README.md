@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Nov 10 17:15:45 UTC 2023)
+## Domains with Bounties (Last Updated Fri Nov 10 18:18:46 UTC 2023)
 ```
 portal.au.frontegg.com
 api.au.frontegg.com
@@ -521,7 +521,6 @@ work.8x8.com
 *.jitsi.net
 sso.8x8.com
 *.8x8.vc
-connect.8x8.com
 work-staging.8x8.com
 user-profile-staging.8x8.com
 *.chalet.8x8.com
@@ -534,7 +533,6 @@ platform.8x8.com
 voapi.8x8.com
 *.packet8.net
 *.8x8staging.com
-sms.8x8.com
 sso.8x8pilot.com
 user-profile.8x8.com
 *.p8t.us
@@ -550,8 +548,6 @@ pay.8x8.com
 *.8x8cloud.net
 *.p8t.us
 *.wavecell.com
-connect.8x8.com
-sms.8x8.com
 platform.8x8pilot.com
 uc.8x8pilot.com
 sso.8x8pilot.com
@@ -1533,8 +1529,8 @@ www.pangleglobal.com
 creatormarketplace.tiktok.com
 academy-outbound-ads.tiktok.com
 *.tiktokv.com
-*.tiktok.com
 careers.tiktok.com
+*.tiktok.com
 business.tiktok.com
 developers.tiktok.com
 effecthouse.tiktok.com
@@ -2193,8 +2189,8 @@ app.command.cysiv.com
 admin.rezserver.com
 reservations.rezserver.com
 www.bookingholdings.com
-www.getaroom.com
 www.priceline.com
+www.getaroom.com
 api.rezserver.com
 secure.rezserver.com
 flyiin.com
