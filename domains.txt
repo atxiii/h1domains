@@ -3169,8 +3169,8 @@ share.doppler.com
 *.USMISSION.GOV
 *.FSGB.GOV
 *.PEPFAR.GOV
-*.STATE.GOV
 *.USEMBASSY.GOV
+*.STATE.GOV
 *.USCONSULATE.GOV
 *.AMERICA.GOV
 *.DEVTESTFAN1.GOV
@@ -3991,9 +3991,9 @@ www.photoaffections.com
 www.cafepress.com
 iseeme.com
 www.simplytoimpress.com
-www.canvasworld.com
 *.photoaffections.com
 *.gifts.com
+www.canvasworld.com
 *.iseeme.com
 www.gifts.com
 *.personalcreations.com
@@ -5779,8 +5779,8 @@ api.reddit.com
 gql.reddit.com
 *.redditmedia.com
 app.spiketrap.io
-old.reddit.com
 ads.reddit.com
+old.reddit.com
 new.reddit.com
 *.redditinc.com
 *.snooguts.net
@@ -5801,8 +5801,8 @@ redditforbusiness.com
 mod.reddit.com
 matrix.redditspace.com
 oauth.reddit.com
-www.reddit.com
 accounts.reddit.com
+www.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
