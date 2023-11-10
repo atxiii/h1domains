@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Nov 10 21:12:22 UTC 2023)
+## Domains with Bounties (Last Updated Fri Nov 10 22:12:26 UTC 2023)
 ```
 portal.au.frontegg.com
 api.au.frontegg.com
@@ -1278,9 +1278,9 @@ redditforbusiness.com
 *.reddithelp.com
 mod.reddit.com
 matrix.redditspace.com
-oauth.reddit.com
 accounts.reddit.com
 www.reddit.com
+oauth.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -3286,8 +3286,8 @@ yourcompany.udemy.com
 arrive-server.shopifycloud.com
 your-store.myshopify.com
 *.shopifycloud.com
-shop.app
 linkpop.com
+shop.app
 *.shopifykloud.com
 shopifyinbox.com
 partners.shopify.com
