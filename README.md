@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Nov 11 22:13:12 UTC 2023)
+## Domains with Bounties (Last Updated Sat Nov 11 23:12:04 UTC 2023)
 ```
 portal.au.frontegg.com
 api.au.frontegg.com
@@ -3311,9 +3311,9 @@ story.snapchat.com
 create.snapchat.com
 businesshelp.snapchat.com
 msg.playcanvas.com
-forum.playcanvas.com
 ads.snapchat.com
 accounts.snapchat.com
+forum.playcanvas.com
 scan.snapchat.com
 blog.playcanvas.com
 code.playcanvas.com
@@ -3480,8 +3480,8 @@ applause1.magisto.com
 www.livestream.com
 donations.livestream.com
 *.vine.co
-*.twitter.com
 x.com
+*.twitter.com
 *.twimg.com
 gnip.com
 *.twitter.com
@@ -3614,8 +3614,8 @@ yimg.com
 hackerone-user-content.com
 api.hackerone.com
 hackerone.com
-www.wearehackerone.com
 mta-sts.wearehackerone.com
+www.wearehackerone.com
 hackathon-photos-us-east-2.hackerone-user-content.com
 cover-photos-us-east-2.hackerone-user-content.com
 a5s.hackerone-ext-content.com
