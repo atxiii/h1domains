@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Nov 11 15:12:53 UTC 2023)
+## Domains with Bounties (Last Updated Sat Nov 11 16:16:29 UTC 2023)
 ```
 portal.au.frontegg.com
 api.au.frontegg.com
@@ -3027,9 +3027,9 @@ www.starbucksreserve.com
 card.starbucks.com.sg
 secureui.starbucks.com
 www.starbucks.de
-www.starbucks.com
 app.starbucks.com
 www.starbucks.com.sg
+www.starbucks.com
 www.starbucks.com.cn
 www.starbucks.co.kr
 login.starbucks.co.jp
