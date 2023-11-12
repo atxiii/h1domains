@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Nov 11 23:12:04 UTC 2023)
+## Domains with Bounties (Last Updated Sun Nov 12 00:47:24 UTC 2023)
 ```
 portal.au.frontegg.com
 api.au.frontegg.com
@@ -319,9 +319,9 @@ crash-stats.allizom.org
 firefox-ci-tc.services.mozilla.com
 accounts.firefox.com
 sync.services.mozilla.com
-push.services.mozilla.com
 merino.services.mozilla.com
 bugzilla.mozilla.org
+push.services.mozilla.com
 contile.services.mozilla.com
 aus5.mozilla.org
 shavar.services.mozilla.com
@@ -1533,8 +1533,8 @@ careers.tiktok.com
 business.tiktok.com
 *.tiktok.com
 developers.tiktok.com
-effecthouse.tiktok.com
 shop.tiktok.com
+effecthouse.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2022,8 +2022,8 @@ www.goodrx.com
 www.goodrx.com
 *.rbx.com
 *.ra.roblox.com
-*.guilded.gg
 *.roblox.com
+*.guilded.gg
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -2188,9 +2188,9 @@ cysiv.com
 app.command.cysiv.com
 admin.rezserver.com
 reservations.rezserver.com
-www.getaroom.com
 www.bookingholdings.com
 www.priceline.com
+www.getaroom.com
 api.rezserver.com
 secure.rezserver.com
 flyiin.com
@@ -2600,7 +2600,7 @@ api.foliofn.com
 *.advisorsolutions.gs.com
 *.folioinstitutional.com
 *.gs.com
-*.gs.de
+*.folioclient.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
