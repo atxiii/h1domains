@@ -3825,9 +3825,9 @@ banfield.us
 *.royalcaninconcorsi.it
 *.royalcanin-vouchers.com
 banfieldexchange.com
-*.royalcanin.com
 *.banfieldassets.com
 *.royalcanin.pl
+*.royalcanin.com
 *.mms.com
 *.pedigree.com
 *.vcahospitals.com
