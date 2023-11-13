@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Nov 13 15:16:03 UTC 2023)
+## Domains with Bounties (Last Updated Mon Nov 13 16:18:38 UTC 2023)
 ```
 portal.au.frontegg.com
 api.au.frontegg.com
@@ -567,8 +567,8 @@ pay.8x8.com
 admin.8x8.com
 *.luckydays.com
 *.magicjackpot.ro
-*.superbet.com
 *.superbet.ro
+*.superbet.com
 *.luckydays.ca
 *.spinaway.com
 *.superbet.rs
@@ -1370,8 +1370,8 @@ fetlife.com
 *.fetlife.com
 *.fetlife.com
 fetlife.com
-www.remitano.com
 socket.remitano.com
+www.remitano.com
 api.remitano.com
 www.remitano.com
 api.remitano.com
@@ -3612,9 +3612,9 @@ onepush.query.yahoo.com
 proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
-hackerone-user-content.com
 api.hackerone.com
 hackerone.com
+hackerone-user-content.com
 mta-sts.wearehackerone.com
 www.wearehackerone.com
 hackathon-photos-us-east-2.hackerone-user-content.com
