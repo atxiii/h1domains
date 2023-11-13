@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Nov 13 01:56:37 UTC 2023)
+## Domains with Bounties (Last Updated Mon Nov 13 02:27:16 UTC 2023)
 ```
 portal.au.frontegg.com
 api.au.frontegg.com
@@ -3562,8 +3562,8 @@ paradex.io
 *.cbhq.net
 prime.coinbase.com
 *.coinbase.com
-api.coinbase.com
 cloud.coinbase.com
+api.coinbase.com
 api.custody.coinbase.com
 institutional.coinbase.com
 *.base.org
