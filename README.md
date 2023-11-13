@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Nov 13 19:14:01 UTC 2023)
+## Domains with Bounties (Last Updated Mon Nov 13 20:13:01 UTC 2023)
 ```
 portal.au.frontegg.com
 api.au.frontegg.com
@@ -16,8 +16,8 @@ api2.frontapp.com
 app.frontapp.com
 api2.frontapp.com
 http://help.front.com
-*.boozt.com
 *.booztlet.com
+*.boozt.com
 *.boozt.com
 *.booztlet.com
 *.trip.com
@@ -1336,8 +1336,8 @@ wp-qa.chime.com
 *.chmfin.com
 wp-dev2.chime.com
 wp-dev5.chime.com
-app.chime.com
 *.chimebank.com
+app.chime.com
 wp-ci.chime.com
 *.1debit.com
 *.chimebank.com
@@ -2301,7 +2301,6 @@ assets.hyatt.com
 roominglist.hyatt.com
 sso.oft.hyatt.com
 upsell.hyatt.com
-world.hyatt.com
 res.breathlessresorts.com
 res.skyteam.com
 res.vacations.seaworld.com
@@ -2314,6 +2313,7 @@ vacations.velasvallarta.com
 www.blueskytours.com
 vacations.outrigger.com
 book.extraholidaysvacations.com
+world.hyatt.com
 hyatt.com
 www.hyatt.com
 world.hyatt.com
