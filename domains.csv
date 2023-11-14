@@ -1,4 +1,6 @@
 handle,domain,eligible_for_bounty
+bybit_fintech,*.bybit.com,True
+bybit_fintech,*.bybit.com,True
 navient_solutions,admin.msbnexus.navient.com,False
 navient_solutions,myaccount.navirefi.com,False
 navient_solutions,wsmb2bresv.navient.com,False
@@ -9667,8 +9669,8 @@ shopify,*.shopifykloud.com,True
 shopify,shopifyinbox.com,True
 shopify,partners.shopify.com,True
 shopify,shopify.plus,True
-shopify,admin.shopify.com,True
 shopify,*.shopify.com,True
+shopify,admin.shopify.com,True
 shopify,accounts.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
