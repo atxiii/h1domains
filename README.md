@@ -2,14 +2,14 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Nov 13 23:14:57 UTC 2023)
+## Domains with Bounties (Last Updated Tue Nov 14 00:46:19 UTC 2023)
 ```
 portal.au.frontegg.com
 api.au.frontegg.com
 api.au.frontegg.com
 portal.au.frontegg.com
-app.frontapp.com
 *.front.com
+app.frontapp.com
 help.front.com
 api2.frontapp.com
 *.front.com
@@ -571,8 +571,8 @@ pay.8x8.com
 admin.8x8.com
 *.luckydays.com
 *.magicjackpot.ro
-*.superbet.ro
 *.superbet.com
+*.superbet.ro
 *.luckydays.ca
 *.spinaway.com
 *.superbet.rs
@@ -3297,8 +3297,8 @@ shop.app
 shopifyinbox.com
 partners.shopify.com
 shopify.plus
-admin.shopify.com
 *.shopify.com
+admin.shopify.com
 accounts.shopify.com
 *.shopify.com
 *.shopifykloud.com
