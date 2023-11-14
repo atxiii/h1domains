@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Nov 14 07:13:15 UTC 2023)
+## Domains with Bounties (Last Updated Tue Nov 14 08:17:21 UTC 2023)
 ```
 *.bybit.com
 *.bybit.com
@@ -3300,8 +3300,8 @@ shop.app
 shopifyinbox.com
 partners.shopify.com
 shopify.plus
-*.shopify.com
 admin.shopify.com
+*.shopify.com
 accounts.shopify.com
 *.shopify.com
 *.shopifykloud.com
