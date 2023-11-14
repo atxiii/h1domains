@@ -962,8 +962,8 @@ blueapron,www.blueapron.com,False
 blueapron,https://blog.blueapron.com/,False
 blueapron,www.blueapron.com,False
 blueapron,http://www.blueapron.com/graphql,False
-hypr-corp,*.hypr.com,True
 hypr-corp,pentesting2.gethypr.com,True
+hypr-corp,*.hypr.com,True
 hypr-corp,pentesting3.gethypr.com,True
 hypr-corp,pentesting.gethypr.com,True
 hypr-corp,hypr74352.gethypr.com,True
@@ -9670,9 +9670,9 @@ shopify,*.shopifykloud.com,True
 shopify,shopifyinbox.com,True
 shopify,partners.shopify.com,True
 shopify,*.shopify.com,True
-shopify,accounts.shopify.com,True
 shopify,shopify.plus,True
 shopify,admin.shopify.com,True
+shopify,accounts.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
 shopify,*.shopifycloud.com,True

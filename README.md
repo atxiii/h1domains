@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Nov 14 18:15:22 UTC 2023)
+## Domains with Bounties (Last Updated Tue Nov 14 19:11:46 UTC 2023)
 ```
 *.bybit.com
 *.bybit.com
@@ -30,8 +30,8 @@ api.mergify.com
 dashboard.mergify.com
 www.compass.com
 www.compass.com
-*.hypr.com
 pentesting2.gethypr.com
+*.hypr.com
 pentesting3.gethypr.com
 pentesting.gethypr.com
 hypr74352.gethypr.com
@@ -3288,9 +3288,9 @@ shop.app
 shopifyinbox.com
 partners.shopify.com
 *.shopify.com
-accounts.shopify.com
 shopify.plus
 admin.shopify.com
+accounts.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
