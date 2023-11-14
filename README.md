@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Nov 14 17:14:28 UTC 2023)
+## Domains with Bounties (Last Updated Tue Nov 14 18:15:22 UTC 2023)
 ```
 *.bybit.com
 *.bybit.com
@@ -10,8 +10,8 @@ portal.au.frontegg.com
 api.au.frontegg.com
 api.au.frontegg.com
 portal.au.frontegg.com
-*.front.com
 app.frontapp.com
+*.front.com
 help.front.com
 api2.frontapp.com
 *.front.com
@@ -831,8 +831,8 @@ ws.sorare.com
 *.shein.com
 *.romwe.com
 *.sheingsp.com
-exnessaffiliates.com
 my.exness.com
+exnessaffiliates.com
 pay.ibex.exchange
 exness.com
 pwapi.ex2b.com
@@ -1535,8 +1535,8 @@ creatormarketplace.tiktok.com
 academy-outbound-ads.tiktok.com
 *.tiktokv.com
 careers.tiktok.com
-business.tiktok.com
 *.tiktok.com
+business.tiktok.com
 shop.tiktok.com
 developers.tiktok.com
 effecthouse.tiktok.com
@@ -2026,8 +2026,8 @@ www.goodrx.com
 www.goodrx.com
 *.rbx.com
 *.ra.roblox.com
-*.roblox.com
 *.guilded.gg
+*.roblox.com
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -2274,9 +2274,9 @@ vacations.universalstudioshollywood.com
 www.wynnvacations.com
 res.sunscaperesorts.com
 res.vacations.buschgardens.com
-vacations.us.palladiumhotelgroup.com
 res.universalorlandovacations.com
 book.beachbound.com
+vacations.us.palladiumhotelgroup.com
 confluence.hyattdev.com
 ebsext.oft.hyatt.com
 newsroom.images.hyatt.com
@@ -3287,9 +3287,9 @@ shop.app
 *.shopifykloud.com
 shopifyinbox.com
 partners.shopify.com
-shopify.plus
 *.shopify.com
 accounts.shopify.com
+shopify.plus
 admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
@@ -4046,8 +4046,8 @@ api.greenhouse.io
 support.greenhouse.io
 jss.greenhouse.io
 interseller.io
-boards.greenhouse.io
 app.greenhouse.io
+boards.greenhouse.io
 www.greenhouse.io
 app.interseller.io
 app.greenhouse.io
