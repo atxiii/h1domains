@@ -945,8 +945,8 @@ api2.frontapp.com
 app.frontapp.com
 api2.frontapp.com
 http://help.front.com
-*.booztlet.com
 *.boozt.com
+*.booztlet.com
 *.boozt.com
 *.booztlet.com
 *.trip.com
@@ -8259,8 +8259,8 @@ wotctech.com
 *.redeverdeamarela.com.br
 *equifax.co.in
 HOURLY-JOBS.NET
-*.bvsnet.com.br
 *.efficientforms.com
+*.bvsnet.com.br
 *equifax.cl
 *equifax.ec
 *equifax.hn
@@ -9681,8 +9681,8 @@ shopifyinbox.com
 partners.shopify.com
 shopify.plus
 *.shopify.com
-accounts.shopify.com
 admin.shopify.com
+accounts.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
