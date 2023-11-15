@@ -3018,8 +3018,8 @@ login.stanford.edu
 spdb.stanford.edu
 vault.stanford.edu
 workgroup.stanford.edu
-www.stanford.edu
 mailman.stanford.edu
+www.stanford.edu
 *.sahr.stanford.edu
 www.stanford.edu
 bi.stanford.edu
@@ -4114,8 +4114,8 @@ ws.sorare.com
 *.shein.com
 *.romwe.com
 *.sheingsp.com
-exnessaffiliates.com
 my.exness.com
+exnessaffiliates.com
 pay.ibex.exchange
 exness.com
 pwapi.ex2b.com
@@ -6425,8 +6425,8 @@ federalist-docs.18f.gov
 *.ecpic.gov
 *.facadatabase.gov
 *.gsa.gov
-nvio.mx
 nvio.ar
+nvio.mx
 api.bitso.com
 bitso.com
 bitso.com
@@ -6784,8 +6784,8 @@ beta-cloud.acronis.com
 account.acronis.com
 *.5nine.com
 *-api-*.acronis.com
-*.devicelock.com
 *.acronis.com
+*.devicelock.com
 *.acronis.work
 *-api-*.acronis.com
 *.acronis.com

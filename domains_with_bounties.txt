@@ -825,8 +825,8 @@ ws.sorare.com
 *.shein.com
 *.romwe.com
 *.sheingsp.com
-exnessaffiliates.com
 my.exness.com
+exnessaffiliates.com
 pay.ibex.exchange
 exness.com
 pwapi.ex2b.com
@@ -1373,8 +1373,8 @@ api.remitano.com
 www.remitano.com
 api.remitano.com
 socket.remitano.com
-nvio.mx
 nvio.ar
+nvio.mx
 api.bitso.com
 bitso.com
 bitso.com
@@ -1589,8 +1589,8 @@ beta-cloud.acronis.com
 account.acronis.com
 *.5nine.com
 *-api-*.acronis.com
-*.devicelock.com
 *.acronis.com
+*.devicelock.com
 *.acronis.work
 *-api-*.acronis.com
 *.acronis.com
