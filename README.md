@@ -2,8 +2,30 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Nov 15 07:13:51 UTC 2023)
+## Domains with Bounties (Last Updated Wed Nov 15 08:16:40 UTC 2023)
 ```
+experiences.booking.com
+careers.booking.com
+supplier.auth.toag.booking.com
+flights.booking.com
+booking.com
+metasearch-api.booking.com
+taxi.booking.com
+widget.rentalcars.com
+secure.booking.com
+cars.booking.com
+account.booking.com
+booking.com
+secure.booking.com
+careers.booking.com
+account.booking.com
+taxi.booking.com
+widget.rentalcars.com
+cars.booking.com
+supplier.auth.toag.booking.com
+metasearch-api.booking.com
+experiences.booking.com
+flights.booking.com
 *.bybit.com
 *.bybit.com
 portal.au.frontegg.com
@@ -3127,8 +3149,8 @@ education.github.com
 gist.github.com
 npmjs.org
 *.github.net
-*.githubusercontent.com
 github.com
+*.githubusercontent.com
 github.com
 api.github.com
 gist.github.com
@@ -3618,11 +3640,11 @@ a5s.hackerone-ext-content.com
 *.vpn.hackerone.net
 profile-photos.hackerone-user-content.com
 reviewer.pullrequest.com
-hackerone-ext-content.com
 hackathon-photos.hackerone-user-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 ctf.hacker101.com
 www.hackerone.com
+hackerone-ext-content.com
 profile-photos-us-east-2.hackerone-user-content.com
 app.pullrequest.com
 hackerone.live
