@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Nov 15 05:14:46 UTC 2023)
+## Domains with Bounties (Last Updated Wed Nov 15 06:16:21 UTC 2023)
 ```
 *.bybit.com
 *.bybit.com
@@ -858,8 +858,8 @@ push-d-hap.cloud.etoro.com
 push-demo-lightstreamer.cloud.etoro.com
 sts.etoro.com
 watchlistapi.etoro.com
-delta.app
 www.etoro.com
+delta.app
 aggregator.etoro.com
 cashier.etoro.com
 cashier-src.etoro.com
@@ -1595,8 +1595,8 @@ beta-cloud.acronis.com
 account.acronis.com
 *.5nine.com
 *-api-*.acronis.com
-*.acronis.com
 *.devicelock.com
+*.acronis.com
 *.acronis.work
 *-api-*.acronis.com
 *.acronis.com
@@ -3289,8 +3289,8 @@ shopifyinbox.com
 partners.shopify.com
 *.shopify.com
 shopify.plus
-admin.shopify.com
 accounts.shopify.com
+admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
