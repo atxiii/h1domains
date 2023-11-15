@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Nov 15 15:18:36 UTC 2023)
+## Domains with Bounties (Last Updated Wed Nov 15 16:19:14 UTC 2023)
 ```
 experiences.booking.com
 careers.booking.com
@@ -1324,8 +1324,8 @@ global-api.citymapper.com
 *.withbuddies.com
 customers.mattermost.com
 customers.mattermost.com
-*.chimecard.com
 www.chime.com
+*.chimecard.com
 *.chimepayments.com
 wp-dev3.chime.com
 wp-integ.chime.com
@@ -2024,8 +2024,8 @@ www.goodrx.com
 www.goodrx.com
 *.rbx.com
 *.ra.roblox.com
-*.roblox.com
 *.guilded.gg
+*.roblox.com
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -3125,8 +3125,8 @@ education.github.com
 gist.github.com
 npmjs.org
 *.github.net
-github.com
 *.githubusercontent.com
+github.com
 github.com
 api.github.com
 gist.github.com
@@ -3285,10 +3285,10 @@ linkpop.com
 *.shopifykloud.com
 shopifyinbox.com
 partners.shopify.com
-*.shopify.com
 shopify.plus
-admin.shopify.com
 accounts.shopify.com
+admin.shopify.com
+*.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
