@@ -2,8 +2,8 @@ handle,domain,eligible_for_bounty
 bookingcom,experiences.booking.com,True
 bookingcom,careers.booking.com,True
 bookingcom,flights.booking.com,True
-bookingcom,booking.com,True
 bookingcom,supplier.auth.toag.booking.com,True
+bookingcom,booking.com,True
 bookingcom,metasearch-api.booking.com,True
 bookingcom,taxi.booking.com,True
 bookingcom,widget.rentalcars.com,True
@@ -7807,8 +7807,8 @@ marriott,www.marriott.com,True
 marriott,reservations.all-inclusive.marriott.com,True
 marriott,dcfgatewaytst1.marriott.com,True
 marriott,gatewaydsaptst1.marriott.com,True
-marriott,activities.marriott.com,True
 marriott,jobs.marriott.com,True
+marriott,activities.marriott.com,True
 marriott,cpp.marriott.com,True
 marriott,lawmanager.marriott.com,True
 marriott,giftcards.marriott.com,True
@@ -9727,8 +9727,8 @@ spotify,label-studio-public.sonantic.io,True
 spotify,backstage.io,True
 dashlane,api.dashlane.com,True
 dashlane,logs.dashlane.com,True
-dashlane,app.dashlane.com,True
 dashlane,www.dashlane.com,True
+dashlane,app.dashlane.com,True
 dashlane,console.dashlane.com,True
 dashlane,ws1.dashlane.com,True
 dashlane,ws1.dashlane.com,True
@@ -10158,8 +10158,8 @@ shopify,shopifyinbox.com,True
 shopify,partners.shopify.com,True
 shopify,accounts.shopify.com,True
 shopify,shopify.plus,True
-shopify,admin.shopify.com,True
 shopify,*.shopify.com,True
+shopify,admin.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
 shopify,*.shopifycloud.com,True
