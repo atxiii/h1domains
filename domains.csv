@@ -1072,7 +1072,6 @@ alshaya,*.alshayaenterprises.com,False
 alshaya,*.americaneagle.com.bh,False
 alshaya,*.americaneagle.com.kw,False
 alshaya,*.westelm.com.kw,False
-alshaya,*.victoriassecret.com.qa,False
 alshaya,*.thebodyshop.com.kw,False
 alshaya,*.muji.qa,False
 alshaya,*.mothercare.com.eg,False
@@ -1085,6 +1084,7 @@ alshaya,suppliertraining.alshaya.com,False
 alshaya,sa.hm.com,False
 alshaya,kw.boots.com,False
 alshaya,*.starbuckscardtr.com,False
+alshaya,*.victoriassecret.com.qa,False
 alshaya,boysweb.shaya.com.tr,False
 alshaya,qt.boots.com,False
 alshaya,kw.hm.com,False
@@ -5560,8 +5560,8 @@ elastic,*.found.io,True
 elastic,*.elasticnet.co,True
 elastic,*.eops.nl,True
 elastic,*.elstc.co,True
-elastic,*.swiftype.com,True
 elastic,cloud.elastic.co,True
+elastic,*.swiftype.com,True
 elastic,www.elastic.co,True
 elastic,*.elastic.co,True
 elastic,*.elastic.co,True

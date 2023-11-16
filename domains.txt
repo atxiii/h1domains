@@ -1071,7 +1071,6 @@ card.starbucks.com.kz
 *.americaneagle.com.bh
 *.americaneagle.com.kw
 *.westelm.com.kw
-*.victoriassecret.com.qa
 *.thebodyshop.com.kw
 *.muji.qa
 *.mothercare.com.eg
@@ -1084,6 +1083,7 @@ suppliertraining.alshaya.com
 sa.hm.com
 kw.boots.com
 *.starbuckscardtr.com
+*.victoriassecret.com.qa
 boysweb.shaya.com.tr
 qt.boots.com
 kw.hm.com
@@ -5559,8 +5559,8 @@ main.trafficfactory.biz
 *.elasticnet.co
 *.eops.nl
 *.elstc.co
-*.swiftype.com
 cloud.elastic.co
+*.swiftype.com
 www.elastic.co
 *.elastic.co
 *.elastic.co
