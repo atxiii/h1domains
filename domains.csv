@@ -8039,7 +8039,6 @@ kubernetes,kubernetes-csi.github.io,True
 8x8,user-profile.8x8.com,False
 8x8,cloud8.8x8.com,False
 8x8,*.8x8pilot.com,False
-8x8,www.8x8.com,False
 8x8,*.8x8.uk,False
 8x8,*.adgjmp.net,False
 8x8,*.chalet.8x8.com,False
@@ -8051,6 +8050,7 @@ kubernetes,kubernetes-csi.github.io,True
 8x8,*.jitsi.net,False
 8x8,sso.8x8.com,False
 8x8,platform.8x8.com,False
+8x8,www.8x8.com,False
 8x8,accountmanager.8x8.com,False
 8x8,*.contactnow.8x8.com,False
 8x8,*.mycontactual.com,False

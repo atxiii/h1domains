@@ -8038,7 +8038,6 @@ supersite.8x8.com
 user-profile.8x8.com
 cloud8.8x8.com
 *.8x8pilot.com
-www.8x8.com
 *.8x8.uk
 *.adgjmp.net
 *.chalet.8x8.com
@@ -8050,6 +8049,7 @@ pay.8x8.com
 *.jitsi.net
 sso.8x8.com
 platform.8x8.com
+www.8x8.com
 accountmanager.8x8.com
 *.contactnow.8x8.com
 *.mycontactual.com
