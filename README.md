@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Nov 17 13:17:05 UTC 2023)
+## Domains with Bounties (Last Updated Fri Nov 17 14:14:05 UTC 2023)
 ```
 experiences.booking.com
 careers.booking.com
@@ -12,8 +12,8 @@ booking.com
 metasearch-api.booking.com
 taxi.booking.com
 widget.rentalcars.com
-secure.booking.com
 cars.booking.com
+secure.booking.com
 account.booking.com
 booking.com
 secure.booking.com
@@ -1899,10 +1899,10 @@ www.alibabagroup.com
 *.alibaba-inc.com
 *.aliyun-inc.com
 *.Daraz.com
-*.aliyun.com
-*.aliexpress.com
 *.1688.com
 *.alimama.com
+*.aliyun.com
+*.aliexpress.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -1982,8 +1982,8 @@ www.marriott.com
 reservations.all-inclusive.marriott.com
 dcfgatewaytst1.marriott.com
 gatewaydsaptst1.marriott.com
-activities.marriott.com
 jobs.marriott.com
+activities.marriott.com
 cpp.marriott.com
 lawmanager.marriott.com
 giftcards.marriott.com
@@ -2593,8 +2593,8 @@ api.foliofn.com
 *.advisorsolutions.gs.com
 *.folioinstitutional.com
 *.folioclient.com
-*.gsam.com
 *.gs.de
+*.gs.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -2841,8 +2841,8 @@ xtramile.grabpay.com
 *.grab.co
 manage.grab.co
 p.grabtaxi.com
-*.grab.com
 api.grabpay.com
+*.grab.com
 gamma.grab.co
 jira.grab.com
 kartaview.org
@@ -3287,8 +3287,8 @@ shopifyinbox.com
 partners.shopify.com
 accounts.shopify.com
 shopify.plus
-*.shopify.com
 admin.shopify.com
+*.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -3415,9 +3415,9 @@ www.hoteltonight.com
 *.airbnb.com
 assets.airbnb.com
 open.airbnb.com
-api.airbnb.com
 callbacks.airbnb.com
 www.airbnb.com
+api.airbnb.com
 www.airbnb.com
 next.airbnb.com
 api.airbnb.com
