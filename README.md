@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Nov 17 18:17:44 UTC 2023)
+## Domains with Bounties (Last Updated Fri Nov 17 19:13:41 UTC 2023)
 ```
 experiences.booking.com
 careers.booking.com
@@ -1466,19 +1466,19 @@ launchpad.37signals.com
 3.basecamp.com
 launchpad.37signals.com
 world.hey.com
-sf-rp-eu.sharefile.com
 www.cloud.com
 api.sharefile.com
 accounts.cloud.com
 *.browser.cloud.com
 (yoursubdomain).sharefile.com
+sf-rp-eu.sharefile.com
 eu.cloud.com
 onboarding.cloud.com
 (yoursubdomain).sf-api.com
 (yoursubdomain).sf-api.eu
 (yoursubdomain).sharefile.eu
-sf-rp-us.sharefile.com
 secure.sharefile.com
+sf-rp-us.sharefile.com
 ap-s.cloud.com
 adm.cloud.com
 (yoursubdomain).eu.iws.cloud.com
@@ -1487,8 +1487,8 @@ accounts-internal.cloud.com
 (youriwssubdomain).cloud.com
 launch.cloud.com
 api.adm.cloud.com
-sf-rp.sharefile.com
 api.sharefile.eu
+sf-rp.sharefile.com
 us.cloud.com
 *.citrixworkspacesapi.net
 (yoursubdomain).us.iws.cloud.com
@@ -2591,10 +2591,10 @@ research.gs.com
 marquee.gs.com
 api.foliofn.com
 *.gs.de
-*.gsam.com
 *.advisorsolutions.gs.com
 *.gs.com
 *.folioclient.com
+*.folioinstitutional.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
