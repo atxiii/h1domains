@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Nov 17 03:16:04 UTC 2023)
+## Domains with Bounties (Last Updated Fri Nov 17 04:15:45 UTC 2023)
 ```
 experiences.booking.com
 careers.booking.com
@@ -1533,8 +1533,8 @@ academy-outbound-ads.tiktok.com
 *.tiktokv.com
 careers.tiktok.com
 business.tiktok.com
-creatormarketplace.tiktok.com
 *.tiktok.com
+creatormarketplace.tiktok.com
 shop.tiktok.com
 effecthouse.tiktok.com
 developers.tiktok.com
@@ -1891,10 +1891,10 @@ payments.amazon.*
 https://www.amazonpay.in/*
 https://www.amazon.in/wealth/*
 https://amazonpay.amazon.in/*
-*.tmall.com
 www.alibabagroup.com
 *.alibabacloud.com
 *.alibaba.com
+*.tmall.com
 *.aliexpress.ru
 *.alibaba-inc.com
 *.aliyun-inc.com
@@ -2841,8 +2841,8 @@ xtramile.grabpay.com
 *.grab.co
 manage.grab.co
 p.grabtaxi.com
-api.grabpay.com
 *.grab.com
+api.grabpay.com
 gamma.grab.co
 jira.grab.com
 kartaview.org
@@ -3474,8 +3474,8 @@ applause1.magisto.com
 www.livestream.com
 donations.livestream.com
 *.vine.co
-*.twitter.com
 x.com
+*.twitter.com
 *.twimg.com
 gnip.com
 *.twitter.com
