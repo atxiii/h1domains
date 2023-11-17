@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Nov 17 01:56:19 UTC 2023)
+## Domains with Bounties (Last Updated Fri Nov 17 02:26:48 UTC 2023)
 ```
 experiences.booking.com
 careers.booking.com
@@ -1930,8 +1930,8 @@ configure.bmw.de
 configure.mini.de
 konfigurator.bmw-motorrad.de
 api.magic.link
-api.fortmatic.com
 dashboard.fortmatic.com
+api.fortmatic.com
 fortmatic.com
 auth.magic.link
 dashboard.magic.link
