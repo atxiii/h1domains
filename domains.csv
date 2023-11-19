@@ -9349,7 +9349,6 @@ goldmansachs,*.gsselect.com,True
 goldmansachs,*.marcus.co.uk,True
 goldmansachs,*.goldman.com,True
 goldmansachs,*.ayco.com,True
-goldmansachs,*.global-liquidity.gs.com,True
 goldmansachs,*.gspublishing.com,True
 goldmansachs,goldmansachsindices.com,True
 goldmansachs,*.goldmanpfm.com,True
@@ -9360,6 +9359,7 @@ goldmansachs,*.finlife.com,True
 goldmansachs,*.vennhypotheken.nl,True
 goldmansachs,*.honestdollar.com,True
 goldmansachs,*.goldmansachs.com,True
+goldmansachs,*.global-liquidity.gs.com,True
 goldmansachs,*.gs-mosaic.qa.gs.com,True
 goldmansachs,*.qaglobal-liquidity.gs.com,True
 goldmansachs,research.gs.com,True
@@ -9369,7 +9369,7 @@ goldmansachs,*.gsam.com,True
 goldmansachs,*.advisorsolutions.gs.com,True
 goldmansachs,*.gs.de,True
 goldmansachs,*.folioclient.com,True
-goldmansachs,*.folioinstitutional.com,True
+goldmansachs,*.gs.com,True
 goldmansachs,*.goldmansachs.com,True
 goldmansachs,*.gs.com,True
 goldmansachs,*.goldman.com,True
