@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Nov 19 15:13:33 UTC 2023)
+## Domains with Bounties (Last Updated Sun Nov 19 16:14:56 UTC 2023)
 ```
 experiences.booking.com
 careers.booking.com
@@ -1377,8 +1377,8 @@ api.remitano.com
 www.remitano.com
 api.remitano.com
 socket.remitano.com
-nvio.ar
 nvio.mx
+nvio.ar
 api.bitso.com
 bitso.com
 bitso.com
@@ -3624,9 +3624,9 @@ ctf.hacker101.com
 profile-photos-us-east-2.hackerone-user-content.com
 app.pullrequest.com
 cover-photos.hackerone-user-content.com
-b5s.hackerone-ext-content.com
 hackerone.live
 errors.hackerone.net
+b5s.hackerone-ext-content.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
