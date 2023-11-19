@@ -4476,9 +4476,9 @@ planetart,*.simplytoimpress.com,False
 planetart,iseeme.com,False
 planetart,www.cafepress.com,False
 planetart,www.simplytoimpress.com,False
-planetart,www.canvasworld.com,False
 planetart,*.photoaffections.com,False
 planetart,*.gifts.com,False
+planetart,www.canvasworld.com,False
 planetart,*.cafepress.com,False
 planetart,*.personalcreations.com,False
 planetart,*.iseeme.com,False
@@ -4737,8 +4737,8 @@ anywhererealestate,*.sothebysrealty.*,False
 anywhererealestate,*.corcoran.*,False
 anywhererealestate,*.realogy.*,False
 anywhererealestate,*.cbcworldwide.*,False
-anywhererealestate,*.mycbdesk.com,False
 anywhererealestate,*.coldwellbanker.*,False
+anywhererealestate,*.mycbdesk.com,False
 anywhererealestate,new.myzap.com,False
 anywhererealestate,*.anywhere.re,False
 anywhererealestate,*.realogy.*,False
@@ -7466,10 +7466,10 @@ playstation,wallets.api.playstation.com,True
 playstation,social.playstation.com,True
 playstation,api.direct.playstation.com,True
 playstation,transact.playstation.com,True
-playstation,store.playstation.com,True
 playstation,*.sonyentertainmentnetwork.com,True
 playstation,*.api.playstation.com,True
 playstation,direct.playstation.com,True
+playstation,store.playstation.com,True
 playstation,my.playstation.com,True
 playstation,ca.account.sony.com,True
 playstation,my.account.sony.com,True
