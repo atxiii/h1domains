@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Nov 21 14:16:42 UTC 2023)
+## Domains with Bounties (Last Updated Tue Nov 21 15:16:16 UTC 2023)
 ```
 careers.booking.com
 experiences.booking.com
@@ -40,8 +40,8 @@ api2.frontapp.com
 app.frontapp.com
 api2.frontapp.com
 http://help.front.com
-*.booztlet.com
 *.boozt.com
+*.booztlet.com
 *.boozt.com
 *.booztlet.com
 *.trip.com
@@ -87,6 +87,30 @@ lensa-ai.com
 prisma-ai.com
 appapi.neuralprisma.com
 https://simple-life-app.com/
+connect-sandbox.gocardless.com
+*.gocardless.io
+*.gocardless-banking.io
+api-sandbox.gocardless.com
+*.gocardless-lab.io
+pay-sandbox.gocardless.com
+xero-sandbox.gocardless.com
+oauth-sandbox.gocardless.com
+*.gocardless-cicd.io
+*.gocardless-staging.io
+manage-sandbox.gocardless.com
+www.gocardless.com
+*.gocardless.io
+*.gocardless-banking.io
+*.gocardless-cicd.io
+*.gocardless-staging.io
+*.gocardless-lab.io
+manage-sandbox.gocardless.com
+pay-sandbox.gocardless.com
+api-sandbox.gocardless.com
+connect-sandbox.gocardless.com
+www.gocardless.com
+oauth-sandbox.gocardless.com
+xero-sandbox.gocardless.com
 rei.com
 rei.com
 http://rei.com/rei-garage
@@ -925,8 +949,8 @@ rankings.etoro.com
 delta.app
 bullsheet.me
 api.instacart.com
-www.instacart.com
 *.instacart.tools
+www.instacart.com
 shoppers.instacart.com
 admin.instacart.com
 *.instacart.com
@@ -2218,9 +2242,9 @@ admin.smartsheet.com
 help.smartsheet.com
 developers.smartsheet.com
 *authenticate.trustpilot.com
-*business.trustpilot.com
 *emailsignature.trustpilot.com
 *signup.business.trustpilot.com
+*business.trustpilot.com
 *invitations-api.trustpilot.com
 *share.trustpilot.com
 *www.trustpilot.com
@@ -2476,9 +2500,9 @@ paypal.me
 my.loanbuilder.com
 *.venmo.com
 *.paypal.com
-*.braintree.tools
 pigeon.swiftfinancial.com
 *.paydiant.com
+*.braintree.tools
 www.loanbuilder.com
 api.swiftfinancial.com
 api.loanbuilder.com
@@ -2599,10 +2623,10 @@ research.gs.com
 marquee.gs.com
 api.foliofn.com
 *.advisorsolutions.gs.com
-*.gs.de
 *.folioclient.com
 *.gsam.com
 *.gs.com
+*.folioinstitutional.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -2922,8 +2946,8 @@ label-studio-public.sonantic.io
 backstage.io
 api.dashlane.com
 logs.dashlane.com
-app.dashlane.com
 www.dashlane.com
+app.dashlane.com
 console.dashlane.com
 ws1.dashlane.com
 ws1.dashlane.com
@@ -3660,30 +3684,6 @@ profile-photos-us-east-2.hackerone-user-content.com
 cover-photos-us-east-2.hackerone-user-content.com
 hackerone.live
 *.vpn.hackerone.net
-connect-sandbox.gocardless.com
-*.gocardless.io
-*.gocardless-banking.io
-api-sandbox.gocardless.com
-*.gocardless-lab.io
-pay-sandbox.gocardless.com
-xero-sandbox.gocardless.com
-oauth-sandbox.gocardless.com
-*.gocardless-cicd.io
-*.gocardless-staging.io
-www.gocardless.com
-manage-sandbox.gocardless.com
-*.gocardless.io
-*.gocardless-banking.io
-*.gocardless-cicd.io
-*.gocardless-staging.io
-*.gocardless-lab.io
-manage-sandbox.gocardless.com
-pay-sandbox.gocardless.com
-api-sandbox.gocardless.com
-connect-sandbox.gocardless.com
-www.gocardless.com
-oauth-sandbox.gocardless.com
-xero-sandbox.gocardless.com
 idp.int.identitysandbox.gov
 login.gov
 node1.pivcac.prod.login.gov
