@@ -963,8 +963,8 @@ cbre,flatfileui.brokerhub.cbre.com,False
 cbre,flooredproducts.cbre.com,False
 cbre,fmdashboard.cbre.com,False
 cbre,fmsdemo-aws.dev.gcso.cbre.com,False
-fronthq,*.front.com,True
 fronthq,app.frontapp.com,True
+fronthq,*.front.com,True
 fronthq,help.front.com,True
 fronthq,api2.frontapp.com,True
 fronthq,*.front.com,True
@@ -1056,8 +1056,8 @@ rei_bbp,http://rei.com/rei-garage,True
 rei_bbp,http://rei.com/adventures,True
 rei_bbp,http://rei.com/learn/expert-advice,True
 rei_bbp,http://rei.com/events,True
-coinhako,help.coinhako.com,False
 coinhako,www.coinhako.com,True
+coinhako,help.coinhako.com,False
 coinhako,www.coinhako.com,True
 coinhako,help.coinhako.com,False
 baidu,api.facemojikeyboard.com,True
@@ -3396,11 +3396,11 @@ avalara,*.papercrane.io,False
 avalara,*.netleglobal.com,False
 avalara,*.crowdreason.com,False
 avalara,*.track1099.com,False
-avalara,*.davosalestax.com,False
 avalara,*.impendulo.com,False
 avalara,*.ttrus.com,False
 avalara,*.avalara.io,False
 avalara,*.avalara.net,False
+avalara,*.davosalestax.com,False
 avalara,*.inposia.com,False
 avalara,*.3ce.com,False
 avalara,*.avalara.com,False
@@ -7066,9 +7066,9 @@ citrix,*developer.cloud.com,False
 citrix,www.cloud.com,True
 citrix,api.sharefile.com,True
 citrix,accounts.cloud.com,True
-citrix,*.browser.cloud.com,True
 citrix,(yoursubdomain).sharefile.com,True
 citrix,sf-rp-eu.sharefile.com,True
+citrix,*.browser.cloud.com,True
 citrix,eu.cloud.com,True
 citrix,onboarding.cloud.com,True
 citrix,(yoursubdomain).sf-api.com,True

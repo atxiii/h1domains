@@ -962,8 +962,8 @@ flatfileui.brokerhub.cbre.com
 flooredproducts.cbre.com
 fmdashboard.cbre.com
 fmsdemo-aws.dev.gcso.cbre.com
-*.front.com
 app.frontapp.com
+*.front.com
 help.front.com
 api2.frontapp.com
 *.front.com
@@ -1055,8 +1055,8 @@ http://rei.com/rei-garage
 http://rei.com/adventures
 http://rei.com/learn/expert-advice
 http://rei.com/events
-help.coinhako.com
 www.coinhako.com
+help.coinhako.com
 www.coinhako.com
 help.coinhako.com
 api.facemojikeyboard.com
@@ -3395,11 +3395,11 @@ www.divvyhomes.com
 *.netleglobal.com
 *.crowdreason.com
 *.track1099.com
-*.davosalestax.com
 *.impendulo.com
 *.ttrus.com
 *.avalara.io
 *.avalara.net
+*.davosalestax.com
 *.inposia.com
 *.3ce.com
 *.avalara.com
@@ -7065,9 +7065,9 @@ world.hey.com
 www.cloud.com
 api.sharefile.com
 accounts.cloud.com
-*.browser.cloud.com
 (yoursubdomain).sharefile.com
 sf-rp-eu.sharefile.com
+*.browser.cloud.com
 eu.cloud.com
 onboarding.cloud.com
 (yoursubdomain).sf-api.com
