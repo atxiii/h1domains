@@ -5184,7 +5184,6 @@ help.jetblue.com
 azrest.jetblue.com
 magnolia.jetblue.com
 experience.jetblue.com
-tvars.com
 tvastem.com
 tvarenewables.com
 *.tva-energyright.com
@@ -5192,6 +5191,7 @@ tvarenewables.com
 myenergyrightadvisor.com
 energyright.efficientchoice.com
 *.tva.com
+tvars.com
 *.tva.gov
 tvawcm.com
 *.mytva.com
