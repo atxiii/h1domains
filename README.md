@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Nov 21 21:14:03 UTC 2023)
+## Domains with Bounties (Last Updated Tue Nov 21 22:15:06 UTC 2023)
 ```
 careers.booking.com
 experiences.booking.com
@@ -204,10 +204,10 @@ bb.visa.com
 aw.visa.com
 bq.visa.com
 www.visa.com.kh
-www.visa.co.il
 visa.co.ni
 www.cardinalcommerce.com
 usa.visa.com
+www.visa.co.il
 bm.visa.com
 visa.com.au
 www.visa.co.ke
@@ -534,8 +534,8 @@ www.sokos.fi
 api.sokos.fi
 jobs.kiwi.com
 auth.skypicker.com
-*.skypicker.com
 *.kiwi.com
+*.skypicker.com
 www.kiwi.com
 tequila.kiwi.com
 *.kiwi.com
@@ -1289,12 +1289,12 @@ app.spiketrap.io
 ads.reddit.com
 old.reddit.com
 new.reddit.com
-*.redditinc.com
 *.snooguts.net
 meta-api.reddit.com
 strapi.reddit.com
 m.reddit.com
 sh.reddit.com
+*.redditinc.com
 s.reddit.com
 gateway.reddit.com
 www.spiketrap.io
@@ -2605,8 +2605,8 @@ apigw.foliofn.com
 *.foliofn.com
 *.gsselect.com
 *.marcus.co.uk
-*.ayco.com
 *.goldman.com
+*.ayco.com
 *.gspublishing.com
 goldmansachsindices.com
 *.goldmanpfm.com
@@ -3475,10 +3475,10 @@ www.hoteltonight.com
 donations.livestream.com
 api.vimeo.com
 vimeo.magisto.com
-api.vhx.tv
 *.magisto.com
 *.livestream.com
 vhx.tv
+api.vhx.tv
 *.new.livestream.com
 checkout.vimeo.com
 staging.magisto.com
@@ -3563,10 +3563,10 @@ wordpress.com
 intensedebate.com
 api.tumblr.com
 safe.tumblr.com
-*.tumblr.com
 t.umblr.com
 mailpoet.com
 www.tumblr.com
+*.tumblr.com
 secure.tumblr.com
 *.tumblr.com
 *.srvcs.tumblr.com
