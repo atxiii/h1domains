@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Nov 21 09:15:03 UTC 2023)
+## Domains with Bounties (Last Updated Tue Nov 21 10:21:15 UTC 2023)
 ```
 careers.booking.com
 experiences.booking.com
@@ -32,8 +32,8 @@ portal.au.frontegg.com
 api.au.frontegg.com
 api.au.frontegg.com
 portal.au.frontegg.com
-app.frontapp.com
 *.front.com
+app.frontapp.com
 help.front.com
 api2.frontapp.com
 *.front.com
@@ -1900,9 +1900,9 @@ www.alibabagroup.com
 *.aliyun-inc.com
 *.1688.com
 *.alimama.com
-*.Daraz.com
 *.aliexpress.com
 *.aliyun.com
+*.Daraz.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -3204,8 +3204,8 @@ derivws.com
 smarttrader.deriv.com
 *.derivws.com
 secure-dfadmin.deriv.com
-*.binary.com
 *.deriv.com
+*.binary.com
 *.deriv.cloud
 oauth.deriv.com
 app.deriv.com
@@ -3332,10 +3332,10 @@ my.snapchat.com
 business.snapchat.com
 app.snapchat.com
 playcanvas.com
-spectacles.com
 geofilters.snapchat.com
 *.sc-corp.net
 web.snapchat.com
+spectacles.com
 kit.snapchat.com
 developer.playcanvas.com
 launch.playcanvas.com
