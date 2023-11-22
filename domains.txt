@@ -962,8 +962,8 @@ flatfileui.brokerhub.cbre.com
 flooredproducts.cbre.com
 fmdashboard.cbre.com
 fmsdemo-aws.dev.gcso.cbre.com
-app.frontapp.com
 *.front.com
+app.frontapp.com
 help.front.com
 api2.frontapp.com
 *.front.com
@@ -1349,8 +1349,8 @@ aboitizpower.info
 adventenergy.com.ph
 retailelectricity.com.ph
 snaboitizpower.com
-*.aboitizpower.com
 *.visayanelectric.com
+*.aboitizpower.com
 *.apps.sofa.csg.aboitizpower.org
 aboitizpower.org
 aboitizpower.net
@@ -2723,8 +2723,8 @@ lifetouch.com
 shutterfly.com
 jcpportraits.com
 *.snapfish.com
-admin.spoonflower.com
 snapfish.com
+admin.spoonflower.com
 snapfish.co.uk
 snapfish.com.au
 snapfish.co.nz
@@ -7157,10 +7157,10 @@ tiktok.com
 www.pangleglobal.com
 academy-outbound-ads.tiktok.com
 business.tiktok.com
-*.tiktokv.com
 creatormarketplace.tiktok.com
 careers.tiktok.com
 *.tiktok.com
+*.tiktokv.com
 shop.tiktok.com
 effecthouse.tiktok.com
 developers.tiktok.com
@@ -10201,8 +10201,8 @@ linkpop.com
 shopifyinbox.com
 partners.shopify.com
 shopify.plus
-admin.shopify.com
 *.shopify.com
+admin.shopify.com
 accounts.shopify.com
 *.shopify.com
 *.shopifykloud.com
