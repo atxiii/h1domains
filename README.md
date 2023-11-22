@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Nov 22 15:13:31 UTC 2023)
+## Domains with Bounties (Last Updated Wed Nov 22 16:18:50 UTC 2023)
 ```
 experiences.booking.com
 careers.booking.com
@@ -10,8 +10,8 @@ supplier.auth.toag.booking.com
 flights.booking.com
 booking.com
 metasearch-api.booking.com
-widget.rentalcars.com
 taxi.booking.com
+widget.rentalcars.com
 secure.booking.com
 cars.booking.com
 account.booking.com
@@ -548,8 +548,8 @@ jobs.kiwi.com
 work.8x8.com
 *.8x8.vc
 sso.8x8.com
-connect.8x8.com
 *.jitsi.net
+connect.8x8.com
 work-staging.8x8.com
 *.chalet.8x8.com
 uc.8x8pilot.com
@@ -1917,9 +1917,9 @@ https://www.amazonpay.in/*
 https://www.amazon.in/wealth/*
 https://amazonpay.amazon.in/*
 www.alibabagroup.com
-*.alibabacloud.com
 *.tmall.com
 *.alibaba.com
+*.alibabacloud.com
 *.aliexpress.ru
 *.alibaba-inc.com
 *.aliyun-inc.com
@@ -2001,9 +2001,9 @@ unibet.me
 maria.casino
 www.32red.com
 gatewaydsaptst2.marriott.com
-mgs.marriott.com
 sso.marriott.com
 www.marriott.com
+mgs.marriott.com
 reservations.all-inclusive.marriott.com
 dcfgatewaytst1.marriott.com
 gatewaydsaptst1.marriott.com
@@ -3320,8 +3320,8 @@ shopifyinbox.com
 partners.shopify.com
 shopify.plus
 *.shopify.com
-accounts.shopify.com
 admin.shopify.com
+accounts.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -3526,8 +3526,8 @@ interseller.io
 app.interseller.io
 www.greenhouse.io
 *.vine.co
-x.com
 *.twitter.com
+x.com
 *.twimg.com
 gnip.com
 *.twitter.com
