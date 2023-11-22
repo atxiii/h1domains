@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Nov 22 03:15:58 UTC 2023)
+## Domains with Bounties (Last Updated Wed Nov 22 04:17:19 UTC 2023)
 ```
 careers.booking.com
 experiences.booking.com
@@ -1630,8 +1630,8 @@ account.acronis.com
 beta-cloud.acronis.com
 account.acronis.com
 helpcenter.affirm.com
-helpcenter.affirm.ca
 hackerone.affirm-odin.com
+helpcenter.affirm.ca
 hackerone.affirm-odin.com
 helpcenter.affirm.ca
 helpcenter.affirm.com
@@ -1925,9 +1925,9 @@ www.alibabagroup.com
 *.aliyun-inc.com
 *.1688.com
 *.alimama.com
-*.aliexpress.com
 *.aliyun.com
 *.Daraz.com
+*.aliexpress.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -3320,8 +3320,8 @@ shopifyinbox.com
 partners.shopify.com
 shopify.plus
 *.shopify.com
-accounts.shopify.com
 admin.shopify.com
+accounts.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -3555,9 +3555,9 @@ akismet.com
 embed.tumblr.com
 my.pressable.com
 happy.tools
-simplenote.com
 gravatar.com
 simperium.com
+simplenote.com
 assets.tumblr.com
 wordpress.com
 intensedebate.com
