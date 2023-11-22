@@ -2724,8 +2724,8 @@ shutterfly_vdp,lifetouch.com,False
 shutterfly_vdp,shutterfly.com,False
 shutterfly_vdp,jcpportraits.com,False
 shutterfly_vdp,*.snapfish.com,False
-shutterfly_vdp,admin.spoonflower.com,False
 shutterfly_vdp,snapfish.com,False
+shutterfly_vdp,admin.spoonflower.com,False
 shutterfly_vdp,snapfish.co.uk,False
 shutterfly_vdp,snapfish.com.au,False
 shutterfly_vdp,snapfish.co.nz,False
@@ -3127,9 +3127,9 @@ kkr_vdp,ksam.com,False
 8x8-bounty,voapi.8x8.com,True
 8x8-bounty,sso.8x8pilot.com,True
 8x8-bounty,*.p8t.us,True
-8x8-bounty,*.wavecell.com,True
 8x8-bounty,user-profile.8x8.com,True
 8x8-bounty,sms.8x8.com,True
+8x8-bounty,*.wavecell.com,True
 8x8-bounty,*.8x8cloud.net,True
 8x8-bounty,pay.8x8.com,True
 8x8-bounty,*.8x8.vc,True
@@ -10202,9 +10202,9 @@ shopify,*.shopifykloud.com,True
 shopify,shopifyinbox.com,True
 shopify,partners.shopify.com,True
 shopify,shopify.plus,True
-shopify,admin.shopify.com,True
 shopify,*.shopify.com,True
 shopify,accounts.shopify.com,True
+shopify,admin.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
 shopify,*.shopifycloud.com,True
