@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Nov 22 11:12:41 UTC 2023)
+## Domains with Bounties (Last Updated Wed Nov 22 12:23:47 UTC 2023)
 ```
 experiences.booking.com
 careers.booking.com
@@ -1925,9 +1925,9 @@ www.alibabagroup.com
 *.aliyun-inc.com
 *.1688.com
 *.alimama.com
-*.aliexpress.com
 *.aliyun.com
 *.Daraz.com
+*.aliexpress.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -2007,8 +2007,8 @@ www.marriott.com
 reservations.all-inclusive.marriott.com
 dcfgatewaytst1.marriott.com
 gatewaydsaptst1.marriott.com
-jobs.marriott.com
 activities.marriott.com
+jobs.marriott.com
 cpp.marriott.com
 lawmanager.marriott.com
 giftcards.marriott.com
@@ -3320,8 +3320,8 @@ shopifyinbox.com
 partners.shopify.com
 shopify.plus
 *.shopify.com
-admin.shopify.com
 accounts.shopify.com
+admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -3512,8 +3512,8 @@ api.greenhouse.io
 support.greenhouse.io
 jss.greenhouse.io
 app.greenhouse.io
-interseller.io
 boards.greenhouse.io
+interseller.io
 www.greenhouse.io
 app.interseller.io
 app.greenhouse.io
