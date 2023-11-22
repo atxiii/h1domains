@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Nov 22 06:18:15 UTC 2023)
+## Domains with Bounties (Last Updated Wed Nov 22 07:13:30 UTC 2023)
 ```
 careers.booking.com
 experiences.booking.com
@@ -534,8 +534,8 @@ www.sokos.fi
 api.sokos.fi
 jobs.kiwi.com
 auth.skypicker.com
-*.kiwi.com
 *.skypicker.com
+*.kiwi.com
 www.kiwi.com
 tequila.kiwi.com
 *.kiwi.com
@@ -565,8 +565,8 @@ voapi.8x8.com
 sso.8x8pilot.com
 *.p8t.us
 user-profile.8x8.com
-sms.8x8.com
 *.wavecell.com
+sms.8x8.com
 *.8x8cloud.net
 pay.8x8.com
 *.8x8.vc
@@ -963,9 +963,9 @@ admin.instacart.com
 shoppers.instacart.com
 academy.databricks.com
 docs.databricks.com
-accounts.cloud.databricks.com
 demo.cloud.databricks.com
 databricks.com
+accounts.cloud.databricks.com
 kb.databricks.com
 support.databricks.com
 labs.databricks.com
@@ -1925,8 +1925,8 @@ www.alibabagroup.com
 *.aliyun-inc.com
 *.1688.com
 *.alimama.com
-*.aliyun.com
 *.aliexpress.com
+*.aliyun.com
 *.Daraz.com
 *.taobao.com
 *.alibaba.com
@@ -3320,8 +3320,8 @@ shopifyinbox.com
 partners.shopify.com
 shopify.plus
 *.shopify.com
-accounts.shopify.com
 admin.shopify.com
+accounts.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -3657,9 +3657,9 @@ onepush.query.yahoo.com
 proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
-api.hackerone.com
 hackerone-user-content.com
 hackerone.com
+api.hackerone.com
 www.wearehackerone.com
 mta-sts.wearehackerone.com
 hackathon-photos-us-east-2.hackerone-user-content.com
