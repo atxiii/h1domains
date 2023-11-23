@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Nov 23 10:16:05 UTC 2023)
+## Domains with Bounties (Last Updated Thu Nov 23 11:13:49 UTC 2023)
 ```
 experiences.booking.com
 careers.booking.com
@@ -330,9 +330,9 @@ prd-ring-web-us.prd.rings.solutions
 *.blinkforhome.com/*
 login.tide.co
 api.tideplatform.in
-web.tide.co
 api.tide.co
 www.tide.co
+web.tide.co
 app.tide.co
 web.tide.co
 api.tide.co
@@ -2002,8 +2002,8 @@ maria.casino
 www.32red.com
 gatewaydsaptst2.marriott.com
 sso.marriott.com
-www.marriott.com
 mgs.marriott.com
+www.marriott.com
 reservations.all-inclusive.marriott.com
 dcfgatewaytst1.marriott.com
 gatewaydsaptst1.marriott.com
@@ -2626,8 +2626,8 @@ api.foliofn.com
 *.advisorsolutions.gs.com
 *.gsam.com
 *.gs.de
-*.gs.com
 *.folioclient.com
+*.gs.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -3130,9 +3130,9 @@ www.redtubepremium.com
 www.youpornpremium.com
 api.pornhub.com
 www.youporn.com
-mobile.pornhub.com
 www.pornmd.com
 ht.pornhub.com
+mobile.pornhub.com
 *.tube8.com
 www.pornhub.com
 mobile.pornhub.com
@@ -3319,9 +3319,9 @@ linkpop.com
 shopifyinbox.com
 partners.shopify.com
 shopify.plus
-admin.shopify.com
-accounts.shopify.com
 *.shopify.com
+accounts.shopify.com
+admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -3676,9 +3676,9 @@ www.hackerone.com
 profile-photos-us-east-2.hackerone-user-content.com
 hackerone.live
 app.pullrequest.com
-cover-photos.hackerone-user-content.com
 errors.hackerone.net
 b5s.hackerone-ext-content.com
+cover-photos.hackerone-user-content.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
