@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Nov 23 01:56:05 UTC 2023)
+## Domains with Bounties (Last Updated Thu Nov 23 02:26:49 UTC 2023)
 ```
 experiences.booking.com
 careers.booking.com
@@ -534,8 +534,8 @@ www.sokos.fi
 api.sokos.fi
 jobs.kiwi.com
 auth.skypicker.com
-*.skypicker.com
 *.kiwi.com
+*.skypicker.com
 www.kiwi.com
 tequila.kiwi.com
 *.kiwi.com
@@ -560,8 +560,8 @@ user-profile-staging.8x8.com
 cloud8.8x8.com
 *.8x8staging.com
 platform.8x8.com
-*.packet8.net
 voapi.8x8.com
+*.packet8.net
 sso.8x8pilot.com
 *.p8t.us
 user-profile.8x8.com
@@ -3635,8 +3635,8 @@ slack-redir.net
 *.quip.com
 app.slack.com
 edgeapi.slack.com
-slack.com
 slack-imgs.com
+slack.com
 www.quip.com
 slack.com
 api.slack.com
