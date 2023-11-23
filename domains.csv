@@ -4519,8 +4519,8 @@ planetart,*.mycustomcase.com,False
 planetart,*.simplytoimpress.com,False
 planetart,www.photoaffections.com,False
 planetart,iseeme.com,False
-planetart,www.simplytoimpress.com,False
 planetart,www.cafepress.com,False
+planetart,www.simplytoimpress.com,False
 planetart,*.photoaffections.com,False
 planetart,www.canvasworld.com,False
 planetart,*.gifts.com,False
@@ -5946,8 +5946,8 @@ john-deere,vision-devl.deere.com/,False
 john-deere,satpredictor2.deere.com,False
 stripe,*.reckoproduction.com,True
 stripe,*.stripe.com,True
-stripe,*.link.co,True
 stripe,*.recko.io,True
+stripe,*.link.co,True
 stripe,*.touchtechpayments.com,True
 stripe,js.stripe.com,True
 stripe,www.stripe.partners,False
@@ -7895,8 +7895,8 @@ goodrx,www.goodrx.com,True
 goodrx,www.goodrx.com,True
 roblox,*.rbx.com,True
 roblox,*.ra.roblox.com,True
-roblox,*.guilded.gg,True
 roblox,*.roblox.com,True
+roblox,*.guilded.gg,True
 roblox,*.roblox.com,True
 roblox,*.rbx.com,True
 roblox,*.guilded.gg,True
@@ -9739,8 +9739,8 @@ bumble,chatdate.app,True
 bumble,zodia.studio,True
 bumble,eu1.badoo.com,True
 bumble,bma.badoo.com,True
-bumble,badoocdn.com,True
 bumble,heyfiesta.com,True
+bumble,badoocdn.com,True
 bumble,ccardseu1.badoo.com,True
 bumble,www.bumble.com,True
 bumble,badoo.com,True
@@ -10206,9 +10206,9 @@ shopify,*.shopifykloud.com,True
 shopify,shopifyinbox.com,True
 shopify,partners.shopify.com,True
 shopify,shopify.plus,True
+shopify,admin.shopify.com,True
 shopify,*.shopify.com,True
 shopify,accounts.shopify.com,True
-shopify,admin.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
 shopify,*.shopifycloud.com,True
