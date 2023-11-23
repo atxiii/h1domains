@@ -970,8 +970,8 @@ api2.frontapp.com
 app.frontapp.com
 api2.frontapp.com
 http://help.front.com
-*.boozt.com
 *.booztlet.com
+*.boozt.com
 *.boozt.com
 *.booztlet.com
 *.trip.com
@@ -2727,8 +2727,8 @@ lifetouch.com
 shutterfly.com
 jcpportraits.com
 *.snapfish.com
-admin.spoonflower.com
 snapfish.com
+admin.spoonflower.com
 snapfish.co.uk
 snapfish.com.au
 snapfish.co.nz
@@ -4518,8 +4518,8 @@ www.photoaffections.com
 *.simplytoimpress.com
 *.mycustomcase.com
 iseeme.com
-www.cafepress.com
 www.simplytoimpress.com
+www.cafepress.com
 *.photoaffections.com
 www.canvasworld.com
 *.gifts.com
@@ -9419,8 +9419,8 @@ api.foliofn.com
 *.advisorsolutions.gs.com
 *.gsam.com
 *.gs.de
-*.folioinstitutional.com
 *.gs.com
+*.folioclient.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
