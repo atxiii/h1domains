@@ -1952,8 +1952,8 @@ api.magic.link
 dashboard.fortmatic.com
 api.fortmatic.com
 fortmatic.com
-dashboard.magic.link
 auth.magic.link
+dashboard.magic.link
 x2.fortmatic.com
 careers.fortmatic.com
 api.fortmatic.com
