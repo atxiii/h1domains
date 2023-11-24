@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Nov 24 01:53:04 UTC 2023)
+## Domains with Bounties (Last Updated Fri Nov 24 02:24:59 UTC 2023)
 ```
 experiences.booking.com
 careers.booking.com
@@ -476,8 +476,8 @@ web.grindr.com
 *.grindr.com
 *.grindr.mobi
 web.grindr.com
-app.skinport.com
 api.skinport.com
+app.skinport.com
 skinport.com
 skinport.com
 app.skinport.com
@@ -1776,9 +1776,9 @@ transact.playstation.com
 store.playstation.com
 direct.playstation.com
 my.playstation.com
-ca.account.sony.com
 my.account.sony.com
 *.playstation.net
+ca.account.sony.com
 *.playstation.net
 *.sonyentertainmentnetwork.com
 *.api.playstation.com
@@ -2613,11 +2613,11 @@ goldmansachsindices.com
 *.foliodigitalwealth.com
 *.vennhypotheken.nl
 *.honestdollar.com
-*.goldmansachs.com
 *.global-liquidity.gs.com
 *.finlife.com
 *.nextcapital.com
 *.gspublishing.com
+*.goldmansachs.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
 research.gs.com
