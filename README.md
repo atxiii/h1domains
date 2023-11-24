@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Nov 24 09:14:29 UTC 2023)
+## Domains with Bounties (Last Updated Fri Nov 24 10:14:37 UTC 2023)
 ```
 experiences.booking.com
 careers.booking.com
@@ -476,8 +476,8 @@ web.grindr.com
 *.grindr.com
 *.grindr.mobi
 web.grindr.com
-api.skinport.com
 app.skinport.com
+api.skinport.com
 skinport.com
 skinport.com
 app.skinport.com
@@ -1644,9 +1644,9 @@ www20.watsons.co.th
 www.watsons.co.id
 www.marionnaud.fr
 www.watsons.com.ph
-www.watsons.com.tr
 www.marionnaud.ro
 www.iciparisxl.lu
+www.watsons.com.tr
 www.kruidvat.nl
 www.kruidvat.be
 app.marionnaud.cz
@@ -3319,8 +3319,8 @@ linkpop.com
 shopifyinbox.com
 partners.shopify.com
 shopify.plus
-admin.shopify.com
 accounts.shopify.com
+admin.shopify.com
 *.shopify.com
 *.shopify.com
 *.shopifykloud.com
