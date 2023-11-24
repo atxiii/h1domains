@@ -2,19 +2,19 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Nov 24 12:22:43 UTC 2023)
+## Domains with Bounties (Last Updated Fri Nov 24 13:17:29 UTC 2023)
 ```
 experiences.booking.com
 careers.booking.com
 supplier.auth.toag.booking.com
-flights.booking.com
 booking.com
+flights.booking.com
 metasearch-api.booking.com
 taxi.booking.com
 widget.rentalcars.com
 cars.booking.com
-account.booking.com
 secure.booking.com
+account.booking.com
 booking.com
 secure.booking.com
 careers.booking.com
@@ -568,7 +568,6 @@ user-profile.8x8.com
 *.wavecell.com
 sms.8x8.com
 *.8x8cloud.net
-pay.8x8.com
 *.8x8.vc
 *.jit.si
 *.jitsi.net
@@ -2616,8 +2615,8 @@ goldmansachsindices.com
 *.global-liquidity.gs.com
 *.finlife.com
 *.nextcapital.com
-*.goldmansachs.com
 *.gspublishing.com
+*.goldmansachs.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
 research.gs.com
@@ -2627,7 +2626,7 @@ api.foliofn.com
 *.gs.de
 *.folioinstitutional.com
 *.gsam.com
-*.gs.com
+*.folioclient.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -3319,8 +3318,8 @@ linkpop.com
 shopifyinbox.com
 partners.shopify.com
 shopify.plus
-accounts.shopify.com
 admin.shopify.com
+accounts.shopify.com
 *.shopify.com
 *.shopify.com
 *.shopifykloud.com
@@ -3565,8 +3564,8 @@ intensedebate.com
 safe.tumblr.com
 t.umblr.com
 mailpoet.com
-www.tumblr.com
 *.tumblr.com
+www.tumblr.com
 secure.tumblr.com
 *.tumblr.com
 *.srvcs.tumblr.com
