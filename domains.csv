@@ -7162,8 +7162,8 @@ tiktok,academy-outbound-ads.tiktok.com,True
 tiktok,creatormarketplace.tiktok.com,True
 tiktok,careers.tiktok.com,True
 tiktok,*.tiktokv.com,True
-tiktok,*.tiktok.com,True
 tiktok,business.tiktok.com,True
+tiktok,*.tiktok.com,True
 tiktok,shop.tiktok.com,True
 tiktok,effecthouse.tiktok.com,True
 tiktok,developers.tiktok.com,True
@@ -7509,10 +7509,10 @@ playstation,wallets.api.playstation.com,True
 playstation,social.playstation.com,True
 playstation,api.direct.playstation.com,True
 playstation,transact.playstation.com,True
-playstation,*.sonyentertainmentnetwork.com,True
 playstation,*.api.playstation.com,True
 playstation,store.playstation.com,True
 playstation,direct.playstation.com,True
+playstation,*.sonyentertainmentnetwork.com,True
 playstation,my.playstation.com,True
 playstation,my.account.sony.com,True
 playstation,*.playstation.net,True
@@ -7846,8 +7846,8 @@ kindred_group,www.32red.com,True
 kindred_group,relaxcdn.unibet.com,False
 marriott,gatewaydsaptst2.marriott.com,True
 marriott,sso.marriott.com,True
-marriott,www.marriott.com,True
 marriott,mgs.marriott.com,True
+marriott,www.marriott.com,True
 marriott,reservations.all-inclusive.marriott.com,True
 marriott,dcfgatewaytst1.marriott.com,True
 marriott,gatewaydsaptst1.marriott.com,True
@@ -10204,8 +10204,8 @@ shopify,*.shopifykloud.com,True
 shopify,shopifyinbox.com,True
 shopify,partners.shopify.com,True
 shopify,shopify.plus,True
-shopify,accounts.shopify.com,True
 shopify,admin.shopify.com,True
+shopify,accounts.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
@@ -10671,9 +10671,9 @@ yahoo,onepush.query.yahoo.com,True
 yahoo,proddata.xobni.yahoo.com,True
 yahoo,apis.mail.yahoo.com,True
 yahoo,yimg.com,True
-security,api.hackerone.com,True
 security,hackerone-user-content.com,True
 security,hackerone.com,True
+security,api.hackerone.com,True
 security,www.wearehackerone.com,True
 security,mta-sts.wearehackerone.com,True
 security,hackathon-photos-us-east-2.hackerone-user-content.com,True
