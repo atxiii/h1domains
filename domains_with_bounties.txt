@@ -3216,8 +3216,8 @@ www.algolia.com
 *.algolianet.com
 www.algolia.com
 cashier.deriv.com
-api.deriv.com
 derivws.com
+api.deriv.com
 smarttrader.deriv.com
 *.derivws.com
 secure-dfadmin.deriv.com
