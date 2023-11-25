@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Nov 25 13:15:07 UTC 2023)
+## Domains with Bounties (Last Updated Sat Nov 25 14:12:26 UTC 2023)
 ```
 experiences.booking.com
 careers.booking.com
@@ -13,8 +13,8 @@ metasearch-api.booking.com
 taxi.booking.com
 widget.rentalcars.com
 cars.booking.com
-secure.booking.com
 account.booking.com
+secure.booking.com
 booking.com
 secure.booking.com
 careers.booking.com
@@ -40,8 +40,8 @@ api2.frontapp.com
 app.frontapp.com
 api2.frontapp.com
 http://help.front.com
-*.boozt.com
 *.booztlet.com
+*.boozt.com
 *.boozt.com
 *.booztlet.com
 *.trip.com
@@ -446,11 +446,11 @@ profile-api.eu-east-1.indriverapp.com
 priority.eu-east-1.indriverapp.com
 *.indriverapp.com
 watchdocs.indriverapp.com
-super-services.indriverapp.com
 wga.volans.tech
 volans.tech
 injob.indriver.com
 file-storage-front.eu-east-1.indriverapp.com
+super-services.indriverapp.com
 *.indriverapp.com
 *.indrive.com
 *.indriver.com
@@ -475,8 +475,8 @@ web.grindr.com
 *.grindr.com
 *.grindr.mobi
 web.grindr.com
-app.skinport.com
 api.skinport.com
+app.skinport.com
 skinport.com
 skinport.com
 app.skinport.com
@@ -948,8 +948,8 @@ rankings.etoro.com
 delta.app
 bullsheet.me
 api.instacart.com
-www.instacart.com
 *.instacart.tools
+www.instacart.com
 shoppers.instacart.com
 admin.instacart.com
 *.instacart.com
@@ -2603,8 +2603,8 @@ apigw.foliofn.com
 *.foliofn.com
 *.gsselect.com
 *.marcus.co.uk
-*.ayco.com
 *.goldman.com
+*.ayco.com
 goldmansachsindices.com
 *.goldmanpfm.com
 *.finlifepartners.com
@@ -3337,8 +3337,8 @@ create.snapchat.com
 businesshelp.snapchat.com
 msg.playcanvas.com
 ads.snapchat.com
-accounts.snapchat.com
 forum.playcanvas.com
+accounts.snapchat.com
 scan.snapchat.com
 blog.playcanvas.com
 relay.playcanvas.com
