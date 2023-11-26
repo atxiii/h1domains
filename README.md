@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Nov 26 22:12:20 UTC 2023)
+## Domains with Bounties (Last Updated Sun Nov 26 23:14:22 UTC 2023)
 ```
 experiences.booking.com
 careers.booking.com
@@ -1557,8 +1557,8 @@ academy-outbound-ads.tiktok.com
 creatormarketplace.tiktok.com
 careers.tiktok.com
 *.tiktokv.com
-business.tiktok.com
 *.tiktok.com
+business.tiktok.com
 shop.tiktok.com
 effecthouse.tiktok.com
 developers.tiktok.com
@@ -1737,8 +1737,8 @@ crm.clario.co
 updatetracker.clario.co
 dcs.clario.co
 webapi.clario.co
-account.mackeeper.com
 api.account.clario.co
+account.mackeeper.com
 chat-crm.clario.co
 yapi.clario.co
 kbill.mackeeper.com
@@ -1924,8 +1924,8 @@ www.alibabagroup.com
 *.alimama.com
 *.Daraz.com
 *.aliexpress.com
-*.1688.com
 *.aliyun.com
+*.1688.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -3197,9 +3197,9 @@ about.gitlab.com
 docs.gitlab.com
 design.gitlab.com
 advisories.gitlab.com
-api.grofers.com
 api2.grofers.com
 *.hyperpure.com
+api.grofers.com
 blinkit.com
 winecellar.zomato.com
 *.zdev.net
