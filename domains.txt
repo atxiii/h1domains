@@ -970,8 +970,8 @@ api2.frontapp.com
 app.frontapp.com
 api2.frontapp.com
 http://help.front.com
-*.boozt.com
 *.booztlet.com
+*.boozt.com
 *.boozt.com
 *.booztlet.com
 *.trip.com
@@ -2734,8 +2734,8 @@ snapfish.co.nz
 preschoolsmiles.com
 tinyprints.com
 blog.spoonflower.com
-www.spoonflower.com
 *.shutterfly.com
+www.spoonflower.com
 *.shutterfly.com
 *.snapfish.com
 lifetouch.com
@@ -4340,7 +4340,6 @@ fossil.at
 *.twix.com
 *.myroyalcanin.ro
 *.royalcanin.nl
-*.mivetshop.com.ar
 *.shoproyalcanin.com
 *.vetschoice.co.za
 *.eukanubasportingdog.com
@@ -4352,6 +4351,7 @@ banfield.us
 *.royalcanin.be
 *.individualis.com
 *.royalcanin.pt
+*.mivetshop.com.ar
 *.orbitgum.com
 *.extragum.com
 *.jornadasroyalcanin.com.ar
@@ -9387,11 +9387,11 @@ www.shipt.com
 *.unitedcp.com
 apigw.foliofn.com
 *.foliofirst.com
-*.foliofn.com
 *.gsselect.com
 *.marcus.co.uk
 *.goldman.com
 *.ayco.com
+*.foliofn.com
 *.goldmanpfm.com
 *.finlifepartners.com
 *.foliodigitalwealth.com
@@ -10016,8 +10016,8 @@ moneybird.com
 moneybirdstorage.com
 moneybird.com
 moneybirdstorage.com
-api.github.com
 npmjs.com
+api.github.com
 classroom.github.com
 *.githubapp.com
 education.github.com
