@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Nov 27 07:13:57 UTC 2023)
+## Domains with Bounties (Last Updated Mon Nov 27 08:17:36 UTC 2023)
 ```
 experiences.booking.com
 careers.booking.com
@@ -475,8 +475,8 @@ web.grindr.com
 *.grindr.com
 *.grindr.mobi
 web.grindr.com
-api.skinport.com
 app.skinport.com
+api.skinport.com
 skinport.com
 skinport.com
 app.skinport.com
@@ -1296,8 +1296,8 @@ new.reddit.com
 s.reddit.com
 gateway.reddit.com
 www.spiketrap.io
-*.reddit.com
 ads-api.reddit.com
+*.reddit.com
 *.redditblog.com
 reddit.secure.force.com
 amp.reddit.com
@@ -1923,9 +1923,9 @@ www.alibabagroup.com
 *.aliyun-inc.com
 *.alimama.com
 *.Daraz.com
-*.aliexpress.com
-*.1688.com
 *.aliyun.com
+*.1688.com
+*.aliexpress.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -2617,7 +2617,7 @@ api.foliofn.com
 *.folioinstitutional.com
 *.gsam.com
 *.gs.com
-*.folioclient.com
+*.gs.de
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -3219,8 +3219,8 @@ api.deriv.com
 smarttrader.deriv.com
 *.derivws.com
 secure-dfadmin.deriv.com
-*.deriv.com
 *.binary.com
+*.deriv.com
 *.deriv.cloud
 app.deriv.com
 oauth.deriv.com
