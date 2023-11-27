@@ -1551,8 +1551,8 @@ academy-outbound-ads.tiktok.com
 creatormarketplace.tiktok.com
 careers.tiktok.com
 *.tiktokv.com
-*.tiktok.com
 business.tiktok.com
+*.tiktok.com
 shop.tiktok.com
 effecthouse.tiktok.com
 developers.tiktok.com
@@ -3184,8 +3184,8 @@ docs.gitlab.com
 design.gitlab.com
 advisories.gitlab.com
 api2.grofers.com
-*.hyperpure.com
 api.grofers.com
+*.hyperpure.com
 blinkit.com
 winecellar.zomato.com
 *.zdev.net
@@ -3208,8 +3208,8 @@ www.algolia.com
 *.algolianet.com
 www.algolia.com
 cashier.deriv.com
-api.deriv.com
 derivws.com
+api.deriv.com
 smarttrader.deriv.com
 *.derivws.com
 secure-dfadmin.deriv.com
