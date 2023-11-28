@@ -993,8 +993,8 @@ analytics.krisp.ai
 upld.krisp.ai
 *.krisp.ai
 account.krisp.ai
-api.krisp.ai
 teams.krisp.ai
+api.krisp.ai
 download.krisp.ai
 krisp.ai
 *.krisp.ai
@@ -2601,11 +2601,11 @@ apigw.foliofn.com
 *.vennhypotheken.nl
 *.honestdollar.com
 *.global-liquidity.gs.com
-*.finlife.com
 *.nextcapital.com
 *.gspublishing.com
 goldmansachsindices.com
 *.goldmansachs.com
+*.finlife.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
 research.gs.com
@@ -2679,8 +2679,8 @@ www.counter-strike.net
 playartifact.com
 help.steampowered.com
 developer.valvesoftware.com
-auth.crypto.com
 www.crypto.com
+auth.crypto.com
 testnet-croeseid-4.crypto.org
 crypto.org
 merchant.crypto.com
@@ -3220,8 +3220,8 @@ secure-dfadmin.deriv.com
 *.binary.com
 *.deriv.com
 *.deriv.cloud
-app.deriv.com
 oauth.deriv.com
+app.deriv.com
 *.deriv.com
 *.deriv.cloud
 *.derivws.com
@@ -3308,8 +3308,8 @@ shopifyinbox.com
 partners.shopify.com
 shopify.plus
 accounts.shopify.com
-admin.shopify.com
 *.shopify.com
+admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com

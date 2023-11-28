@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Nov 28 10:18:17 UTC 2023)
+## Domains with Bounties (Last Updated Tue Nov 28 11:13:53 UTC 2023)
 ```
 www.temu.com
 www.temu.com
@@ -999,8 +999,8 @@ analytics.krisp.ai
 upld.krisp.ai
 *.krisp.ai
 account.krisp.ai
-api.krisp.ai
 teams.krisp.ai
+api.krisp.ai
 download.krisp.ai
 krisp.ai
 *.krisp.ai
@@ -2607,11 +2607,11 @@ apigw.foliofn.com
 *.vennhypotheken.nl
 *.honestdollar.com
 *.global-liquidity.gs.com
-*.finlife.com
 *.nextcapital.com
 *.gspublishing.com
 goldmansachsindices.com
 *.goldmansachs.com
+*.finlife.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
 research.gs.com
@@ -2685,8 +2685,8 @@ www.counter-strike.net
 playartifact.com
 help.steampowered.com
 developer.valvesoftware.com
-auth.crypto.com
 www.crypto.com
+auth.crypto.com
 testnet-croeseid-4.crypto.org
 crypto.org
 merchant.crypto.com
@@ -3226,8 +3226,8 @@ secure-dfadmin.deriv.com
 *.binary.com
 *.deriv.com
 *.deriv.cloud
-app.deriv.com
 oauth.deriv.com
+app.deriv.com
 *.deriv.com
 *.deriv.cloud
 *.derivws.com
@@ -3314,8 +3314,8 @@ shopifyinbox.com
 partners.shopify.com
 shopify.plus
 accounts.shopify.com
-admin.shopify.com
 *.shopify.com
+admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
