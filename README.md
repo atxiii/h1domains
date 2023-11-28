@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Nov 28 16:21:07 UTC 2023)
+## Domains with Bounties (Last Updated Tue Nov 28 17:16:13 UTC 2023)
 ```
 www.mercadopago.com.uy
 www.mercadolibre.com.pe
@@ -13,10 +13,10 @@ www.mercadolibre.com.mx
 www.mercadolivre.com.br
 www.mercadopago.com.pe
 www.mercadopago.com.co
-www.mercadolibre.com.co
 api.mercadopago.com
 www.mercadolibre.com.ar
 www.mercadopago.com.ar
+www.mercadolibre.com.co
 www.mercadopago.com.mx
 www.mercadopago.com.br
 api.mercadolibre.com
@@ -812,8 +812,10 @@ https://www.amazon.com/luna/*
 https://luna.amazon.com/*
 knox.beta.blendlabs.com
 knox.beta.blendlabs.com
+artifactory.corp.mongodb.com/
 https://www.*mongodb.com/*
 mongodb.live/*
+artifactory.corp.mongodb.com/
 checksw.com
 royal.checksw.com
 checksw.com
@@ -3031,8 +3033,8 @@ circolocorecords.com/
 lifeinvader.com
 store.rockstargames.com
 support.rockstargames.com
-prod.ros.rockstargames.com
 socialclub.rockstargames.com
+prod.ros.rockstargames.com
 socialclub.rockstargames.com
 prod.ros.rockstargames.com
 support.rockstargames.com
@@ -3312,8 +3314,8 @@ ruddercms.nl
 dropr.nl
 devmaximum.com
 developer.zendesk.com
-h1-your-domain.zendesk.com
 smooch.io
+h1-your-domain.zendesk.com
 apps.zendesk.com
 www.zendesk.com
 api.smooch.io
@@ -3346,8 +3348,8 @@ shopifyinbox.com
 partners.shopify.com
 shopify.plus
 accounts.shopify.com
-*.shopify.com
 admin.shopify.com
+*.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
