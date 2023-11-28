@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Nov 28 21:14:31 UTC 2023)
+## Domains with Bounties (Last Updated Tue Nov 28 22:14:06 UTC 2023)
 ```
 www.mercadopago.com.uy
 www.mercadolibre.com.pe
@@ -66,8 +66,8 @@ portal.au.frontegg.com
 api.au.frontegg.com
 api.au.frontegg.com
 portal.au.frontegg.com
-app.frontapp.com
 *.front.com
+app.frontapp.com
 help.front.com
 api2.frontapp.com
 *.front.com
@@ -1277,9 +1277,9 @@ main.trafficfactory.biz
 *.found.io
 *.elasticnet.co
 *.eops.nl
-*.elstc.co
 *.swiftype.com
 cloud.elastic.co
+*.elstc.co
 www.elastic.co
 *.elastic.co
 *.elastic.co
@@ -1960,8 +1960,8 @@ www.alibabagroup.com
 *.alibaba-inc.com
 *.aliyun-inc.com
 *.alimama.com
-*.1688.com
 *.aliyun.com
+*.1688.com
 *.aliexpress.com
 *.Daraz.com
 *.taobao.com
@@ -2644,8 +2644,8 @@ apigw.foliofn.com
 *.nextcapital.com
 *.gspublishing.com
 goldmansachsindices.com
-*.finlife.com
 *.goldmansachs.com
+*.finlife.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
 research.gs.com
@@ -2655,7 +2655,7 @@ api.foliofn.com
 *.gsam.com
 *.gs.de
 *.gs.com
-*.folioclient.com
+*.folioinstitutional.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
