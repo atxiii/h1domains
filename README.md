@@ -2,8 +2,40 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Nov 28 15:15:35 UTC 2023)
+## Domains with Bounties (Last Updated Tue Nov 28 16:21:07 UTC 2023)
 ```
+www.mercadopago.com.uy
+www.mercadolibre.com.pe
+www.mercadopago.cl
+www.mercadolibre.com.uy
+www.mercadolibre.cl
+www.mercadolibre.com.mx
+www.mercadolivre.com.br
+www.mercadopago.com.pe
+www.mercadopago.com.co
+www.mercadolibre.com.co
+api.mercadopago.com
+www.mercadolibre.com.ar
+www.mercadopago.com.ar
+www.mercadopago.com.mx
+www.mercadopago.com.br
+api.mercadolibre.com
+api.mercadopago.com
+www.mercadopago.com.ar
+www.mercadopago.com.br
+www.mercadopago.com.mx
+www.mercadopago.com.co
+www.mercadopago.com.pe
+www.mercadopago.com.uy
+api.mercadolibre.com
+www.mercadolibre.com.ar
+www.mercadolivre.com.br
+www.mercadolibre.com.mx
+www.mercadolibre.com.co
+www.mercadolibre.com.pe
+www.mercadolibre.com.uy
+www.mercadolibre.cl
+www.mercadopago.cl
 www.temu.com
 www.temu.com
 experiences.booking.com
@@ -34,8 +66,8 @@ portal.au.frontegg.com
 api.au.frontegg.com
 api.au.frontegg.com
 portal.au.frontegg.com
-*.front.com
 app.frontapp.com
+*.front.com
 help.front.com
 api2.frontapp.com
 *.front.com
@@ -477,8 +509,8 @@ web.grindr.com
 *.grindr.com
 *.grindr.mobi
 web.grindr.com
-app.skinport.com
 api.skinport.com
+app.skinport.com
 skinport.com
 skinport.com
 app.skinport.com
@@ -1926,8 +1958,8 @@ www.alibabagroup.com
 *.alibaba-inc.com
 *.aliyun-inc.com
 *.alimama.com
-*.aliyun.com
 *.1688.com
+*.aliyun.com
 *.aliexpress.com
 *.Daraz.com
 *.taobao.com
@@ -2610,8 +2642,8 @@ apigw.foliofn.com
 *.nextcapital.com
 *.gspublishing.com
 goldmansachsindices.com
-*.finlife.com
 *.goldmansachs.com
+*.finlife.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
 research.gs.com
@@ -3522,8 +3554,8 @@ www.greenhouse.io
 *.vine.co
 *.twitter.com
 x.com
-grok.x.ai
 *.twimg.com
+grok.x.ai
 gnip.com
 api.x.ai
 ide.x.ai
