@@ -10,8 +10,8 @@ mercadolibre,www.mercadopago.com.pe,True
 mercadolibre,www.mercadopago.com.co,True
 mercadolibre,www.mercadolibre.com.ar,True
 mercadolibre,www.mercadopago.com.ar,True
-mercadolibre,www.mercadolibre.com.co,True
 mercadolibre,api.mercadopago.com,True
+mercadolibre,www.mercadolibre.com.co,True
 mercadolibre,www.mercadopago.com.mx,True
 mercadolibre,www.mercadopago.com.br,True
 mercadolibre,api.mercadolibre.com,True
@@ -41,8 +41,8 @@ bookingcom,flights.booking.com,True
 bookingcom,admin.booking.com,True
 bookingcom,booking.com,True
 bookingcom,metasearch-api.booking.com,True
-bookingcom,distribution-xml.booking.com,True
 bookingcom,accommodations.booking.com,True
+bookingcom,distribution-xml.booking.com,True
 bookingcom,portal.taxi.booking.com,True
 bookingcom,taxi.booking.com,True
 bookingcom,widget.rentalcars.com,True
@@ -2936,8 +2936,8 @@ grindr,*.grindr.mobi,True
 grindr,web.grindr.com,True
 grindr,*.dev.grindr.io,False
 grindr,preprod1.grindr.com,False
-skinport,app.skinport.com,True
 skinport,api.skinport.com,True
+skinport,app.skinport.com,True
 skinport,skinport.com,True
 skinport,skinport.com,True
 skinport,app.skinport.com,True
@@ -4904,8 +4904,8 @@ anywhererealestate,new.myzap.com,False
 databricks,docs.databricks.com,True
 databricks,demo.cloud.databricks.com,True
 databricks,academy.databricks.com,True
-databricks,accounts.cloud.databricks.com,True
 databricks,databricks.com,True
+databricks,accounts.cloud.databricks.com,True
 databricks,kb.databricks.com,True
 databricks,support.databricks.com,True
 databricks,labs.databricks.com,True
@@ -10208,8 +10208,8 @@ deriv,secure-dfadmin.deriv.com,True
 deriv,*.binary.com,True
 deriv,*.deriv.com,True
 deriv,*.deriv.cloud,True
-deriv,oauth.deriv.com,True
 deriv,app.deriv.com,True
+deriv,oauth.deriv.com,True
 deriv,*.deriv.com,True
 deriv,*.deriv.cloud,True
 deriv,*.derivws.com,True
@@ -10297,8 +10297,8 @@ shopify,*.shopifykloud.com,True
 shopify,shopifyinbox.com,True
 shopify,partners.shopify.com,True
 shopify,shopify.plus,True
-shopify,accounts.shopify.com,True
 shopify,*.shopify.com,True
+shopify,accounts.shopify.com,True
 shopify,admin.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
@@ -10333,8 +10333,8 @@ snapchat,snappublisher.snapchat.com,True
 snapchat,my.snapchat.com,True
 snapchat,store.snapchat.com,True
 snapchat,app.snapchat.com,True
-snapchat,playcanvas.com,True
 snapchat,business.snapchat.com,True
+snapchat,playcanvas.com,True
 snapchat,geofilters.snapchat.com,True
 snapchat,*.sc-corp.net,True
 snapchat,spectacles.com,True
