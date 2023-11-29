@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Nov 29 16:18:37 UTC 2023)
+## Domains with Bounties (Last Updated Wed Nov 29 17:13:53 UTC 2023)
 ```
 www.mercadopago.com.uy
 www.mercadolibre.com.pe
@@ -14,9 +14,9 @@ www.mercadolivre.com.br
 www.mercadopago.com.pe
 www.mercadopago.com.co
 www.mercadolibre.com.ar
-www.mercadopago.com.ar
 api.mercadopago.com
 www.mercadolibre.com.co
+www.mercadopago.com.ar
 www.mercadopago.com.mx
 www.mercadopago.com.br
 api.mercadolibre.com
@@ -526,8 +526,8 @@ web.grindr.com
 *.grindr.com
 *.grindr.mobi
 web.grindr.com
-app.skinport.com
 api.skinport.com
+app.skinport.com
 skinport.com
 skinport.com
 app.skinport.com
@@ -3330,27 +3330,6 @@ ruddercms.com
 ruddercms.nl
 dropr.nl
 devmaximum.com
-developer.zendesk.com
-smooch.io
-h1-your-domain.zendesk.com
-apps.zendesk.com
-www.zendesk.com
-api.smooch.io
-app.futuresimple.com
-app.smooch.io
-zopim.com
-api.getbase.com
-www.zendesk.com
-developer.zendesk.com
-h1-your-domain.zendesk.com
-apps.zendesk.com
-app.smooch.io
-api.smooch.io
-smooch.io
-zopim.com
-app.futuresimple.com
-api.getbase.com
-http://h1-your-domain.zendesk.com/sell
 yourcompany.udemy.com
 www.udemy.com
 www.udemy.com
@@ -3365,8 +3344,8 @@ shopifyinbox.com
 partners.shopify.com
 shopify.plus
 accounts.shopify.com
-admin.shopify.com
 *.shopify.com
+admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -3573,8 +3552,8 @@ www.greenhouse.io
 *.vine.co
 *.twitter.com
 x.com
-*.twimg.com
 grok.x.ai
+*.twimg.com
 gnip.com
 api.x.ai
 ide.x.ai
