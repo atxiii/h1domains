@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Nov 29 12:23:13 UTC 2023)
+## Domains with Bounties (Last Updated Wed Nov 29 13:16:52 UTC 2023)
 ```
 www.mercadopago.com.uy
 www.mercadolibre.com.pe
@@ -46,8 +46,8 @@ flights.booking.com
 admin.booking.com
 booking.com
 metasearch-api.booking.com
-distribution-xml.booking.com
 accommodations.booking.com
+distribution-xml.booking.com
 portal.taxi.booking.com
 taxi.booking.com
 widget.rentalcars.com
@@ -130,8 +130,8 @@ test.nicex.com
 prismalabsteam.com
 lensa-ai.com
 prisma-ai.com
-appapi.neuralprisma.com
 neuralprisma.com
+appapi.neuralprisma.com
 neuralprisma.com
 prismalabsteam.com
 lensa-ai.com
@@ -526,8 +526,8 @@ web.grindr.com
 *.grindr.com
 *.grindr.mobi
 web.grindr.com
-app.skinport.com
 api.skinport.com
+app.skinport.com
 skinport.com
 skinport.com
 app.skinport.com
@@ -1316,8 +1316,8 @@ js.stripe.com
 app.taxjar.com
 *.reckostaging.com
 *.getbouncer.com
-api.stripe.com
 api.taxjar.com
+api.stripe.com
 api.stripe.com
 *.stripe.com
 *.touchtechpayments.com
@@ -3573,8 +3573,8 @@ www.greenhouse.io
 *.vine.co
 *.twitter.com
 x.com
-*.twimg.com
 grok.x.ai
+*.twimg.com
 gnip.com
 api.x.ai
 ide.x.ai
