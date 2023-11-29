@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Nov 29 17:13:53 UTC 2023)
+## Domains with Bounties (Last Updated Wed Nov 29 18:20:49 UTC 2023)
 ```
 www.mercadopago.com.uy
 www.mercadolibre.com.pe
@@ -526,8 +526,8 @@ web.grindr.com
 *.grindr.com
 *.grindr.mobi
 web.grindr.com
-api.skinport.com
 app.skinport.com
+api.skinport.com
 skinport.com
 skinport.com
 app.skinport.com
@@ -1016,9 +1016,9 @@ admin.instacart.com
 shoppers.instacart.com
 docs.databricks.com
 demo.cloud.databricks.com
-academy.databricks.com
 databricks.com
 accounts.cloud.databricks.com
+academy.databricks.com
 kb.databricks.com
 support.databricks.com
 labs.databricks.com
@@ -1549,8 +1549,8 @@ api.sharefile.com
 (yoursubdomain).sharefile.com
 sf-rp-eu.sharefile.com
 *.browser.cloud.com
-www.cloud.com
 accounts.cloud.com
+www.cloud.com
 eu.cloud.com
 onboarding.cloud.com
 (yoursubdomain).sf-api.com
@@ -2672,7 +2672,7 @@ api.foliofn.com
 *.gsam.com
 *.gs.de
 *.folioinstitutional.com
-*.folioclient.com
+*.gs.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -3330,6 +3330,27 @@ ruddercms.com
 ruddercms.nl
 dropr.nl
 devmaximum.com
+developer.zendesk.com
+smooch.io
+h1-your-domain.zendesk.com
+apps.zendesk.com
+www.zendesk.com
+api.smooch.io
+app.futuresimple.com
+app.smooch.io
+zopim.com
+api.getbase.com
+www.zendesk.com
+developer.zendesk.com
+h1-your-domain.zendesk.com
+apps.zendesk.com
+app.smooch.io
+api.smooch.io
+smooch.io
+zopim.com
+app.futuresimple.com
+api.getbase.com
+http://h1-your-domain.zendesk.com/sell
 yourcompany.udemy.com
 www.udemy.com
 www.udemy.com
@@ -3550,8 +3571,8 @@ interseller.io
 app.interseller.io
 www.greenhouse.io
 *.vine.co
-*.twitter.com
 x.com
+*.twitter.com
 grok.x.ai
 *.twimg.com
 gnip.com
