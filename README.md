@@ -2,15 +2,15 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Nov 30 10:14:34 UTC 2023)
+## Domains with Bounties (Last Updated Thu Nov 30 11:14:23 UTC 2023)
 ```
 www.mercadopago.com.uy
 www.mercadolibre.com.pe
 www.mercadopago.cl
 www.mercadolibre.com.uy
-www.mercadolibre.cl
 www.mercadolibre.com.mx
 www.mercadolivre.com.br
+www.mercadolibre.cl
 www.mercadopago.com.pe
 www.mercadopago.com.co
 api.mercadopago.com
@@ -2102,8 +2102,8 @@ www.goodrx.com
 www.goodrx.com
 *.rbx.com
 *.ra.roblox.com
-*.roblox.com
 *.guilded.gg
+*.roblox.com
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -2990,18 +2990,6 @@ api.sonantic.io
 app.sonantic.io
 label-studio-public.sonantic.io
 backstage.io
-api.dashlane.com
-logs.dashlane.com
-www.dashlane.com
-app.dashlane.com
-console.dashlane.com
-ws1.dashlane.com
-ws1.dashlane.com
-www.dashlane.com
-console.dashlane.com
-app.dashlane.com
-logs.dashlane.com
-api.dashlane.com
 planet.wordpress.org
 *.wordpress.org
 wordpressfoundation.org
@@ -3495,8 +3483,8 @@ www.hoteltonight.com
 assets.airbnb.com
 open.airbnb.com
 callbacks.airbnb.com
-www.airbnb.com
 api.airbnb.com
+www.airbnb.com
 www.airbnb.com
 next.airbnb.com
 api.airbnb.com
@@ -3522,8 +3510,8 @@ api.vimeo.com
 vimeo.magisto.com
 *.magisto.com
 *.livestream.com
-vhx.tv
 api.vhx.tv
+vhx.tv
 *.new.livestream.com
 checkout.vimeo.com
 staging.magisto.com
@@ -3571,10 +3559,10 @@ interseller.io
 app.interseller.io
 www.greenhouse.io
 *.vine.co
-*.twitter.com
 x.com
-grok.x.ai
+*.twitter.com
 *.twimg.com
+grok.x.ai
 gnip.com
 api.x.ai
 ide.x.ai
@@ -3683,8 +3671,8 @@ api.slack.com
 slackb.com
 slackatwork.com
 slack-redir.net
-*.quip.com
 app.slack.com
+*.quip.com
 edgeapi.slack.com
 slack-imgs.com
 slack.com
@@ -4085,6 +4073,18 @@ help.unikrn.com
 promotions.unikrn.com
 unikrn.ly
 static.unkrn.com
+api.dashlane.com
+logs.dashlane.com
+www.dashlane.com
+app.dashlane.com
+console.dashlane.com
+ws1.dashlane.com
+ws1.dashlane.com
+www.dashlane.com
+console.dashlane.com
+app.dashlane.com
+logs.dashlane.com
+api.dashlane.com
 www.alvosec.com
 dns.alvosec.com
 cloud.alvosec.com
