@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Dec  1 18:19:02 UTC 2023)
+## Domains with Bounties (Last Updated Fri Dec  1 19:14:04 UTC 2023)
 ```
 www.mercadopago.com.uy
 www.mercadopago.cl
@@ -1883,8 +1883,8 @@ faucet.polygon.technology
 *.ppbdev.com
 *.sbgservices.com
 *.skybetservices.com
-*.betfair.ro
 *.sbgtest.net
+*.platformservices.io
 *.betfair.com
 *.paddypower.com
 *.betfair.es
@@ -3365,10 +3365,10 @@ shopifyinbox.com
 story.snapchat.com
 create.snapchat.com
 msg.playcanvas.com
-forum.playcanvas.com
 ads.snapchat.com
 businesshelp.snapchat.com
 accounts.snapchat.com
+forum.playcanvas.com
 scan.snapchat.com
 blog.playcanvas.com
 relay.playcanvas.com
@@ -3381,10 +3381,10 @@ www.bitmoji.com
 rt.playcanvas.com
 my.snapchat.com
 store.snapchat.com
-business.snapchat.com
 playcanvas.com
 app.snapchat.com
 snappublisher.snapchat.com
+business.snapchat.com
 geofilters.snapchat.com
 *.sc-corp.net
 spectacles.com
@@ -3710,9 +3710,9 @@ www.hackerone.com
 profile-photos-us-east-2.hackerone-user-content.com
 errors.hackerone.net
 app.pullrequest.com
-b5s.hackerone-ext-content.com
 cover-photos.hackerone-user-content.com
 hackerone.live
+b5s.hackerone-ext-content.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
