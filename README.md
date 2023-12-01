@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Dec  1 05:15:09 UTC 2023)
+## Domains with Bounties (Last Updated Fri Dec  1 06:19:01 UTC 2023)
 ```
 www.mercadopago.com.uy
 www.mercadolibre.com.pe
@@ -46,9 +46,9 @@ flights.booking.com
 booking.com
 admin.booking.com
 metasearch-api.booking.com
-accommodations.booking.com
 distribution-xml.booking.com
 portal.taxi.booking.com
+accommodations.booking.com
 taxi.booking.com
 autocomplete.booking.com
 secure-supply-xml.booking.com
@@ -83,8 +83,8 @@ portal.au.frontegg.com
 api.au.frontegg.com
 api.au.frontegg.com
 portal.au.frontegg.com
-app.frontapp.com
 *.front.com
+app.frontapp.com
 help.front.com
 api2.frontapp.com
 *.front.com
@@ -182,8 +182,8 @@ launch.gamma.redoxstage.com
 www.redoxengine.com
 testapi.redoxengine.com
 eets-sftp-listener.gamma.redoxstage.com
-dashboard.gamma.redoxstage.com
 blob.gamma.redoxstage.com
+dashboard.gamma.redoxstage.com
 help.redoxengine.com
 eets.gamma.redoxstage.com
 webhooks.gamma.redoxstage.com
@@ -525,8 +525,8 @@ web.grindr.com
 *.grindr.com
 *.grindr.mobi
 web.grindr.com
-api.skinport.com
 app.skinport.com
+api.skinport.com
 skinport.com
 skinport.com
 app.skinport.com
@@ -705,8 +705,8 @@ www.expediagroup.com
 www.abritel.fr
 www.flights.com
 www.travelocity.com
-www.vrbo.com
 www.ebookers.com
+www.vrbo.com
 www.cheaptickets.com
 www.lastminute.co.nz
 www.lastminute.com.au
@@ -2665,9 +2665,9 @@ api.foliofn.com
 *.advisorsolutions.gs.com
 *.gs.de
 *.gsam.com
-*.folioclient.com
-*.gs.com
 marquee.gs.com
+*.gs.com
+*.folioinstitutional.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -3660,8 +3660,8 @@ api.slack.com
 slackb.com
 slackatwork.com
 slack-redir.net
-*.quip.com
 app.slack.com
+*.quip.com
 edgeapi.slack.com
 slack.com
 slack-imgs.com
@@ -3704,9 +3704,9 @@ hackerone-ext-content.com
 profile-photos-us-east-2.hackerone-user-content.com
 hackerone.live
 errors.hackerone.net
-cover-photos.hackerone-user-content.com
 app.pullrequest.com
 b5s.hackerone-ext-content.com
+cover-photos.hackerone-user-content.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
