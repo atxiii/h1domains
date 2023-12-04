@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Dec  4 08:18:14 UTC 2023)
+## Domains with Bounties (Last Updated Mon Dec  4 09:15:54 UTC 2023)
 ```
 www.mercadopago.com.uy
 www.mercadopago.cl
@@ -1821,9 +1821,9 @@ direct.playstation.com
 *.sonyentertainmentnetwork.com
 *.api.playstation.com
 my.playstation.com
-my.account.sony.com
 *.playstation.net
 ca.account.sony.com
+my.account.sony.com
 *.playstation.net
 *.sonyentertainmentnetwork.com
 *.api.playstation.com

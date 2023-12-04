@@ -1815,9 +1815,9 @@ direct.playstation.com
 *.sonyentertainmentnetwork.com
 *.api.playstation.com
 my.playstation.com
-my.account.sony.com
 *.playstation.net
 ca.account.sony.com
+my.account.sony.com
 *.playstation.net
 *.sonyentertainmentnetwork.com
 *.api.playstation.com
