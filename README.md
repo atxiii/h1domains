@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Dec  4 02:29:17 UTC 2023)
+## Domains with Bounties (Last Updated Mon Dec  4 03:15:20 UTC 2023)
 ```
 www.mercadopago.com.uy
 www.mercadopago.cl
@@ -587,8 +587,8 @@ api.sokos.fi
 cfapi.voikukka.fi
 jobs.kiwi.com
 auth.skypicker.com
-*.skypicker.com
 *.kiwi.com
+*.skypicker.com
 www.kiwi.com
 tequila.kiwi.com
 *.kiwi.com
