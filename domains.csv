@@ -37,9 +37,9 @@ bookingcom,chat.booking.com,True
 bookingcom,experiences.booking.com,True
 bookingcom,careers.booking.com,True
 bookingcom,supplier.auth.toag.booking.com,True
-bookingcom,flights.booking.com,True
 bookingcom,admin.booking.com,True
 bookingcom,booking.com,True
+bookingcom,flights.booking.com,True
 bookingcom,metasearch-api.booking.com,True
 bookingcom,accommodations.booking.com,True
 bookingcom,portal.taxi.booking.com,True
@@ -1536,8 +1536,8 @@ redox_bbp,dashboard.gamma.redoxstage.com,True
 redox_bbp,help.redoxengine.com,True
 redox_bbp,eets.gamma.redoxstage.com,True
 redox_bbp,webhooks.gamma.redoxstage.com,True
-redox_bbp,testapp.redoxengine.com,True
 redox_bbp,10x.redoxengine.com,True
+redox_bbp,testapp.redoxengine.com,True
 redox_bbp,docs.redoxengine.com,True
 redox_bbp,api.gamma.redoxstage.com,True
 redox_bbp,gamma.redoxstage.com,True
@@ -10227,8 +10227,8 @@ deriv,secure-dfadmin.deriv.com,True
 deriv,*.deriv.com,True
 deriv,*.binary.com,True
 deriv,oauth.deriv.com,True
-deriv,app.deriv.com,True
 deriv,*.deriv.cloud,True
+deriv,app.deriv.com,True
 deriv,*.deriv.com,True
 deriv,*.deriv.cloud,True
 deriv,*.derivws.com,True
