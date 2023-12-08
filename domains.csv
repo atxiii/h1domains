@@ -1109,8 +1109,8 @@ gocardless_bbp,*.gocardless-lab.io,True
 gocardless_bbp,pay-sandbox.gocardless.com,True
 gocardless_bbp,*.gocardless.dev,False
 gocardless_bbp,xero-sandbox.gocardless.com,True
-gocardless_bbp,*.gocardless.com,False
 gocardless_bbp,oauth-sandbox.gocardless.com,True
+gocardless_bbp,*.gocardless.com,False
 gocardless_bbp,*.gocardless-cicd.io,True
 gocardless_bbp,*.gocardless-staging.io,True
 gocardless_bbp,www.gocardless.com,True
@@ -2966,7 +2966,6 @@ abb,*.xc.abb.com,False
 abb,*.evcharging.abb.com,False
 abb,*.gb.abb.com,False
 abb,*.tnb.com,False
-abb,*.baldor.com,False
 abb,*.abb.com.tr,False
 abb,*.busch-jaeger.at,False
 abb,*.in.abb.com,False
@@ -2974,6 +2973,7 @@ abb,abb.com.br,False
 abb,*.cms.abb,False
 abb,*.abb.at,False
 abb,*.pl.abb.com,False
+abb,*.baldor.com,False
 abb,*.abb.com,False
 abb,*.busch-jaeger.nl,False
 abb,*.fi.abb.com,False
@@ -10241,9 +10241,9 @@ snapchat,story.snapchat.com,True
 snapchat,create.snapchat.com,True
 snapchat,msg.playcanvas.com,True
 snapchat,forum.playcanvas.com,True
-snapchat,accounts.snapchat.com,True
 snapchat,businesshelp.snapchat.com,True
 snapchat,ads.snapchat.com,True
+snapchat,accounts.snapchat.com,True
 snapchat,scan.snapchat.com,True
 snapchat,blog.playcanvas.com,True
 snapchat,relay.playcanvas.com,True
