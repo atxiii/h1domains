@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Dec 10 18:15:53 UTC 2023)
+## Domains with Bounties (Last Updated Sun Dec 10 19:10:50 UTC 2023)
 ```
 www.mercadopago.com.uy
 www.mercadolibre.com.pe
@@ -1024,9 +1024,9 @@ docs.databricks.com
 accounts.cloud.databricks.com
 kb.databricks.com
 support.databricks.com
-labs.databricks.com
 marketplace.databricks.com
 community.databricks.com
+labs.databricks.com
 advocates.databricks.com
 help.databricks.com
 customer-academy.databricks.com
@@ -2667,7 +2667,7 @@ api.foliofn.com
 marquee.gs.com
 *.folioclient.com
 *.gs.com
-*.gs.de
+*.folioinstitutional.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
