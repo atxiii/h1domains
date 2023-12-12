@@ -2,12 +2,12 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Dec 12 22:13:29 UTC 2023)
+## Domains with Bounties (Last Updated Tue Dec 12 23:15:32 UTC 2023)
 ```
 research.23andme.com
 www.lemonaidhealth.com
-clinic.lemonaidhealth.com
 mediacenter.23andme.com
+clinic.lemonaidhealth.com
 education.23andme.com
 store.23andme.com
 pd-api.polkadoc.com
@@ -2937,8 +2937,8 @@ privatetarget-1-www.zigzag
 *.sellzone.com
 *.grabtaxi.com
 grab.careers
-gifts.grab.com
 wiki.grab.com
+gifts.grab.com
 *.grab-sure.com
 *.grabpay.com
 xtramile.grabpay.com
