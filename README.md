@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Dec 11 23:13:47 UTC 2023)
+## Domains with Bounties (Last Updated Tue Dec 12 00:48:27 UTC 2023)
 ```
 www.mercadopago.com.uy
 www.mercadolibre.com.pe
@@ -13,10 +13,10 @@ www.mercadolibre.cl
 www.mercadolivre.com.br
 www.mercadopago.com.pe
 www.mercadopago.com.co
-www.mercadolibre.com.co
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadolibre.com.ar
+www.mercadolibre.com.co
 www.mercadopago.com.mx
 www.mercadopago.com.br
 api.mercadolibre.com
@@ -43,8 +43,8 @@ experiences.booking.com
 careers.booking.com
 supplier.auth.toag.booking.com
 flights.booking.com
-admin.booking.com
 booking.com
+admin.booking.com
 metasearch-api.booking.com
 portal.taxi.booking.com
 distribution-xml.booking.com
@@ -246,11 +246,11 @@ www.visa.com.vn
 www.visa.co.ao
 www.visa.co.nz
 www.visa.com.my
-www.visa.co.in
 www.currencycloud.com
 visa.com.ru
 bb.visa.com
 visa.com.jm
+www.visa.co.in
 bq.visa.com
 www.visa.com.kh
 visa.co.ni
@@ -960,8 +960,8 @@ charts.etoro.com
 push-d-gw.cloud.etoro.com
 partners.etoro.com
 rankings.etoro.com
-r.etoro.com
 candle.etoro.com
+r.etoro.com
 billing-pci.etoro.com
 candle-src.etoro.com
 push-demo-hk-lightstreamer.cloud.etoro.com
