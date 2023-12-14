@@ -2,20 +2,20 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Dec 14 16:22:21 UTC 2023)
+## Domains with Bounties (Last Updated Thu Dec 14 17:14:49 UTC 2023)
 ```
 research.23andme.com
 mediacenter.23andme.com
 www.lemonaidhealth.com
 clinic.lemonaidhealth.com
-store.23andme.com
 pd-api.polkadoc.com
 education.23andme.com
+store.23andme.com
 sapi-live.lh.us-west-2.prd.23andme.us
 api.23andme.com
-you.23andme.com
 auth.23andme.com
 blog.23andme.com
+you.23andme.com
 therapeutics.23andme.com
 medical.23andme.com
 api.23andme.com
@@ -2166,8 +2166,8 @@ www.goodrx.com
 www.goodrx.com
 *.rbx.com
 *.ra.roblox.com
-*.guilded.gg
 *.roblox.com
+*.guilded.gg
 *.roblox.com
 *.rbx.com
 *.guilded.gg
