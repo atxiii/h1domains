@@ -6,8 +6,8 @@ switch.vdp-egress.com
 www.egress.com
 research.23andme.com
 clinic.lemonaidhealth.com
-www.lemonaidhealth.com
 mediacenter.23andme.com
+www.lemonaidhealth.com
 pd-api.polkadoc.com
 education.23andme.com
 store.23andme.com
@@ -33,8 +33,8 @@ sapi-live.lh.us-west-2.prd.23andme.us
 pd-api.polkadoc.com
 research.23andme.com
 www.mercadopago.com.uy
-www.mercadolibre.com.pe
 www.mercadopago.cl
+www.mercadolibre.com.pe
 www.mercadolibre.cl
 www.mercadolibre.com.uy
 www.mercadolivre.com.br
@@ -1736,8 +1736,8 @@ www.practicalbusinessskills.org
 www.practicalmoneyskills.org
 *omniplus.com
 *.setra.de
-*exceleratorparts.com
 *.mercedes-benz-trucks.com
+*exceleratorparts.com
 *detroitconnect.com
 *.daimlertruck.com
 *.westernstar.com
