@@ -43,8 +43,8 @@ www.mercadopago.com.pe
 www.mercadopago.com.co
 www.mercadolibre.com.co
 www.mercadopago.com.ar
-api.mercadopago.com
 www.mercadolibre.com.ar
+api.mercadopago.com
 www.mercadopago.com.mx
 api.mercadolibre.com
 www.mercadopago.com.br
@@ -9502,8 +9502,8 @@ apigw.foliofn.com
 goldmansachsindices.com
 *.finlife.com
 *.nextcapital.com
-*.vennhypotheken.nl
 *.goldmansachs.com
+*.vennhypotheken.nl
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
 research.gs.com
@@ -10498,8 +10498,8 @@ next.airbnb.com
 *.hoteltonight-test.com
 *.airbnbcitizen.com
 *.muscache.com
-www.hoteltonight.com
 *.airbnb.com
+www.hoteltonight.com
 assets.airbnb.com
 open.airbnb.com
 callbacks.airbnb.com
