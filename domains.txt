@@ -10,8 +10,8 @@ education.23andme.com
 store.23andme.com
 blog.23andme.com
 auth.23andme.com
-you.23andme.com
 api.23andme.com
+you.23andme.com
 therapeutics.23andme.com
 medical.23andme.com
 api.23andme.com
@@ -3367,8 +3367,8 @@ share.doppler.com
 *.AMERICA.GOV
 *.FSGB.GOV
 *.PEPFAR.GOV
-*.STATE.GOV
 *.USEMBASSY.GOV
+*.STATE.GOV
 *.USCONSULATE.GOV
 *.AMERICA.GOV
 *.DEVTESTFAN1.GOV
@@ -9597,8 +9597,8 @@ insights.newrelic.com
 *.blog.newrelic.com
 infrastructure.newrelic.com
 *.newrelic.com
-one.newrelic.com
 *.nr-ops.net
+one.newrelic.com
 synthetics.eu.newrelic.com
 support.newrelic.com
 blog.newrelic.com
