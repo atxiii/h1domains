@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Jan  1 20:15:07 UTC 2024)
+## Domains with Bounties (Last Updated Mon Jan  1 21:12:05 UTC 2024)
 ```
 https://passport.eufy.com/?app=eufy-us
 mediacenter.23andme.com
@@ -1997,12 +1997,12 @@ www.alibabagroup.com
 *.alibabacloud.com
 *.aliexpress.ru
 *.alibaba-inc.com
-*.Daraz.com
 *.aliexpress.com
 *.alimama.com
 *.1688.com
 *.aliyun-inc.com
 *.aliyun.com
+*.Daraz.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
