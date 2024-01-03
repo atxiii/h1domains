@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Jan  3 17:16:10 UTC 2024)
+## Domains with Bounties (Last Updated Wed Jan  3 18:17:54 UTC 2024)
 ```
 payments.hostinger.com
 cpanel.hosting24.com
