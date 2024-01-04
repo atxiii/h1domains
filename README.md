@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Jan  4 15:17:03 UTC 2024)
+## Domains with Bounties (Last Updated Thu Jan  4 16:18:01 UTC 2024)
 ```
 cpanel.hosting24.com
 www.niagahoster.co.id
@@ -11,8 +11,8 @@ hpanel.hostinger.com
 payments.hosting24.com
 hpanel.hosting24.com
 www.hosting24.com
-www.hostinger.com
 *.000webhost.com
+www.hostinger.com
 cpanel.hostinger.com
 logo.zyro.com
 partner.niagahoster.co.id
@@ -1678,15 +1678,15 @@ api.adm.cloud.com
 (youriwssubdomain).cloud.com
 ads.tiktok.com
 partner.tiktokshop.com
-live-backstage.tiktok.com
 tiktok.com
+live-backstage.tiktok.com
 www.pangleglobal.com
 academy-outbound-ads.tiktok.com
 careers.tiktok.com
 business.tiktok.com
 *.tiktokv.com
-*.tiktok.com
 creatormarketplace.tiktok.com
+*.tiktok.com
 effecthouse.tiktok.com
 developers.tiktok.com
 shop.tiktok.com
@@ -2623,8 +2623,8 @@ prequal.swiftfinancial.com
 decision.swiftfinancial.com
 loanbuilder.com
 *.paypalcorp.com
-*.braintreegateway.com
 paypalobjects.com
+*.braintreegateway.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -3115,9 +3115,9 @@ rockstarnorth.com
 circolocorecords.com/
 store.rockstargames.com
 support.rockstargames.com
-prod.ros.rockstargames.com
 lifeinvader.com
 socialclub.rockstargames.com
+prod.ros.rockstargames.com
 socialclub.rockstargames.com
 prod.ros.rockstargames.com
 support.rockstargames.com
@@ -3604,8 +3604,8 @@ interseller.io
 app.interseller.io
 www.greenhouse.io
 *.vine.co
-*.twitter.com
 x.com
+*.twitter.com
 grok.x.ai
 *.twimg.com
 gnip.com
