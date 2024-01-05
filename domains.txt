@@ -2835,8 +2835,8 @@ snapfish.it
 snapfish.fr
 snapfish.ie
 *.photoccino.com
-photo.walgreens.com
 *.lifetouch.com
+photo.walgreens.com
 snapfish.de
 prestigeportraits.com
 lifetouch.com
@@ -4985,8 +4985,8 @@ www.alohi.com
 *.sign.plus
 *.fax.plus
 www.alohi.com
-*.cartus.com
 *.trgc.com
+*.cartus.com
 *.leadrouter.com
 *.century21.*
 *.bhgre.*
