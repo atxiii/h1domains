@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Jan  5 23:15:28 UTC 2024)
+## Domains with Bounties (Last Updated Sat Jan  6 00:46:36 UTC 2024)
 ```
 cpanel.hosting24.com
 payments.hostinger.com
@@ -116,8 +116,8 @@ widget.rentalcars.com
 webhooks.booking.com
 paybridge.booking.com
 cars.booking.com
-account.booking.com
 secure.booking.com
+account.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
