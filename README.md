@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Jan  8 02:29:52 UTC 2024)
+## Domains with Bounties (Last Updated Mon Jan  8 03:15:06 UTC 2024)
 ```
 www.niagahoster.co.id
 payments.hostinger.com
@@ -116,8 +116,8 @@ widget.rentalcars.com
 webhooks.booking.com
 paybridge.booking.com
 cars.booking.com
-account.booking.com
 secure.booking.com
+account.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -1704,8 +1704,8 @@ shop.tiktok.com
 live-backstage.tiktok.com
 academy-outbound-ads.tiktok.com
 www.pangleglobal.com
-www.logitechg.com
 www.logitech.com.cn
+www.logitechg.com
 circle.logi.com
 www.ultimateears.com
 id.logi.com
