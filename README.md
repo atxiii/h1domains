@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jan  9 19:14:45 UTC 2024)
+## Domains with Bounties (Last Updated Tue Jan  9 20:17:37 UTC 2024)
 ```
 app.dynamic.xyz
 app.dynamic-preprod.xyz
@@ -46,8 +46,8 @@ mediacenter.23andme.com
 education.23andme.com
 store.23andme.com
 blog.23andme.com
-api.23andme.com
 you.23andme.com
+api.23andme.com
 auth.23andme.com
 medical.23andme.com
 therapeutics.23andme.com
@@ -104,8 +104,8 @@ supplier.auth.toag.booking.com
 admin.booking.com
 supply-xml.booking.com
 flights.booking.com
-*.booking.com
 booking.com
+*.booking.com
 metasearch-api.booking.com
 portal.taxi.booking.com
 distribution-xml.booking.com
@@ -1269,8 +1269,8 @@ hatching.io
 www.recordedfuture.com
 geminiadvisory.io
 securitytrails.com
-tria.ge
 id.recordedfuture.com
+tria.ge
 www.recordedfuture.com
 api.recordedfuture.com
 app.recordedfuture.com
@@ -3707,8 +3707,8 @@ blog.irccloud.com
 custody.coinbase.com
 *.cbhq.net
 pro.coinbase.com
-*.coinbase.com
 prime.coinbase.com
+*.coinbase.com
 international.coinbase.com
 api.coinbase.com
 cloud.coinbase.com
