@@ -2,8 +2,14 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jan  9 16:16:56 UTC 2024)
+## Domains with Bounties (Last Updated Tue Jan  9 17:18:01 UTC 2024)
 ```
+app.dynamic.xyz
+app.dynamic-preprod.xyz
+demo.dynamic.xyz
+app.dynamic-preprod.xyz
+demo.dynamic.xyz
+app.dynamic.xyz
 cpanel.hosting24.com
 payments.hostinger.com
 www.niagahoster.co.id
@@ -39,10 +45,10 @@ research.23andme.com
 mediacenter.23andme.com
 store.23andme.com
 education.23andme.com
-auth.23andme.com
 blog.23andme.com
-api.23andme.com
 you.23andme.com
+api.23andme.com
+auth.23andme.com
 medical.23andme.com
 therapeutics.23andme.com
 api.23andme.com
@@ -466,9 +472,9 @@ aus5.mozilla.org
 contile.services.mozilla.com
 hg.mozilla.org
 crash-reports.allizom.org
-location.services.mozilla.com
 mozilla-pontoon-staging.herokuapp.com
 phabricator.allizom.org
+location.services.mozilla.com
 addons.allizom.org
 accounts.firefox.com
 bugzilla.mozilla.org
@@ -733,8 +739,8 @@ admin.8x8.com
 *.luckydays.ca
 *.napoleoncasino.be
 *.spinaway.com
-*.napoleonsports.be
 *.superbet.rs
+*.napoleonsports.be
 *.superbet.ro
 *.superbet.rs
 *.superbet.com
@@ -1696,8 +1702,8 @@ www.pangleglobal.com
 academy-outbound-ads.tiktok.com
 creatormarketplace.tiktok.com
 careers.tiktok.com
-*.tiktokv.com
 business.tiktok.com
+*.tiktokv.com
 *.tiktok.com
 effecthouse.tiktok.com
 developers.tiktok.com
@@ -2187,8 +2193,8 @@ www.goodrx.com
 www.goodrx.com
 *.rbx.com
 *.ra.roblox.com
-*.guilded.gg
 *.roblox.com
+*.guilded.gg
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -2365,8 +2371,8 @@ press.priceline.com
 www.bookingholdings.com
 developers.smartsheet.com
 help.smartsheet.com
-admin.smartsheet.com
 app.smartsheet.com
+admin.smartsheet.com
 app.smartsheet.com
 http://api.smartsheet.com/2.0
 admin.smartsheet.com
@@ -3410,9 +3416,9 @@ shopifyinbox.com
 *.shopifykloud.com
 partners.shopify.com
 shopify.plus
+*.shopify.com
 accounts.shopify.com
 admin.shopify.com
-*.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
