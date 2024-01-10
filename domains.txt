@@ -34,8 +34,8 @@ app.wellhive.com
 login.wellhive.com
 cpanel.hosting24.com
 www.niagahoster.co.id
-payments.hostinger.com
 hpanel.hostinger.com
+payments.hostinger.com
 hpanel.hosting24.com
 payments.hosting24.com
 *.000webhost.com
@@ -4624,8 +4624,8 @@ banfieldexchange.com
 *.orbitgum.com
 *.royalcanin.pl
 *.jornadasroyalcanin.com.ar
-*.royalcanin.com
 *.banfieldassets.com
+*.royalcanin.com
 *.moncse-royalcanin-siege.com
 *.monespaceveto.com
 *.royalcanin.cz
@@ -10177,8 +10177,8 @@ moneybird.com
 moneybirdstorage.com
 moneybird.com
 moneybirdstorage.com
-api.github.com
 npmjs.com
+api.github.com
 classroom.github.com
 *.githubapp.com
 education.github.com
