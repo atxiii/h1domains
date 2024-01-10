@@ -63,8 +63,8 @@ egress-vdp,www.egress.com,False
 23andme_bbp,education.23andme.com,True
 23andme_bbp,store.23andme.com,True
 23andme_bbp,blog.23andme.com,True
-23andme_bbp,you.23andme.com,True
 23andme_bbp,api.23andme.com,True
+23andme_bbp,you.23andme.com,True
 23andme_bbp,auth.23andme.com,True
 23andme_bbp,therapeutics.23andme.com,True
 23andme_bbp,medical.23andme.com,True
@@ -5047,8 +5047,8 @@ anywhererealestate,new.myzap.com,False
 databricks,demo.cloud.databricks.com,True
 databricks,docs.databricks.com,True
 databricks,academy.databricks.com,True
-databricks,accounts.cloud.databricks.com,True
 databricks,databricks.com,True
+databricks,accounts.cloud.databricks.com,True
 databricks,kb.databricks.com,True
 databricks,support.databricks.com,True
 databricks,marketplace.databricks.com,True
@@ -7530,8 +7530,8 @@ logitech,logitechgchallenge.com,False
 logitech,www.logitechclub.com,False
 logitech,select.logitech.com,False
 logitech,alert.logitech.com,False
-figma,www.figma.com,True
 figma,api.figma.com,True
+figma,www.figma.com,True
 figma,www.figma.com,True
 figma,api.figma.com,True
 cs_money,wiki.cs.money,True
@@ -8357,8 +8357,8 @@ kubernetes,kubernetes-csi.github.io,True
 8x8,work-staging.8x8.com,False
 8x8,express.8x8.com,False
 8x8,*.jit.si,False
-8x8,*.wavecell.com,False
 8x8,*.packet8.net,False
+8x8,*.wavecell.com,False
 8x8,*.ucverse.com,False
 8x8,*.8x8.com,False
 8x8,*.packet8.net,False
@@ -9445,8 +9445,8 @@ paypal,scrutiny.swiftfinancial.com,True
 paypal,paypal.me,True
 paypal,*.hyperwallet.com,True
 paypal,my.loanbuilder.com,True
-paypal,*.paypal.com,True
 paypal,*.venmo.com,True
+paypal,*.paypal.com,True
 paypal,pigeon.swiftfinancial.com,True
 paypal,*.paydiant.com,True
 paypal,*.braintree.tools,True

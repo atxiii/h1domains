@@ -62,8 +62,8 @@ mediacenter.23andme.com
 education.23andme.com
 store.23andme.com
 blog.23andme.com
-you.23andme.com
 api.23andme.com
+you.23andme.com
 auth.23andme.com
 therapeutics.23andme.com
 medical.23andme.com
@@ -5046,8 +5046,8 @@ new.myzap.com
 demo.cloud.databricks.com
 docs.databricks.com
 academy.databricks.com
-accounts.cloud.databricks.com
 databricks.com
+accounts.cloud.databricks.com
 kb.databricks.com
 support.databricks.com
 marketplace.databricks.com
@@ -7529,8 +7529,8 @@ logitechgchallenge.com
 www.logitechclub.com
 select.logitech.com
 alert.logitech.com
-www.figma.com
 api.figma.com
+www.figma.com
 www.figma.com
 api.figma.com
 wiki.cs.money
@@ -8356,8 +8356,8 @@ accountmanager.8x8.com
 work-staging.8x8.com
 express.8x8.com
 *.jit.si
-*.wavecell.com
 *.packet8.net
+*.wavecell.com
 *.ucverse.com
 *.8x8.com
 *.packet8.net
@@ -9444,8 +9444,8 @@ scrutiny.swiftfinancial.com
 paypal.me
 *.hyperwallet.com
 my.loanbuilder.com
-*.paypal.com
 *.venmo.com
+*.paypal.com
 pigeon.swiftfinancial.com
 *.paydiant.com
 *.braintree.tools
