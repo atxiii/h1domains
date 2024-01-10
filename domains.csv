@@ -133,8 +133,8 @@ bookingcom,supplier.auth.toag.booking.com,True
 bookingcom,admin.booking.com,True
 bookingcom,supply-xml.booking.com,True
 bookingcom,flights.booking.com,True
-bookingcom,*.booking.com,True
 bookingcom,booking.com,True
+bookingcom,*.booking.com,True
 bookingcom,metasearch-api.booking.com,True
 bookingcom,portal.taxi.booking.com,True
 bookingcom,distribution-xml.booking.com,True
@@ -2763,8 +2763,8 @@ kolesagroup,id.avtoelon.uz,True
 kolesagroup,kolesa.kz,True
 kolesagroup,app.krisha.kz,True
 kolesagroup,m.kolesa.kz,True
-kolesagroup,api.avtoelon.uz,True
 kolesagroup,krisha.kz,True
+kolesagroup,api.avtoelon.uz,True
 kolesagroup,kolesa.kz,True
 kolesagroup,m.kolesa.kz,True
 kolesagroup,krisha.kz,True
@@ -3293,8 +3293,8 @@ stanford-university,iron.stanford.edu,False
 stanford-university,mydevices.stanford.edu,False
 stanford-university,who.stanford.edu,False
 stanford-university,accessories.stanford.edu,False
-stanford-university,*.sahr.stanford.edu,False
 stanford-university,stanfordwho.stanford.edu,False
+stanford-university,*.sahr.stanford.edu,False
 stanford-university,secureportal.stanford.edu,False
 stanford-university,idp.stanford.edu,False
 stanford-university,sponsorship.stanford.edu,False
@@ -5803,6 +5803,7 @@ consensys,on-ramp.metaswap-dev.codefi.network,True
 consensys,staking-uat.codefi.network,True
 consensys,consensys.net,True
 consensys,activate.codefi.network,True
+consensys,app.infura.io,True
 consensys,staking.codefi.network,True
 consensys,bridge.codefi.network,True
 consensys,webhooks-api-experimental.codefi.network,True
@@ -5813,6 +5814,7 @@ consensys,canary.activate.codefi.network,True
 consensys,on-ramp.metaswap-dev.codefi.network,True
 consensys,webhooks-api-experimental.codefi.network,True
 consensys,http://portfolio.metamask.io,True
+consensys,app.infura.io,True
 consensys,https://metamask-sdk-socket.metafi.codefi.network/,True
 consensys,staking-uat.codefi.network,True
 consensys,consensys.net,True
@@ -9446,9 +9448,9 @@ paypal,www.swiftfinancial.com,True
 paypal,swiftfinancial.com,True
 paypal,py.pl,True
 paypal,*.braintreepayments.com,True
-paypal,*.xoom.com,True
 paypal,*.braintree-api.com,True
 paypal,*.paylution.com,True
+paypal,*.xoom.com,True
 paypal,www.swiftcapital.com,True
 paypal,my.swiftfinancial.com,True
 paypal,swiftcapital.com,True
@@ -9591,6 +9593,7 @@ goldmansachs,*.folioclient.com,True
 goldmansachs,*.advisorsolutions.gs.com,True
 goldmansachs,*.gsam.com,True
 goldmansachs,*.folioinstitutional.com,True
+goldmansachs,*.gs.com,True
 goldmansachs,*.goldmansachs.com,True
 goldmansachs,*.gs.com,True
 goldmansachs,*.goldman.com,True
@@ -10172,8 +10175,8 @@ moneybird,moneybird.com,True
 moneybird,moneybirdstorage.com,True
 moneybird,moneybird.com,True
 moneybird,moneybirdstorage.com,True
-github,npmjs.com,True
 github,api.github.com,True
+github,npmjs.com,True
 github,classroom.github.com,True
 github,*.githubapp.com,True
 github,education.github.com,True
@@ -10334,8 +10337,8 @@ udemy,yourcompany.udemy.com,True
 udemy,www.udemy.com,True
 udemy,www.udemy.com,True
 udemy,yourcompany.udemy.com,True
-shopify,your-store.myshopify.com,True
 shopify,arrive-server.shopifycloud.com,True
+shopify,your-store.myshopify.com,True
 shopify,linkpop.com,True
 shopify,shop.app,True
 shopify,*.shopifycloud.com,True
@@ -10819,8 +10822,8 @@ yahoo,proddata.xobni.yahoo.com,True
 yahoo,apis.mail.yahoo.com,True
 yahoo,yimg.com,True
 security,hackerone-user-content.com,True
-security,api.hackerone.com,True
 security,hackerone.com,True
+security,api.hackerone.com,True
 security,www.wearehackerone.com,True
 security,mta-sts.wearehackerone.com,True
 security,hackathon-photos-us-east-2.hackerone-user-content.com,True
@@ -10835,11 +10838,11 @@ security,hackerone-ext-content.com,True
 security,ctf.hacker101.com,True
 security,www.hackerone.com,True
 security,profile-photos-us-east-2.hackerone-user-content.com,True
-security,hackerone.live,True
 security,cover-photos.hackerone-user-content.com,True
 security,b5s.hackerone-ext-content.com,True
-security,app.pullrequest.com,True
 security,errors.hackerone.net,True
+security,hackerone.live,True
+security,app.pullrequest.com,True
 security,hackerone.com,True
 security,api.hackerone.com,True
 security,www.hackerone.com,True
