@@ -2,8 +2,20 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Jan 10 09:13:24 UTC 2024)
+## Domains with Bounties (Last Updated Wed Jan 10 10:16:40 UTC 2024)
 ```
+*.sprint.apps.dynatracelabs.com
+account-sprint.dynatracelabs.com
+myaccount-hardening.dynatracelabs.com
+*.sprint.dynatracelabs.com
+university-staging.dynatracelabs.com
+sso-sprint.dynatracelabs.com
+*.sprint.dynatracelabs.com
+*.sprint.apps.dynatracelabs.com
+account-sprint.dynatracelabs.com
+sso-sprint.dynatracelabs.com
+university-staging.dynatracelabs.com
+myaccount-hardening.dynatracelabs.com
 app.dynamic.xyz
 app.dynamic-preprod.xyz
 demo.dynamic.xyz
@@ -17,8 +29,8 @@ hpanel.hostinger.com
 hpanel.hosting24.com
 payments.hosting24.com
 www.hosting24.com
-*.000webhost.com
 www.hostinger.com
+*.000webhost.com
 cpanel.hostinger.com
 partner.niagahoster.co.id
 editor.zyro.com
@@ -47,8 +59,8 @@ education.23andme.com
 store.23andme.com
 blog.23andme.com
 api.23andme.com
-you.23andme.com
 auth.23andme.com
+you.23andme.com
 therapeutics.23andme.com
 medical.23andme.com
 api.23andme.com
@@ -733,9 +745,9 @@ admin.8x8.com
 *.luckydays.com
 *.magicjackpot.ro
 *.napoleondice.be
-*.napoleongames.be
-*.superbet.com
 *.superbet.ro
+*.superbet.com
+*.napoleongames.be
 *.luckydays.ca
 *.napoleoncasino.be
 *.spinaway.com
@@ -816,8 +828,8 @@ www.ebookers.fi
 www.expediacruises.com
 www.expediapartnercentral.com
 www.hotwire.com
-www.stayz.com.au
 www.wotif.com
+www.stayz.com.au
 www.hotels.com
 www.expedia.com
 www.expediapartnercentral.com
@@ -2163,8 +2175,8 @@ all-inclusive.marriott.com
 gatewaydsapdev2.marriott.com
 marrtool.com
 passwordchallenge.marriott.com
-homes-and-villas.marriott.com
 hotel-deals.marriott.com
+homes-and-villas.marriott.com
 homes-and-villas.marriott.com
 sso.marriott.com
 mgs.marriott.com
@@ -2228,8 +2240,8 @@ cloud.nordlocker.com
 *.nordvpn.com
 cloud.nordlocker.com
 app.nordpass.com
-*.line-apps.com
 *.line.me
+*.line-apps.com
 *.line.biz
 *.line.naver.jp
 *.line.me
@@ -3630,8 +3642,8 @@ interseller.io
 app.interseller.io
 www.greenhouse.io
 *.vine.co
-*.twitter.com
 x.com
+*.twitter.com
 grok.x.ai
 *.twimg.com
 gnip.com
