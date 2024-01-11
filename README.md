@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Jan 11 04:15:53 UTC 2024)
+## Domains with Bounties (Last Updated Thu Jan 11 05:15:35 UTC 2024)
 ```
 *.sprint.apps.dynatracelabs.com
 account-sprint.dynatracelabs.com
@@ -746,8 +746,8 @@ admin.8x8.com
 *.magicjackpot.ro
 *.napoleondice.be
 *.superbet.ro
-*.superbet.com
 *.napoleongames.be
+*.superbet.com
 *.luckydays.ca
 *.napoleoncasino.be
 *.spinaway.com
@@ -1125,8 +1125,8 @@ shoppers.instacart.com
 demo.cloud.databricks.com
 docs.databricks.com
 academy.databricks.com
-accounts.cloud.databricks.com
 databricks.com
+accounts.cloud.databricks.com
 kb.databricks.com
 support.databricks.com
 marketplace.databricks.com
@@ -1715,10 +1715,10 @@ tiktok.com
 www.pangleglobal.com
 academy-outbound-ads.tiktok.com
 creatormarketplace.tiktok.com
-careers.tiktok.com
 *.tiktokv.com
 business.tiktok.com
 *.tiktok.com
+careers.tiktok.com
 effecthouse.tiktok.com
 developers.tiktok.com
 shop.tiktok.com
