@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Jan 14 02:02:10 UTC 2024)
+## Domains with Bounties (Last Updated Sun Jan 14 02:35:39 UTC 2024)
 ```
 *.sprint.apps.dynatracelabs.com
 account-sprint.dynatracelabs.com
@@ -1449,8 +1449,8 @@ strapi.reddit.com
 m.reddit.com
 sh.reddit.com
 *.snooguts.net
-new.reddit.com
 *.redditinc.com
+new.reddit.com
 s.reddit.com
 gateway.reddit.com
 www.spiketrap.io
@@ -3784,9 +3784,9 @@ reviewer.pullrequest.com
 profile-photos.hackerone-user-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 hackathon-photos.hackerone-user-content.com
-ctf.hacker101.com
 www.hackerone.com
 hackerone-ext-content.com
+ctf.hacker101.com
 b5s.hackerone-ext-content.com
 errors.hackerone.net
 app.pullrequest.com
