@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Jan 14 19:11:16 UTC 2024)
+## Domains with Bounties (Last Updated Sun Jan 14 20:14:39 UTC 2024)
 ```
 *.sprint.apps.dynatracelabs.com
 account-sprint.dynatracelabs.com
@@ -790,9 +790,9 @@ share.doppler.com
 *.cryptopunks.app
 *.boredapeyachtclub.com
 *.yugalabs.io
-dookeydash.com
 hv-mtl.com
 *.wenewmoments.com
+dookeydash.com
 *.boredapeyachtclub.com
 *.yuga.com
 *.yugalabs.io
