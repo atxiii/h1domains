@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Jan 22 02:36:11 UTC 2024)
+## Domains with Bounties (Last Updated Mon Jan 22 03:15:44 UTC 2024)
 ```
 sandbox.fireblocks.io
 sandbox.fireblocks.io
@@ -1034,11 +1034,11 @@ smtp2go.com
 smtp2go.com
 app.smtp2go.com
 api.smtp2go.com
+delta.app
 push-d-hap.cloud.etoro.com
 push-demo-lightstreamer.cloud.etoro.com
 sts.etoro.com
 watchlistapi.etoro.com
-delta.app
 www.etoro.com
 aggregator.etoro.com
 cashier.etoro.com
@@ -1321,7 +1321,6 @@ www.fedramp.gov
 federalist-docs.18f.gov
 *.login.gov
 ci.fr.cloud.gov
-idp.fr.cloud.gov
 federalist-proxy.app.cloud.gov
 account.fr.cloud.gov
 ci.fr.cloud.gov
@@ -1439,9 +1438,9 @@ www.urbancompany.com
 www.urbanclap.com
 www.urbancompany.com
 www.urbanclap.com
+gql.reddit.com
 api.reddit.com
 ads.reddit.com
-gql.reddit.com
 *.redditmedia.com
 app.spiketrap.io
 old.reddit.com
@@ -1601,8 +1600,8 @@ hackers_chosendomain.larksuite.com
 *.exodus.io
 *.a.exodus.io
 *.exodus.com
-www.yotisign.com
 api.yoti.com
+www.yotisign.com
 core.yoti.com
 ccloud.yoti.com
 code.yoti.com
@@ -1672,11 +1671,11 @@ launch.cloud.com
 sf-rp.sharefile.com
 api.sharefile.eu
 api.adm.cloud.com
+(yoursubdomain).us.iws.cloud.com
+(yoursubdomain).ap.iws.cloud.com
 citrix.cloud.com
 us.cloud.com
 *.citrixworkspacesapi.net
-(yoursubdomain).ap.iws.cloud.com
-(yoursubdomain).us.iws.cloud.com
 citrix.cloud.com
 www.cloud.com
 ap-s.cloud.com
@@ -1801,14 +1800,14 @@ helpcenter.affirm.com
 www.iciparisxl.lu
 app.marionnaud.hu
 www.marionnaud.ro
+www.marionnaud.fr
+www.watsons.com.tr
 mapi-sim.fortress.com.hk
 www10.watsons.com.tw
 www10.watsons.com.ph
 www10.watsons.com.hk
 www20.watsons.co.th
 www.watsons.co.id
-www.marionnaud.fr
-www.watsons.com.tr
 www.watsons.com.ph
 www.kruidvat.nl
 www.kruidvat.be
@@ -2120,8 +2119,8 @@ configure.bmw.de
 configure.mini.de
 konfigurator.bmw-motorrad.de
 api.magic.link
-api.fortmatic.com
 dashboard.fortmatic.com
+api.fortmatic.com
 fortmatic.com
 dashboard.magic.link
 auth.magic.link
@@ -2144,10 +2143,10 @@ maria.casino
 *.unibet.com
 *.mariacasino.com
 *.kindredext.net
-*.vladcazino.ro
 *.storspiller.com
 *.casinohuone.com
 *.ottokasino.com
+*.vladcazino.ro
 www.32red.com
 *.kes.kindredext.net
 *.unibet.com
@@ -2398,8 +2397,8 @@ press.priceline.com
 www.bookingholdings.com
 developers.smartsheet.com
 help.smartsheet.com
-app.smartsheet.com
 admin.smartsheet.com
+app.smartsheet.com
 app.smartsheet.com
 http://api.smartsheet.com/2.0
 admin.smartsheet.com
@@ -2472,10 +2471,9 @@ res.vacations.buschgardens.com
 www.hyattinclusivecollection.com
 booking.applevacations.com
 vacations.us.palladiumhotelgroup.com
-ebsext.oft.hyatt.com
 newsroom.images.hyatt.com
 confluence.hyattdev.com
-login.www.vaxvacationaccess.com
+ebsext.oft.hyatt.com
 holidays-au.fijiairways.com
 holidays-sg.fijiairways.com
 vacations.hotelcasavelas.com
@@ -2487,6 +2485,7 @@ holidays-nz.fijiairways.com
 res.en.travelbrandsagent.com
 res.funjet.com
 res.secretsresorts.com
+login.www.vaxvacationaccess.com
 world.hyatt.com
 assets.hyatt.com
 roominglist.hyatt.com
@@ -2982,9 +2981,9 @@ sijoitusvakuutus.lahitapiola.fi
 ext-gw.lahitapiola.fi
 privatetarget-2-secure.zigzag
 secure.lahitapiola.fi
+tunnistus.lahitapiola.fi
 lisasijoitus.lahitapiola.fi
 verovelvollisuustiedot.lahitapiola.fi
-tunnistus.lahitapiola.fi
 api.lahitapiola.fi
 *.tapiola.fi
 privatetarget-1-www.zigzag
@@ -3130,6 +3129,7 @@ api.wordpress.org
 irclogs.wordpress.org
 *.wordpress.net
 gutenberg.run
+doaction.org
 codex.wordpress.org
 codex.bbpress.org
 codex.buddypress.org
@@ -3138,7 +3138,6 @@ mercantile.wordpress.org
  *.svn.wordpress.org
  *.git.wordpress.org
  github.com/WordPress
-doaction.org
 *.wordpress.org
 *.buddypress.org
 bbpress.org
@@ -3285,8 +3284,8 @@ classroom.github.com
 *.githubapp.com
 gist.github.com
 *.github.net
-*.githubusercontent.com
 npmjs.org
+*.githubusercontent.com
 education.github.com
 github.com
 github.com
@@ -3480,8 +3479,8 @@ playcanv.as
 www.bitmoji.com
 snappublisher.snapchat.com
 map.snapchat.com
-my.snapchat.com
 store.snapchat.com
+my.snapchat.com
 rt.playcanvas.com
 playcanvas.com
 app.snapchat.com
@@ -3654,8 +3653,8 @@ interseller.io
 app.interseller.io
 www.greenhouse.io
 *.vine.co
-*.twitter.com
 x.com
+*.twitter.com
 grok.x.ai
 *.twimg.com
 gnip.com
@@ -3687,10 +3686,10 @@ waf.cumulusfire.net
 *.srvcs.tumblr.com
 akismet.com
 embed.tumblr.com
-happy.tools
 simplenote.com
 simperium.com
 my.pressable.com
+happy.tools
 gravatar.com
 api.tumblr.com
 assets.tumblr.com
@@ -3814,8 +3813,8 @@ hackerone.live
 errors.hackerone.net
 profile-photos-us-east-2.hackerone-user-content.com
 app.pullrequest.com
-b5s.hackerone-ext-content.com
 cover-photos.hackerone-user-content.com
+b5s.hackerone-ext-content.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
