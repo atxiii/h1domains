@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Jan 22 20:16:19 UTC 2024)
+## Domains with Bounties (Last Updated Mon Jan 22 21:14:06 UTC 2024)
 ```
 sandbox.fireblocks.io
 sandbox.fireblocks.io
@@ -699,8 +699,8 @@ user-profile-staging.8x8.com
 *.chalet.8x8.com
 cloud8.8x8.com
 *.8x8.id
-platform.8x8.com
 *.8x8staging.com
+platform.8x8.com
 voapi.8x8.com
 *.packet8.net
 sms.8x8.com
@@ -910,8 +910,8 @@ blueprints.amazon.com
 a4k.amazon.com
 creator.amazon.com
 alexaanswers.amazon.com
-read.amazon.com
 alexa.amazon.com
+read.amazon.com
 skills-store.amazon.com
 read.amazon.com
 alexaanswers.amazon.com
@@ -1452,8 +1452,8 @@ meta-api.reddit.com
 *.snooguts.net
 sh.reddit.com
 gateway.reddit.com
-ads-api.reddit.com
 s.reddit.com
+ads-api.reddit.com
 *.reddit.com
 www.spiketrap.io
 *.redditblog.com
@@ -1716,8 +1716,8 @@ business.tiktok.com
 creatormarketplace.tiktok.com
 *.tiktokv.com
 academy-outbound-ads.tiktok.com
-*.tiktok.com
 careers.tiktok.com
+*.tiktok.com
 developers.tiktok.com
 effecthouse.tiktok.com
 shop.tiktok.com
@@ -1817,7 +1817,6 @@ app.marionnaud.it
 app.marionnaud.ro
 www.marionnaud.sk
 www.pns.hk
-app.watsons.com.tr
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -2145,8 +2144,8 @@ maria.casino
 *.storspiller.com
 *.casinohuone.com
 *.vladcazino.ro
-www.32red.com
 *.ottokasino.com
+www.32red.com
 *.kes.kindredext.net
 *.unibet.com
 *.unibet.fr
@@ -2163,19 +2162,19 @@ www.32red.com
 unibet.me
 maria.casino
 www.32red.com
-gatewaydsaptst2.marriott.com
 sso.marriott.com
 mgs.marriott.com
+gatewaydsaptst2.marriott.com
 www.marriott.com
 activities.marriott.com
 dcfgatewaytst1.marriott.com
 gatewaydsaptst1.marriott.com
 reservations.all-inclusive.marriott.com
 jobs.marriott.com
-marriottfranchisetransactions.marriott.com
-lawmanager.marriott.com
 all-inclusive.marriott.com
 cpp.marriott.com
+marriottfranchisetransactions.marriott.com
+lawmanager.marriott.com
 www.ritzcarlton.com
 homes-and-villas.marriott.com
 marrtool.com
@@ -2373,10 +2372,10 @@ uk.forescout.cloud
 de.forescout.cloud
 cysiv.com
 app.command.cysiv.com
-admin.rezserver.com
 www.priceline.com
 reservations.rezserver.com
 www.bookingholdings.com
+admin.rezserver.com
 www.getaroom.com
 secure.rezserver.com
 api.rezserver.com
@@ -2450,7 +2449,6 @@ www.omise.co
 www.opn.ooo
 mobileapp.hyatt.com
 public.hyatt.com
-res.vacations.buschgardens.com
 book.booktandl.com
 res.blueskytours.globalbookingsolutions.com
 res.universalorlandovacations.com
@@ -2461,6 +2459,7 @@ res.vacations.discoverycove.com
 vacations.universalstudioshollywood.com
 vacations.us.palladiumhotelgroup.com
 www.wynnvacations.com
+res.vacations.buschgardens.com
 www.hyattinclusivecollection.com
 booking.applevacations.com
 newsroom.images.hyatt.com
@@ -2483,14 +2482,14 @@ assets.hyatt.com
 roominglist.hyatt.com
 sso.oft.hyatt.com
 upsell.hyatt.com
-holidays-hk.fijiairways.com
-vacations.velasvallarta.com
-www.blueskytours.com
 book.extraholidaysvacations.com
 res.vacations.seaworld.com
 www.beachbound.com
 shop.wyndhamvacationownership.trisept.travel
 vacations.united.com
+holidays-hk.fijiairways.com
+vacations.velasvallarta.com
+www.blueskytours.com
 res.hyattinclusivecollection.com
 res.skyteam.com
 hyatt.com
@@ -2637,10 +2636,10 @@ matomo.cloud
 https://github.com/matomo-org/docker
 *.xoom.com
 py.pl
-*.braintreepayments.com
-*.braintree-api.com
 www.swiftfinancial.com
 swiftfinancial.com
+*.braintreepayments.com
+*.braintree-api.com
 *.paylution.com
 paypal.me
 www.swiftcapital.com
@@ -2816,10 +2815,10 @@ api.foliofn.com
 *.foliodigitalwealth.com
 *.foliofirst.com
 *.folioinvesting.com
-developer.valvesoftware.com
 store.steampowered.com
-help.steampowered.com
+developer.valvesoftware.com
 playartifact.com
+help.steampowered.com
 partner.steampowered.com
 www.valvesoftware.com
 partner.steamgames.com
@@ -3007,8 +3006,8 @@ privatetarget-1-www.zigzag
 *.semrush.net
 *.seoquake.com
 *.semrush.com
-*.sellzone.com
 *.scatec.io
+*.sellzone.com
 *.myinsights.io
 *.seoab.io
 *.semrush.com
@@ -3195,11 +3194,11 @@ portswigger.net
 portswigger.net
 forum.portswigger.net
 https://enterprise-demo.portswigger.net/
+cart.starbucks.co.jp
 www.starbucksreserve.com
 www.starbucks.fr
 www.starbucks.co.uk
 www.starbucks.com.br
-cart.starbucks.co.jp
 card.starbucks.com.sg
 www.starbucks.com.sg
 app.starbucks.com
@@ -3432,13 +3431,13 @@ yourcompany.udemy.com
 your-store.myshopify.com
 arrive-server.shopifycloud.com
 *.shopifycloud.com
-shop.app
 linkpop.com
+shop.app
 partners.shopify.com
 *.shopifykloud.com
 shopifyinbox.com
-*.shopify.com
 accounts.shopify.com
+*.shopify.com
 shopify.plus
 admin.shopify.com
 *.shopify.com
@@ -3478,8 +3477,8 @@ playcanvas.com
 rt.playcanvas.com
 geofilters.snapchat.com
 spectacles.com
-web.snapchat.com
 *.sc-corp.net
+web.snapchat.com
 www.bitstrips.com
 kit.snapchat.com
 *.sc-core.net
@@ -3563,8 +3562,8 @@ one.airbnb.com
 *.byairbnb.com
 *.muscache.com
 *.hoteltonight-test.com
-*.airbnb.com
 www.hoteltonight.com
+*.airbnb.com
 www.airbnb.com
 api.airbnb.com
 assets.airbnb.com
@@ -3781,7 +3780,6 @@ www.quip.com
 *.quip.com
 apis.mail.yahoo.com
 data.mail.yahoo.com
-data.mail.yahoo.com
 le.yahooapis.com
 onepush.query.yahoo.com
 proddata.xobni.yahoo.com
@@ -3797,17 +3795,17 @@ hackathon-photos-us-east-2.hackerone-user-content.com
 cover-photos-us-east-2.hackerone-user-content.com
 www.hackerone.com
 *.vpn.hackerone.net
-reviewer.pullrequest.com
-ctf.hacker101.com
-hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 hackerone-ext-content.com
 hackathon-photos.hackerone-user-content.com
 profile-photos.hackerone-user-content.com
+reviewer.pullrequest.com
+ctf.hacker101.com
+hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 errors.hackerone.net
+app.pullrequest.com
 b5s.hackerone-ext-content.com
 cover-photos.hackerone-user-content.com
 profile-photos-us-east-2.hackerone-user-content.com
-app.pullrequest.com
 hackerone.live
 hackerone.com
 api.hackerone.com
@@ -4040,6 +4038,7 @@ teamhelp.upserve.com
 *.vanillastaging.com
 *.vanilladevelopment.com
 *.vanillacommunity.com
+*.login.gov
 federalist-proxy.app.cloud.gov
 cloud.gov
 account.fr.cloud.gov
@@ -4049,7 +4048,6 @@ admin-catalog-bsp.data.gov
 idp.fr.cloud.gov
 admin.fr.cloud.gov
 opslogin.fr.cloud.gov
-*.login.gov
 dashboard-beta.fr.cloud.gov
 federalist.18f.gov
 login.fr.cloud.gov
@@ -4057,11 +4055,11 @@ alertmanager.fr.cloud.gov
 grafana.fr.cloud.gov
 api.fr.cloud.gov
 api.data.gov
+ssh.fr.cloud.gov
 ci.fr.cloud.gov
 logs.fr.cloud.gov
 federation.data.gov
 inventory.data.gov
-ssh.fr.cloud.gov
 tock.18f.gov
 *.code.gov
 marketplace.fedramp.gov
