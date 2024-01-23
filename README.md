@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jan 23 22:14:37 UTC 2024)
+## Domains with Bounties (Last Updated Tue Jan 23 23:15:34 UTC 2024)
 ```
 sandbox.fireblocks.io
 sandbox.fireblocks.io
@@ -688,9 +688,9 @@ http://www.kiwi.com/stories
 jobs.kiwi.com
 *.8x8.vc
 *.jitsi.net
-connect.8x8.com
 sso.8x8.com
 work.8x8.com
+connect.8x8.com
 *.jit.si
 platform.8x8pilot.com
 uc.8x8pilot.com
@@ -1290,13 +1290,13 @@ geminiadvisory.io
 hatching.io
 tria.ge
 therecord.media
+logs.fr.cloud.gov
+www.data.gov
+admin-catalog-bsp.data.gov
 ssh.fr.cloud.gov
 *.code.gov
 *.search.gov
 www.usa.gov
-logs.fr.cloud.gov
-www.data.gov
-admin-catalog-bsp.data.gov
 api.fr.cloud.gov
 dashboard-beta.fr.cloud.gov
 federalist.18f.gov
@@ -1304,12 +1304,12 @@ federalist-proxy.app.cloud.gov
 login.fr.cloud.gov
 catalog.data.gov
 grafana.fr.cloud.gov
+api.data.gov
+tock.18f.gov
 account.fr.cloud.gov
 federation.data.gov
 admin.fr.cloud.gov
 nessus.fr.cloud.gov
-api.data.gov
-tock.18f.gov
 opslogin.fr.cloud.gov
 *.login.gov
 www.fedramp.gov
@@ -1453,8 +1453,8 @@ meta-api.reddit.com
 *.snooguts.net
 sh.reddit.com
 gateway.reddit.com
-s.reddit.com
 ads-api.reddit.com
+s.reddit.com
 *.reddit.com
 www.spiketrap.io
 *.redditblog.com
@@ -1672,11 +1672,11 @@ launch.cloud.com
 sf-rp.sharefile.com
 api.sharefile.eu
 api.adm.cloud.com
-citrix.cloud.com
 us.cloud.com
 *.citrixworkspacesapi.net
 (yoursubdomain).us.iws.cloud.com
 (yoursubdomain).ap.iws.cloud.com
+citrix.cloud.com
 citrix.cloud.com
 www.cloud.com
 ap-s.cloud.com
@@ -1716,9 +1716,9 @@ www.pangleglobal.com
 business.tiktok.com
 academy-outbound-ads.tiktok.com
 careers.tiktok.com
-*.tiktok.com
 creatormarketplace.tiktok.com
 *.tiktokv.com
+*.tiktok.com
 developers.tiktok.com
 effecthouse.tiktok.com
 shop.tiktok.com
@@ -1818,6 +1818,7 @@ app.marionnaud.it
 app.marionnaud.ro
 www.marionnaud.sk
 www.pns.hk
+app.watsons.com.tr
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -2049,7 +2050,6 @@ affiliate-program.amazon.com
 track.amazon.com
 address-photos.amazon.com
 imdbtv-backend-na.amazon.com
-relay.amazon.com
 advertising.amazon.com
 av-na.amazon.com
 cscentral.amazon.com
@@ -2059,6 +2059,7 @@ dna.amazon.com
 kca.amazon.com
 paragon-na.amazon.com
 merch.amazon.com
+relay.amazon.com
 aca-livecards-service.amazon.com
 cloudaccesstelemetry-us-east-1.amazon.com
 dss-na.amazon.com
@@ -2218,8 +2219,8 @@ maria.casino
 *.storspiller.com
 *.casinohuone.com
 *.vladcazino.ro
-www.32red.com
 *.ottokasino.com
+www.32red.com
 *.kes.kindredext.net
 *.unibet.com
 *.unibet.fr
@@ -2446,10 +2447,10 @@ uk.forescout.cloud
 de.forescout.cloud
 cysiv.com
 app.command.cysiv.com
-admin.rezserver.com
 www.priceline.com
 reservations.rezserver.com
 www.bookingholdings.com
+admin.rezserver.com
 www.getaroom.com
 secure.rezserver.com
 api.rezserver.com
@@ -2710,10 +2711,10 @@ matomo.cloud
 https://github.com/matomo-org/docker
 *.xoom.com
 py.pl
-*.braintreepayments.com
-*.braintree-api.com
 www.swiftfinancial.com
 swiftfinancial.com
+*.braintreepayments.com
+*.braintree-api.com
 *.paylution.com
 paypal.me
 www.swiftcapital.com
@@ -2767,8 +2768,8 @@ swiftcapital.com
 *.paypalcorp.com
 *.hyperwallet.com
 *.paylution.com
-secure.chaturbate.com
 *.highwebmedia.com
+secure.chaturbate.com
 m.chaturbate.com
 *.securegatewayaccess.com
 *.mmcdn.com
@@ -2937,25 +2938,25 @@ https://crypto.com/defi/
 https://crypto.com/nft
 tax.crypto.com
 https://crypto.com/price
+docs.newrelic.com
 insights.eu.newrelic.com
 *.eu.newrelic.com
-docs.newrelic.com
 *.infrastructure-data.newrelic.com
 learn.newrelic.com
 rpm.newrelic.com
 infrastructure.eu.newrelic.com
 developer.newrelic.com
-insights.newrelic.com
 infrastructure.newrelic.com
+insights.newrelic.com
 *.blog.newrelic.com
 one.newrelic.com
 *.nr-data.net
 *.nr-ops.net
 *.newrelic.com
+synthetics.eu.newrelic.com
 support.newrelic.com
 blog.newrelic.com
 alerts.newrelic.com
-synthetics.eu.newrelic.com
 discuss.newrelic.com
 *.infrastructure.newrelic.com
 synthetics.newrelic.com
@@ -3079,8 +3080,8 @@ privatetarget-2-secure.zigzag
 privatetarget-1-www.zigzag
 *.semrush.net
 *.seoquake.com
-*.sellzone.com
 *.scatec.io
+*.sellzone.com
 *.semrush.com
 *.myinsights.io
 *.seoab.io
@@ -3350,8 +3351,8 @@ gist.github.com
 *.github.net
 *.githubusercontent.com
 npmjs.org
-github.com
 education.github.com
+github.com
 github.com
 api.github.com
 gist.github.com
@@ -3542,13 +3543,13 @@ store.playcanvas.com
 playcanv.as
 www.bitmoji.com
 snappublisher.snapchat.com
-app.snapchat.com
 business.snapchat.com
 my.snapchat.com
 store.snapchat.com
 playcanvas.com
 rt.playcanvas.com
 map.snapchat.com
+app.snapchat.com
 geofilters.snapchat.com
 spectacles.com
 *.sc-corp.net
@@ -3940,7 +3941,6 @@ dlielc.edu
 dodea.edu
 usuhs.edu
 westpoint.edu
-usna.edu
 adlnet.gov
 aftac.gov
 dc3on.gov
@@ -3949,6 +3949,7 @@ jccs.gov
 mypay.gov
 nrojr.gov
 usafa.edu
+usna.edu
 ctoc.gov
 iad.gov
 nationalresourcedirectory.gov
@@ -4112,6 +4113,7 @@ teamhelp.upserve.com
 *.vanillastaging.com
 *.vanilladevelopment.com
 *.vanillacommunity.com
+*.login.gov
 federalist-proxy.app.cloud.gov
 cloud.gov
 account.fr.cloud.gov
@@ -4121,7 +4123,6 @@ admin-catalog-bsp.data.gov
 idp.fr.cloud.gov
 admin.fr.cloud.gov
 opslogin.fr.cloud.gov
-*.login.gov
 dashboard-beta.fr.cloud.gov
 federalist.18f.gov
 login.fr.cloud.gov
@@ -4129,11 +4130,11 @@ alertmanager.fr.cloud.gov
 grafana.fr.cloud.gov
 api.fr.cloud.gov
 api.data.gov
+ssh.fr.cloud.gov
 ci.fr.cloud.gov
 logs.fr.cloud.gov
 federation.data.gov
 inventory.data.gov
-ssh.fr.cloud.gov
 tock.18f.gov
 *.code.gov
 marketplace.fedramp.gov
