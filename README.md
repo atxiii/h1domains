@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jan 23 06:18:09 UTC 2024)
+## Domains with Bounties (Last Updated Tue Jan 23 07:12:35 UTC 2024)
 ```
 sandbox.fireblocks.io
 sandbox.fireblocks.io
