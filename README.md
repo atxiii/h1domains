@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jan 23 02:02:03 UTC 2024)
+## Domains with Bounties (Last Updated Tue Jan 23 02:32:44 UTC 2024)
 ```
 sandbox.fireblocks.io
 sandbox.fireblocks.io
@@ -699,8 +699,8 @@ user-profile-staging.8x8.com
 *.chalet.8x8.com
 cloud8.8x8.com
 *.8x8.id
-platform.8x8.com
 *.8x8staging.com
+platform.8x8.com
 voapi.8x8.com
 *.packet8.net
 sms.8x8.com
@@ -785,8 +785,8 @@ share.doppler.com
 *.boredapeyachtclub.com
 *.yugalabs.io
 dookeydash.com
-hv-mtl.com
 *.wenewmoments.com
+hv-mtl.com
 *.boredapeyachtclub.com
 *.yuga.com
 *.yugalabs.io
@@ -813,11 +813,11 @@ www.flights.com
 www.cheaptickets.com
 www.lastminute.co.nz
 www.lastminute.com.au
-www.expedia.com
 www.travelocity.ca
 www.carrentals.com
 www.bookabach.co.nz
 www.fewo-direkt.de
+www.expedia.com
 www.expediapartnercentral.com
 www.hotwire.com
 www.ebookers.fi
@@ -1206,6 +1206,7 @@ capturingreality.com
 *.3lateral.com
 *.dropmix.com
 *.harmonixmusic.com
+*.hmxwebservices.com
 *.rocketleague.com
 *.psynet.gg
 *.unrealtournament.com
@@ -1452,8 +1453,8 @@ meta-api.reddit.com
 *.snooguts.net
 sh.reddit.com
 gateway.reddit.com
-s.reddit.com
 ads-api.reddit.com
+s.reddit.com
 *.reddit.com
 www.spiketrap.io
 *.redditblog.com
@@ -1716,8 +1717,8 @@ business.tiktok.com
 creatormarketplace.tiktok.com
 *.tiktokv.com
 academy-outbound-ads.tiktok.com
-careers.tiktok.com
 *.tiktok.com
+careers.tiktok.com
 developers.tiktok.com
 effecthouse.tiktok.com
 shop.tiktok.com
@@ -2145,8 +2146,8 @@ maria.casino
 *.storspiller.com
 *.casinohuone.com
 *.vladcazino.ro
-www.32red.com
 *.ottokasino.com
+www.32red.com
 *.kes.kindredext.net
 *.unibet.com
 *.unibet.fr
@@ -2163,19 +2164,19 @@ www.32red.com
 unibet.me
 maria.casino
 www.32red.com
-gatewaydsaptst2.marriott.com
 sso.marriott.com
 mgs.marriott.com
+gatewaydsaptst2.marriott.com
 www.marriott.com
 activities.marriott.com
 dcfgatewaytst1.marriott.com
 gatewaydsaptst1.marriott.com
 reservations.all-inclusive.marriott.com
 jobs.marriott.com
-marriottfranchisetransactions.marriott.com
-lawmanager.marriott.com
 all-inclusive.marriott.com
 cpp.marriott.com
+marriottfranchisetransactions.marriott.com
+lawmanager.marriott.com
 www.ritzcarlton.com
 homes-and-villas.marriott.com
 marrtool.com
@@ -2373,10 +2374,10 @@ uk.forescout.cloud
 de.forescout.cloud
 cysiv.com
 app.command.cysiv.com
-admin.rezserver.com
 www.priceline.com
 reservations.rezserver.com
 www.bookingholdings.com
+admin.rezserver.com
 www.getaroom.com
 secure.rezserver.com
 api.rezserver.com
@@ -2450,7 +2451,6 @@ www.omise.co
 www.opn.ooo
 mobileapp.hyatt.com
 public.hyatt.com
-res.vacations.buschgardens.com
 book.booktandl.com
 res.blueskytours.globalbookingsolutions.com
 res.universalorlandovacations.com
@@ -2461,6 +2461,7 @@ res.vacations.discoverycove.com
 vacations.universalstudioshollywood.com
 vacations.us.palladiumhotelgroup.com
 www.wynnvacations.com
+res.vacations.buschgardens.com
 www.hyattinclusivecollection.com
 booking.applevacations.com
 newsroom.images.hyatt.com
@@ -2483,14 +2484,14 @@ assets.hyatt.com
 roominglist.hyatt.com
 sso.oft.hyatt.com
 upsell.hyatt.com
-holidays-hk.fijiairways.com
-vacations.velasvallarta.com
-www.blueskytours.com
 book.extraholidaysvacations.com
 res.vacations.seaworld.com
 www.beachbound.com
 shop.wyndhamvacationownership.trisept.travel
 vacations.united.com
+holidays-hk.fijiairways.com
+vacations.velasvallarta.com
+www.blueskytours.com
 res.hyattinclusivecollection.com
 res.skyteam.com
 hyatt.com
@@ -3007,8 +3008,8 @@ privatetarget-1-www.zigzag
 *.semrush.net
 *.seoquake.com
 *.semrush.com
-*.sellzone.com
 *.scatec.io
+*.sellzone.com
 *.myinsights.io
 *.seoab.io
 *.semrush.com
@@ -3439,8 +3440,8 @@ shopifyinbox.com
 partners.shopify.com
 accounts.shopify.com
 shopify.plus
-*.shopify.com
 admin.shopify.com
+*.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -3456,8 +3457,8 @@ shopifyinbox.com
 accounts.snapchat.com
 story.snapchat.com
 ads.snapchat.com
-businesshelp.snapchat.com
 create.snapchat.com
+businesshelp.snapchat.com
 forum.playcanvas.com
 msg.playcanvas.com
 scan.snapchat.com
@@ -3471,9 +3472,9 @@ www.bitmoji.com
 snappublisher.snapchat.com
 app.snapchat.com
 map.snapchat.com
-store.snapchat.com
 business.snapchat.com
 my.snapchat.com
+store.snapchat.com
 playcanvas.com
 rt.playcanvas.com
 geofilters.snapchat.com
@@ -3867,7 +3868,6 @@ dlielc.edu
 dodea.edu
 usuhs.edu
 westpoint.edu
-usna.edu
 adlnet.gov
 aftac.gov
 dc3on.gov
@@ -3876,6 +3876,7 @@ jccs.gov
 mypay.gov
 nrojr.gov
 usafa.edu
+usna.edu
 ctoc.gov
 iad.gov
 nationalresourcedirectory.gov
@@ -4039,7 +4040,6 @@ teamhelp.upserve.com
 *.vanillastaging.com
 *.vanilladevelopment.com
 *.vanillacommunity.com
-*.login.gov
 federalist-proxy.app.cloud.gov
 cloud.gov
 account.fr.cloud.gov
@@ -4049,6 +4049,7 @@ admin-catalog-bsp.data.gov
 idp.fr.cloud.gov
 admin.fr.cloud.gov
 opslogin.fr.cloud.gov
+*.login.gov
 dashboard-beta.fr.cloud.gov
 federalist.18f.gov
 login.fr.cloud.gov
@@ -4056,11 +4057,11 @@ alertmanager.fr.cloud.gov
 grafana.fr.cloud.gov
 api.fr.cloud.gov
 api.data.gov
-ssh.fr.cloud.gov
 ci.fr.cloud.gov
 logs.fr.cloud.gov
 federation.data.gov
 inventory.data.gov
+ssh.fr.cloud.gov
 tock.18f.gov
 *.code.gov
 marketplace.fedramp.gov
