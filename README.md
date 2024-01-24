@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Jan 24 13:20:00 UTC 2024)
+## Domains with Bounties (Last Updated Wed Jan 24 14:16:54 UTC 2024)
 ```
 sandbox.fireblocks.io
 sandbox.fireblocks.io
@@ -774,8 +774,8 @@ share.doppler.com
 *.boredapeyachtclub.com
 *.yugalabs.io
 dookeydash.com
-hv-mtl.com
 *.wenewmoments.com
+hv-mtl.com
 *.boredapeyachtclub.com
 *.yuga.com
 *.yugalabs.io
@@ -1179,7 +1179,6 @@ www.evernote.com
 accounts.evernote.com
 api.evernote.com
 *.unrealtournament.com
-*.easy.ac
 *.mediatonic.co.uk
 *.popjam.com
 *.rukkaz.com
@@ -1190,6 +1189,7 @@ fortnite.com
 harmonixmusic.com
 wonderboxdev.com
 capturingreality.com
+*.easy.ac
 *.psyonix.com
 *.fortnite.com
 *.3lateral.com
@@ -1279,13 +1279,13 @@ geminiadvisory.io
 hatching.io
 tria.ge
 therecord.media
+logs.fr.cloud.gov
+www.data.gov
+admin-catalog-bsp.data.gov
 ssh.fr.cloud.gov
 *.code.gov
 *.search.gov
 www.usa.gov
-logs.fr.cloud.gov
-www.data.gov
-admin-catalog-bsp.data.gov
 api.fr.cloud.gov
 dashboard-beta.fr.cloud.gov
 federalist.18f.gov
@@ -1293,12 +1293,12 @@ federalist-proxy.app.cloud.gov
 login.fr.cloud.gov
 catalog.data.gov
 grafana.fr.cloud.gov
+api.data.gov
+tock.18f.gov
 account.fr.cloud.gov
 federation.data.gov
 admin.fr.cloud.gov
 nessus.fr.cloud.gov
-api.data.gov
-tock.18f.gov
 opslogin.fr.cloud.gov
 *.login.gov
 www.fedramp.gov
@@ -1486,8 +1486,8 @@ app.spiketrap.io
 www.spiketrap.io
 www.coinspot.com.au
 www.coinspot.com.au
-remix.com
 platform.remix.com
+remix.com
 eu.remix.com
 global-api.citymapper.com
 global-api.citymapper.com
@@ -1753,8 +1753,8 @@ platform.enjin.io
 nft.io
 nft.io
 platform.enjin.io
-api.figma.com
 www.figma.com
+api.figma.com
 www.figma.com
 api.figma.com
 wiki.cs.money
@@ -1797,8 +1797,8 @@ www10.watsons.com.hk
 www20.watsons.co.th
 www.marionnaud.fr
 www.watsons.com.tr
-www.iciparisxl.lu
 www.watsons.co.id
+www.iciparisxl.lu
 www.kruidvat.nl
 www.kruidvat.be
 www.theperfumeshop.com
@@ -2038,11 +2038,11 @@ track.amazon.com
 address-photos.amazon.com
 imdbtv-backend-na.amazon.com
 advertising.amazon.com
-cscentral.amazon.com
 av-na.amazon.com
+cscentral.amazon.com
 dcape-na.amazon.com
-dna.amazon.com
 mag-na.amazon.com
+dna.amazon.com
 kca.amazon.com
 paragon-na.amazon.com
 relay.amazon.com
@@ -2207,8 +2207,8 @@ maria.casino
 *.storspiller.com
 *.casinohuone.com
 *.vladcazino.ro
-www.32red.com
 *.ottokasino.com
+www.32red.com
 *.kes.kindredext.net
 *.unibet.com
 *.unibet.fr
@@ -2225,19 +2225,19 @@ www.32red.com
 unibet.me
 maria.casino
 www.32red.com
+gatewaydsaptst2.marriott.com
 sso.marriott.com
 mgs.marriott.com
-gatewaydsaptst2.marriott.com
 www.marriott.com
 activities.marriott.com
 dcfgatewaytst1.marriott.com
 gatewaydsaptst1.marriott.com
 reservations.all-inclusive.marriott.com
 jobs.marriott.com
-all-inclusive.marriott.com
-cpp.marriott.com
 marriottfranchisetransactions.marriott.com
 lawmanager.marriott.com
+all-inclusive.marriott.com
+cpp.marriott.com
 www.ritzcarlton.com
 homes-and-villas.marriott.com
 marrtool.com
@@ -2434,10 +2434,10 @@ uk.forescout.cloud
 de.forescout.cloud
 cysiv.com
 app.command.cysiv.com
-admin.rezserver.com
 www.priceline.com
 reservations.rezserver.com
 www.bookingholdings.com
+admin.rezserver.com
 www.getaroom.com
 secure.rezserver.com
 api.rezserver.com
@@ -2554,7 +2554,7 @@ shop.wyndhamvacationownership.trisept.travel
 vacations.united.com
 res.hyattinclusivecollection.com
 res.skyteam.com
-hyatt.com
+www.hyatt.com
 hyatt.com
 www.hyatt.com
 world.hyatt.com
@@ -2925,25 +2925,25 @@ https://crypto.com/defi/
 https://crypto.com/nft
 tax.crypto.com
 https://crypto.com/price
-docs.newrelic.com
 insights.eu.newrelic.com
 *.eu.newrelic.com
+docs.newrelic.com
 *.infrastructure-data.newrelic.com
 learn.newrelic.com
 rpm.newrelic.com
 infrastructure.eu.newrelic.com
 developer.newrelic.com
-infrastructure.newrelic.com
 insights.newrelic.com
+infrastructure.newrelic.com
 *.blog.newrelic.com
 one.newrelic.com
 *.nr-ops.net
 *.newrelic.com
 *.nr-data.net
-synthetics.eu.newrelic.com
 support.newrelic.com
 blog.newrelic.com
 alerts.newrelic.com
+synthetics.eu.newrelic.com
 discuss.newrelic.com
 *.infrastructure.newrelic.com
 synthetics.newrelic.com
@@ -3440,8 +3440,8 @@ no-reply.cloud
 maximum-status.com
 preprod.nl
 ruddercms.nl
-devmaximum.com
 www.werkenbijbakertilly.nl
+devmaximum.com
 doorstromen.mijnkombijdepolitie.nl
 qatest.nl
 rudderplatform.com
@@ -3470,8 +3470,8 @@ h1-your-domain.zendesk.com
 smooch.io
 www.zendesk.com
 apps.zendesk.com
-app.futuresimple.com
 api.smooch.io
+app.futuresimple.com
 app.smooch.io
 zopim.com
 api.getbase.com
@@ -3498,8 +3498,8 @@ shop.app
 *.shopifykloud.com
 shopifyinbox.com
 partners.shopify.com
-shopify.plus
 accounts.shopify.com
+shopify.plus
 *.shopify.com
 admin.shopify.com
 *.shopify.com
@@ -3517,8 +3517,8 @@ shopifyinbox.com
 accounts.snapchat.com
 story.snapchat.com
 ads.snapchat.com
-create.snapchat.com
 businesshelp.snapchat.com
+create.snapchat.com
 forum.playcanvas.com
 msg.playcanvas.com
 scan.snapchat.com
@@ -3529,9 +3529,9 @@ store.playcanvas.com
 playcanv.as
 blog.playcanvas.com
 snappublisher.snapchat.com
+store.snapchat.com
 business.snapchat.com
 my.snapchat.com
-store.snapchat.com
 playcanvas.com
 rt.playcanvas.com
 map.snapchat.com
