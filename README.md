@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Jan 26 15:15:30 UTC 2024)
+## Domains with Bounties (Last Updated Fri Jan 26 16:16:40 UTC 2024)
 ```
 my.sheer.com
 www.sheer.com
@@ -476,11 +476,11 @@ merino.services.mozilla.com
 sync.services.mozilla.com
 push.services.mozilla.com
 addons.allizom.org
-hg.mozilla.org
+lando.services.mozilla.com
 contile.services.mozilla.com
 aus5.mozilla.org
-lando.services.mozilla.com
 shavar.services.mozilla.com
+hg.mozilla.org
 crash-reports.allizom.org
 mozilla-pontoon-staging.herokuapp.com
 location.services.mozilla.com
@@ -505,8 +505,8 @@ shavar.services.mozilla.com
 phabricator.allizom.org
 relay.firefox.com
 support.mozilla.org
-hg.mozilla.org
 stage.taskcluster.nonprod.cloudops.mozgcp.net
+hg.mozilla.org
 monitor.firefox.com
 www.mozilla.org
 developer.mozilla.org
@@ -1290,13 +1290,13 @@ geminiadvisory.io
 hatching.io
 tria.ge
 therecord.media
+logs.fr.cloud.gov
+www.data.gov
+admin-catalog-bsp.data.gov
 ssh.fr.cloud.gov
 *.code.gov
 *.search.gov
 www.usa.gov
-logs.fr.cloud.gov
-www.data.gov
-admin-catalog-bsp.data.gov
 api.fr.cloud.gov
 dashboard-beta.fr.cloud.gov
 federalist.18f.gov
@@ -1304,12 +1304,12 @@ federalist-proxy.app.cloud.gov
 login.fr.cloud.gov
 catalog.data.gov
 grafana.fr.cloud.gov
+api.data.gov
+tock.18f.gov
 account.fr.cloud.gov
 federation.data.gov
 admin.fr.cloud.gov
 nessus.fr.cloud.gov
-api.data.gov
-tock.18f.gov
 opslogin.fr.cloud.gov
 *.login.gov
 www.fedramp.gov
@@ -1715,10 +1715,10 @@ fp-sg.tiktokv.com
 www.pangleglobal.com
 business.tiktok.com
 academy-outbound-ads.tiktok.com
-*.tiktokv.com
 careers.tiktok.com
 *.tiktok.com
 creatormarketplace.tiktok.com
+*.tiktokv.com
 developers.tiktok.com
 effecthouse.tiktok.com
 shop.tiktok.com
@@ -2048,16 +2048,16 @@ affiliate-program.amazon.com
 track.amazon.com
 address-photos.amazon.com
 imdbtv-backend-na.amazon.com
-av-na.amazon.com
 cscentral.amazon.com
+av-na.amazon.com
 dcape-na.amazon.com
 mag-na.amazon.com
 kca.amazon.com
 paragon-na.amazon.com
 merch.amazon.com
 advertising.amazon.com
-chat.amazon.com
 relay.amazon.com
+chat.amazon.com
 dna.amazon.com
 aca-livecards-service.amazon.com
 cloudaccesstelemetry-us-east-1.amazon.com
@@ -2218,8 +2218,8 @@ maria.casino
 *.storspiller.com
 *.casinohuone.com
 *.vladcazino.ro
-*.ottokasino.com
 www.32red.com
+*.ottokasino.com
 *.kes.kindredext.net
 *.unibet.com
 *.unibet.fr
@@ -2445,10 +2445,10 @@ uk.forescout.cloud
 de.forescout.cloud
 cysiv.com
 app.command.cysiv.com
+admin.rezserver.com
 www.priceline.com
 reservations.rezserver.com
 www.bookingholdings.com
-admin.rezserver.com
 www.getaroom.com
 secure.rezserver.com
 api.rezserver.com
@@ -2522,7 +2522,6 @@ www.omise.co
 www.opn.ooo
 mobileapp.hyatt.com
 public.hyatt.com
-res.vacations.buschgardens.com
 book.booktandl.com
 res.blueskytours.globalbookingsolutions.com
 res.universalorlandovacations.com
@@ -2533,6 +2532,7 @@ res.vacations.discoverycove.com
 vacations.universalstudioshollywood.com
 vacations.us.palladiumhotelgroup.com
 www.wynnvacations.com
+res.vacations.buschgardens.com
 www.hyattinclusivecollection.com
 booking.applevacations.com
 newsroom.images.hyatt.com
@@ -2555,14 +2555,14 @@ assets.hyatt.com
 roominglist.hyatt.com
 sso.oft.hyatt.com
 upsell.hyatt.com
-holidays-hk.fijiairways.com
-vacations.velasvallarta.com
-www.blueskytours.com
 book.extraholidaysvacations.com
 res.vacations.seaworld.com
 www.beachbound.com
 shop.wyndhamvacationownership.trisept.travel
 vacations.united.com
+holidays-hk.fijiairways.com
+vacations.velasvallarta.com
+www.blueskytours.com
 res.hyattinclusivecollection.com
 res.skyteam.com
 www.hyatt.com
@@ -2709,10 +2709,10 @@ matomo.cloud
 https://github.com/matomo-org/docker
 *.xoom.com
 py.pl
-*.braintreepayments.com
-*.braintree-api.com
 www.swiftfinancial.com
 swiftfinancial.com
+*.braintreepayments.com
+*.braintree-api.com
 *.paylution.com
 paypal.me
 www.swiftcapital.com
@@ -2888,8 +2888,8 @@ api.foliofn.com
 *.foliofirst.com
 *.folioinvesting.com
 developer.valvesoftware.com
-help.steampowered.com
 playartifact.com
+help.steampowered.com
 store.steampowered.com
 partner.steampowered.com
 partner.steamgames.com
@@ -3089,8 +3089,8 @@ privatetarget-1-www.zigzag
 *.scatec.io
 *.myinsights.io
 *.sellzone.com
-*.grabtaxi.com
 grab.careers
+*.grabtaxi.com
 wiki.grab.com
 gifts.grab.com
 *.grabpay.com
@@ -3510,8 +3510,8 @@ shopifyinbox.com
 partners.shopify.com
 shopify.plus
 accounts.shopify.com
-admin.shopify.com
 *.shopify.com
+admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -3526,8 +3526,8 @@ linkpop.com
 shopifyinbox.com
 story.snapchat.com
 ads.snapchat.com
-businesshelp.snapchat.com
 create.snapchat.com
+businesshelp.snapchat.com
 forum.playcanvas.com
 msg.playcanvas.com
 accounts.snapchat.com
@@ -3539,9 +3539,9 @@ store.playcanvas.com
 playcanv.as
 blog.playcanvas.com
 snappublisher.snapchat.com
-store.snapchat.com
 business.snapchat.com
 my.snapchat.com
+store.snapchat.com
 playcanvas.com
 rt.playcanvas.com
 map.snapchat.com
@@ -3756,9 +3756,9 @@ simperium.com
 my.pressable.com
 gravatar.com
 assets.tumblr.com
-intensedebate.com
 wordpress.com
 api.tumblr.com
+intensedebate.com
 safe.tumblr.com
 www.tumblr.com
 t.umblr.com
@@ -3858,8 +3858,8 @@ proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
 hackerone-user-content.com
-api.hackerone.com
 hackerone.com
+api.hackerone.com
 www.wearehackerone.com
 mta-sts.wearehackerone.com
 hackathon-photos-us-east-2.hackerone-user-content.com
@@ -4111,6 +4111,7 @@ teamhelp.upserve.com
 *.vanillastaging.com
 *.vanilladevelopment.com
 *.vanillacommunity.com
+*.login.gov
 federalist-proxy.app.cloud.gov
 cloud.gov
 account.fr.cloud.gov
@@ -4120,7 +4121,6 @@ admin-catalog-bsp.data.gov
 idp.fr.cloud.gov
 admin.fr.cloud.gov
 opslogin.fr.cloud.gov
-*.login.gov
 dashboard-beta.fr.cloud.gov
 federalist.18f.gov
 login.fr.cloud.gov
@@ -4128,11 +4128,11 @@ alertmanager.fr.cloud.gov
 grafana.fr.cloud.gov
 api.fr.cloud.gov
 api.data.gov
+ssh.fr.cloud.gov
 ci.fr.cloud.gov
 logs.fr.cloud.gov
 federation.data.gov
 inventory.data.gov
-ssh.fr.cloud.gov
 tock.18f.gov
 *.code.gov
 marketplace.fedramp.gov
