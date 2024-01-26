@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Jan 26 09:15:49 UTC 2024)
+## Domains with Bounties (Last Updated Fri Jan 26 10:15:50 UTC 2024)
 ```
 my.sheer.com
 www.sheer.com
@@ -735,8 +735,8 @@ https://webrtc.8x8.com/
 cloud8.8x8.com
 pay.8x8.com
 admin.8x8.com
-*.magicjackpot.ro
 *.luckydays.com
+*.magicjackpot.ro
 *.superbet.com
 *.napoleondice.be
 *.napoleongames.be
@@ -786,8 +786,8 @@ share.doppler.com
 *.yugalabs.io
 *.boredapeyachtclub.com
 dookeydash.com
-hv-mtl.com
 *.wenewmoments.com
+hv-mtl.com
 *.boredapeyachtclub.com
 *.yuga.com
 *.yugalabs.io
@@ -1453,8 +1453,8 @@ meta-api.reddit.com
 sh.reddit.com
 *.redditinc.com
 gateway.reddit.com
-s.reddit.com
 ads-api.reddit.com
+s.reddit.com
 www.spiketrap.io
 *.reddit.com
 *.redditblog.com
@@ -1464,9 +1464,9 @@ redditforbusiness.com
 *.reddithelp.com
 mod.reddit.com
 www.reddit.com
-accounts.reddit.com
 matrix.redditspace.com
 oauth.reddit.com
+accounts.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1717,8 +1717,8 @@ business.tiktok.com
 academy-outbound-ads.tiktok.com
 *.tiktokv.com
 careers.tiktok.com
-creatormarketplace.tiktok.com
 *.tiktok.com
+creatormarketplace.tiktok.com
 developers.tiktok.com
 effecthouse.tiktok.com
 shop.tiktok.com
@@ -1817,7 +1817,7 @@ app.marionnaud.it
 app.marionnaud.ro
 www.marionnaud.sk
 www.pns.hk
-app.watsons.com.tr
+api.watsons.com.tw
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -2218,8 +2218,8 @@ maria.casino
 *.storspiller.com
 *.casinohuone.com
 *.vladcazino.ro
-*.ottokasino.com
 www.32red.com
+*.ottokasino.com
 *.kes.kindredext.net
 *.unibet.com
 *.unibet.fr
@@ -2709,10 +2709,10 @@ matomo.cloud
 https://github.com/matomo-org/docker
 *.xoom.com
 py.pl
-www.swiftfinancial.com
-swiftfinancial.com
 *.braintreepayments.com
 *.braintree-api.com
+www.swiftfinancial.com
+swiftfinancial.com
 *.paylution.com
 paypal.me
 www.swiftcapital.com
@@ -2822,8 +2822,8 @@ www.shipt.com
 *.liberapay.com
 *.marcus.co.uk
 *.gsselect.com
-*.ayco.com
 *.gs-mosaic.gs.com
+*.ayco.com
 *.unitedcp.com
 apigw.foliofn.com
 *.foliofirst.com
@@ -2831,8 +2831,8 @@ apigw.foliofn.com
 *.goldman.com
 *.honestdollar.com
 *.goldmansachs.com
-goldmansachsindices.com
 *.global-liquidity.gs.com
+goldmansachsindices.com
 *.gspublishing.com
 *.goldmanpfm.com
 *.finlife.com
@@ -2841,15 +2841,15 @@ goldmansachsindices.com
 *.vennhypotheken.nl
 *.nextcapital.com
 *.gs.com
-research.gs.com
 *.gsam.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
 marquee.gs.com
+research.gs.com
 *.gs.de
 api.foliofn.com
 *.advisorsolutions.gs.com
-*.folioinstitutional.com
+*.folioclient.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -2935,25 +2935,25 @@ https://crypto.com/defi/
 https://crypto.com/nft
 tax.crypto.com
 https://crypto.com/price
+docs.newrelic.com
 insights.eu.newrelic.com
 *.eu.newrelic.com
-docs.newrelic.com
 *.infrastructure-data.newrelic.com
 learn.newrelic.com
 rpm.newrelic.com
 infrastructure.eu.newrelic.com
 developer.newrelic.com
-insights.newrelic.com
 infrastructure.newrelic.com
+insights.newrelic.com
 *.blog.newrelic.com
 one.newrelic.com
 *.nr-ops.net
 *.nr-data.net
 *.newrelic.com
+synthetics.eu.newrelic.com
 support.newrelic.com
 blog.newrelic.com
 alerts.newrelic.com
-synthetics.eu.newrelic.com
 discuss.newrelic.com
 *.infrastructure.newrelic.com
 synthetics.newrelic.com
@@ -3077,8 +3077,8 @@ privatetarget-2-secure.zigzag
 privatetarget-1-www.zigzag
 *.semrush.net
 *.seoquake.com
-*.scatec.io
 *.sellzone.com
+*.scatec.io
 *.semrush.com
 *.myinsights.io
 *.seoab.io
@@ -3089,8 +3089,8 @@ privatetarget-1-www.zigzag
 *.scatec.io
 *.myinsights.io
 *.sellzone.com
-*.grabtaxi.com
 grab.careers
+*.grabtaxi.com
 wiki.grab.com
 gifts.grab.com
 *.grabpay.com
@@ -3266,16 +3266,16 @@ portswigger.net
 portswigger.net
 forum.portswigger.net
 https://enterprise-demo.portswigger.net/
+cart.starbucks.co.jp
 www.starbucksreserve.com
 www.starbucks.fr
 www.starbucks.co.uk
-cart.starbucks.co.jp
 www.starbucks.com.br
 card.starbucks.com.sg
 www.starbucks.de
 secureui.starbucks.com
-app.starbucks.com
 www.starbucks.com
+app.starbucks.com
 www.starbucks.com.sg
 login.starbucks.co.jp
 www.starbucks.co.jp
@@ -3526,8 +3526,8 @@ linkpop.com
 shopifyinbox.com
 story.snapchat.com
 ads.snapchat.com
-businesshelp.snapchat.com
 create.snapchat.com
+businesshelp.snapchat.com
 forum.playcanvas.com
 msg.playcanvas.com
 accounts.snapchat.com
@@ -3539,9 +3539,9 @@ store.playcanvas.com
 playcanv.as
 blog.playcanvas.com
 snappublisher.snapchat.com
-store.snapchat.com
 business.snapchat.com
 my.snapchat.com
+store.snapchat.com
 playcanvas.com
 rt.playcanvas.com
 map.snapchat.com
@@ -3875,10 +3875,10 @@ hackerone-ext-content.com
 www.hackerone.com
 profile-photos-us-east-2.hackerone-user-content.com
 hackerone.live
-b5s.hackerone-ext-content.com
 cover-photos.hackerone-user-content.com
 app.pullrequest.com
 errors.hackerone.net
+b5s.hackerone-ext-content.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
@@ -3938,6 +3938,7 @@ dlielc.edu
 dodea.edu
 usuhs.edu
 westpoint.edu
+usna.edu
 adlnet.gov
 aftac.gov
 dc3on.gov
@@ -3946,7 +3947,6 @@ jccs.gov
 mypay.gov
 nrojr.gov
 usafa.edu
-usna.edu
 ctoc.gov
 iad.gov
 nationalresourcedirectory.gov
