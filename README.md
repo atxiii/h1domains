@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Jan 28 21:14:20 UTC 2024)
+## Domains with Bounties (Last Updated Sun Jan 28 22:14:09 UTC 2024)
 ```
 my.sheer.com
 www.sheer.com
@@ -1817,7 +1817,7 @@ app.marionnaud.it
 app.marionnaud.ro
 www.marionnaud.sk
 www.pns.hk
-app.watsons.com.tr
+api.watsons.com.tw
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -2047,8 +2047,8 @@ itv7.itv.com
 affiliate-program.amazon.com
 track.amazon.com
 address-photos.amazon.com
-cscentral.amazon.com
 av-na.amazon.com
+cscentral.amazon.com
 dcape-na.amazon.com
 mag-na.amazon.com
 kca.amazon.com
@@ -2218,8 +2218,8 @@ maria.casino
 *.storspiller.com
 *.casinohuone.com
 *.vladcazino.ro
-*.ottokasino.com
 www.32red.com
+*.ottokasino.com
 *.kes.kindredext.net
 *.unibet.com
 *.unibet.fr
@@ -2445,8 +2445,8 @@ uk.forescout.cloud
 de.forescout.cloud
 cysiv.com
 app.command.cysiv.com
-admin.rezserver.com
 reservations.rezserver.com
+admin.rezserver.com
 www.bookingholdings.com
 www.priceline.com
 www.getaroom.com
@@ -2822,8 +2822,8 @@ www.shipt.com
 *.liberapay.com
 *.marcus.co.uk
 *.gsselect.com
-*.gs-mosaic.gs.com
 *.ayco.com
+*.gs-mosaic.gs.com
 *.unitedcp.com
 apigw.foliofn.com
 *.foliofirst.com
@@ -2831,8 +2831,8 @@ apigw.foliofn.com
 *.goldman.com
 *.honestdollar.com
 *.goldmansachs.com
-*.global-liquidity.gs.com
 goldmansachsindices.com
+*.global-liquidity.gs.com
 *.gspublishing.com
 *.goldmanpfm.com
 *.finlife.com
@@ -2841,10 +2841,10 @@ goldmansachsindices.com
 *.vennhypotheken.nl
 *.nextcapital.com
 *.gs.com
+research.gs.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
 marquee.gs.com
-research.gs.com
 *.gs.de
 api.foliofn.com
 *.advisorsolutions.gs.com
@@ -2888,8 +2888,8 @@ api.foliofn.com
 *.foliofirst.com
 *.folioinvesting.com
 developer.valvesoftware.com
-playartifact.com
 help.steampowered.com
+playartifact.com
 store.steampowered.com
 partner.steampowered.com
 partner.steamgames.com
@@ -3077,8 +3077,8 @@ privatetarget-2-secure.zigzag
 privatetarget-1-www.zigzag
 *.semrush.net
 *.seoquake.com
-*.scatec.io
 *.sellzone.com
+*.scatec.io
 *.semrush.com
 *.myinsights.io
 *.seoab.io
@@ -3717,8 +3717,8 @@ interseller.io
 app.interseller.io
 www.greenhouse.io
 *.vine.co
-*.twitter.com
 x.com
+*.twitter.com
 grok.x.ai
 *.twimg.com
 gnip.com
@@ -3938,6 +3938,7 @@ dlielc.edu
 dodea.edu
 usuhs.edu
 westpoint.edu
+usna.edu
 adlnet.gov
 aftac.gov
 dc3on.gov
@@ -3946,7 +3947,6 @@ jccs.gov
 mypay.gov
 nrojr.gov
 usafa.edu
-usna.edu
 ctoc.gov
 iad.gov
 nationalresourcedirectory.gov
