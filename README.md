@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Jan 29 20:16:51 UTC 2024)
+## Domains with Bounties (Last Updated Mon Jan 29 21:13:20 UTC 2024)
 ```
 demo.arkoselabs.com
 www.arkoselabs.com
@@ -213,8 +213,8 @@ api.mergify.com
 dashboard.mergify.com
 www.compass.com
 www.compass.com
-pentesting2.gethypr.com
 *.hypr.com
+pentesting2.gethypr.com
 pentesting.gethypr.com
 pentesting3.gethypr.com
 hypr74352.gethypr.com
@@ -645,11 +645,11 @@ http://miro.com/app
 miro.com
 api.miro.com
 http://miro.com/blog
-my.malwarebytes.com
 cloud.malwarebytes.com
 *.mwbsys.com
 *.mb-cosmos.com
 *.cloud.malwarebytes.com
+my.malwarebytes.com
 *.mbamupdates.com
 *.threatdown.com
 oneview.malwarebytes.com
@@ -1456,10 +1456,10 @@ www.urbancompany.com
 www.urbanclap.com
 old.reddit.com
 api.reddit.com
-ads.reddit.com
 gql.reddit.com
 *.redditmedia.com
 app.spiketrap.io
+ads.reddit.com
 new.reddit.com
 strapi.reddit.com
 m.reddit.com
@@ -1476,12 +1476,12 @@ www.spiketrap.io
 amp.reddit.com
 reddit.secure.force.com
 redditforbusiness.com
-*.reddithelp.com
 mod.reddit.com
 www.reddit.com
 oauth.reddit.com
 matrix.redditspace.com
 accounts.reddit.com
+*.reddithelp.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1948,8 +1948,8 @@ transact.playstation.com
 api.direct.playstation.com
 *.api.playstation.com
 store.playstation.com
-direct.playstation.com
 *.sonyentertainmentnetwork.com
+direct.playstation.com
 my.playstation.com
 my.account.sony.com
 *.playstation.net
@@ -2252,19 +2252,19 @@ www.32red.com
 unibet.me
 maria.casino
 www.32red.com
-gatewaydsaptst2.marriott.com
 sso.marriott.com
 mgs.marriott.com
+gatewaydsaptst2.marriott.com
 www.marriott.com
 dcfgatewaytst1.marriott.com
 gatewaydsaptst1.marriott.com
 reservations.all-inclusive.marriott.com
 activities.marriott.com
 jobs.marriott.com
-marriottfranchisetransactions.marriott.com
-lawmanager.marriott.com
 all-inclusive.marriott.com
 cpp.marriott.com
+marriottfranchisetransactions.marriott.com
+lawmanager.marriott.com
 www.ritzcarlton.com
 homes-and-villas.marriott.com
 marrtool.com
@@ -2391,8 +2391,8 @@ obs-sensors.iris.production.forescoutcloud.net
 datapod-2-druid-ingest.production.forescoutcloud.net
 uk.forescout.cloud
 de.forescout.cloud
-datapod-2-ingest.acceptance.forescoutcloud.net
 datapod-1-druid-ingest.production.forescoutcloud.net
+datapod-2-ingest.acceptance.forescoutcloud.net
 updates.forescout.com
 app.iris.acceptance.forescoutcloud.net
 obs-sensors.iris.acceptance.forescoutcloud.net
@@ -2461,8 +2461,8 @@ uk.forescout.cloud
 de.forescout.cloud
 cysiv.com
 app.command.cysiv.com
-reservations.rezserver.com
 admin.rezserver.com
+reservations.rezserver.com
 www.bookingholdings.com
 www.getaroom.com
 www.priceline.com
@@ -2727,9 +2727,9 @@ matomo.cloud
 https://github.com/matomo-org/docker
 *.xoom.com
 py.pl
+*.braintreepayments.com
 www.swiftfinancial.com
 swiftfinancial.com
-*.braintreepayments.com
 *.paylution.com
 *.braintree-api.com
 paypal.me
@@ -2784,8 +2784,8 @@ swiftcapital.com
 *.paypalcorp.com
 *.hyperwallet.com
 *.paylution.com
-*.highwebmedia.com
 secure.chaturbate.com
+*.highwebmedia.com
 m.chaturbate.com
 *.securegatewayaccess.com
 *.mmcdn.com
@@ -2906,8 +2906,8 @@ api.foliofn.com
 *.foliofirst.com
 *.folioinvesting.com
 developer.valvesoftware.com
-help.steampowered.com
 playartifact.com
+help.steampowered.com
 store.steampowered.com
 partner.steampowered.com
 partner.steamgames.com
@@ -3095,8 +3095,8 @@ privatetarget-2-secure.zigzag
 privatetarget-1-www.zigzag
 *.semrush.net
 *.seoquake.com
-*.sellzone.com
 *.scatec.io
+*.sellzone.com
 *.semrush.com
 *.myinsights.io
 *.seoab.io
@@ -3107,8 +3107,8 @@ privatetarget-1-www.zigzag
 *.scatec.io
 *.myinsights.io
 *.sellzone.com
-grab.careers
 *.grabtaxi.com
+grab.careers
 wiki.grab.com
 gifts.grab.com
 *.grab-sure.com
@@ -3641,9 +3641,9 @@ one.airbnb.com
 *.airbnbcitizen.com
 *.byairbnb.com
 www.hoteltonight.com
-*.airbnb.com
 *.muscache.com
 *.hoteltonight-test.com
+*.airbnb.com
 api.airbnb.com
 assets.airbnb.com
 open.airbnb.com
@@ -3946,7 +3946,6 @@ dlielc.edu
 dodea.edu
 usuhs.edu
 westpoint.edu
-usna.edu
 adlnet.gov
 aftac.gov
 dc3on.gov
@@ -3955,6 +3954,7 @@ jccs.gov
 mypay.gov
 nrojr.gov
 usafa.edu
+usna.edu
 ctoc.gov
 iad.gov
 nationalresourcedirectory.gov
