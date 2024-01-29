@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Jan 29 12:23:37 UTC 2024)
+## Domains with Bounties (Last Updated Mon Jan 29 13:14:24 UTC 2024)
 ```
 my.sheer.com
 www.sheer.com
@@ -2219,8 +2219,8 @@ maria.casino
 *.storspiller.com
 *.casinohuone.com
 *.vladcazino.ro
-www.32red.com
 *.ottokasino.com
+www.32red.com
 *.kes.kindredext.net
 *.unibet.com
 *.unibet.fr
@@ -2446,8 +2446,8 @@ uk.forescout.cloud
 de.forescout.cloud
 cysiv.com
 app.command.cysiv.com
-reservations.rezserver.com
 admin.rezserver.com
+reservations.rezserver.com
 www.bookingholdings.com
 www.priceline.com
 www.getaroom.com
@@ -2712,10 +2712,10 @@ matomo.cloud
 https://github.com/matomo-org/docker
 *.xoom.com
 py.pl
-www.swiftfinancial.com
-swiftfinancial.com
 *.braintreepayments.com
 *.braintree-api.com
+www.swiftfinancial.com
+swiftfinancial.com
 *.paylution.com
 paypal.me
 www.swiftcapital.com
@@ -3092,8 +3092,8 @@ privatetarget-1-www.zigzag
 *.scatec.io
 *.myinsights.io
 *.sellzone.com
-*.grabtaxi.com
 grab.careers
+*.grabtaxi.com
 wiki.grab.com
 gifts.grab.com
 *.grab-sure.com
@@ -3269,10 +3269,10 @@ portswigger.net
 portswigger.net
 forum.portswigger.net
 https://enterprise-demo.portswigger.net/
-cart.starbucks.co.jp
 www.starbucksreserve.com
 www.starbucks.fr
 www.starbucks.co.uk
+cart.starbucks.co.jp
 www.starbucks.com.br
 card.starbucks.com.sg
 www.starbucks.de
@@ -3440,18 +3440,14 @@ derivws.com
 secure-dfadmin.deriv.com
 werkenbijderet.nl
 maxcldapp.net
-dropr.nl
 werkenbijdnb.nl
 werkenbijdefensie.nl
 acme-challenge.nl
 nossl.nl
 wp-mail.nl
-ruddercms.com
 mijnkombijdepolitie.nl
 no-reply.cloud
-maximum-status.com
 preprod.nl
-ruddercms.nl
 devmaximum.com
 doorstromen.mijnkombijdepolitie.nl
 qatest.nl
@@ -3466,15 +3462,11 @@ acme-challenge.nl
 no-reply.cloud
 wp-mail.nl
 maxcldapp.net
-maximum-status.com
 preprod.nl
 qatest.nl
 rudderplatform.com
 werkenbijdnb.nl
 nossl.nl
-ruddercms.com
-ruddercms.nl
-dropr.nl
 devmaximum.com
 developer.zendesk.com
 h1-your-domain.zendesk.com
@@ -4112,6 +4104,7 @@ teamhelp.upserve.com
 *.vanillastaging.com
 *.vanilladevelopment.com
 *.vanillacommunity.com
+*.login.gov
 federalist-proxy.app.cloud.gov
 cloud.gov
 account.fr.cloud.gov
@@ -4121,7 +4114,6 @@ admin-catalog-bsp.data.gov
 idp.fr.cloud.gov
 admin.fr.cloud.gov
 opslogin.fr.cloud.gov
-*.login.gov
 dashboard-beta.fr.cloud.gov
 federalist.18f.gov
 login.fr.cloud.gov
@@ -4129,11 +4121,11 @@ alertmanager.fr.cloud.gov
 grafana.fr.cloud.gov
 api.fr.cloud.gov
 api.data.gov
+ssh.fr.cloud.gov
 ci.fr.cloud.gov
 logs.fr.cloud.gov
 federation.data.gov
 inventory.data.gov
-ssh.fr.cloud.gov
 tock.18f.gov
 *.code.gov
 marketplace.fedramp.gov
