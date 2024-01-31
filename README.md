@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Jan 31 12:21:37 UTC 2024)
+## Domains with Bounties (Last Updated Wed Jan 31 13:16:09 UTC 2024)
 ```
 demo.arkoselabs.com
 www.arkoselabs.com
@@ -58,8 +58,8 @@ app.dynamic.xyz
 payments.hostinger.com
 www.niagahoster.co.id
 hpanel.hostinger.com
-www.hostinger.com
 *.000webhost.com
+www.hostinger.com
 cpanel.hostinger.com
 editor.zyro.com
 logo.zyro.com
@@ -595,11 +595,11 @@ priority.eu-east-1.indriverapp.com
 auth2.indrive.tech
 debug.clairvoyance.indrive.tech
 *.indriverapp.com
-super-services.indriverapp.com
 file-storage-front.eu-east-1.indriverapp.com
 volans.tech
 wga.volans.tech
 injob.indriver.com
+super-services.indriverapp.com
 *.indriverapp.com
 *.indrive.com
 *.indriver.com
