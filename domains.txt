@@ -1,7 +1,7 @@
 www.hangar51.com
-*.iaggbs.com
 *.iairgroup.com
 *.iagcargo.com
+*.iaggbs.com
 www.avios.com
 www.iairgroup.com
 www.iaggbs.com
@@ -86,8 +86,8 @@ login.wellhive.com
 payments.hostinger.com
 www.niagahoster.co.id
 hpanel.hostinger.com
-www.hostinger.com
 *.000webhost.com
+www.hostinger.com
 cpanel.hostinger.com
 editor.zyro.com
 logo.zyro.com
@@ -116,8 +116,8 @@ education.23andme.com
 store.23andme.com
 blog.23andme.com
 api.23andme.com
-auth.23andme.com
 you.23andme.com
+auth.23andme.com
 medical.23andme.com
 therapeutics.23andme.com
 api.23andme.com
@@ -3443,8 +3443,8 @@ admin.8x8.com
 *.luckydays.com
 *.napoleondice.be
 *.napoleongames.be
-*.superbet.ro
 *.superbet.com
+*.superbet.ro
 *.napoleoncasino.be
 *.luckydays.ca
 *.superbet.pl
@@ -8935,9 +8935,9 @@ ehxhr.com
 *.konduto.com
 *.redeverdeamarela.com.br
 register.alertxpress.com
-*.efficientforms.com
 *equifax.com
 JOBALINE.COM
+*.efficientforms.com
 *equifax.cl
 *equifax.ec
 *equifax.hn
@@ -9618,8 +9618,8 @@ auth.crypto.com
 *.mona.co
 www.crypto.com
 *.crypto.com
-tax.crypto.com
 merchant.crypto.com
+tax.crypto.com
 app.mona.co
 pay.crypto.com
 js.crypto.com
@@ -10290,9 +10290,9 @@ shop.app
 shopifyinbox.com
 partners.shopify.com
 shopify.plus
-accounts.shopify.com
 admin.shopify.com
 *.shopify.com
+accounts.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
