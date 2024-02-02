@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Feb  2 11:13:24 UTC 2024)
+## Domains with Bounties (Last Updated Fri Feb  2 12:21:44 UTC 2024)
 ```
 demo.arkoselabs.com
 www.arkoselabs.com
@@ -788,17 +788,6 @@ doppler.team
 api.doppler.com
 dashboard.doppler.com
 share.doppler.com
-*.otherside.xyz
-*.mdvmm.xyz
-*.yuga.com
-*.meebits.app
-*.10ktf.com
-*.cryptopunks.app
-*.yugalabs.io
-*.boredapeyachtclub.com
-dookeydash.com
-*.wenewmoments.com
-hv-mtl.com
 *.boredapeyachtclub.com
 *.yuga.com
 *.yugalabs.io
@@ -1726,9 +1715,9 @@ www.pangleglobal.com
 academy-outbound-ads.tiktok.com
 careers.tiktok.com
 creatormarketplace.tiktok.com
-*.tiktokv.com
 business.tiktok.com
 *.tiktok.com
+*.tiktokv.com
 developers.tiktok.com
 effecthouse.tiktok.com
 shop.tiktok.com
@@ -3551,9 +3540,9 @@ rt.playcanvas.com
 map.snapchat.com
 business.snapchat.com
 www.bitmoji.com
-playcanvas.com
 snappublisher.snapchat.com
 app.snapchat.com
+playcanvas.com
 geofilters.snapchat.com
 spectacles.com
 *.sc-corp.net
@@ -3864,9 +3853,9 @@ onepush.query.yahoo.com
 proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
-hackerone-user-content.com
 api.hackerone.com
 hackerone.com
+hackerone-user-content.com
 www.wearehackerone.com
 mta-sts.wearehackerone.com
 hackathon-photos-us-east-2.hackerone-user-content.com
