@@ -117,8 +117,8 @@ egress-vdp,www.egress.com,False
 23andme_bbp,store.23andme.com,True
 23andme_bbp,blog.23andme.com,True
 23andme_bbp,api.23andme.com,True
-23andme_bbp,you.23andme.com,True
 23andme_bbp,auth.23andme.com,True
+23andme_bbp,you.23andme.com,True
 23andme_bbp,medical.23andme.com,True
 23andme_bbp,therapeutics.23andme.com,True
 23andme_bbp,api.23andme.com,True
@@ -1172,8 +1172,8 @@ fronthq,app.frontapp.com,True
 fronthq,api2.frontapp.com,True
 fronthq,app.frontapp.com,True
 fronthq,api2.frontapp.com,True
-boozt,*.booztlet.com,True
 boozt,*.boozt.com,True
+boozt,*.booztlet.com,True
 boozt,*.boozt.com,True
 boozt,*.booztlet.com,True
 trip_com,*.trip.com,True
@@ -3440,8 +3440,8 @@ kkr_vdp,ksam.com,False
 8x8-bounty,cloud8.8x8.com,True
 8x8-bounty,pay.8x8.com,True
 8x8-bounty,admin.8x8.com,True
-superbet,*.magicjackpot.ro,True
 superbet,*.luckydays.com,True
+superbet,*.magicjackpot.ro,True
 superbet,*.napoleondice.be,True
 superbet,*.napoleongames.be,True
 superbet,*.superbet.ro,True
@@ -6616,6 +6616,7 @@ launchdarkly,events.launchdarkly.com,True
 launchdarkly,stream.launchdarkly.com,True
 launchdarkly,docs.launchdarkly.com,True
 openmage,demo.openmage.org,False
+openmage,demo.openmage.org,False
 cirrusinsight,*.cirruspath.com,False
 cirrusinsight,*.zynbitdev.com,False
 cirrusinsight,*.cirrusinsight.com,False
@@ -9338,8 +9339,8 @@ hyatt,www.applevacations.com,True
 hyatt,res.hyattinclusivecollection.com,True
 hyatt,www.hyattinclusivecollection.com,True
 hyatt,booking.applevacations.com,True
-grammarly,*.grammarly.com,True
 grammarly,*.grammarlyaws.com,True
+grammarly,*.grammarly.com,True
 grammarly,*.grammarly.io,True
 grammarly,grammarly.ai,True
 grammarly,*.grammarly.io,True
