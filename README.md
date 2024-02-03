@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Feb  3 08:14:49 UTC 2024)
+## Domains with Bounties (Last Updated Sat Feb  3 09:14:47 UTC 2024)
 ```
 demo.arkoselabs.com
 www.arkoselabs.com
@@ -864,8 +864,8 @@ www.expediagroup.com
 www.flights.com
 *.magiceden.workers.dev
 *.magiceden.io
-*.magiceden.dev
 magiceden.io
+*.magiceden.dev
 magiceden.io
 *.magiceden.io
 *.magiceden.dev
@@ -2256,8 +2256,8 @@ mgs.marriott.com
 dcfgatewaytst1.marriott.com
 gatewaydsaptst1.marriott.com
 reservations.all-inclusive.marriott.com
-jobs.marriott.com
 activities.marriott.com
+jobs.marriott.com
 cpp.marriott.com
 marriottfranchisetransactions.marriott.com
 lawmanager.marriott.com
@@ -2961,8 +2961,8 @@ developer.newrelic.com
 infrastructure.newrelic.com
 insights.newrelic.com
 *.blog.newrelic.com
-*.nr-data.net
 *.newrelic.com
+*.nr-data.net
 *.nr-ops.net
 one.newrelic.com
 support.newrelic.com
@@ -3536,8 +3536,8 @@ businesshelp.snapchat.com
 forum.playcanvas.com
 msg.playcanvas.com
 create.snapchat.com
-ads.snapchat.com
 accounts.snapchat.com
+ads.snapchat.com
 scan.snapchat.com
 code.playcanvas.com
 login.playcanvas.com

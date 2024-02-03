@@ -3662,8 +3662,8 @@ eng.magiceden.io
 *.magiceden.workers.dev
 eng.magiceden.dev
 *.magiceden.io
-*.magiceden.dev
 magiceden.io
+*.magiceden.dev
 magiceden.io
 *.magiceden.io
 *.magiceden.dev
@@ -6238,12 +6238,12 @@ www.urbanclap.com
 *SANGABRIELVALLEYHEALTHECONNECT.COM
 *sgveconnect.com
 *apps.huntingtonhospital.com/
-*cedars-sinai.org
 *cedars-sinai.edu
 *Hmhdr.net
 *Hmhdr.org
 *Huntingtonhealthnetwork.org
 *legacy.huntingtonhospital.org
+*cedars-sinai.org
 *cedars-sinai.org
 *www.cshs.org
 *csmc.edu
@@ -8071,8 +8071,8 @@ mgs.marriott.com
 dcfgatewaytst1.marriott.com
 gatewaydsaptst1.marriott.com
 reservations.all-inclusive.marriott.com
-jobs.marriott.com
 activities.marriott.com
+jobs.marriott.com
 cpp.marriott.com
 marriottfranchisetransactions.marriott.com
 lawmanager.marriott.com
@@ -9647,8 +9647,8 @@ developer.newrelic.com
 infrastructure.newrelic.com
 insights.newrelic.com
 *.blog.newrelic.com
-*.nr-data.net
 *.newrelic.com
+*.nr-data.net
 *.nr-ops.net
 one.newrelic.com
 support.newrelic.com
@@ -10310,8 +10310,8 @@ businesshelp.snapchat.com
 forum.playcanvas.com
 msg.playcanvas.com
 create.snapchat.com
-ads.snapchat.com
 accounts.snapchat.com
+ads.snapchat.com
 scan.snapchat.com
 code.playcanvas.com
 login.playcanvas.com
@@ -10416,8 +10416,8 @@ community.adobe.com
 accounts.frame.io
 app.frame.io
 *.adobe.com
-auth.services.adobe.com
 nicetryapril.na1.echosignsandbox.com
+auth.services.adobe.com
 *.marketo.com
 *.omniture.com
 *.typekit.com
