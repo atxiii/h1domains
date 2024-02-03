@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Feb  3 04:14:37 UTC 2024)
+## Domains with Bounties (Last Updated Sat Feb  3 05:13:52 UTC 2024)
 ```
 demo.arkoselabs.com
 www.arkoselabs.com
@@ -3412,8 +3412,8 @@ api.grofers.com
 blinkit.com
 winecellar.zomato.com
 *.zdev.net
-*.zomans.com
 *.zomato.com
+*.zomans.com
 *.runnr.in
 *.zomato.com
 *.zdev.net
