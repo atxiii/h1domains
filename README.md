@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Feb  5 08:16:45 UTC 2024)
+## Domains with Bounties (Last Updated Mon Feb  5 09:16:22 UTC 2024)
 ```
 demo.arkoselabs.com
 www.arkoselabs.com
@@ -709,8 +709,8 @@ work-staging.8x8.com
 user-profile-staging.8x8.com
 *.chalet.8x8.com
 *.8x8.id
-cloud8.8x8.com
 *.jit.si
+cloud8.8x8.com
 platform.8x8.com
 *.packet8.net
 *.8x8staging.com
@@ -2167,8 +2167,8 @@ updates.amazon.com
 amazonpayinsurance.in
 *.tmall.com
 www.alibabagroup.com
-*.alibabacloud.com
 *.alibaba.com
+*.alibabacloud.com
 *.aliexpress.ru
 *.alibaba-inc.com
 *.1688.com
@@ -3535,9 +3535,9 @@ story.snapchat.com
 businesshelp.snapchat.com
 msg.playcanvas.com
 create.snapchat.com
-accounts.snapchat.com
 ads.snapchat.com
 forum.playcanvas.com
+accounts.snapchat.com
 scan.snapchat.com
 code.playcanvas.com
 login.playcanvas.com
