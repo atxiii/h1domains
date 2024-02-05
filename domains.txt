@@ -131,8 +131,8 @@ therapeutics.23andme.com
 you.23andme.com
 research.23andme.com
 www.mercadopago.cl
-www.mercadolibre.com.pe
 www.mercadopago.com.uy
+www.mercadolibre.com.pe
 www.mercadolibre.com.mx
 www.mercadolibre.cl
 www.mercadolibre.com.uy
@@ -144,8 +144,8 @@ www.mercadolibre.com.co
 www.mercadolibre.com.ar
 api.mercadopago.com
 www.mercadopago.com.br
-api.mercadolibre.com
 www.mercadopago.com.mx
+api.mercadolibre.com
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -173,8 +173,8 @@ supplier.auth.toag.booking.com
 supply-xml.booking.com
 flights.booking.com
 booking.com
-admin.booking.com
 *.booking.com
+admin.booking.com
 metasearch-api.booking.com
 taxis.booking.com
 phone-validation.taxi.booking.com
@@ -1337,7 +1337,7 @@ sa.cosstores.com
 *.potterybarn.ae
 *.mothercare.com.sa
 *.mothercare.com.kw
-*.footlocker.com.bh
+*.footlocker.ae
 *.shaya.com.tr
 *.starbucks.com.kz
 *.aloyoga.ae
@@ -3164,8 +3164,8 @@ abb.com.br
 *.abb.in
 *.abb
 *.busch-jaeger.nl
-*.ability.abb
 *.de.abb.com
+*.ability.abb
 *.cirrus.abb.com
 *.stratus.abb.com
 *.motion.abb.com
@@ -7328,8 +7328,8 @@ careers.tiktok.com
 creatormarketplace.tiktok.com
 *.tiktok.com
 effecthouse.tiktok.com
-shop.tiktok.com
 developers.tiktok.com
+shop.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -10178,8 +10178,8 @@ design.gitlab.com
 advisories.gitlab.com
 docs.gitlab.com
 about.gitlab.com
-gitlab.com
 *.gitlab.org
+gitlab.com
 *.gitlab.net
 *.gitlab.org
 *.gitlap.com
@@ -10795,11 +10795,11 @@ www.hackerone.com
 ctf.hacker101.com
 hackerone-ext-content.com
 profile-photos-us-east-2.hackerone-user-content.com
-b5s.hackerone-ext-content.com
 errors.hackerone.net
 hackerone.live
 cover-photos.hackerone-user-content.com
 app.pullrequest.com
+b5s.hackerone-ext-content.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
