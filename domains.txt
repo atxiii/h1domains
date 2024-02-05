@@ -11,9 +11,9 @@ www.tari.com
 www.tarilabs.com
 tlu.tarilabs.com
 www.hangar51.com
-*.iagcargo.com
 *.iairgroup.com
 *.iaggbs.com
+*.iagcargo.com
 www.avios.com
 www.iairgroup.com
 www.iaggbs.com
@@ -1862,8 +1862,8 @@ http://www.myvisacardportal.com/welcome/enbd/product/#
 *detroitconnect.com
 ztc.nube.53.com
 locations.53.com
-www.53.com
 zta.nube.53.com
+www.53.com
 express.53.com
 onlinebanking.53.com
 *53.com
@@ -3674,8 +3674,8 @@ eng.magiceden.io
 *.magiceden.workers.dev
 eng.magiceden.dev
 *.magiceden.io
-*.magiceden.dev
 magiceden.io
+*.magiceden.dev
 magiceden.io
 *.magiceden.io
 *.magiceden.dev
@@ -4682,9 +4682,9 @@ www.canvasworld.com
 *.photoaffections.com
 www.gifts.com
 *.canvasworld.com
-*.cafepress.com
 *.personalcreations.com
 *.iseeme.com
+*.cafepress.com
 *.cafepress.com
 *.canvasworld.com
 *.gifts.com
@@ -6353,8 +6353,8 @@ zsbsupport.zebra.com
 reflexisinc.com/
 cmm01.sl.zebra.com
 *.zams.zebra.com
-*.zebrasports.com
 *.profitect.com
+*.zebrasports.com
 supportcommunity.zebra.com
 zebratradeinprogram.com
 docs.zebra.com
@@ -6497,8 +6497,8 @@ strapi.reddit.com
 m.reddit.com
 meta-api.reddit.com
 sh.reddit.com
-*.snooguts.net
 *.redditinc.com
+*.snooguts.net
 gateway.reddit.com
 s.reddit.com
 www.spiketrap.io
@@ -7343,8 +7343,8 @@ careers.tiktok.com
 creatormarketplace.tiktok.com
 *.tiktok.com
 effecthouse.tiktok.com
-developers.tiktok.com
 shop.tiktok.com
+developers.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
