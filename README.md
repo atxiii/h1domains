@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Feb  5 09:16:22 UTC 2024)
+## Domains with Bounties (Last Updated Mon Feb  5 10:14:46 UTC 2024)
 ```
 demo.arkoselabs.com
 www.arkoselabs.com
@@ -336,9 +336,9 @@ www.visa.co.jp
 www.fraedom.com
 www.practicalmoneyskills.org
 www.practicalmoneyskills.com
-sandbox.secure.checkout.visa.com
 www.visainfinite.ca
 www.yellowpepper.com
+sandbox.secure.checkout.visa.com
 bb.visa.com
 www.visa.com.mx
 visa.com.ru
@@ -487,11 +487,11 @@ push.services.mozilla.com
 sync.services.mozilla.com
 bugzilla.mozilla.org
 addons.allizom.org
-contile.services.mozilla.com
 aus5.mozilla.org
 lando.services.mozilla.com
 shavar.services.mozilla.com
 hg.mozilla.org
+contile.services.mozilla.com
 crash-reports.allizom.org
 mozilla-pontoon-staging.herokuapp.com
 phabricator.allizom.org
@@ -1460,8 +1460,8 @@ strapi.reddit.com
 m.reddit.com
 meta-api.reddit.com
 sh.reddit.com
-*.redditinc.com
 *.snooguts.net
+*.redditinc.com
 gateway.reddit.com
 s.reddit.com
 www.spiketrap.io
@@ -3516,8 +3516,8 @@ shop.app
 shopifyinbox.com
 partners.shopify.com
 shopify.plus
-*.shopify.com
 admin.shopify.com
+*.shopify.com
 accounts.shopify.com
 *.shopify.com
 *.shopifykloud.com
