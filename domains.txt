@@ -83,9 +83,9 @@ wellhivecorporate.okta.com
 analytics.wellhive.com
 app.wellhive.com
 login.wellhive.com
-payments.hostinger.com
 www.niagahoster.co.id
 hpanel.hostinger.com
+payments.hostinger.com
 *.000webhost.com
 www.hostinger.com
 cpanel.hostinger.com
@@ -144,8 +144,8 @@ www.mercadolibre.com.co
 www.mercadolibre.com.ar
 api.mercadopago.com
 www.mercadopago.com.br
-api.mercadolibre.com
 www.mercadopago.com.mx
+api.mercadolibre.com
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -1314,8 +1314,8 @@ bathandbodyworks.ro/
 bathandbodyworks.ro
 *.americaneagle.com.kw
 *.footlocker.com.eg
-kw.boots.com
 *.starbuckscardtr.com
+kw.boots.com
 sa.hm.com
 *.aloyoga.com.kw
 *.westelm.com.kw
@@ -6482,8 +6482,8 @@ strapi.reddit.com
 m.reddit.com
 meta-api.reddit.com
 sh.reddit.com
-*.redditinc.com
 *.snooguts.net
+*.redditinc.com
 gateway.reddit.com
 s.reddit.com
 www.spiketrap.io
@@ -7934,8 +7934,8 @@ www.alibabagroup.com
 *.aliyun-inc.com
 *.alimama.com
 *.Daraz.com
-*.aliyun.com
 *.aliexpress.com
+*.aliyun.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
