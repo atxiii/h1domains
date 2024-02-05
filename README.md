@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Feb  5 18:16:04 UTC 2024)
+## Domains with Bounties (Last Updated Mon Feb  5 19:14:02 UTC 2024)
 ```
 explore.tari.com
 www.tari.com
@@ -106,13 +106,13 @@ store.23andme.com
 therapeutics.23andme.com
 you.23andme.com
 research.23andme.com
-www.mercadopago.cl
 www.mercadolibre.com.pe
 www.mercadopago.com.uy
+www.mercadopago.cl
 www.mercadolibre.com.mx
 www.mercadolibre.com.uy
-www.mercadolibre.cl
 www.mercadolivre.com.br
+www.mercadolibre.cl
 www.mercadopago.com.co
 www.mercadopago.com.pe
 www.mercadopago.com.ar
@@ -148,9 +148,9 @@ careers.booking.com
 supplier.auth.toag.booking.com
 supply-xml.booking.com
 flights.booking.com
-booking.com
 admin.booking.com
 *.booking.com
+booking.com
 metasearch-api.booking.com
 taxis.booking.com
 phone-validation.taxi.booking.com
@@ -347,8 +347,8 @@ www.fraedom.com
 www.practicalmoneyskills.org
 www.practicalmoneyskills.com
 sandbox.secure.checkout.visa.com
-www.yellowpepper.com
 www.visainfinite.ca
+www.yellowpepper.com
 www.visa.com.mx
 visa.com.ru
 www.visa.com.cy
@@ -1127,8 +1127,8 @@ rankings.etoro.com
 delta.app
 bullsheet.me
 *.instacart.tools
-api.instacart.com
 www.instacart.com
+api.instacart.com
 shoppers.instacart.com
 admin.instacart.com
 *.instacart.com
@@ -1475,8 +1475,8 @@ sh.reddit.com
 gateway.reddit.com
 s.reddit.com
 www.spiketrap.io
-*.reddit.com
 ads-api.reddit.com
+*.reddit.com
 *.redditblog.com
 amp.reddit.com
 reddit.secure.force.com
@@ -1485,8 +1485,8 @@ mod.reddit.com
 matrix.redditspace.com
 *.reddithelp.com
 oauth.reddit.com
-www.reddit.com
 accounts.reddit.com
+www.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1740,8 +1740,8 @@ careers.tiktok.com
 creatormarketplace.tiktok.com
 *.tiktok.com
 effecthouse.tiktok.com
-shop.tiktok.com
 developers.tiktok.com
+shop.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2181,12 +2181,12 @@ www.alibabagroup.com
 *.alibaba.com
 *.aliexpress.ru
 *.alibaba-inc.com
-*.1688.com
 *.aliyun-inc.com
 *.alimama.com
-*.Daraz.com
-*.aliyun.com
 *.aliexpress.com
+*.1688.com
+*.aliyun.com
+*.Daraz.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -3526,9 +3526,9 @@ shop.app
 shopifyinbox.com
 partners.shopify.com
 shopify.plus
-*.shopify.com
-admin.shopify.com
 accounts.shopify.com
+admin.shopify.com
+*.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -3545,9 +3545,9 @@ story.snapchat.com
 businesshelp.snapchat.com
 msg.playcanvas.com
 create.snapchat.com
-forum.playcanvas.com
 accounts.snapchat.com
 ads.snapchat.com
+forum.playcanvas.com
 scan.snapchat.com
 code.playcanvas.com
 login.playcanvas.com
@@ -3562,8 +3562,8 @@ map.snapchat.com
 snappublisher.snapchat.com
 playcanvas.com
 app.snapchat.com
-business.snapchat.com
 www.bitmoji.com
+business.snapchat.com
 geofilters.snapchat.com
 spectacles.com
 *.sc-corp.net
