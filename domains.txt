@@ -6352,8 +6352,8 @@ zsbsupport.zebra.com
 *.zams-eu.zebra.com
 reflexisinc.com/
 cmm01.sl.zebra.com
-*.profitect.com
 *.zebrasports.com
+*.profitect.com
 supportcommunity.zebra.com
 *.zams.zebra.com
 zebratradeinprogram.com
@@ -9424,8 +9424,8 @@ https://github.com/matomo-org/docker
 py.pl
 www.swiftfinancial.com
 swiftfinancial.com
-*.paylution.com
 *.braintree-api.com
+*.paylution.com
 *.braintreepayments.com
 paypal.me
 www.swiftcapital.com
@@ -10312,10 +10312,10 @@ shop.app
 *.shopifykloud.com
 shopifyinbox.com
 partners.shopify.com
-accounts.shopify.com
 *.shopify.com
 shopify.plus
 admin.shopify.com
+accounts.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
