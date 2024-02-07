@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Feb  7 06:17:55 UTC 2024)
+## Domains with Bounties (Last Updated Wed Feb  7 07:15:15 UTC 2024)
 ```
 explore.tari.com
 www.tari.com
@@ -94,8 +94,8 @@ api.23andme.com
 auth.23andme.com
 blog.23andme.com
 you.23andme.com
-therapeutics.23andme.com
 medical.23andme.com
+therapeutics.23andme.com
 api.23andme.com
 auth.23andme.com
 blog.23andme.com
@@ -111,8 +111,8 @@ www.mercadolibre.com.pe
 www.mercadopago.cl
 www.mercadolibre.com.mx
 www.mercadolibre.com.uy
-www.mercadolibre.cl
 www.mercadolivre.com.br
+www.mercadolibre.cl
 www.mercadopago.com.co
 www.mercadopago.com.pe
 www.mercadopago.com.ar
@@ -582,8 +582,8 @@ hiltonhotels.jp
 *.okx.com
 https://www.okx.com/docs-v5/en/#market-maker-program
 ab-platform-api.eu-east-1.indriverapp.com
-cargo.indrive.com
 *.indrive.com
+cargo.indrive.com
 messenger.eu-east-1.indriverapp.com
 truck-api.eu-east-1.indriverapp.com
 external.indrive.dev
@@ -1838,6 +1838,7 @@ app.marionnaud.ro
 www.marionnaud.sk
 www.pns.hk
 app.watsons.com.tr
+api.watsons.com.tw
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -3733,8 +3734,8 @@ interseller.io
 app.interseller.io
 www.greenhouse.io
 *.vine.co
-*.twitter.com
 x.com
+*.twitter.com
 grok.x.ai
 *.twimg.com
 gnip.com
@@ -3752,8 +3753,8 @@ cloudflareworkers.com
 *.teams.cloudflare.com
 one.dash.cloudflare.com
 *.cloudflare.com
-api.cloudflare.com
 waf.cumulusfire.net
+api.cloudflare.com
 dash.cloudflare.com
 dash.cloudflare.com
 cloudflareworkers.com
