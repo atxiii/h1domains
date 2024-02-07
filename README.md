@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Feb  7 05:16:02 UTC 2024)
+## Domains with Bounties (Last Updated Wed Feb  7 06:17:55 UTC 2024)
 ```
 explore.tari.com
 www.tari.com
@@ -111,8 +111,8 @@ www.mercadolibre.com.pe
 www.mercadopago.cl
 www.mercadolibre.com.mx
 www.mercadolibre.com.uy
-www.mercadolivre.com.br
 www.mercadolibre.cl
+www.mercadolivre.com.br
 www.mercadopago.com.co
 www.mercadopago.com.pe
 www.mercadopago.com.ar
@@ -722,9 +722,9 @@ user-profile-staging.8x8.com
 *.jit.si
 cloud8.8x8.com
 platform.8x8.com
-*.packet8.net
 *.8x8staging.com
 voapi.8x8.com
+*.packet8.net
 sms.8x8.com
 sso.8x8pilot.com
 *.p8t.us
@@ -844,8 +844,8 @@ www.expediapartnercentral.com
 www.ebookers.fi
 www.wotif.com
 www.expediacruises.com
-www.stayz.com.au
 www.hotwire.com
+www.stayz.com.au
 www.hotels.com
 www.expedia.com
 www.expediapartnercentral.com
@@ -1484,9 +1484,9 @@ redditforbusiness.com
 mod.reddit.com
 matrix.redditspace.com
 *.reddithelp.com
+www.reddit.com
 oauth.reddit.com
 accounts.reddit.com
-www.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -2472,8 +2472,8 @@ reservations.rezserver.com
 www.bookingholdings.com
 admin.rezserver.com
 www.getaroom.com
-priceline.com
 www.priceline.com
+priceline.com
 api.rezserver.com
 secure.rezserver.com
 flyiin.com
@@ -3887,8 +3887,8 @@ hackathon-photos.hackerone-user-content.com
 ctf.hacker101.com
 hackerone-ext-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
-www.hackerone.com
 profile-photos.hackerone-user-content.com
+www.hackerone.com
 profile-photos-us-east-2.hackerone-user-content.com
 b5s.hackerone-ext-content.com
 hackerone.live
