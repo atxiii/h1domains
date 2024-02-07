@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Feb  7 02:20:41 UTC 2024)
+## Domains with Bounties (Last Updated Wed Feb  7 03:16:52 UTC 2024)
 ```
 explore.tari.com
 www.tari.com
@@ -1544,9 +1544,9 @@ wp-qa.chime.com
 *.chime.com
 *.chimebank.com
 *.chmfin.com
-wp-dev2.chime.com
 wp-dev5.chime.com
 app.chime.com
+wp-dev2.chime.com
 *.1debit.com
 wp-ci.chime.com
 *.1debit.com
@@ -2736,8 +2736,8 @@ https://github.com/matomo-org/docker
 py.pl
 www.swiftfinancial.com
 swiftfinancial.com
-*.paylution.com
 *.braintree-api.com
+*.paylution.com
 *.braintreepayments.com
 paypal.me
 www.swiftcapital.com
@@ -4064,8 +4064,8 @@ https://svn.filezilla-project.org/svn/filezilla3/trunk/src/putty
 magentolive.com
 magentocommerce.com
 repo.magento.com
-account.magento.com
 accounts.magento.cloud
+account.magento.com
 u.magento.com
 imagine.magento.com
 magento.com
