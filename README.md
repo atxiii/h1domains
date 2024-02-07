@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Feb  7 22:13:55 UTC 2024)
+## Domains with Bounties (Last Updated Wed Feb  7 23:14:27 UTC 2024)
 ```
 explore.tari.com
 www.tari.com
@@ -1545,8 +1545,8 @@ wp-qa.chime.com
 *.chmfin.com
 wp-dev5.chime.com
 app.chime.com
-wp-dev2.chime.com
 *.1debit.com
+wp-dev2.chime.com
 wp-ci.chime.com
 *.1debit.com
 *.chimebank.com
@@ -2471,9 +2471,9 @@ app.command.cysiv.com
 reservations.rezserver.com
 www.bookingholdings.com
 admin.rezserver.com
-www.priceline.com
 priceline.com
 www.getaroom.com
+www.priceline.com
 api.rezserver.com
 secure.rezserver.com
 flyiin.com
@@ -3297,8 +3297,8 @@ card.starbucks.com.sg
 www.starbucks.de
 secureui.starbucks.com
 app.starbucks.com
-www.starbucks.com
 www.starbucks.com.sg
+www.starbucks.com
 login.starbucks.co.jp
 www.starbucks.co.jp
 www.starbucks.com.cn
