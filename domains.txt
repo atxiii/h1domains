@@ -23,9 +23,9 @@ task-manager.biz
 tlu.tarilabs.com
 explore.tari.com
 www.tari.com
-rfc.tari.com
 textexplore.tari.com
 www.tarilabs.com
+rfc.tari.com
 explore.tari.com
 rfc.tari.com
 textexplore.tari.com
@@ -79,8 +79,8 @@ www.sheer.com
 www.sheer.com
 my.sheer.com
 www.analvids.com
-www.pornbox.com
 www.ddfcontent.com
+www.pornbox.com
 www.pornworld.com
 www.pornbox.com
 www.analvids.com
@@ -8274,8 +8274,8 @@ sms.8x8.com
 supersite.8x8.com
 user-profile.8x8.com
 *.8x8staging.com
-*.thinkingphones.net
 cloud8.8x8.com
+*.thinkingphones.net
 www.8x8.com
 *.jitsi.org
 *.8x8pilot.com
@@ -9728,9 +9728,9 @@ api.lahitapiola.fi
 privatetarget-1-www.zigzag
 www.lahitapiola.fi
 www.tapiola.fi
-*.lahitapiola.fi
 asiointi.lahitapiola.fi
 *.lahitapiolarahoitus.fi
+*.lahitapiola.fi
 *.lahitapiolarahoitus.fi
 *.lahitapiola.fi
 *.tapiola.fi
@@ -10251,9 +10251,9 @@ shop.app
 shopifyinbox.com
 partners.shopify.com
 shopify.plus
-admin.shopify.com
 *.shopify.com
 accounts.shopify.com
+admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
