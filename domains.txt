@@ -4615,9 +4615,9 @@ paetec.net
 ai.planetart.com
 www.personalcreations.com
 www.mycustomcase.com
-www.photoaffections.com
 *.simplytoimpress.com
 *.mycustomcase.com
+www.photoaffections.com
 www.simplytoimpress.com
 iseeme.com
 www.cafepress.com
@@ -7896,8 +7896,8 @@ www.alibabagroup.com
 *.aliyun-inc.com
 *.alimama.com
 *.aliyun.com
-*.Daraz.com
 *.1688.com
+*.Daraz.com
 *.aliexpress.com
 *.taobao.com
 *.alibaba.com
@@ -9052,8 +9052,8 @@ chain.link
 reservations.rezserver.com
 www.bookingholdings.com
 admin.rezserver.com
-www.getaroom.com
 priceline.com
+www.getaroom.com
 www.priceline.com
 api.rezserver.com
 secure.rezserver.com
