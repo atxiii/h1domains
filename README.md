@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Feb  9 14:16:45 UTC 2024)
+## Domains with Bounties (Last Updated Fri Feb  9 15:16:01 UTC 2024)
 ```
 explore.tari.com
 www.tari.com
@@ -261,8 +261,8 @@ https://simple-life-app.com/
 connect-sandbox.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
-*.gocardless-lab.io
 api-sandbox.gocardless.com
+*.gocardless-lab.io
 pay-sandbox.gocardless.com
 xero-sandbox.gocardless.com
 oauth-sandbox.gocardless.com
@@ -760,8 +760,8 @@ admin.8x8.com
 *.luckydays.com
 *.napoleondice.be
 *.napoleongames.be
-*.superbet.ro
 *.superbet.com
+*.superbet.ro
 *.napoleoncasino.be
 *.luckydays.ca
 *.superbet.pl
@@ -1915,9 +1915,9 @@ adblocking.clario.co
 crm.clario.co
 updatetracker.clario.co
 api.account.clario.co
-account.mackeeper.com
 dcs.clario.co
 webapi.clario.co
+account.mackeeper.com
 chat-crm.clario.co
 inapp.clario.co
 yapi.clario.co
@@ -2181,8 +2181,8 @@ www.alibabagroup.com
 *.alimama.com
 *.Daraz.com
 *.aliexpress.com
-*.1688.com
 *.aliyun.com
+*.1688.com
 *.aliyun-inc.com
 *.taobao.com
 *.alibaba.com
@@ -2701,8 +2701,8 @@ mobile-prod.tvg.com
 m.4njbets.tvg.com
 promos.tvg.com
 us.tvg.com
-tvg.com
 *.fanduel.com
+tvg.com
 *.fanduel.com
 *racing.fanduel.com
 fdbox.net
@@ -3395,10 +3395,10 @@ https://docs.mapbox.com/api/
 api.mapbox.com
 registry.gitlab.com
 *.gitlab.net
-customers.gitlab.com
 *.gitlap.com
 design.gitlab.com
 advisories.gitlab.com
+customers.gitlab.com
 docs.gitlab.com
 about.gitlab.com
 *.gitlab.org
@@ -3523,8 +3523,8 @@ shop.app
 shopifyinbox.com
 partners.shopify.com
 shopify.plus
-*.shopify.com
 admin.shopify.com
+*.shopify.com
 accounts.shopify.com
 *.shopify.com
 *.shopifykloud.com
@@ -3872,8 +3872,8 @@ proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
 api.hackerone.com
-hackerone.com
 hackerone-user-content.com
+hackerone.com
 www.wearehackerone.com
 mta-sts.wearehackerone.com
 hackathon-photos-us-east-2.hackerone-user-content.com
