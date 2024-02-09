@@ -3841,10 +3841,10 @@ www.monarchmoney.com
 app.monarchmoney.com
 www.monarchmoney.com
 www.interflex.de
-www.cisa.com
 www.yonomi.com
 www.gainsboroughhardware.com.au
 www.fireglass.com
+www.cisa.com
 www.trelock.com
 www.simons-voss.com
 www.allegion.co.uk
@@ -6510,8 +6510,6 @@ on-app-backend.on-running.com
 *.withbuddies.com
 customers.mattermost.com
 *.mattermost.com
-customers.mattermost.com
-*.mattermost.com
 *.ohiosecretaryofstate.gov
 *.boe.ohio.gov
 *.militaryvotes.ohio.gov
@@ -7278,8 +7276,8 @@ api.adm.cloud.com
 *developer.cloud.com
 ads.tiktok.com
 live-backstage.tiktok.com
-tiktok.com
 partner.tiktokshop.com
+tiktok.com
 fp-sg.tiktokv.com
 www.pangleglobal.com
 academy-outbound-ads.tiktok.com
@@ -9370,8 +9368,8 @@ py.pl
 www.swiftfinancial.com
 swiftfinancial.com
 *.braintree-api.com
-*.paylution.com
 *.braintreepayments.com
+*.paylution.com
 paypal.me
 www.swiftcapital.com
 my.swiftfinancial.com
@@ -10257,9 +10255,9 @@ shop.app
 shopifyinbox.com
 partners.shopify.com
 shopify.plus
+admin.shopify.com
 *.shopify.com
 accounts.shopify.com
-admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
