@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Feb  9 01:44:20 UTC 2024)
+## Domains with Bounties (Last Updated Fri Feb  9 02:20:33 UTC 2024)
 ```
 explore.tari.com
 www.tari.com
@@ -35,8 +35,8 @@ www.sheer.com
 www.sheer.com
 my.sheer.com
 www.analvids.com
-www.ddfcontent.com
 www.pornbox.com
+www.ddfcontent.com
 www.pornworld.com
 www.pornbox.com
 www.analvids.com
@@ -3732,8 +3732,8 @@ interseller.io
 app.interseller.io
 www.greenhouse.io
 *.vine.co
-x.com
 *.twitter.com
+x.com
 grok.x.ai
 *.twimg.com
 gnip.com
