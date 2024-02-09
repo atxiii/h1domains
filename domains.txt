@@ -7,8 +7,8 @@ your-domain.snapshotreport.biz
 your-domain.pdqs.mobi
 task-manager.biz
 *.vendasta.com
-*.apigateway.co
 your-domain.smblogin.com
+*.apigateway.co
 *.vendasta.com
 *.apigateway.co
 *.vendasta-internal.com
@@ -1205,8 +1205,8 @@ app.frontapp.com
 api2.frontapp.com
 app.frontapp.com
 api2.frontapp.com
-*.booztlet.com
 *.boozt.com
+*.booztlet.com
 *.boozt.com
 *.booztlet.com
 *.trip.com
@@ -4727,11 +4727,6 @@ www.cheapflights.com
 www.hotelscombined.com
 www.mundi.com.br
 business.kayak.com
-app.s02.callsign.com
-southfields-v2.s02.t00-csglobal.a2develop.com
-b2b.s02.callsign.com
-*.*
-*.s02.callsign.com
 *.s02.callsign.com
 *.*
 app.s02.callsign.com
@@ -4790,8 +4785,8 @@ push-d-hap.cloud.etoro.com
 push-demo-lightstreamer.cloud.etoro.com
 sts.etoro.com
 watchlistapi.etoro.com
-delta.app
 www.etoro.com
+delta.app
 aggregator.etoro.com
 cashier.etoro.com
 cashier-src.etoro.com
@@ -7278,8 +7273,8 @@ api.adm.cloud.com
 *developer.cloud.com
 ads.tiktok.com
 live-backstage.tiktok.com
-partner.tiktokshop.com
 tiktok.com
+partner.tiktokshop.com
 fp-sg.tiktokv.com
 www.pangleglobal.com
 academy-outbound-ads.tiktok.com
@@ -9142,11 +9137,6 @@ oauth.starlingbank.com
 app.starlingbank.com
 oauth.starlingbank.com
 www.starlingbank.com
-blog.creditkarma.com
-support.creditkarma.ca
-accounts.creditkarma.com
-www.creditkarma.ca
-api.creditkarma.com
 accounts.creditkarma.com
 www.creditkarma.ca
 api.creditkarma.com
@@ -9370,8 +9360,8 @@ py.pl
 www.swiftfinancial.com
 swiftfinancial.com
 *.braintree-api.com
-*.paylution.com
 *.braintreepayments.com
+*.paylution.com
 paypal.me
 www.swiftcapital.com
 my.swiftfinancial.com
@@ -9511,9 +9501,9 @@ research.gs.com
 *.gs.de
 api.foliofn.com
 *.advisorsolutions.gs.com
-*.folioinstitutional.com
 *.folioclient.com
 *.gsam.com
+*.gs.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -11046,6 +11036,12 @@ api.uphabit.com
 web.uphabit.com
 api.uphabit.com
 web.uphabit.com
+www.bitwala.com
+api.app.bitwala.com
+www.nuri.com
+api.app.nuri.com
+app.bitwala.com
+app.nuri.com
 www.bitwala.com
 app.bitwala.com
 api.app.bitwala.com

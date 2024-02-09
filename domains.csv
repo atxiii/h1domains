@@ -8,8 +8,8 @@ vendasta,*.vendasta-internal.com,False
 vendasta,your-domain.pdqs.mobi,False
 vendasta,task-manager.biz,False
 vendasta,*.vendasta.com,False
-vendasta,*.apigateway.co,False
 vendasta,your-domain.smblogin.com,False
+vendasta,*.apigateway.co,False
 vendasta,*.vendasta.com,False
 vendasta,*.apigateway.co,False
 vendasta,*.vendasta-internal.com,False
@@ -1206,8 +1206,8 @@ fronthq,app.frontapp.com,True
 fronthq,api2.frontapp.com,True
 fronthq,app.frontapp.com,True
 fronthq,api2.frontapp.com,True
-boozt,*.booztlet.com,True
 boozt,*.boozt.com,True
+boozt,*.booztlet.com,True
 boozt,*.boozt.com,True
 boozt,*.booztlet.com,True
 trip_com,*.trip.com,True
@@ -4728,11 +4728,6 @@ kayak,www.cheapflights.com,True
 kayak,www.hotelscombined.com,True
 kayak,www.mundi.com.br,True
 kayak,business.kayak.com,True
-callsign,app.s02.callsign.com,False
-callsign,southfields-v2.s02.t00-csglobal.a2develop.com,False
-callsign,b2b.s02.callsign.com,False
-callsign,*.*,False
-callsign,*.s02.callsign.com,False
 callsign,*.s02.callsign.com,False
 callsign,*.*,False
 callsign,app.s02.callsign.com,False
@@ -4791,8 +4786,8 @@ etoro_bbp,push-d-hap.cloud.etoro.com,True
 etoro_bbp,push-demo-lightstreamer.cloud.etoro.com,True
 etoro_bbp,sts.etoro.com,True
 etoro_bbp,watchlistapi.etoro.com,True
-etoro_bbp,delta.app,True
 etoro_bbp,www.etoro.com,True
+etoro_bbp,delta.app,True
 etoro_bbp,aggregator.etoro.com,True
 etoro_bbp,cashier.etoro.com,True
 etoro_bbp,cashier-src.etoro.com,True
@@ -7279,8 +7274,8 @@ citrix,(youriwssubdomain).cloud.com,True
 citrix,*developer.cloud.com,False
 tiktok,ads.tiktok.com,True
 tiktok,live-backstage.tiktok.com,True
-tiktok,partner.tiktokshop.com,True
 tiktok,tiktok.com,True
+tiktok,partner.tiktokshop.com,True
 tiktok,fp-sg.tiktokv.com,True
 tiktok,www.pangleglobal.com,True
 tiktok,academy-outbound-ads.tiktok.com,True
@@ -9143,11 +9138,6 @@ starling_bank,oauth.starlingbank.com,False
 starling_bank,app.starlingbank.com,False
 starling_bank,oauth.starlingbank.com,False
 starling_bank,www.starlingbank.com,False
-creditkarma,blog.creditkarma.com,True
-creditkarma,support.creditkarma.ca,True
-creditkarma,accounts.creditkarma.com,True
-creditkarma,www.creditkarma.ca,True
-creditkarma,api.creditkarma.com,True
 creditkarma,accounts.creditkarma.com,True
 creditkarma,www.creditkarma.ca,True
 creditkarma,api.creditkarma.com,True
@@ -9371,8 +9361,8 @@ paypal,py.pl,True
 paypal,www.swiftfinancial.com,True
 paypal,swiftfinancial.com,True
 paypal,*.braintree-api.com,True
-paypal,*.paylution.com,True
 paypal,*.braintreepayments.com,True
+paypal,*.paylution.com,True
 paypal,paypal.me,True
 paypal,www.swiftcapital.com,True
 paypal,my.swiftfinancial.com,True
@@ -9512,9 +9502,9 @@ goldmansachs,research.gs.com,True
 goldmansachs,*.gs.de,True
 goldmansachs,api.foliofn.com,True
 goldmansachs,*.advisorsolutions.gs.com,True
-goldmansachs,*.folioinstitutional.com,True
 goldmansachs,*.folioclient.com,True
 goldmansachs,*.gsam.com,True
+goldmansachs,*.gs.com,True
 goldmansachs,*.goldmansachs.com,True
 goldmansachs,*.gs.com,True
 goldmansachs,*.goldman.com,True
@@ -11047,6 +11037,12 @@ uphabit,api.uphabit.com,False
 uphabit,web.uphabit.com,False
 uphabit,api.uphabit.com,False
 uphabit,web.uphabit.com,False
+nuri,www.bitwala.com,False
+nuri,api.app.bitwala.com,False
+nuri,www.nuri.com,False
+nuri,api.app.nuri.com,False
+nuri,app.bitwala.com,False
+nuri,app.nuri.com,False
 nuri,www.bitwala.com,False
 nuri,app.bitwala.com,False
 nuri,api.app.bitwala.com,False
