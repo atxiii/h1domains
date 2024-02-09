@@ -1349,11 +1349,11 @@ alshaya,*.westelm.com.kw,False
 alshaya,*.aloyoga.com.kw,False
 alshaya,sa.hm.com,False
 alshaya,*.starbuckscardtr.com,False
-alshaya,*.footlocker.com.eg,False
 alshaya,*.victoriassecret.com.qa,False
 alshaya,*.americaneagle.com.bh,False
 alshaya,*.americaneagle.com.kw,False
 alshaya,shayakahve.com.tr,False
+alshaya,*.footlocker.com.eg,False
 alshaya,boysweb.shaya.com.tr,False
 alshaya,qt.boots.com,False
 alshaya,kw.hm.com,False
@@ -7280,8 +7280,8 @@ citrix,(youriwssubdomain).cloud.com,True
 citrix,*developer.cloud.com,False
 tiktok,ads.tiktok.com,True
 tiktok,live-backstage.tiktok.com,True
-tiktok,tiktok.com,True
 tiktok,partner.tiktokshop.com,True
+tiktok,tiktok.com,True
 tiktok,fp-sg.tiktokv.com,True
 tiktok,www.pangleglobal.com,True
 tiktok,academy-outbound-ads.tiktok.com,True
@@ -10383,10 +10383,10 @@ adobe,firefly.adobe.com,False
 adobe,*.adobeaemcloud.com,False
 adobe,community.adobe.com,False
 adobe,accounts.frame.io,False
-adobe,*.adobe.com,False
 adobe,auth.services.adobe.com,False
 adobe,nicetryapril.na1.echosignsandbox.com,False
 adobe,app.frame.io,False
+adobe,*.adobe.com,False
 adobe,*.marketo.com,False
 adobe,*.omniture.com,False
 adobe,*.typekit.com,False

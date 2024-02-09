@@ -1348,11 +1348,11 @@ kw.boots.com
 *.aloyoga.com.kw
 sa.hm.com
 *.starbuckscardtr.com
-*.footlocker.com.eg
 *.victoriassecret.com.qa
 *.americaneagle.com.bh
 *.americaneagle.com.kw
 shayakahve.com.tr
+*.footlocker.com.eg
 boysweb.shaya.com.tr
 qt.boots.com
 kw.hm.com
@@ -7279,8 +7279,8 @@ api.adm.cloud.com
 *developer.cloud.com
 ads.tiktok.com
 live-backstage.tiktok.com
-tiktok.com
 partner.tiktokshop.com
+tiktok.com
 fp-sg.tiktokv.com
 www.pangleglobal.com
 academy-outbound-ads.tiktok.com
@@ -10382,10 +10382,10 @@ firefly.adobe.com
 *.adobeaemcloud.com
 community.adobe.com
 accounts.frame.io
-*.adobe.com
 auth.services.adobe.com
 nicetryapril.na1.echosignsandbox.com
 app.frame.io
+*.adobe.com
 *.marketo.com
 *.omniture.com
 *.typekit.com
