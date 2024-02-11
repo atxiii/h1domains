@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Feb 11 20:15:23 UTC 2024)
+## Domains with Bounties (Last Updated Sun Feb 11 21:13:20 UTC 2024)
 ```
 explore.tari.com
 www.tari.com
@@ -107,8 +107,8 @@ therapeutics.23andme.com
 you.23andme.com
 research.23andme.com
 www.mercadolibre.com.pe
-www.mercadopago.com.uy
 www.mercadopago.cl
+www.mercadopago.com.uy
 www.mercadolibre.com.mx
 www.mercadolibre.com.uy
 www.mercadolibre.cl
@@ -347,8 +347,8 @@ www.yellowpepper.com
 www.practicalmoneyskills.com
 www.visa.co.jp
 www.visa.com.tw
-www.visainfinite.ca
 sandbox.secure.checkout.visa.com
+www.visainfinite.ca
 www.visa.com.mx
 visa.com.ru
 www.visa.com.cy
@@ -368,9 +368,9 @@ bq.visa.com
 www.visa.com.kh
 www.visa.co.il
 visa.co.ni
-www.cardinalcommerce.com
 usa.visa.com
 aw.visa.com
+www.cardinalcommerce.com
 bm.visa.com
 visa.com.au
 www.visa.co.th
@@ -828,10 +828,10 @@ www.expediapartnersolutions.com
 www.expediaagents.com
 www.abritel.fr
 www.expediagroup.com
-www.ebookers.com
 www.flights.com
 www.vrbo.com
 www.travelocity.com
+www.ebookers.com
 www.lastminute.co.nz
 www.lastminute.com.au
 www.cheaptickets.com
@@ -1481,8 +1481,8 @@ matrix.redditspace.com
 *.reddithelp.com
 oauth.reddit.com
 mod.reddit.com
-accounts.reddit.com
 www.reddit.com
+accounts.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -2077,7 +2077,6 @@ track.amazon.com
 address-photos.amazon.com
 affiliate-program.amazon.com
 aca-livecards-service.amazon.com
-cloudaccesstelemetry-us-east-1.amazon.com
 dss-na.amazon.com
 ftvpes-na.amazon.com
 ftvsacs-na.amazon.com
@@ -2089,6 +2088,7 @@ dv-manifest-service-na-prod.amazon.com
 updates.amazon.com
 na.account.amazon.com
 read.amazon.com
+cloudaccesstelemetry-us-east-1.amazon.com
 manufacturing.amazon.com
 aax-us-iad.amazon.com
 completion.amazon.com
@@ -2736,8 +2736,8 @@ py.pl
 www.swiftfinancial.com
 swiftfinancial.com
 *.braintree-api.com
-*.paylution.com
 *.braintreepayments.com
+*.paylution.com
 paypal.me
 www.swiftcapital.com
 my.swiftfinancial.com
