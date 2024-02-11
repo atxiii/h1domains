@@ -120,8 +120,8 @@ login.wellhive.com
 www.niagahoster.co.id
 payments.hostinger.com
 hpanel.hostinger.com
-www.hostinger.com
 *.000webhost.com
+www.hostinger.com
 cpanel.hostinger.com
 editor.zyro.com
 logo.zyro.com
@@ -7277,9 +7277,9 @@ api.adm.cloud.com
 (youriwssubdomain).cloud.com
 *developer.cloud.com
 ads.tiktok.com
-live-backstage.tiktok.com
 partner.tiktokshop.com
 tiktok.com
+live-backstage.tiktok.com
 fp-sg.tiktokv.com
 www.pangleglobal.com
 academy-outbound-ads.tiktok.com
@@ -7961,8 +7961,8 @@ www.cloudways.com
 do.co
 hacktoberfest.com
 hackathon-tracker.digitalocean.com
-www.digitalocean.com
 platform.cloudways.com
+www.digitalocean.com
 *.digitalocean.com
 cloud.digitalocean.com
 api.digitalocean.com
