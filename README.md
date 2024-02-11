@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Feb 11 10:15:44 UTC 2024)
+## Domains with Bounties (Last Updated Sun Feb 11 11:13:41 UTC 2024)
 ```
 explore.tari.com
 www.tari.com
@@ -368,9 +368,9 @@ bq.visa.com
 www.visa.com.kh
 www.visa.co.il
 visa.co.ni
-www.cardinalcommerce.com
 usa.visa.com
 aw.visa.com
+www.cardinalcommerce.com
 bm.visa.com
 visa.com.au
 www.visa.co.th
@@ -598,8 +598,8 @@ ci.indrive.dev
 priority.eu-east-1.indriverapp.com
 auth2.indrive.tech
 debug.clairvoyance.indrive.tech
-watchdocs.indriverapp.com
 *.indriverapp.com
+watchdocs.indriverapp.com
 file-storage-front.eu-east-1.indriverapp.com
 wga.volans.tech
 volans.tech
@@ -1481,8 +1481,8 @@ matrix.redditspace.com
 *.reddithelp.com
 oauth.reddit.com
 mod.reddit.com
-accounts.reddit.com
 www.reddit.com
+accounts.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -2736,8 +2736,8 @@ py.pl
 www.swiftfinancial.com
 swiftfinancial.com
 *.braintree-api.com
-*.paylution.com
 *.braintreepayments.com
+*.paylution.com
 paypal.me
 www.swiftcapital.com
 my.swiftfinancial.com
@@ -3518,8 +3518,8 @@ yourcompany.udemy.com
 arrive-server.shopifycloud.com
 your-store.myshopify.com
 linkpop.com
-*.shopifycloud.com
 shop.app
+*.shopifycloud.com
 *.shopifykloud.com
 shopifyinbox.com
 partners.shopify.com
@@ -3560,8 +3560,8 @@ snappublisher.snapchat.com
 www.bitmoji.com
 my.snapchat.com
 playcanvas.com
-business.snapchat.com
 app.snapchat.com
+business.snapchat.com
 geofilters.snapchat.com
 *.sc-corp.net
 web.snapchat.com
@@ -3732,8 +3732,8 @@ interseller.io
 app.interseller.io
 www.greenhouse.io
 *.vine.co
-*.twitter.com
 x.com
+*.twitter.com
 grok.x.ai
 *.twimg.com
 gnip.com
