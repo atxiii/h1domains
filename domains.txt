@@ -34,8 +34,8 @@ www.tarilabs.com
 tlu.tarilabs.com
 www.hangar51.com
 *.iagcargo.com
-*.iairgroup.com
 *.iaggbs.com
+*.iairgroup.com
 www.avios.com
 www.iairgroup.com
 www.iaggbs.com
@@ -206,9 +206,9 @@ careers.booking.com
 supplier.auth.toag.booking.com
 supply-xml.booking.com
 flights.booking.com
-*.booking.com
 admin.booking.com
 booking.com
+*.booking.com
 metasearch-api.booking.com
 taxis.booking.com
 phone-validation.taxi.booking.com
@@ -3108,8 +3108,8 @@ ci.indrive.dev
 priority.eu-east-1.indriverapp.com
 auth2.indrive.tech
 debug.clairvoyance.indrive.tech
-*.indriverapp.com
 watchdocs.indriverapp.com
+*.indriverapp.com
 file-storage-front.eu-east-1.indriverapp.com
 wga.volans.tech
 volans.tech
@@ -6458,8 +6458,8 @@ matrix.redditspace.com
 *.reddithelp.com
 oauth.reddit.com
 mod.reddit.com
-accounts.reddit.com
 www.reddit.com
+accounts.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -7980,9 +7980,9 @@ unified.cloudways.com
 content-discovery.picsart.io
 video-api.picsart.io
 demo.sdk.picsart.io
-www.picsart.com
 revenue-tracking.picsart.io
 stage.optifyr.com
+www.picsart.com
 upload.picsart.com
 console.picsart.io
 picsart.io
@@ -9371,8 +9371,8 @@ py.pl
 www.swiftfinancial.com
 swiftfinancial.com
 *.braintree-api.com
-*.braintreepayments.com
 *.paylution.com
+*.braintreepayments.com
 paypal.me
 www.swiftcapital.com
 my.swiftfinancial.com
@@ -10294,8 +10294,8 @@ snappublisher.snapchat.com
 www.bitmoji.com
 my.snapchat.com
 playcanvas.com
-business.snapchat.com
 app.snapchat.com
+business.snapchat.com
 geofilters.snapchat.com
 *.sc-corp.net
 web.snapchat.com
@@ -10384,8 +10384,8 @@ accounts.frame.io
 auth.services.adobe.com
 nicetryapril.na1.echosignsandbox.com
 app.frame.io
-magento.com
 *.adobe.com
+magento.com
 *.marketo.com
 *.omniture.com
 *.typekit.com
