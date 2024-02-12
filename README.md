@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Feb 12 19:16:25 UTC 2024)
+## Domains with Bounties (Last Updated Mon Feb 12 20:17:21 UTC 2024)
 ```
 explore.tari.com
 www.tari.com
@@ -362,8 +362,8 @@ www.visa.co.ao
 www.visa.co.in
 www.visa.co.nz
 www.currencycloud.com
-www.visa.com.my
 bb.visa.com
+www.visa.com.my
 bq.visa.com
 www.visa.com.kh
 www.visa.co.il
@@ -447,8 +447,8 @@ http://www.myvisacardportal.com/welcome/enbd/product/#
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
 yourdomain.freshdesk.com
-yourdomain.freshchat.com
 yourdomain.myfreshworks.com
+yourdomain.freshchat.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -2676,8 +2676,8 @@ www.applevacations.com
 res.hyattinclusivecollection.com
 www.hyattinclusivecollection.com
 booking.applevacations.com
-*.grammarly.com
 *.grammarlyaws.com
+*.grammarly.com
 *.grammarly.io
 grammarly.ai
 *.grammarly.io
@@ -3660,8 +3660,8 @@ www.hoteltonight.com
 api.airbnb.com
 open.airbnb.com
 callbacks.airbnb.com
-www.airbnb.com
 assets.airbnb.com
+www.airbnb.com
 www.airbnb.com
 next.airbnb.com
 api.airbnb.com
