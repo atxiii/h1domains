@@ -2941,11 +2941,11 @@ snapfish.de
 www.borrowlenses.com
 jcpportraits.com
 wgwebservices.snapfish.com
-*.sbs.shutterfly.com
 snapfish.com
 shutterfly.com
 *.snapfish.com
 admin.spoonflower.com
+*.sbs.shutterfly.com
 tinyprints.com
 preschoolsmiles.com
 snapfish.co.uk
@@ -6299,8 +6299,8 @@ zsbsupport.zebra.com
 *.zams.zebra.com
 *.profitect.com
 reflexisinc.com/
-*.zebrasports.com
 supportcommunity.zebra.com
+*.zebrasports.com
 cmm01.sl.zebra.com
 zebratradeinprogram.com
 docs.zebra.com
@@ -9372,8 +9372,8 @@ py.pl
 www.swiftfinancial.com
 swiftfinancial.com
 *.braintree-api.com
-*.paylution.com
 *.braintreepayments.com
+*.paylution.com
 paypal.me
 www.swiftcapital.com
 my.swiftfinancial.com
