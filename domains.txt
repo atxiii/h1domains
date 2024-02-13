@@ -32,7 +32,6 @@ textexplore.tari.com
 www.tari.com
 www.tarilabs.com
 tlu.tarilabs.com
-www.hangar51.com
 *.iaggbs.com
 *.iagcargo.com
 *.iairgroup.com
@@ -46,7 +45,6 @@ www.avios.com
 www.iairgroup.com
 www.iaggbs.com
 *.iagcargo.com
-www.hangar51.com
 https://www.shopping.ba.com
 https://exchange.shopping.ba.com/
 https://pgt.shopping.ba.com/
@@ -178,9 +176,9 @@ www.mercadolibre.cl
 www.mercadopago.com.co
 www.mercadopago.com.pe
 api.mercadopago.com
-www.mercadolibre.com.ar
 www.mercadopago.com.ar
 www.mercadolibre.com.co
+www.mercadolibre.com.ar
 www.mercadopago.com.mx
 api.mercadolibre.com
 www.mercadopago.com.br
@@ -229,8 +227,8 @@ widget.rentalcars.com
 webhooks.booking.com
 paybridge.booking.com
 cars.booking.com
-secure.booking.com
 account.booking.com
+secure.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -1587,12 +1585,12 @@ cleanergy.ph
 veco.com.ph
 adventenergy.com.ph
 retailelectricity.com.ph
-snaboitizpower.com
 *.visayanelectric.com
 aboitizpower.info
 *.davaolight.com
 *.oilbu.com
 *.aboitizpower.com
+snaboitizpower.com
 *.snaboitiz.com
 *.cotabatolight.com
 *.apps.sofa.csg.aboitizpower.org
@@ -1777,9 +1775,9 @@ www.visa.com.vn
 www.visa.co.ao
 www.visa.co.nz
 www.currencycloud.com
-www.visa.co.in
 bb.visa.com
 www.visa.com.my
+www.visa.co.in
 bq.visa.com
 www.visa.com.kh
 www.visa.co.il
@@ -2936,8 +2934,8 @@ snapfish.ie
 snapfish.it
 *.photoccino.com
 staging.spoonflower.com
-*.lifetouch.com
 photo.walgreens.com
+*.lifetouch.com
 lifetouch.com
 prestigeportraits.com
 snapfish.de
@@ -2947,9 +2945,9 @@ jcpportraits.com
 wgwebservices.snapfish.com
 snapfish.com
 admin.spoonflower.com
-shutterfly.com
 *.snapfish.com
 *.sbs.shutterfly.com
+shutterfly.com
 tinyprints.com
 preschoolsmiles.com
 snapfish.co.uk
@@ -3404,8 +3402,8 @@ admin.8x8.com
 *.luckydays.com
 *.napoleondice.be
 *.napoleongames.be
-*.superbet.ro
 *.superbet.com
+*.superbet.ro
 *.napoleoncasino.be
 *.luckydays.ca
 *.superbet.pl
@@ -3847,8 +3845,8 @@ www.monarchmoney.com
 www.interflex.de
 www.yonomi.com
 www.gainsboroughhardware.com.au
-www.fireglass.com
 www.cisa.com
+www.fireglass.com
 www.trelock.com
 www.simons-voss.com
 www.allegion.co.uk
@@ -4629,11 +4627,11 @@ www.cafepress.com
 *.photoaffections.com
 www.canvasworld.com
 *.gifts.com
-*.canvasworld.com
 *.personalcreations.com
 *.cafepress.com
 *.iseeme.com
 www.gifts.com
+*.canvasworld.com
 *.cafepress.com
 *.canvasworld.com
 *.gifts.com
@@ -10731,8 +10729,8 @@ slack-redir.net
 *.quip.com
 app.slack.com
 edgeapi.slack.com
-slack.com
 slack-imgs.com
+slack.com
 www.quip.com
 slack.com
 api.slack.com

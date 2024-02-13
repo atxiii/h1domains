@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Feb 13 10:14:17 UTC 2024)
+## Domains with Bounties (Last Updated Tue Feb 13 11:16:19 UTC 2024)
 ```
 explore.tari.com
 www.tari.com
@@ -116,9 +116,9 @@ www.mercadolibre.cl
 www.mercadopago.com.co
 www.mercadopago.com.pe
 api.mercadopago.com
-www.mercadolibre.com.ar
 www.mercadopago.com.ar
 www.mercadolibre.com.co
+www.mercadolibre.com.ar
 www.mercadopago.com.mx
 api.mercadolibre.com
 www.mercadopago.com.br
@@ -167,8 +167,8 @@ widget.rentalcars.com
 webhooks.booking.com
 paybridge.booking.com
 cars.booking.com
-secure.booking.com
 account.booking.com
+secure.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -361,9 +361,9 @@ www.visa.com.vn
 www.visa.co.ao
 www.visa.co.nz
 www.currencycloud.com
-www.visa.co.in
 bb.visa.com
 www.visa.com.my
+www.visa.co.in
 bq.visa.com
 www.visa.com.kh
 www.visa.co.il
@@ -760,8 +760,8 @@ admin.8x8.com
 *.luckydays.com
 *.napoleondice.be
 *.napoleongames.be
-*.superbet.ro
 *.superbet.com
+*.superbet.ro
 *.napoleoncasino.be
 *.luckydays.ca
 *.superbet.pl
@@ -3856,8 +3856,8 @@ slack-redir.net
 *.quip.com
 app.slack.com
 edgeapi.slack.com
-slack.com
 slack-imgs.com
+slack.com
 www.quip.com
 slack.com
 api.slack.com
