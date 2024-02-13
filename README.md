@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Feb 13 12:21:05 UTC 2024)
+## Domains with Bounties (Last Updated Tue Feb 13 13:16:47 UTC 2024)
 ```
 explore.tari.com
 www.tari.com
@@ -524,10 +524,10 @@ firefox-ci-tc.services.mozilla.com
 mozilla-pontoon-staging.herokuapp.com
 shavar.services.mozilla.com
 phabricator.allizom.org
-relay.firefox.com
 support.mozilla.org
 stage.taskcluster.nonprod.cloudops.mozgcp.net
 hg.mozilla.org
+relay.firefox.com
 developer.mozilla.org
 www.mozilla.org
 monitor.firefox.com
@@ -1689,10 +1689,10 @@ sf-rp.sharefile.com
 api.adm.cloud.com
 api.sharefile.eu
 us.cloud.com
-*.citrixworkspacesapi.net
 (yoursubdomain).us.iws.cloud.com
 (yoursubdomain).ap.iws.cloud.com
 citrix.cloud.com
+*.citrixworkspacesapi.net
 citrix.cloud.com
 www.cloud.com
 ap-s.cloud.com
