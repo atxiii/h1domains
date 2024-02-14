@@ -2,13 +2,13 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Feb 14 18:17:42 UTC 2024)
+## Domains with Bounties (Last Updated Wed Feb 14 19:12:50 UTC 2024)
 ```
 textexplore.tari.com
 rfc.tari.com
+www.tarilabs.com
 explore.tari.com
 www.tari.com
-www.tarilabs.com
 explore.tari.com
 rfc.tari.com
 textexplore.tari.com
@@ -20,8 +20,8 @@ client-api.arkoselabs.com
 portal.arkoselabs.com
 demo.arkoselabs.com
 cdn.arkoselabs.com
-www.arkoselabs.com
 customer-sessions.arkoselabs.com
+www.arkoselabs.com
 client-api.arkoselabs.com
 cdn.arkoselabs.com
 customer-sessions.arkoselabs.com
@@ -167,8 +167,8 @@ admin.booking.com
 account.booking.com
 booking.com
 secure.booking.com
-*.booking.com
 *.rentalcars.com
+*.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -464,10 +464,10 @@ api.avtoelon.uz
 api.krisha.kz
 app.kolesa.kz
 krisha.kz
-kolesa.kz
 id.kolesa.kz
 avtoelon.uz
 m.avtoelon.uz
+kolesa.kz
 kolesa.kz
 m.kolesa.kz
 krisha.kz
@@ -533,8 +533,8 @@ support.mozilla.org
 www.mozilla.org
 stage.taskcluster.nonprod.cloudops.mozgcp.net
 monitor.firefox.com
-relay.firefox.com
 hg.mozilla.org
+relay.firefox.com
 developer.mozilla.org
 profiler.firefox.com
 vpn.mozilla.org
@@ -562,10 +562,10 @@ hiltonhotels.jp
 *.hiltonbusinessonline.com
 hilton.com
 *.hiltonhotels.jp
-*.hilton.com
 hiltonbusinessonline.com
 *.hilton.io
 *.hilton.com.tr
+*.hilton.com
 *.hilton.com
 *.hilton.io
 *.hilton.com.tr
@@ -603,8 +603,8 @@ watchdocs.indriverapp.com
 *.indriver.com
 super-services.indriverapp.com
 auth2.indrive.tech
-*.indrive.com
 *.indriverapp.com
+*.indrive.com
 *.indriverapp.com
 *.indrive.com
 *.indriver.com
@@ -1735,8 +1735,8 @@ ads.tiktok.com
 live-backstage.tiktok.com
 tiktok.com
 *.tiktokv.com
-*.tiktok.com
 partner.tiktokshop.com
+*.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2288,8 +2288,8 @@ marrtool.com
 hotel-deals.marriott.com
 cpp.marriott.com
 gatewaydsaptst1.marriott.com
-mgs.marriott.com
 www.marriott.com
+mgs.marriott.com
 homes-and-villas.marriott.com
 sso.marriott.com
 mgs.marriott.com
@@ -3136,8 +3136,8 @@ gifts.grab.com
 grab.careers
 kartaview.org
 *.taralite.com
-*.ovo.id
 *.grab.com
+*.ovo.id
 *.myteksi.com
 *.myteksi.net
 *.grab.com
@@ -3537,8 +3537,8 @@ accounts.shopify.com
 admin.shopify.com
 shop.app
 partners.shopify.com
-your-store.myshopify.com
 *.shopifycs.com
+your-store.myshopify.com
 *.shopifycs.com
 *.shopify.com
 *.shopifykloud.com
@@ -3747,8 +3747,8 @@ ide.x.ai
 grok.x.ai
 *.twimg.com
 *.twitter.com
-api.x.ai
 x.com
+api.x.ai
 *.twitter.com
 *.vine.co
 *.twimg.com
@@ -3834,8 +3834,8 @@ api.coinbase.com
 api.custody.coinbase.com
 coinbase.com
 *.coinbase.com
-pro.coinbase.com
 cloud.coinbase.com
+pro.coinbase.com
 *.coinbase.com
 *.cbhq.net
 pro.coinbase.com
