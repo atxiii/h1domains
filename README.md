@@ -2,12 +2,12 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Feb 14 19:12:50 UTC 2024)
+## Domains with Bounties (Last Updated Wed Feb 14 20:16:46 UTC 2024)
 ```
 textexplore.tari.com
 rfc.tari.com
-www.tarilabs.com
 explore.tari.com
+www.tarilabs.com
 www.tari.com
 explore.tari.com
 rfc.tari.com
@@ -94,8 +94,8 @@ medical.23andme.com
 mediacenter.23andme.com
 research.23andme.com
 blog.23andme.com
-you.23andme.com
 store.23andme.com
+you.23andme.com
 api.23andme.com
 auth.23andme.com
 blog.23andme.com
@@ -164,11 +164,11 @@ cars.booking.com
 widget.rentalcars.com
 careers.booking.com
 admin.booking.com
-account.booking.com
 booking.com
 secure.booking.com
-*.rentalcars.com
 *.booking.com
+*.rentalcars.com
+account.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -465,9 +465,9 @@ api.krisha.kz
 app.kolesa.kz
 krisha.kz
 id.kolesa.kz
-avtoelon.uz
 m.avtoelon.uz
 kolesa.kz
+avtoelon.uz
 kolesa.kz
 m.kolesa.kz
 krisha.kz
@@ -764,9 +764,9 @@ admin.8x8.com
 *.luckydays.com
 *.superbet.rs
 *.superbet.com
-*.superbet.ro
 *.superbet.pl
 *.magicjackpot.ro
+*.superbet.ro
 *.napoleongames.be
 *.superbet.ro
 *.superbet.rs
@@ -1518,9 +1518,9 @@ global-api.citymapper.com
 remix.com
 eu.remix.com
 platform.remix.com
-*.scopely.io
 *.withbuddies.com
 *.scopely.com
+*.scopely.io
 *.scopely.io
 *.scopely.com
 *.withbuddies.com
@@ -1952,8 +1952,8 @@ ca.account.sony.com
 direct.playstation.com
 store.playstation.com
 my.playstation.com
-*.sonyentertainmentnetwork.com
 my.account.sony.com
+*.sonyentertainmentnetwork.com
 *.playstation.net
 *.playstation.net
 *.sonyentertainmentnetwork.com
@@ -2488,7 +2488,6 @@ admin.rezserver.com
 www.priceline.com
 www.getaroom.com
 priceline.com
-flyiin.com
 www.priceline.com
 secure.rezserver.com
 reservations.rezserver.com
@@ -3537,8 +3536,8 @@ accounts.shopify.com
 admin.shopify.com
 shop.app
 partners.shopify.com
-*.shopifycs.com
 your-store.myshopify.com
+*.shopifycs.com
 *.shopifycs.com
 *.shopify.com
 *.shopifykloud.com
@@ -3747,8 +3746,8 @@ ide.x.ai
 grok.x.ai
 *.twimg.com
 *.twitter.com
-x.com
 api.x.ai
+x.com
 *.twitter.com
 *.vine.co
 *.twimg.com
