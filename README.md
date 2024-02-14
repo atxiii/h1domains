@@ -2,13 +2,13 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Feb 14 15:18:01 UTC 2024)
+## Domains with Bounties (Last Updated Wed Feb 14 16:20:02 UTC 2024)
 ```
 textexplore.tari.com
 rfc.tari.com
+www.tari.com
 www.tarilabs.com
 explore.tari.com
-www.tari.com
 explore.tari.com
 rfc.tari.com
 textexplore.tari.com
@@ -36,8 +36,8 @@ www.sheer.com
 my.sheer.com
 www.pornworld.com
 www.ddfcontent.com
-www.pornbox.com
 www.analvids.com
+www.pornbox.com
 www.pornbox.com
 www.analvids.com
 www.ddfcontent.com
@@ -114,7 +114,6 @@ api.mercadopago.com
 www.mercadopago.com.mx
 www.mercadolibre.com.pe
 www.mercadopago.com.ar
-www.mercadolibre.com.ar
 www.mercadolibre.com.co
 www.mercadopago.com.br
 api.mercadolibre.com
@@ -122,6 +121,7 @@ www.mercadopago.cl
 www.mercadopago.com.uy
 www.mercadolibre.cl
 www.mercadolivre.com.br
+www.mercadolibre.com.ar
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -164,11 +164,11 @@ cars.booking.com
 widget.rentalcars.com
 careers.booking.com
 admin.booking.com
-*.rentalcars.com
-*.booking.com
 account.booking.com
 booking.com
 secure.booking.com
+*.booking.com
+*.rentalcars.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -312,10 +312,10 @@ eets.gamma.redoxstage.com
 evening-earth.gamma.redoxstage.com
 launch.gamma.redoxstage.com
 testapp.redoxengine.com
-dashboard.gamma.redoxstage.com
 explore.redoxengine.com
 10x.redoxengine.com
 www.redoxengine.com
+dashboard.gamma.redoxstage.com
 10x.redoxengine.com
 testapp.redoxengine.com
 testapi.redoxengine.com
@@ -463,11 +463,11 @@ id.avtoelon.uz
 api.avtoelon.uz
 api.krisha.kz
 app.kolesa.kz
+id.kolesa.kz
+m.avtoelon.uz
 krisha.kz
 kolesa.kz
-id.kolesa.kz
 avtoelon.uz
-m.avtoelon.uz
 kolesa.kz
 m.kolesa.kz
 krisha.kz
@@ -561,11 +561,11 @@ hiltonlocalbiz.com
 hiltonhotels.jp
 *.hiltonlocalbiz.com
 *.hiltonbusinessonline.com
-*.hilton.io
-*.hilton.com.tr
 hilton.com
 *.hiltonhotels.jp
 *.hilton.com
+*.hilton.com.tr
+*.hilton.io
 *.hilton.com
 *.hilton.io
 *.hilton.com.tr
@@ -763,11 +763,11 @@ admin.8x8.com
 *.napoleonsports.be
 *.luckydays.com
 *.superbet.rs
-*.napoleongames.be
 *.superbet.com
 *.superbet.pl
 *.magicjackpot.ro
 *.superbet.ro
+*.napoleongames.be
 *.superbet.ro
 *.superbet.rs
 *.superbet.com
@@ -803,12 +803,12 @@ share.doppler.com
 *.wenewmoments.com
 hv-mtl.com
 *.10ktf.com
-*.yuga.com
 dookeydash.com
 *.boredapeyachtclub.com
 *.meebits.app
 *.otherside.xyz
 *.cryptopunks.app
+*.yuga.com
 *.boredapeyachtclub.com
 *.yuga.com
 *.yugalabs.io
@@ -986,9 +986,9 @@ api.recarga.com
 checkout.razorpay.com
 invoices.razorpay.com
 payroll.razorpay.com
-x.razorpay.com
 api.razorpay.com
 dashboard.razorpay.com
+x.razorpay.com
 dashboard.razorpay.com
 api.razorpay.com
 checkout.razorpay.com
@@ -1735,8 +1735,8 @@ ads.tiktok.com
 live-backstage.tiktok.com
 tiktok.com
 *.tiktokv.com
-partner.tiktokshop.com
 *.tiktok.com
+partner.tiktokshop.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -1792,17 +1792,17 @@ cs.money
 support.cs.money
 wiki.cs.money
 3d.cs.money
-app.faraday.ai
 api.faraday.ai
+app.faraday.ai
 app.faraday.ai
 api.faraday.ai
 *-api-*.acronis.com
 *.devicelock.com
 *.5nine.com
-account.acronis.com
-*.acronis.com
 *.acronis.work
 beta-cloud.acronis.com
+*.acronis.com
+account.acronis.com
 *-api-*.acronis.com
 *.acronis.com
 *.5nine.com
@@ -1952,9 +1952,9 @@ ca.account.sony.com
 direct.playstation.com
 store.playstation.com
 my.playstation.com
-*.playstation.net
-my.account.sony.com
 *.sonyentertainmentnetwork.com
+my.account.sony.com
+*.playstation.net
 *.playstation.net
 *.sonyentertainmentnetwork.com
 *.api.playstation.com
@@ -2191,7 +2191,6 @@ amazonpayinsurance.in
 *.aliexpress.com
 *.tmall.com
 www.alibabagroup.com
-*.alibaba-inc.com
 *.1688.com
 *.aliyun-inc.com
 *.aliyun.com
@@ -2199,6 +2198,7 @@ www.alibabagroup.com
 *.alibabacloud.com
 *.alibaba.com
 *.taobao.com
+*.alibaba-inc.com
 *.alibaba.com
 *.aliexpress.com
 *.taobao.com
@@ -2288,8 +2288,8 @@ marrtool.com
 hotel-deals.marriott.com
 cpp.marriott.com
 gatewaydsaptst1.marriott.com
-www.marriott.com
 mgs.marriott.com
+www.marriott.com
 homes-and-villas.marriott.com
 sso.marriott.com
 mgs.marriott.com
@@ -2500,10 +2500,10 @@ flyiin.com
 priceline.com
 press.priceline.com
 www.bookingholdings.com
-app.smartsheet.com
 help.smartsheet.com
 admin.smartsheet.com
 developers.smartsheet.com
+app.smartsheet.com
 app.smartsheet.com
 http://api.smartsheet.com/2.0
 admin.smartsheet.com
@@ -2987,7 +2987,7 @@ synthetics.newrelic.com
 synthetics.eu.newrelic.com
 *.eu.newrelic.com
 login.newrelic.com
-one.newrelic.com
+*.nr-ops.net
 *.newrelic.com
 *.infrastructure.newrelic.com
 *.infrastructure-data.newrelic.com
@@ -3136,8 +3136,8 @@ gifts.grab.com
 grab.careers
 kartaview.org
 *.taralite.com
-*.grab.com
 *.ovo.id
+*.grab.com
 *.myteksi.com
 *.myteksi.net
 *.grab.com
@@ -3696,6 +3696,7 @@ applause1.magisto.com
 donations.livestream.com
 vhx.tv
 api.vhx.tv
+*.magisto.com
 *.cloud.vimeo.com
 *.vimeo.com
 *.vhx.tv
@@ -3744,8 +3745,8 @@ ide.x.ai
 grok.x.ai
 *.twimg.com
 *.twitter.com
-api.x.ai
 x.com
+api.x.ai
 *.twitter.com
 *.vine.co
 *.twimg.com
@@ -3831,8 +3832,8 @@ api.coinbase.com
 api.custody.coinbase.com
 coinbase.com
 *.coinbase.com
-cloud.coinbase.com
 pro.coinbase.com
+cloud.coinbase.com
 *.coinbase.com
 *.cbhq.net
 pro.coinbase.com
@@ -3857,8 +3858,8 @@ www.quip.com
 *.quip.com
 slack-imgs.com
 slack.com
-app.slack.com
 api.slack.com
+app.slack.com
 slack.com
 api.slack.com
 status.slack.com
