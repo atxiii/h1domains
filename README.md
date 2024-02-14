@@ -2,13 +2,13 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Feb 14 14:17:49 UTC 2024)
+## Domains with Bounties (Last Updated Wed Feb 14 15:18:01 UTC 2024)
 ```
 textexplore.tari.com
 rfc.tari.com
 www.tarilabs.com
-www.tari.com
 explore.tari.com
+www.tari.com
 explore.tari.com
 rfc.tari.com
 textexplore.tari.com
@@ -36,8 +36,8 @@ www.sheer.com
 my.sheer.com
 www.pornworld.com
 www.ddfcontent.com
-www.analvids.com
 www.pornbox.com
+www.analvids.com
 www.pornbox.com
 www.analvids.com
 www.ddfcontent.com
@@ -164,11 +164,11 @@ cars.booking.com
 widget.rentalcars.com
 careers.booking.com
 admin.booking.com
+*.rentalcars.com
 *.booking.com
 account.booking.com
 booking.com
 secure.booking.com
-*.rentalcars.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -463,11 +463,11 @@ id.avtoelon.uz
 api.avtoelon.uz
 api.krisha.kz
 app.kolesa.kz
-id.kolesa.kz
-m.avtoelon.uz
 krisha.kz
 kolesa.kz
+id.kolesa.kz
 avtoelon.uz
+m.avtoelon.uz
 kolesa.kz
 m.kolesa.kz
 krisha.kz
@@ -491,7 +491,6 @@ api.tideplatform.in
 addons.allizom.org
 merino.services.mozilla.com
 aus5.mozilla.org
-mozilla-pontoon-staging.herokuapp.com
 lando.services.mozilla.com
 push.services.mozilla.com
 crash-stats.allizom.org
@@ -506,6 +505,7 @@ firefox-ci-tc.services.mozilla.com
 firefox.settings.services.mozilla.com
 accounts.firefox.com
 hg.mozilla.org
+mozilla-pontoon-staging.herokuapp.com
 addons.allizom.org
 accounts.firefox.com
 bugzilla.mozilla.org
@@ -533,8 +533,8 @@ support.mozilla.org
 www.mozilla.org
 stage.taskcluster.nonprod.cloudops.mozgcp.net
 monitor.firefox.com
-relay.firefox.com
 hg.mozilla.org
+relay.firefox.com
 developer.mozilla.org
 profiler.firefox.com
 vpn.mozilla.org
@@ -910,8 +910,8 @@ pb.deribit.com
 tools.deribit.com
 metrics.deribit.com
 test.deribit.com
-insights.deribit.com
 *.deribit.com
+insights.deribit.com
 *.deribit.com
 test.deribit.com
 insights.deribit.com
@@ -1478,8 +1478,8 @@ old.reddit.com
 api.reddit.com
 *.redditmedia.com
 ads.reddit.com
-*.reddit.com
 redditforbusiness.com
+*.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1792,17 +1792,17 @@ cs.money
 support.cs.money
 wiki.cs.money
 3d.cs.money
-api.faraday.ai
 app.faraday.ai
+api.faraday.ai
 app.faraday.ai
 api.faraday.ai
 *-api-*.acronis.com
 *.devicelock.com
 *.5nine.com
+account.acronis.com
+*.acronis.com
 *.acronis.work
 beta-cloud.acronis.com
-*.acronis.com
-account.acronis.com
 *-api-*.acronis.com
 *.acronis.com
 *.5nine.com
@@ -3383,9 +3383,9 @@ education.github.com
 npmjs.com
 *.githubapp.com
 npmjs.org
-api.github.com
 classroom.github.com
 github.com
+api.github.com
 github.com
 api.github.com
 gist.github.com
@@ -3533,11 +3533,11 @@ shopify.plus
 linkpop.com
 accounts.shopify.com
 *.shopify.com
-partners.shopify.com
 *.shopifycloud.com
-your-store.myshopify.com
 admin.shopify.com
 shop.app
+partners.shopify.com
+your-store.myshopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -3744,8 +3744,8 @@ ide.x.ai
 grok.x.ai
 *.twimg.com
 *.twitter.com
-x.com
 api.x.ai
+x.com
 *.twitter.com
 *.vine.co
 *.twimg.com
@@ -3857,8 +3857,8 @@ www.quip.com
 *.quip.com
 slack-imgs.com
 slack.com
-api.slack.com
 app.slack.com
+api.slack.com
 slack.com
 api.slack.com
 status.slack.com
@@ -3897,11 +3897,11 @@ hackerone.live
 errors.hackerone.net
 app.pullrequest.com
 api.hackerone.com
-hackerone-user-content.com
-cover-photos.hackerone-user-content.com
 www.hackerone.com
-hackerone.com
+cover-photos.hackerone-user-content.com
 b5s.hackerone-ext-content.com
+hackerone-user-content.com
+hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
