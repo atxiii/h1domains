@@ -2,11 +2,11 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Feb 14 21:14:19 UTC 2024)
+## Domains with Bounties (Last Updated Wed Feb 14 22:12:50 UTC 2024)
 ```
 rfc.tari.com
-explore.tari.com
 www.tarilabs.com
+explore.tari.com
 www.tari.com
 textexplore.tari.com
 explore.tari.com
@@ -19,9 +19,9 @@ iframe.arkoselabs.com
 client-api.arkoselabs.com
 portal.arkoselabs.com
 demo.arkoselabs.com
-cdn.arkoselabs.com
 customer-sessions.arkoselabs.com
 www.arkoselabs.com
+cdn.arkoselabs.com
 client-api.arkoselabs.com
 cdn.arkoselabs.com
 customer-sessions.arkoselabs.com
@@ -119,9 +119,9 @@ api.mercadolibre.com
 www.mercadopago.cl
 www.mercadopago.com.uy
 www.mercadolibre.cl
-www.mercadolivre.com.br
 www.mercadolibre.com.ar
 www.mercadopago.com.ar
+www.mercadolivre.com.br
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -382,9 +382,9 @@ usa.visa.com
 bd.visa.com
 www.visa.co.jp
 www.visa.com.tw
-sandbox.secure.checkout.visa.com
 www.yellowpepper.com
 www.practicalmoneyskills.com
+www.visa.com.ph
 aw.visa.com
 bb.visa.com
 bd.visa.com
@@ -463,11 +463,11 @@ id.avtoelon.uz
 api.avtoelon.uz
 api.krisha.kz
 app.kolesa.kz
-krisha.kz
-id.kolesa.kz
 m.avtoelon.uz
 kolesa.kz
+id.kolesa.kz
 avtoelon.uz
+krisha.kz
 kolesa.kz
 m.kolesa.kz
 krisha.kz
@@ -533,8 +533,8 @@ support.mozilla.org
 www.mozilla.org
 stage.taskcluster.nonprod.cloudops.mozgcp.net
 monitor.firefox.com
-relay.firefox.com
 hg.mozilla.org
+relay.firefox.com
 developer.mozilla.org
 profiler.firefox.com
 vpn.mozilla.org
@@ -562,9 +562,9 @@ hiltonhotels.jp
 *.hiltonbusinessonline.com
 hilton.com
 *.hiltonhotels.jp
+*.hilton.com
 *.hilton.com.tr
 *.hilton.io
-*.hilton.com
 hiltonbusinessonline.com
 *.hilton.com
 *.hilton.io
@@ -602,8 +602,8 @@ cargo.indrive.com
 watchdocs.indriverapp.com
 *.indriver.com
 super-services.indriverapp.com
-auth2.indrive.tech
 *.indriverapp.com
+auth2.indrive.tech
 *.indrive.com
 *.indriverapp.com
 *.indrive.com
@@ -1433,8 +1433,8 @@ api.taxjar.com
 *.recko.io
 *.link.co
 app.taxjar.com
-api.stripe.com
 *.stripe.com
+api.stripe.com
 api.stripe.com
 *.stripe.com
 *.touchtechpayments.com
@@ -1448,8 +1448,8 @@ app.taxjar.com
 *.link.co
 hackerone-m1rtuq8orz.hbstaging.website
 hackerone-m1rtuq8orz.hbstaging.website
-www.urbancompany.com
 www.urbanclap.com
+www.urbancompany.com
 www.urbancompany.com
 www.urbanclap.com
 new.reddit.com
@@ -1519,8 +1519,8 @@ remix.com
 eu.remix.com
 platform.remix.com
 *.withbuddies.com
-*.scopely.com
 *.scopely.io
+*.scopely.com
 *.scopely.io
 *.scopely.com
 *.withbuddies.com
@@ -1619,8 +1619,8 @@ ccloud.yoti.com
 code.yoti.com
 api.yoti.com
 identity.yoti.com
-www.yotisign.com
 hub.yoti.com
+www.yotisign.com
 core.yoti.com
 api.yoti.com
 ccloud.yoti.com
@@ -1734,9 +1734,9 @@ www.pangleglobal.com
 ads.tiktok.com
 live-backstage.tiktok.com
 tiktok.com
+partner.tiktokshop.com
 *.tiktokv.com
 *.tiktok.com
-partner.tiktokshop.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -1990,8 +1990,8 @@ portal.polygon.technology
 *.miwifi.com
 *.miui.com
 *.xiaomiyoupin.com
-*.mi.com
 *.xiaomi.com
+*.mi.com
 *.mi.com
 *.xiaomi.com
 *.miui.com
@@ -2517,8 +2517,8 @@ developers.smartsheet.com
 *invitations-api.trustpilot.com
 *share.trustpilot.com
 *business.trustpilot.com
-*legal.trustpilot.com
 *www.trustpilot.com
+*legal.trustpilot.com
 *api.trustpilot.com
 *authenticate.trustpilot.com
 *invitations-api.trustpilot.com
@@ -3533,10 +3533,10 @@ linkpop.com
 accounts.shopify.com
 *.shopify.com
 *.shopifycloud.com
-shop.app
-partners.shopify.com
 your-store.myshopify.com
 *.shopifycs.com
+shop.app
+partners.shopify.com
 admin.shopify.com
 *.shopifycs.com
 *.shopify.com
@@ -3746,8 +3746,8 @@ ide.x.ai
 grok.x.ai
 *.twimg.com
 *.twitter.com
-api.x.ai
 x.com
+api.x.ai
 *.twitter.com
 *.vine.co
 *.twimg.com
@@ -3899,8 +3899,8 @@ hackerone.live
 errors.hackerone.net
 app.pullrequest.com
 api.hackerone.com
-www.hackerone.com
 cover-photos.hackerone-user-content.com
+www.hackerone.com
 b5s.hackerone-ext-content.com
 hackerone-user-content.com
 hackerone.com
