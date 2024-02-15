@@ -2,13 +2,13 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Feb 15 16:19:50 UTC 2024)
+## Domains with Bounties (Last Updated Thu Feb 15 17:18:05 UTC 2024)
 ```
 rfc.tari.com
 www.tarilabs.com
+textexplore.tari.com
 explore.tari.com
 www.tari.com
-textexplore.tari.com
 explore.tari.com
 rfc.tari.com
 textexplore.tari.com
@@ -36,8 +36,8 @@ www.sheer.com
 my.sheer.com
 www.pornworld.com
 www.ddfcontent.com
-www.pornbox.com
 www.analvids.com
+www.pornbox.com
 www.pornbox.com
 www.analvids.com
 www.ddfcontent.com
@@ -91,11 +91,11 @@ therapeutics.23andme.com
 api.23andme.com
 mediacenter.23andme.com
 research.23andme.com
-store.23andme.com
 blog.23andme.com
+store.23andme.com
 auth.23andme.com
-you.23andme.com
 medical.23andme.com
+you.23andme.com
 api.23andme.com
 auth.23andme.com
 blog.23andme.com
@@ -118,10 +118,10 @@ api.mercadolibre.com
 www.mercadopago.cl
 www.mercadopago.com.uy
 www.mercadolibre.cl
-www.mercadopago.com.ar
 www.mercadolibre.com.ar
 www.mercadolibre.com.co
 www.mercadolivre.com.br
+www.mercadopago.com.ar
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -164,11 +164,11 @@ cars.booking.com
 widget.rentalcars.com
 careers.booking.com
 admin.booking.com
-secure.booking.com
-*.booking.com
-booking.com
 account.booking.com
 *.rentalcars.com
+booking.com
+*.booking.com
+secure.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -1433,8 +1433,8 @@ api.taxjar.com
 *.recko.io
 *.link.co
 app.taxjar.com
-*.stripe.com
 api.stripe.com
+*.stripe.com
 api.stripe.com
 *.stripe.com
 *.touchtechpayments.com
@@ -1448,8 +1448,8 @@ app.taxjar.com
 *.link.co
 hackerone-m1rtuq8orz.hbstaging.website
 hackerone-m1rtuq8orz.hbstaging.website
-www.urbanclap.com
 www.urbancompany.com
+www.urbanclap.com
 www.urbancompany.com
 www.urbanclap.com
 new.reddit.com
@@ -1511,16 +1511,16 @@ www.spiketrap.io
 www.coinspot.com.au
 www.coinspot.com.au
 global-api.citymapper.com
-platform.remix.com
 eu.remix.com
 remix.com
+platform.remix.com
 global-api.citymapper.com
 remix.com
 eu.remix.com
 platform.remix.com
 *.withbuddies.com
-*.scopely.io
 *.scopely.com
+*.scopely.io
 *.scopely.io
 *.scopely.com
 *.withbuddies.com
@@ -1733,10 +1733,10 @@ business.tiktok.com
 www.pangleglobal.com
 live-backstage.tiktok.com
 ads.tiktok.com
-tiktok.com
 *.tiktokv.com
 partner.tiktokshop.com
 *.tiktok.com
+tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2316,8 +2316,8 @@ www.goodrx.com
 www.goodrx.com
 *.ra.roblox.com
 *.roblox.com
-*.guilded.gg
 *.rbx.com
+*.guilded.gg
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -2683,8 +2683,8 @@ www.hyattinclusivecollection.com
 booking.applevacations.com
 grammarly.ai
 *.grammarly.io
-*.grammarlyaws.com
 *.grammarly.com
+*.grammarlyaws.com
 *.grammarly.io
 *.grammarlyaws.com
 *.grammarly.com
@@ -2813,8 +2813,8 @@ m.chaturbate.com
 blog.chaturbate.com
 billingsupport.chaturbate.com
 secure.chaturbate.com
-testnet.bitmex.com
 *.bitmex.com
+testnet.bitmex.com
 *.bitmex.com
 testnet.bitmex.com
 *.staging-airtableblocks.com
@@ -3132,8 +3132,8 @@ gifts.grab.com
 grab.careers
 kartaview.org
 *.taralite.com
-*.grab.com
 *.ovo.id
+*.grab.com
 *.myteksi.com
 *.myteksi.net
 *.grab.com
@@ -3427,8 +3427,8 @@ api2.grofers.com
 api.grofers.com
 *.zomans.com
 *.hyperpure.com
-*.runnr.in
 blinkit.com
+*.runnr.in
 *.zomato.com
 *.zomato.com
 *.zdev.net
@@ -3528,13 +3528,13 @@ arrive-server.shopifycloud.com
 shopify.plus
 *.shopifycloud.com
 shop.app
-your-store.myshopify.com
-*.shopify.com
 *.shopifycs.com
 accounts.shopify.com
 partners.shopify.com
 admin.shopify.com
 linkpop.com
+*.shopify.com
+your-store.myshopify.com
 *.shopifycs.com
 *.shopify.com
 *.shopifykloud.com
