@@ -2,12 +2,12 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Feb 15 20:16:04 UTC 2024)
+## Domains with Bounties (Last Updated Thu Feb 15 21:14:23 UTC 2024)
 ```
 rfc.tari.com
 www.tarilabs.com
-explore.tari.com
 textexplore.tari.com
+explore.tari.com
 www.tari.com
 explore.tari.com
 rfc.tari.com
@@ -18,8 +18,8 @@ verify.arkoselabs.com
 iframe.arkoselabs.com
 client-api.arkoselabs.com
 demo.arkoselabs.com
-cdn.arkoselabs.com
 customer-sessions.arkoselabs.com
+cdn.arkoselabs.com
 www.arkoselabs.com
 portal.arkoselabs.com
 client-api.arkoselabs.com
@@ -91,11 +91,11 @@ therapeutics.23andme.com
 api.23andme.com
 mediacenter.23andme.com
 research.23andme.com
-store.23andme.com
 blog.23andme.com
-auth.23andme.com
+store.23andme.com
 medical.23andme.com
 you.23andme.com
+auth.23andme.com
 api.23andme.com
 auth.23andme.com
 blog.23andme.com
@@ -118,8 +118,8 @@ www.mercadopago.com.uy
 www.mercadolibre.cl
 www.mercadolibre.com.ar
 www.mercadolibre.com.co
-www.mercadolibre.com.mx
 www.mercadopago.com.ar
+www.mercadolibre.com.mx
 www.mercadopago.com.br
 www.mercadolivre.com.br
 api.mercadopago.com
@@ -532,8 +532,8 @@ support.mozilla.org
 www.mozilla.org
 stage.taskcluster.nonprod.cloudops.mozgcp.net
 monitor.firefox.com
-relay.firefox.com
 hg.mozilla.org
+relay.firefox.com
 developer.mozilla.org
 profiler.firefox.com
 vpn.mozilla.org
@@ -1432,8 +1432,8 @@ api.taxjar.com
 *.recko.io
 *.link.co
 app.taxjar.com
-api.stripe.com
 *.stripe.com
+api.stripe.com
 api.stripe.com
 *.stripe.com
 *.touchtechpayments.com
@@ -1518,8 +1518,8 @@ remix.com
 eu.remix.com
 platform.remix.com
 *.withbuddies.com
-*.scopely.com
 *.scopely.io
+*.scopely.com
 *.scopely.io
 *.scopely.com
 *.withbuddies.com
@@ -1687,10 +1687,10 @@ api.sharefile.eu
 secure.sharefile.eu
 (yoursubdomain).sharefile.com
 api.sharefile.com
-www.cloud.com
 *.citrixworkspacesapi.net
 citrix.cloud.com
 (youriwssubdomain).cloud.com
+www.cloud.com
 citrix.cloud.com
 www.cloud.com
 ap-s.cloud.com
@@ -2550,7 +2550,6 @@ dashboard.omise.co
 offsite.omise.co
 www.omise.co
 www.opn.ooo
-world.hyatt.com
 newsroom.images.hyatt.com
 soaext.oft.hyatt.com
 roominglist.hyatt.com
@@ -2596,6 +2595,7 @@ book.cheapcaribbean.com
 holidays-fj.fijiairways.com
 res.treasureisland.globalbookingsolutions.com
 res.vacations.sesameplace.com
+www.triseptsolutions.com
 hyatt.com
 www.hyatt.com
 world.hyatt.com
@@ -3131,8 +3131,8 @@ gifts.grab.com
 grab.careers
 kartaview.org
 *.taralite.com
-*.ovo.id
 *.grab.com
+*.ovo.id
 *.myteksi.com
 *.myteksi.net
 *.grab.com
@@ -3269,8 +3269,8 @@ lifeinvader.com
 rockstarnorth.com
 circolocorecords.com/
 www.files.com
-your-assigned-subdomain.files.com
 app.files.com
+your-assigned-subdomain.files.com
 app.files.com
 your-assigned-subdomain.files.com
 www.files.com
@@ -3521,7 +3521,6 @@ yourcompany.udemy.com
 www.udemy.com
 www.udemy.com
 yourcompany.udemy.com
-*.shopifykloud.com
 shopifyinbox.com
 arrive-server.shopifycloud.com
 shopify.plus
@@ -3531,9 +3530,10 @@ linkpop.com
 accounts.shopify.com
 *.shopifycloud.com
 *.shopify.com
-your-store.myshopify.com
 admin.shopify.com
 shop.app
+*.shopifykloud.com
+your-store.myshopify.com
 *.shopifycs.com
 *.shopify.com
 *.shopifykloud.com
@@ -3575,10 +3575,10 @@ spectacles.com
 playcanvas.com
 app.snapchat.com
 business.snapchat.com
-accounts.snapchat.com
 ads.snapchat.com
 web.snapchat.com
 www.bitmoji.com
+accounts.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
@@ -3887,15 +3887,15 @@ mta-sts.wearehackerone.com
 reviewer.pullrequest.com
 hackathon-photos-us-east-2.hackerone-user-content.com
 cover-photos-us-east-2.hackerone-user-content.com
-errors.hackerone.net
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
+errors.hackerone.net
 a5s.hackerone-ext-content.com
 b5s.hackerone-ext-content.com
-cover-photos.hackerone-user-content.com
 api.hackerone.com
-ctf.hacker101.com
+cover-photos.hackerone-user-content.com
 hackerone-ext-content.com
 app.pullrequest.com
+ctf.hacker101.com
 hackerone-user-content.com
 hackerone.live
 www.hackerone.com
