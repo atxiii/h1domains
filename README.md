@@ -2,12 +2,12 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Feb 15 12:22:08 UTC 2024)
+## Domains with Bounties (Last Updated Thu Feb 15 13:14:49 UTC 2024)
 ```
 rfc.tari.com
 www.tarilabs.com
-explore.tari.com
 textexplore.tari.com
+explore.tari.com
 www.tari.com
 explore.tari.com
 rfc.tari.com
@@ -69,12 +69,12 @@ editor.zyro.com
 cpanel.hostinger.com
 www.niagahoster.co.id
 www.zyro.com
-*.000webhost.com
 backend.zyro.com
 logo.zyro.com
 payments.hostinger.com
 hpanel.hostinger.com
 www.hostinger.com
+*.000webhost.com
 *.000webhost.com
 www.hostinger.com
 cpanel.hostinger.com
@@ -91,9 +91,9 @@ therapeutics.23andme.com
 api.23andme.com
 mediacenter.23andme.com
 research.23andme.com
+blog.23andme.com
 store.23andme.com
 you.23andme.com
-blog.23andme.com
 medical.23andme.com
 auth.23andme.com
 api.23andme.com
@@ -119,9 +119,9 @@ www.mercadopago.cl
 www.mercadopago.com.uy
 www.mercadolibre.cl
 www.mercadopago.com.ar
-www.mercadolivre.com.br
-www.mercadolibre.com.co
 www.mercadolibre.com.ar
+www.mercadolibre.com.co
+www.mercadolivre.com.br
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -563,9 +563,9 @@ hiltonhotels.jp
 hilton.com
 *.hiltonhotels.jp
 hiltonbusinessonline.com
-*.hilton.io
-*.hilton.com.tr
 *.hilton.com
+*.hilton.com.tr
+*.hilton.io
 *.hilton.com
 *.hilton.io
 *.hilton.com.tr
@@ -602,9 +602,9 @@ cargo.indrive.com
 watchdocs.indriverapp.com
 *.indriver.com
 super-services.indriverapp.com
+*.indriverapp.com
 *.indrive.com
 auth2.indrive.tech
-*.indriverapp.com
 *.indriverapp.com
 *.indrive.com
 *.indriver.com
@@ -1089,8 +1089,8 @@ rankings.etoro.com
 bullsheet.me
 candle.etoro.com
 r.etoro.com
-www.etoro.com
 delta.app
+www.etoro.com
 www.etoro.com
 etoropartners.com
 partners.etoro.com
@@ -1130,8 +1130,8 @@ admin.instacart.com
 shoppers.instacart.com
 api.instacart.com
 *.instacart.tools
-*.instacart.com
 www.instacart.com
+*.instacart.com
 *.instacart.com
 *.instacart.tools
 api.instacart.com
@@ -1477,8 +1477,8 @@ old.reddit.com
 api.reddit.com
 *.redditmedia.com
 ads.reddit.com
-www.reddit.com
 *.reddit.com
+www.reddit.com
 redditforbusiness.com
 *.snooguts.net
 *.redditmedia.com
@@ -1519,8 +1519,8 @@ remix.com
 eu.remix.com
 platform.remix.com
 *.withbuddies.com
-*.scopely.io
 *.scopely.com
+*.scopely.io
 *.scopely.io
 *.scopely.com
 *.withbuddies.com
@@ -1619,8 +1619,8 @@ ccloud.yoti.com
 code.yoti.com
 api.yoti.com
 identity.yoti.com
-hub.yoti.com
 www.yotisign.com
+hub.yoti.com
 core.yoti.com
 api.yoti.com
 ccloud.yoti.com
@@ -1732,11 +1732,11 @@ shop.tiktok.com
 business.tiktok.com
 www.pangleglobal.com
 live-backstage.tiktok.com
-tiktok.com
 *.tiktokv.com
 *.tiktok.com
 ads.tiktok.com
 partner.tiktokshop.com
+tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -1799,9 +1799,9 @@ api.faraday.ai
 *-api-*.acronis.com
 *.devicelock.com
 *.5nine.com
-account.acronis.com
 *.acronis.work
 beta-cloud.acronis.com
+account.acronis.com
 *.acronis.com
 *-api-*.acronis.com
 *.acronis.com
@@ -2195,9 +2195,9 @@ www.alibabagroup.com
 *.Daraz.com
 *.alibabacloud.com
 *.alibaba.com
-*.taobao.com
-*.1688.com
 *.alibaba-inc.com
+*.1688.com
+*.taobao.com
 *.alibaba.com
 *.aliexpress.com
 *.taobao.com
@@ -2316,8 +2316,8 @@ www.goodrx.com
 www.goodrx.com
 *.ra.roblox.com
 *.rbx.com
-*.guilded.gg
 *.roblox.com
+*.guilded.gg
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -3260,8 +3260,8 @@ circolocorecords.com/
 lifeinvader.com
 prod.ros.rockstargames.com
 socialclub.rockstargames.com
-*.rockstargames.com
 support.rockstargames.com
+*.rockstargames.com
 socialclub.rockstargames.com
 prod.ros.rockstargames.com
 support.rockstargames.com
@@ -3533,8 +3533,8 @@ your-store.myshopify.com
 shop.app
 partners.shopify.com
 *.shopify.com
-accounts.shopify.com
 *.shopifycs.com
+accounts.shopify.com
 admin.shopify.com
 *.shopifycs.com
 *.shopify.com
@@ -3857,8 +3857,8 @@ www.quip.com
 slack-imgs.com
 api.slack.com
 slack.com
-*.quip.com
 app.slack.com
+*.quip.com
 slack.com
 api.slack.com
 status.slack.com
@@ -3890,18 +3890,18 @@ reviewer.pullrequest.com
 hackathon-photos-us-east-2.hackerone-user-content.com
 hackerone.live
 www.hackerone.com
-cover-photos-us-east-2.hackerone-user-content.com
-errors.hackerone.net
 hackerone-user-content.com
+cover-photos-us-east-2.hackerone-user-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
+errors.hackerone.net
 a5s.hackerone-ext-content.com
 b5s.hackerone-ext-content.com
-cover-photos.hackerone-user-content.com
 api.hackerone.com
-ctf.hacker101.com
-hackerone.com
+cover-photos.hackerone-user-content.com
 hackerone-ext-content.com
 app.pullrequest.com
+ctf.hacker101.com
+hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
