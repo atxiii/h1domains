@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Feb 16 21:14:03 UTC 2024)
+## Domains with Bounties (Last Updated Fri Feb 16 22:15:05 UTC 2024)
 ```
 getworldcoin.com
 *.worldcoin-distributors.com
@@ -23,8 +23,8 @@ getworldcoin.com
 bioid-management.app
 worldcoin.org
 rfc.tari.com
-www.tarilabs.com
 explore.tari.com
+www.tarilabs.com
 textexplore.tari.com
 www.tari.com
 explore.tari.com
@@ -78,8 +78,8 @@ sso-sprint.dynatracelabs.com
 university-staging.dynatracelabs.com
 myaccount-hardening.dynatracelabs.com
 demo.dynamic.xyz
-app.dynamic-preprod.xyz
 app.dynamic.xyz
+app.dynamic-preprod.xyz
 app.dynamic-preprod.xyz
 demo.dynamic.xyz
 app.dynamic.xyz
@@ -91,8 +91,8 @@ logo.zyro.com
 payments.hostinger.com
 hpanel.hostinger.com
 *.000webhost.com
-backend.zyro.com
 www.hostinger.com
+backend.zyro.com
 *.000webhost.com
 www.hostinger.com
 cpanel.hostinger.com
@@ -108,11 +108,11 @@ education.23andme.com
 therapeutics.23andme.com
 api.23andme.com
 research.23andme.com
+you.23andme.com
 blog.23andme.com
 store.23andme.com
 medical.23andme.com
 auth.23andme.com
-you.23andme.com
 mediacenter.23andme.com
 api.23andme.com
 auth.23andme.com
@@ -182,11 +182,11 @@ cars.booking.com
 widget.rentalcars.com
 careers.booking.com
 admin.booking.com
+*.rentalcars.com
 secure.booking.com
 booking.com
 account.booking.com
 *.booking.com
-*.rentalcars.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -391,7 +391,6 @@ www.practicalbusinessskills.org
 www.visa.co.ke
 www.visa.co.id
 www.visa.co.uk
-www.cardinalcommerce.com
 bd.visa.com
 www.visa.co.jp
 www.visa.com.tw
@@ -399,7 +398,8 @@ www.practicalmoneyskills.com
 www.visa.com.ph
 bb.visa.com
 www.visa.com.my
-www.yellowpepper.com
+www.cybersource.com
+www.visainfinite.ca
 aw.visa.com
 visa.co.cr
 aw.visa.com
@@ -463,8 +463,8 @@ http://myvisainfinite.com/suntrust/en_us/home.html
 http://www.myvisacardportal.com/welcome/enbd/product/#
 yourdomain.freshcaller.com
 yourdomain.freshchat.com
-yourdomain.freshservice.com
 yourdomain.myfreshworks.com
+yourdomain.freshservice.com
 yourdomain.freshdesk.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
@@ -476,13 +476,13 @@ app.avtoelon.uz
 id.avtoelon.uz
 api.avtoelon.uz
 app.kolesa.kz
-krisha.kz
 avtoelon.uz
 id.kolesa.kz
 api.kolesa.kz
 api.krisha.kz
 m.krisha.kz
 kolesa.kz
+krisha.kz
 m.kolesa.kz
 m.avtoelon.uz
 kolesa.kz
@@ -693,13 +693,13 @@ mobile.s-pankki.fi
 extranet.s-pankki.fi
 tunnistus.s-ryhma.fi
 digili.s-cloud.fi
-www.prisma.fi
 api.sokos.fi
 cfapi.voikukka.fi
 www.s-kaupat.fi
 www.sokos.fi
 online.s-pankki.fi
 www.s-pankki.fi
+www.prisma.fi
 online.s-pankki.fi
 www.s-pankki.fi
 https://crosskey.io/stores/s-pankki/apis
@@ -782,10 +782,10 @@ admin.8x8.com
 *.luckydays.com
 *.superbet.rs
 *.superbet.com
-*.superbet.pl
-*.magicjackpot.ro
 *.napoleongames.be
 *.superbet.ro
+*.superbet.pl
+*.magicjackpot.ro
 *.superbet.ro
 *.superbet.rs
 *.superbet.com
@@ -1104,11 +1104,11 @@ push-demo-lightstreamer.cloud.etoro.com
 sts.etoro.com
 watchlistapi.etoro.com
 rankings.etoro.com
-bullsheet.me
 candle.etoro.com
 r.etoro.com
 delta.app
 www.etoro.com
+bullsheet.me
 www.etoro.com
 etoropartners.com
 partners.etoro.com
@@ -1167,8 +1167,8 @@ community.databricks.com
 labs.databricks.com
 marketplace.databricks.com
 accounts.cloud.databricks.com
-support.databricks.com
 advocates.databricks.com
+support.databricks.com
 databricks.com
 databricks.com
 academy.databricks.com
@@ -1705,10 +1705,10 @@ api.sharefile.eu
 secure.sharefile.eu
 (yoursubdomain).sharefile.com
 api.sharefile.com
-(youriwssubdomain).cloud.com
-www.cloud.com
 *.citrixworkspacesapi.net
 citrix.cloud.com
+(youriwssubdomain).cloud.com
+www.cloud.com
 citrix.cloud.com
 www.cloud.com
 ap-s.cloud.com
@@ -1744,14 +1744,14 @@ fp-sg.tiktokv.com
 developers.tiktok.com
 effecthouse.tiktok.com
 careers.tiktok.com
+shop.tiktok.com
 *.tiktokv.com
 tiktok.com
-shop.tiktok.com
 *.tiktok.com
 creatormarketplace.tiktok.com
-business.tiktok.com
 www.pangleglobal.com
 live-backstage.tiktok.com
+business.tiktok.com
 partner.tiktokshop.com
 ads.tiktok.com
 *.tiktok.com
@@ -2333,9 +2333,9 @@ http://www.shopmarriott.com
 www.goodrx.com
 www.goodrx.com
 *.ra.roblox.com
+*.roblox.com
 *.rbx.com
 *.guilded.gg
-*.roblox.com
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -2502,7 +2502,7 @@ press.priceline.com
 admin.rezserver.com
 flyiin.com
 www.bookingholdings.com
-reservations.rezserver.com
+www.priceline.com
 www.priceline.com
 secure.rezserver.com
 reservations.rezserver.com
@@ -2701,8 +2701,8 @@ www.hyattinclusivecollection.com
 booking.applevacations.com
 grammarly.ai
 *.grammarly.io
-*.grammarly.com
 *.grammarlyaws.com
+*.grammarly.com
 *.grammarly.io
 *.grammarlyaws.com
 *.grammarly.com
@@ -3001,7 +3001,7 @@ synthetics.newrelic.com
 synthetics.eu.newrelic.com
 *.nr-ops.net
 login.newrelic.com
-*.eu.newrelic.com
+*.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
 *.infrastructure-data.newrelic.com
@@ -3070,8 +3070,8 @@ hybrid-analysis.com
 *.preempt.com
 *.crowdstrike.com
 www.crowdstrike.com
-*.humio.com
 falcon-sandbox.com
+*.humio.com
 *.crowdstrike.com
 *.humio.com
 *.securecircle.com
@@ -3149,8 +3149,8 @@ gifts.grab.com
 *.myteksi.net
 grab.careers
 kartaview.org
-*.taralite.com
 *.grab.com
+*.taralite.com
 *.ovo.id
 *.myteksi.com
 *.myteksi.net
