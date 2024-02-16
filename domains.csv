@@ -166,7 +166,6 @@ egress-vdp,www.egress.com,False
 23andme_bbp,therapeutics.23andme.com,True
 23andme_bbp,you.23andme.com,True
 23andme_bbp,research.23andme.com,True
-mercadolibre,www.mercadopago.com.pe,True
 mercadolibre,www.mercadolibre.com.uy,True
 mercadolibre,api.mercadopago.com,True
 mercadolibre,www.mercadopago.com.mx,True
@@ -182,6 +181,7 @@ mercadolibre,www.mercadolibre.com.mx,True
 mercadolibre,www.mercadopago.com.br,True
 mercadolibre,www.mercadolivre.com.br,True
 mercadolibre,www.mercadopago.com.co,True
+mercadolibre,www.mercadopago.com.pe,True
 mercadolibre,api.mercadopago.com,True
 mercadolibre,www.mercadopago.com.ar,True
 mercadolibre,www.mercadopago.com.br,True
@@ -3250,8 +3250,8 @@ kiwicom,auth.skypicker.com,True
 kiwicom,jobs.kiwi.com,True
 kiwicom,*.kiwi.com,True
 kiwicom,www.kiwi.com,True
-kiwicom,tequila.kiwi.com,True
 kiwicom,*.skypicker.com,True
+kiwicom,tequila.kiwi.com,True
 kiwicom,*.kiwi.com,True
 kiwicom,*.skypicker.com,True
 kiwicom,www.kiwi.com,True
@@ -7282,15 +7282,15 @@ tiktok,developers.tiktok.com,True
 tiktok,effecthouse.tiktok.com,True
 tiktok,careers.tiktok.com,True
 tiktok,creatormarketplace.tiktok.com,True
-tiktok,business.tiktok.com,True
 tiktok,live-backstage.tiktok.com,True
 tiktok,ads.tiktok.com,True
 tiktok,*.tiktokv.com,True
 tiktok,shop.tiktok.com,True
 tiktok,tiktok.com,True
 tiktok,www.pangleglobal.com,True
-tiktok,partner.tiktokshop.com,True
 tiktok,*.tiktok.com,True
+tiktok,partner.tiktokshop.com,True
+tiktok,business.tiktok.com,True
 tiktok,*.tiktok.com,True
 tiktok,business.tiktok.com,True
 tiktok,ads.tiktok.com,True
@@ -7975,8 +7975,8 @@ digitalocean,unified.cloudways.com,False
 digitalocean,api.digitalocean.com,False
 digitalocean,www.cloudways.com,False
 digitalocean,www.digitalocean.com,False
-digitalocean,cloud.digitalocean.com,False
 digitalocean,169.254.169.254,False
+digitalocean,cloud.digitalocean.com,False
 digitalocean,*.digitalocean.com,False
 digitalocean,cloud.digitalocean.com,False
 digitalocean,api.digitalocean.com,False
@@ -9375,7 +9375,6 @@ flickr,*.flickr.com,True
 matomo,matomo.cloud,True
 matomo,matomo.cloud,True
 matomo,https://github.com/matomo-org/docker,True
-paypal,paypal.me,True
 paypal,py.pl,True
 paypal,*.paydiant.com,True
 paypal,*.braintree.tools,True
@@ -9404,6 +9403,7 @@ paypal,*.paypalcorp.com,True
 paypal,*.xoom.com,True
 paypal,paypalobjects.com,True
 paypal,*.paypal.com,True
+paypal,paypal.me,True
 paypal,www.paypal-*.com,True
 paypal,*.xoom.com,True
 paypal,*.paypal.com,True
@@ -10154,8 +10154,8 @@ github,npmjs.com,True
 github,*.githubapp.com,True
 github,npmjs.org,True
 github,classroom.github.com,True
-github,github.com,True
 github,api.github.com,True
+github,github.com,True
 github,github.com,True
 github,api.github.com,True
 github,gist.github.com,True
@@ -10309,8 +10309,8 @@ shopify,accounts.shopify.com,True
 shopify,*.shopifycloud.com,True
 shopify,*.shopifykloud.com,True
 shopify,your-store.myshopify.com,True
-shopify,admin.shopify.com,True
 shopify,partners.shopify.com,True
+shopify,admin.shopify.com,True
 shopify,*.shopifycs.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
