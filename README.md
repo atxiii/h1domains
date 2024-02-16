@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Feb 16 10:15:17 UTC 2024)
+## Domains with Bounties (Last Updated Fri Feb 16 11:12:58 UTC 2024)
 ```
 rfc.tari.com
 textexplore.tari.com
@@ -563,8 +563,8 @@ hiltonhotels.jp
 hiltonbusinessonline.com
 *.hilton.io
 *.hilton.com.tr
-hilton.com
 *.hilton.com
+hilton.com
 *.hilton.com
 *.hilton.io
 *.hilton.com.tr
@@ -698,8 +698,8 @@ auth.skypicker.com
 jobs.kiwi.com
 *.kiwi.com
 www.kiwi.com
-tequila.kiwi.com
 *.skypicker.com
+tequila.kiwi.com
 *.kiwi.com
 *.skypicker.com
 www.kiwi.com
@@ -729,6 +729,7 @@ user-profile.8x8.com
 cloud8.8x8.com
 *.packet8.net
 sso.8x8.com
+voapi.8x8.com
 *.8x8.vc
 *.jit.si
 *.jitsi.net
@@ -764,9 +765,9 @@ admin.8x8.com
 *.superbet.rs
 *.superbet.com
 *.superbet.pl
-*.superbet.ro
 *.magicjackpot.ro
 *.napoleongames.be
+*.superbet.ro
 *.superbet.ro
 *.superbet.rs
 *.superbet.com
@@ -1731,8 +1732,8 @@ ads.tiktok.com
 *.tiktokv.com
 shop.tiktok.com
 tiktok.com
-*.tiktok.com
 partner.tiktokshop.com
+*.tiktok.com
 business.tiktok.com
 www.pangleglobal.com
 *.tiktok.com
@@ -3048,10 +3049,10 @@ hybrid-analysis.com
 *.reposify.com
 *.bionic.ai
 falcon-sandbox.com
-*.humio.com
 *.preempt.com
 *.crowdstrike.com
 www.crowdstrike.com
+*.humio.com
 *.crowdstrike.com
 *.humio.com
 *.securecircle.com
@@ -3129,9 +3130,9 @@ gifts.grab.com
 *.myteksi.net
 grab.careers
 kartaview.org
-*.taralite.com
 *.grab.com
 *.ovo.id
+*.taralite.com
 *.myteksi.com
 *.myteksi.net
 *.grab.com
@@ -3888,11 +3889,9 @@ reviewer.pullrequest.com
 hackathon-photos-us-east-2.hackerone-user-content.com
 cover-photos-us-east-2.hackerone-user-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
-errors.hackerone.net
 a5s.hackerone-ext-content.com
 b5s.hackerone-ext-content.com
 hackerone-ext-content.com
-ctf.hacker101.com
 hackerone-user-content.com
 hackerone.live
 cover-photos.hackerone-user-content.com
@@ -3900,6 +3899,8 @@ api.hackerone.com
 hackerone.com
 app.pullrequest.com
 www.hackerone.com
+errors.hackerone.net
+ctf.hacker101.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
