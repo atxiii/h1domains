@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Feb 16 18:19:35 UTC 2024)
+## Domains with Bounties (Last Updated Fri Feb 16 19:16:01 UTC 2024)
 ```
 getworldcoin.com
 *.worldcoin-distributors.com
@@ -11,8 +11,8 @@ toolsforhumanity.com
 *.consumer.worldcoin.org
 *.toolsforhumanity.com
 bioid-management.app
-worldcoin.org
 *.worldcoin.org
+worldcoin.org
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -78,8 +78,8 @@ sso-sprint.dynatracelabs.com
 university-staging.dynatracelabs.com
 myaccount-hardening.dynatracelabs.com
 demo.dynamic.xyz
-app.dynamic.xyz
 app.dynamic-preprod.xyz
+app.dynamic.xyz
 app.dynamic-preprod.xyz
 demo.dynamic.xyz
 app.dynamic.xyz
@@ -87,11 +87,11 @@ editor.zyro.com
 cpanel.hostinger.com
 www.niagahoster.co.id
 www.zyro.com
-backend.zyro.com
 logo.zyro.com
 payments.hostinger.com
 hpanel.hostinger.com
 *.000webhost.com
+backend.zyro.com
 www.hostinger.com
 *.000webhost.com
 www.hostinger.com
@@ -182,11 +182,11 @@ cars.booking.com
 widget.rentalcars.com
 careers.booking.com
 admin.booking.com
-*.rentalcars.com
 secure.booking.com
 booking.com
 account.booking.com
 *.booking.com
+*.rentalcars.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -354,7 +354,6 @@ fhir.redoxengine.com
 explore.redoxengine.com
 www.redoxengine.com
 help.redoxengine.com
-cw.visa.com
 ht.visa.com
 www.visa.com.br
 www.visa.com.az
@@ -379,7 +378,6 @@ www.visa.com.kh
 www.visa.co.il
 visa.co.ni
 bm.visa.com
-visa.com.au
 www.visa.co.th
 www.visa.co.ve
 visa.co.za
@@ -402,6 +400,8 @@ www.practicalmoneyskills.com
 www.visa.com.ph
 bb.visa.com
 www.visa.com.my
+www.yellowpepper.com
+aw.visa.com
 aw.visa.com
 bb.visa.com
 bd.visa.com
@@ -476,13 +476,13 @@ app.avtoelon.uz
 id.avtoelon.uz
 api.avtoelon.uz
 app.kolesa.kz
-krisha.kz
 avtoelon.uz
 id.kolesa.kz
 api.kolesa.kz
 api.krisha.kz
 m.krisha.kz
 kolesa.kz
+krisha.kz
 m.kolesa.kz
 m.avtoelon.uz
 kolesa.kz
@@ -581,8 +581,8 @@ hiltonhotels.jp
 hiltonbusinessonline.com
 *.hilton.io
 *.hilton.com.tr
-hilton.com
 *.hilton.com
+hilton.com
 *.hilton.com
 *.hilton.io
 *.hilton.com.tr
@@ -1040,8 +1040,8 @@ www.hotelscombined.com
 www.mundi.com.br
 business.kayak.com
 ws.sorare.com
-sorare.com
 api.sorare.com
+sorare.com
 sorare.com
 api.sorare.com
 ws.sorare.com
@@ -1167,8 +1167,8 @@ community.databricks.com
 labs.databricks.com
 marketplace.databricks.com
 accounts.cloud.databricks.com
-advocates.databricks.com
 support.databricks.com
+advocates.databricks.com
 databricks.com
 databricks.com
 academy.databricks.com
@@ -1591,9 +1591,9 @@ fetlife.com
 *.fetlife.com
 fetlife.com
 api.bitso.com
-bitso.com
 nvio.ar
 nvio.mx
+bitso.com
 bitso.com
 api.bitso.com
 http://bitso.com/alpha
@@ -1749,11 +1749,11 @@ tiktok.com
 shop.tiktok.com
 *.tiktok.com
 creatormarketplace.tiktok.com
+partner.tiktokshop.com
 business.tiktok.com
 www.pangleglobal.com
 live-backstage.tiktok.com
 ads.tiktok.com
-partner.tiktokshop.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2333,8 +2333,8 @@ http://www.shopmarriott.com
 www.goodrx.com
 www.goodrx.com
 *.ra.roblox.com
-*.roblox.com
 *.rbx.com
+*.roblox.com
 *.guilded.gg
 *.roblox.com
 *.rbx.com
@@ -2780,10 +2780,10 @@ decision.swiftfinancial.com
 *.braintreepayments.com
 *.paylution.com
 *.braintreegateway.com
+paypalobjects.com
+paypal.me
 *.paypalcorp.com
 *.xoom.com
-paypal.me
-paypalobjects.com
 *.paypal.com
 www.paypal-*.com
 *.xoom.com
@@ -3458,8 +3458,8 @@ api.grofers.com
 api2.grofers.com
 blinkit.com
 www.algolia.com
-*.algolianet.com
 *.algolia.net
+*.algolianet.com
 *.algolia.net
 *.algolianet.com
 www.algolia.com
@@ -3545,13 +3545,13 @@ arrive-server.shopifycloud.com
 shopify.plus
 linkpop.com
 shop.app
-accounts.shopify.com
 *.shopifycloud.com
 *.shopifykloud.com
 admin.shopify.com
-*.shopify.com
 *.shopifycs.com
 partners.shopify.com
+*.shopify.com
+accounts.shopify.com
 your-store.myshopify.com
 *.shopifycs.com
 *.shopify.com
@@ -3875,8 +3875,8 @@ www.quip.com
 slack-imgs.com
 slack.com
 *.quip.com
-api.slack.com
 app.slack.com
+api.slack.com
 slack.com
 api.slack.com
 status.slack.com
