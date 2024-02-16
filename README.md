@@ -2,13 +2,13 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Feb 16 13:15:11 UTC 2024)
+## Domains with Bounties (Last Updated Fri Feb 16 14:15:17 UTC 2024)
 ```
 rfc.tari.com
+explore.tari.com
 www.tarilabs.com
 www.tari.com
 textexplore.tari.com
-explore.tari.com
 explore.tari.com
 rfc.tari.com
 textexplore.tari.com
@@ -20,8 +20,8 @@ client-api.arkoselabs.com
 demo.arkoselabs.com
 cdn.arkoselabs.com
 customer-sessions.arkoselabs.com
-www.arkoselabs.com
 portal.arkoselabs.com
+www.arkoselabs.com
 client-api.arkoselabs.com
 cdn.arkoselabs.com
 customer-sessions.arkoselabs.com
@@ -35,9 +35,9 @@ www.sheer.com
 www.sheer.com
 my.sheer.com
 www.pornworld.com
+www.ddfcontent.com
 www.analvids.com
 www.pornbox.com
-www.ddfcontent.com
 www.pornbox.com
 www.analvids.com
 www.ddfcontent.com
@@ -113,7 +113,6 @@ api.mercadolibre.com
 www.mercadopago.cl
 www.mercadopago.com.uy
 www.mercadolibre.cl
-www.mercadolibre.com.ar
 www.mercadolibre.com.co
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -121,6 +120,7 @@ www.mercadolivre.com.br
 www.mercadolibre.com.mx
 www.mercadopago.com.pe
 www.mercadopago.com.co
+www.mercadolibre.com.ar
 www.mercadolibre.com.pe
 api.mercadopago.com
 www.mercadopago.com.ar
@@ -446,8 +446,8 @@ http://www.myvisacardportal.com/welcome/enbd/product/#
 yourdomain.freshcaller.com
 yourdomain.freshchat.com
 yourdomain.freshdesk.com
-yourdomain.myfreshworks.com
 yourdomain.freshservice.com
+yourdomain.myfreshworks.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -458,13 +458,13 @@ app.avtoelon.uz
 id.avtoelon.uz
 api.avtoelon.uz
 app.kolesa.kz
+krisha.kz
 avtoelon.uz
 id.kolesa.kz
 api.kolesa.kz
 api.krisha.kz
 m.krisha.kz
 kolesa.kz
-krisha.kz
 m.kolesa.kz
 m.avtoelon.uz
 kolesa.kz
@@ -643,8 +643,8 @@ skinport.com
 app.skinport.com
 api.skinport.com
 http://skinport.com/blog/
-miro.com
 api.miro.com
+miro.com
 http://miro.com/app
 miro.com
 api.miro.com
@@ -697,9 +697,9 @@ cfapi.voikukka.fi
 auth.skypicker.com
 jobs.kiwi.com
 *.kiwi.com
-www.kiwi.com
-*.skypicker.com
 tequila.kiwi.com
+*.skypicker.com
+www.kiwi.com
 *.kiwi.com
 *.skypicker.com
 www.kiwi.com
@@ -764,10 +764,10 @@ admin.8x8.com
 *.luckydays.com
 *.superbet.rs
 *.superbet.com
-*.superbet.pl
-*.magicjackpot.ro
 *.napoleongames.be
 *.superbet.ro
+*.superbet.pl
+*.magicjackpot.ro
 *.superbet.ro
 *.superbet.rs
 *.superbet.com
@@ -1149,8 +1149,8 @@ community.databricks.com
 labs.databricks.com
 marketplace.databricks.com
 accounts.cloud.databricks.com
-support.databricks.com
 advocates.databricks.com
+support.databricks.com
 databricks.com
 databricks.com
 academy.databricks.com
@@ -1431,8 +1431,8 @@ api.taxjar.com
 *.reckoproduction.com
 *.recko.io
 *.link.co
-*.stripe.com
 app.taxjar.com
+*.stripe.com
 api.stripe.com
 api.stripe.com
 *.stripe.com
@@ -1618,8 +1618,8 @@ ccloud.yoti.com
 code.yoti.com
 api.yoti.com
 identity.yoti.com
-hub.yoti.com
 www.yotisign.com
+hub.yoti.com
 core.yoti.com
 api.yoti.com
 ccloud.yoti.com
@@ -1656,9 +1656,9 @@ list-v2--netlify-plugins.netlify.app
 internal-docs.netlify.com
 supportal.netlify.app
 world.hey.com
-*.hey.com
 launchpad.37signals.com
 3.basecamp.com
+*.hey.com
 *.hey.com
 3.basecamp.com
 launchpad.37signals.com
@@ -1728,14 +1728,14 @@ effecthouse.tiktok.com
 careers.tiktok.com
 creatormarketplace.tiktok.com
 live-backstage.tiktok.com
+business.tiktok.com
+www.pangleglobal.com
+ads.tiktok.com
 *.tiktokv.com
 shop.tiktok.com
 tiktok.com
 partner.tiktokshop.com
 *.tiktok.com
-business.tiktok.com
-www.pangleglobal.com
-ads.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -1791,8 +1791,8 @@ cs.money
 support.cs.money
 wiki.cs.money
 3d.cs.money
-api.faraday.ai
 app.faraday.ai
+api.faraday.ai
 app.faraday.ai
 api.faraday.ai
 *-api-*.acronis.com
@@ -2284,11 +2284,11 @@ all-inclusive.marriott.com
 jobs.marriott.com
 reservations.all-inclusive.marriott.com
 marrtool.com
-hotel-deals.marriott.com
 cpp.marriott.com
 gatewaydsaptst1.marriott.com
 www.marriott.com
 mgs.marriott.com
+hotel-deals.marriott.com
 homes-and-villas.marriott.com
 sso.marriott.com
 mgs.marriott.com
@@ -2315,8 +2315,8 @@ http://www.shopmarriott.com
 www.goodrx.com
 www.goodrx.com
 *.ra.roblox.com
-*.rbx.com
 *.roblox.com
+*.rbx.com
 *.guilded.gg
 *.roblox.com
 *.rbx.com
@@ -2364,6 +2364,7 @@ http://emerald.oasis.dev
 http://grpc.oasis.dev
 http://rosetta.oasis.dev/api/mainnet
 http://sapphire.oasis.io
+https://svn.filezilla-project.org/svn/filezilla3/trunk/src/putty
 https://svn.filezilla-project.org/svn/filezilla3/trunk/src/putty
 codahosted.io
 codacontent.io
@@ -2484,7 +2485,7 @@ secure.rezserver.com
 press.priceline.com
 admin.rezserver.com
 priceline.com
-flyiin.com
+www.getaroom.com
 www.priceline.com
 secure.rezserver.com
 reservations.rezserver.com
@@ -2762,10 +2763,10 @@ decision.swiftfinancial.com
 *.braintreepayments.com
 *.paylution.com
 *.braintreegateway.com
+paypalobjects.com
+paypal.me
 *.paypalcorp.com
 *.xoom.com
-paypal.me
-paypalobjects.com
 *.paypal.com
 www.paypal-*.com
 *.xoom.com
@@ -2925,8 +2926,8 @@ www.valvesoftware.com
 www.teamfortress.com
 www.counter-strike.net
 steamcommunity.com
-store.steampowered.com
 api.steampowered.com
+store.steampowered.com
 www.dota2.com
 support.steampowered.com
 partner.steampowered.com
@@ -3052,8 +3053,8 @@ hybrid-analysis.com
 *.preempt.com
 *.crowdstrike.com
 www.crowdstrike.com
-falcon-sandbox.com
 *.humio.com
+falcon-sandbox.com
 *.crowdstrike.com
 *.humio.com
 *.securecircle.com
@@ -3132,8 +3133,8 @@ gifts.grab.com
 grab.careers
 kartaview.org
 *.grab.com
-*.ovo.id
 *.taralite.com
+*.ovo.id
 *.myteksi.com
 *.myteksi.net
 *.grab.com
@@ -3380,8 +3381,8 @@ npmjs.com
 *.githubapp.com
 npmjs.org
 classroom.github.com
-api.github.com
 github.com
+api.github.com
 github.com
 api.github.com
 gist.github.com
@@ -3525,16 +3526,16 @@ yourcompany.udemy.com
 shopifyinbox.com
 arrive-server.shopifycloud.com
 shopify.plus
+admin.shopify.com
 linkpop.com
 *.shopify.com
 shop.app
 accounts.shopify.com
 *.shopifycloud.com
 *.shopifykloud.com
-your-store.myshopify.com
 *.shopifycs.com
 partners.shopify.com
-admin.shopify.com
+your-store.myshopify.com
 *.shopifycs.com
 *.shopify.com
 *.shopifykloud.com
@@ -3897,11 +3898,11 @@ hackerone-user-content.com
 hackerone.live
 cover-photos.hackerone-user-content.com
 api.hackerone.com
-hackerone.com
 www.hackerone.com
 errors.hackerone.net
 ctf.hacker101.com
 app.pullrequest.com
+hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
