@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Feb 17 14:12:40 UTC 2024)
+## Domains with Bounties (Last Updated Sat Feb 17 15:13:27 UTC 2024)
 ```
 getworldcoin.com
 *.worldcoin-distributors.com
@@ -77,9 +77,9 @@ account-sprint.dynatracelabs.com
 sso-sprint.dynatracelabs.com
 university-staging.dynatracelabs.com
 myaccount-hardening.dynatracelabs.com
-app.dynamic.xyz
-app.dynamic-preprod.xyz
 demo.dynamic.xyz
+app.dynamic-preprod.xyz
+app.dynamic.xyz
 app.dynamic-preprod.xyz
 demo.dynamic.xyz
 app.dynamic.xyz
@@ -108,10 +108,10 @@ education.23andme.com
 therapeutics.23andme.com
 api.23andme.com
 research.23andme.com
+you.23andme.com
 store.23andme.com
 medical.23andme.com
 auth.23andme.com
-you.23andme.com
 mediacenter.23andme.com
 blog.23andme.com
 api.23andme.com
@@ -396,12 +396,12 @@ www.visa.co.jp
 www.visa.com.tw
 www.practicalmoneyskills.com
 www.visa.com.ph
-bb.visa.com
 www.visa.com.my
-www.cybersource.com
-www.visainfinite.ca
+www.yellowpepper.com
 aw.visa.com
 www.visa.co.in
+www.tink.com
+www.cybersource.com
 aw.visa.com
 bb.visa.com
 bd.visa.com
@@ -481,8 +481,8 @@ api.kolesa.kz
 api.krisha.kz
 kolesa.kz
 m.avtoelon.uz
-m.krisha.kz
 m.kolesa.kz
+m.krisha.kz
 krisha.kz
 avtoelon.uz
 kolesa.kz
@@ -782,9 +782,9 @@ admin.8x8.com
 *.luckydays.com
 *.superbet.rs
 *.superbet.com
+*.magicjackpot.ro
 *.napoleongames.be
 *.superbet.ro
-*.magicjackpot.ro
 *.superbet.pl
 *.superbet.ro
 *.superbet.rs
@@ -1165,8 +1165,8 @@ community.databricks.com
 labs.databricks.com
 marketplace.databricks.com
 accounts.cloud.databricks.com
-advocates.databricks.com
 support.databricks.com
+advocates.databricks.com
 databricks.com
 customer-academy.databricks.com
 docs.databricks.com
@@ -1636,8 +1636,8 @@ ccloud.yoti.com
 code.yoti.com
 api.yoti.com
 www.yotisign.com
-hub.yoti.com
 identity.yoti.com
+hub.yoti.com
 core.yoti.com
 api.yoti.com
 ccloud.yoti.com
@@ -1744,16 +1744,16 @@ fp-sg.tiktokv.com
 developers.tiktok.com
 effecthouse.tiktok.com
 careers.tiktok.com
-*.tiktokv.com
 shop.tiktok.com
-*.tiktok.com
-business.tiktok.com
+*.tiktokv.com
 www.pangleglobal.com
 live-backstage.tiktok.com
+business.tiktok.com
 partner.tiktokshop.com
-tiktok.com
 creatormarketplace.tiktok.com
+tiktok.com
 ads.tiktok.com
+*.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2333,8 +2333,8 @@ http://www.shopmarriott.com
 www.goodrx.com
 www.goodrx.com
 *.ra.roblox.com
-*.roblox.com
 *.rbx.com
+*.roblox.com
 *.guilded.gg
 *.roblox.com
 *.rbx.com
@@ -2701,8 +2701,8 @@ www.hyattinclusivecollection.com
 booking.applevacations.com
 grammarly.ai
 *.grammarly.io
-*.grammarlyaws.com
 *.grammarly.com
+*.grammarlyaws.com
 *.grammarly.io
 *.grammarlyaws.com
 *.grammarly.com
@@ -3149,8 +3149,8 @@ gifts.grab.com
 *.myteksi.net
 grab.careers
 kartaview.org
-*.taralite.com
 *.grab.com
+*.taralite.com
 *.ovo.id
 *.myteksi.com
 *.myteksi.net
@@ -3546,9 +3546,9 @@ linkpop.com
 partners.shopify.com
 accounts.shopify.com
 your-store.myshopify.com
-*.shopify.com
-admin.shopify.com
 shop.app
+admin.shopify.com
+*.shopify.com
 *.shopifycs.com
 *.shopify.com
 *.shopifykloud.com
@@ -3673,8 +3673,8 @@ next.airbnb.com
 *.withairbnb.com
 assets.airbnb.com
 api.airbnb.com
-www.airbnb.com
 *.airbnb.com
+www.airbnb.com
 www.airbnb.com
 next.airbnb.com
 api.airbnb.com
@@ -3905,7 +3905,6 @@ hackathon-photos-us-east-2.hackerone-user-content.com
 cover-photos-us-east-2.hackerone-user-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 a5s.hackerone-ext-content.com
-b5s.hackerone-ext-content.com
 hackerone-ext-content.com
 hackerone-user-content.com
 hackerone.live
@@ -3916,6 +3915,7 @@ app.pullrequest.com
 cover-photos.hackerone-user-content.com
 www.hackerone.com
 hackerone.com
+b5s.hackerone-ext-content.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
