@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Feb 18 13:14:08 UTC 2024)
+## Domains with Bounties (Last Updated Sun Feb 18 14:12:12 UTC 2024)
 ```
 *.toolsforhumanity.com
 *.consumer.worldcoin.org
@@ -11,8 +11,8 @@ bioid-management.app
 *.worldcoin.dev
 worldcoin.org
 toolsforhumanity.com
-*.worldcoin.org
 getworldcoin.com
+*.worldcoin.org
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -91,8 +91,8 @@ logo.zyro.com
 payments.hostinger.com
 hpanel.hostinger.com
 backend.zyro.com
-*.000webhost.com
 www.hostinger.com
+*.000webhost.com
 *.000webhost.com
 www.hostinger.com
 cpanel.hostinger.com
@@ -395,9 +395,9 @@ www.visa.com.tw
 www.practicalmoneyskills.com
 www.visa.com.ph
 www.visa.com.my
-www.tink.com
 www.cybersource.com
 www.visainfinite.ca
+www.tink.com
 www.cardinalcommerce.com
 visa.co.cr
 usa.visa.com
@@ -480,8 +480,8 @@ id.kolesa.kz
 api.kolesa.kz
 api.krisha.kz
 m.avtoelon.uz
-m.kolesa.kz
 m.krisha.kz
+m.kolesa.kz
 krisha.kz
 kolesa.kz
 avtoelon.uz
@@ -781,9 +781,9 @@ admin.8x8.com
 *.luckydays.com
 *.superbet.rs
 *.superbet.com
+*.magicjackpot.ro
 *.napoleongames.be
 *.superbet.ro
-*.magicjackpot.ro
 *.superbet.pl
 *.superbet.ro
 *.superbet.rs
@@ -1039,8 +1039,8 @@ www.hotelscombined.com
 www.mundi.com.br
 business.kayak.com
 ws.sorare.com
-api.sorare.com
 sorare.com
+api.sorare.com
 sorare.com
 api.sorare.com
 ws.sorare.com
@@ -1166,9 +1166,9 @@ marketplace.databricks.com
 accounts.cloud.databricks.com
 advocates.databricks.com
 support.databricks.com
-databricks.com
 customer-academy.databricks.com
 docs.databricks.com
+databricks.com
 databricks.com
 academy.databricks.com
 accounts.cloud.databricks.com
@@ -1447,8 +1447,8 @@ js.stripe.com
 *.reckoproduction.com
 *.recko.io
 *.link.co
-*.stripe.com
 api.stripe.com
+*.stripe.com
 app.taxjar.com
 api.taxjar.com
 api.stripe.com
@@ -1493,8 +1493,8 @@ ads.reddit.com
 redditforbusiness.com
 app.spiketrap.io
 *.reddit.com
-*.reddithelp.com
 www.reddit.com
+*.reddithelp.com
 *.snooguts.net
 *.snooguts.net
 *.redditmedia.com
@@ -1745,14 +1745,14 @@ effecthouse.tiktok.com
 careers.tiktok.com
 *.tiktokv.com
 business.tiktok.com
-www.pangleglobal.com
 live-backstage.tiktok.com
 partner.tiktokshop.com
 creatormarketplace.tiktok.com
 ads.tiktok.com
-tiktok.com
 shop.tiktok.com
 *.tiktok.com
+www.pangleglobal.com
+tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -1967,9 +1967,9 @@ ca.account.sony.com
 direct.playstation.com
 store.playstation.com
 my.playstation.com
+*.api.playstation.com
 my.account.sony.com
 *.playstation.net
-*.api.playstation.com
 *.sonyentertainmentnetwork.com
 *.playstation.net
 *.sonyentertainmentnetwork.com
@@ -3672,8 +3672,8 @@ next.airbnb.com
 *.withairbnb.com
 assets.airbnb.com
 api.airbnb.com
-www.airbnb.com
 *.airbnb.com
+www.airbnb.com
 www.airbnb.com
 next.airbnb.com
 api.airbnb.com
