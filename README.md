@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Feb 18 23:13:11 UTC 2024)
+## Domains with Bounties (Last Updated Mon Feb 19 00:45:02 UTC 2024)
 ```
 *.toolsforhumanity.com
 *.worldcoin-distributors.com
@@ -66,11 +66,11 @@ http://sb-mobile-api.fireblocks.io
 http://sb-console-api.fireblocks.io
 http://sandbox-api.fireblocks.io
 *.sprint.apps.dynatracelabs.com
-myaccount-hardening.dynatracelabs.com
 university-staging.dynatracelabs.com
 *.sprint.dynatracelabs.com
 sso-sprint.dynatracelabs.com
 account-sprint.dynatracelabs.com
+myaccount-hardening.dynatracelabs.com
 *.sprint.dynatracelabs.com
 *.sprint.apps.dynatracelabs.com
 account-sprint.dynatracelabs.com
@@ -91,8 +91,8 @@ hpanel.hostinger.com
 backend.zyro.com
 *.000webhost.com
 cpanel.hostinger.com
-www.hostinger.com
 www.zyro.com
+www.hostinger.com
 *.000webhost.com
 www.hostinger.com
 cpanel.hostinger.com
@@ -480,8 +480,8 @@ id.kolesa.kz
 api.kolesa.kz
 api.krisha.kz
 m.avtoelon.uz
-m.kolesa.kz
 m.krisha.kz
+m.kolesa.kz
 krisha.kz
 kolesa.kz
 avtoelon.uz
@@ -781,9 +781,9 @@ admin.8x8.com
 *.luckydays.com
 *.superbet.rs
 *.superbet.com
+*.magicjackpot.ro
 *.napoleongames.be
 *.superbet.ro
-*.magicjackpot.ro
 *.superbet.pl
 *.superbet.ro
 *.superbet.rs
@@ -1039,8 +1039,8 @@ www.hotelscombined.com
 www.mundi.com.br
 business.kayak.com
 ws.sorare.com
-sorare.com
 api.sorare.com
+sorare.com
 sorare.com
 api.sorare.com
 ws.sorare.com
@@ -1447,8 +1447,8 @@ js.stripe.com
 *.reckoproduction.com
 *.recko.io
 *.link.co
-*.stripe.com
 api.stripe.com
+*.stripe.com
 app.taxjar.com
 api.taxjar.com
 api.stripe.com
@@ -1702,10 +1702,10 @@ secure.sharefile.com
 api.sharefile.eu
 secure.sharefile.eu
 api.sharefile.com
-(youriwssubdomain).cloud.com
-www.cloud.com
 *.citrixworkspacesapi.net
 citrix.cloud.com
+(youriwssubdomain).cloud.com
+www.cloud.com
 (yoursubdomain).sharefile.com
 accounts.cloud.com
 citrix.cloud.com
@@ -1744,8 +1744,8 @@ developers.tiktok.com
 effecthouse.tiktok.com
 careers.tiktok.com
 *.tiktokv.com
-business.tiktok.com
 live-backstage.tiktok.com
+business.tiktok.com
 partner.tiktokshop.com
 creatormarketplace.tiktok.com
 ads.tiktok.com
@@ -2777,9 +2777,9 @@ decision.swiftfinancial.com
 *.braintreepayments.com
 *.paylution.com
 *.braintreegateway.com
+paypalobjects.com
 *.paypalcorp.com
 *.xoom.com
-paypalobjects.com
 paypal.me
 py.pl
 *.venmo.com
@@ -3912,9 +3912,9 @@ app.pullrequest.com
 b5s.hackerone-ext-content.com
 cover-photos.hackerone-user-content.com
 api.hackerone.com
-hackerone.com
 hackerone-user-content.com
 www.hackerone.com
+hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
