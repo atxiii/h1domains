@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Feb 19 01:47:53 UTC 2024)
+## Domains with Bounties (Last Updated Mon Feb 19 02:23:52 UTC 2024)
 ```
 *.toolsforhumanity.com
 *.worldcoin-distributors.com
@@ -77,8 +77,8 @@ account-sprint.dynatracelabs.com
 sso-sprint.dynatracelabs.com
 university-staging.dynatracelabs.com
 myaccount-hardening.dynatracelabs.com
-app.dynamic-preprod.xyz
 demo.dynamic.xyz
+app.dynamic-preprod.xyz
 app.dynamic.xyz
 app.dynamic-preprod.xyz
 demo.dynamic.xyz
@@ -394,14 +394,14 @@ www.visa.com.tw
 www.practicalmoneyskills.com
 www.visa.com.ph
 www.visa.com.my
-www.tink.com
 www.cybersource.com
 www.visainfinite.ca
+www.tink.com
 www.cardinalcommerce.com
 visa.co.cr
 usa.visa.com
 cw.visa.com
-bb.visa.com
+www.visa.co.in
 aw.visa.com
 bb.visa.com
 bd.visa.com
@@ -781,9 +781,9 @@ admin.8x8.com
 *.luckydays.com
 *.superbet.rs
 *.superbet.com
+*.magicjackpot.ro
 *.napoleongames.be
 *.superbet.ro
-*.magicjackpot.ro
 *.superbet.pl
 *.superbet.ro
 *.superbet.rs
@@ -1447,8 +1447,8 @@ js.stripe.com
 *.reckoproduction.com
 *.recko.io
 *.link.co
-api.stripe.com
 *.stripe.com
+api.stripe.com
 app.taxjar.com
 api.taxjar.com
 api.stripe.com
@@ -1702,10 +1702,10 @@ secure.sharefile.com
 api.sharefile.eu
 secure.sharefile.eu
 api.sharefile.com
-*.citrixworkspacesapi.net
-citrix.cloud.com
 (youriwssubdomain).cloud.com
 www.cloud.com
+*.citrixworkspacesapi.net
+citrix.cloud.com
 (yoursubdomain).sharefile.com
 accounts.cloud.com
 citrix.cloud.com
@@ -1744,8 +1744,8 @@ developers.tiktok.com
 effecthouse.tiktok.com
 careers.tiktok.com
 *.tiktokv.com
-live-backstage.tiktok.com
 business.tiktok.com
+live-backstage.tiktok.com
 partner.tiktokshop.com
 creatormarketplace.tiktok.com
 ads.tiktok.com
@@ -3901,14 +3901,14 @@ profile-photos.hackerone-user-content.com
 mta-sts.wearehackerone.com
 reviewer.pullrequest.com
 hackathon-photos-us-east-2.hackerone-user-content.com
+errors.hackerone.net
+ctf.hacker101.com
+app.pullrequest.com
 cover-photos-us-east-2.hackerone-user-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 a5s.hackerone-ext-content.com
 hackerone-ext-content.com
 hackerone.live
-errors.hackerone.net
-ctf.hacker101.com
-app.pullrequest.com
 b5s.hackerone-ext-content.com
 cover-photos.hackerone-user-content.com
 api.hackerone.com
