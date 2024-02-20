@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Feb 20 20:19:37 UTC 2024)
+## Domains with Bounties (Last Updated Tue Feb 20 21:16:11 UTC 2024)
 ```
 *.worldcoin-distributors.com
 getworldcoin.com
@@ -91,8 +91,8 @@ cpanel.hostinger.com
 www.zyro.com
 backend.zyro.com
 www.hostinger.com
-*.000webhost.com
 hpanel.hostinger.com
+*.000webhost.com
 *.000webhost.com
 www.hostinger.com
 cpanel.hostinger.com
@@ -486,8 +486,8 @@ app.krisha.kz
 m.krisha.kz
 kolesa.kz
 api.avtoelon.uz
-avtoelon.uz
 m.kolesa.kz
+avtoelon.uz
 kolesa.kz
 m.kolesa.kz
 krisha.kz
@@ -523,8 +523,8 @@ firefox-ci-tc.services.mozilla.com
 firefox.settings.services.mozilla.com
 hg.mozilla.org
 bugzilla.mozilla.org
-phabricator.allizom.org
 mozilla-pontoon-staging.herokuapp.com
+phabricator.allizom.org
 accounts.firefox.com
 addons.allizom.org
 accounts.firefox.com
@@ -678,10 +678,10 @@ oneview.malwarebytes.com
 my.malwarebytes.com
 *.cyrus-security.com
 cloud.malwarebytes.com
-www.malwarebytes.com
-*.threatdown.com
 *.cloud.malwarebytes.com
+*.threatdown.com
 *.malwarebytes.com
+www.malwarebytes.com
 *.mwbsys.com
 *.mb-cosmos.com
 *.mbamupdates.com
@@ -1301,8 +1301,8 @@ capturingreality.com
 *.tstaging.tools
 *.tinderwebstaging.com
 *.tstaging.com
-*.gotinder.com
 *.tinder.com
+*.gotinder.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -2839,8 +2839,8 @@ testnet.bitmex.com
 testnet.bitmex.com
 *.staging-airtableblocks.com
 *.staging.airtable.com
-staging.airtable.com
 api-staging.airtable.com
+staging.airtable.com
 *.staging-airtableblocks.com
 *.staging.airtable.com
 staging.airtable.com
@@ -3395,8 +3395,8 @@ education.github.com
 npmjs.com
 *.githubapp.com
 npmjs.org
-api.github.com
 classroom.github.com
+api.github.com
 github.com
 github.com
 api.github.com
@@ -3547,8 +3547,8 @@ linkpop.com
 shop.app
 accounts.shopify.com
 *.shopify.com
-shopify.plus
 your-store.myshopify.com
+shopify.plus
 admin.shopify.com
 partners.shopify.com
 *.shopifycs.com
