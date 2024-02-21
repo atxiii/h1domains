@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Feb 20 23:14:25 UTC 2024)
+## Domains with Bounties (Last Updated Wed Feb 21 00:47:06 UTC 2024)
 ```
 *.worldcoin-distributors.com
 getworldcoin.com
@@ -25,8 +25,8 @@ worldcoin.org
 rfc.tari.com
 explore.tari.com
 textexplore.tari.com
-www.tarilabs.com
 www.tari.com
+www.tarilabs.com
 explore.tari.com
 rfc.tari.com
 textexplore.tari.com
@@ -134,11 +134,11 @@ www.mercadopago.com.ar
 www.mercadolibre.com.co
 www.mercadolibre.com.pe
 www.mercadolibre.cl
+www.mercadopago.com.mx
+www.mercadolibre.com.ar
 www.mercadopago.com.br
 www.mercadopago.cl
 www.mercadolivre.com.br
-www.mercadopago.com.mx
-www.mercadolibre.com.ar
 api.mercadolibre.com
 api.mercadopago.com
 www.mercadopago.com.ar
@@ -185,9 +185,9 @@ admin.booking.com
 account.booking.com
 *.rentalcars.com
 booking.com
-*.booking.com
 distribution-xml.booking.com
 spark.fareharbor.com
+*.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -623,8 +623,8 @@ auth2.indrive.tech
 watchdocs.indriverapp.com
 *.indriver.com
 cargo.indrive.com
-*.indrive.com
 *.indriverapp.com
+*.indrive.com
 *.indriverapp.com
 *.indrive.com
 *.indriver.com
@@ -676,12 +676,12 @@ oneview.malwarebytes.com
 *.mwbsys.com
 *.mb-cosmos.com
 my.malwarebytes.com
-*.cyrus-security.com
-cloud.malwarebytes.com
-*.threatdown.com
 *.cloud.malwarebytes.com
+*.threatdown.com
 *.malwarebytes.com
 www.malwarebytes.com
+*.cyrus-security.com
+cloud.malwarebytes.com
 *.mwbsys.com
 *.mb-cosmos.com
 *.mbamupdates.com
@@ -721,8 +721,8 @@ auth.skypicker.com
 tequila.kiwi.com
 www.kiwi.com
 jobs.kiwi.com
-*.kiwi.com
 *.skypicker.com
+*.kiwi.com
 *.kiwi.com
 *.skypicker.com
 www.kiwi.com
@@ -1049,8 +1049,8 @@ sorare.com
 api.sorare.com
 ws.sorare.com
 *.sheingsp.com
-*.shein.com
 *.romwe.com
+*.shein.com
 *.shein.com
 *.romwe.com
 *.sheingsp.com
@@ -1660,8 +1660,8 @@ netlify-rum.netlify.app
 netlify-cdp-loader.netlify.app
 supportal.netlify.app
 internal.netlify.com
-api.netlify.com
 app.netlify.com
+api.netlify.com
 *.services.netlify.com
 *.services-prod.nsvcs.net
 *.infra-prod.nsvcs.net
@@ -1751,12 +1751,12 @@ live-backstage.tiktok.com
 creatormarketplace.tiktok.com
 *.tiktokv.com
 www.pangleglobal.com
-shop.tiktok.com
 partner.tiktokshop.com
 business.tiktok.com
-*.tiktok.com
 ads.tiktok.com
+shop.tiktok.com
 tiktok.com
+*.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2501,9 +2501,9 @@ reservations.rezserver.com
 api.rezserver.com
 flyiin.com
 admin.rezserver.com
-secure.rezserver.com
 cruises.priceline.com
-priceline.com
+secure.rezserver.com
+www.priceline.com
 www.priceline.com
 secure.rezserver.com
 reservations.rezserver.com
@@ -3392,11 +3392,11 @@ gist.github.com
 education.github.com
 npmjs.com
 *.githubapp.com
-api.github.com
 npmjs.org
-classroom.github.com
 github.com
 *.githubusercontent.com
+classroom.github.com
+api.github.com
 github.com
 api.github.com
 gist.github.com
@@ -3543,13 +3543,13 @@ arrive-server.shopifycloud.com
 *.shopifycs.com
 *.shopifycloud.com
 accounts.shopify.com
+partners.shopify.com
 *.shopify.com
 your-store.myshopify.com
 shopify.plus
 admin.shopify.com
-partners.shopify.com
-shop.app
 linkpop.com
+shop.app
 *.shopifycs.com
 *.shopify.com
 *.shopifykloud.com
@@ -3592,8 +3592,8 @@ www.bitmoji.com
 web.snapchat.com
 accounts.snapchat.com
 login.playcanvas.com
-playcanvas.com
 scan.snapchat.com
+playcanvas.com
 *.sc-core.net
 accounts.snapchat.com
 app.snapchat.com
@@ -3872,8 +3872,8 @@ www.quip.com
 *.quip.com
 slack-imgs.com
 slack.com
-app.slack.com
 api.slack.com
+app.slack.com
 slack.com
 api.slack.com
 status.slack.com
@@ -3912,10 +3912,10 @@ cover-photos.hackerone-user-content.com
 hackerone-user-content.com
 api.hackerone.com
 www.hackerone.com
+app.pullrequest.com
 hackerone-ext-content.com
 errors.hackerone.net
 ctf.hacker101.com
-app.pullrequest.com
 hackerone.com
 hackerone.com
 api.hackerone.com
