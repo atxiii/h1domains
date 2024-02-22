@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Feb 22 07:16:40 UTC 2024)
+## Domains with Bounties (Last Updated Thu Feb 22 08:17:30 UTC 2024)
 ```
 *.worldcoin-distributors.com
 *.worldcoin.dev
@@ -52,9 +52,9 @@ my.sheer.com
 www.sheer.com
 www.sheer.com
 my.sheer.com
-www.pornworld.com
-www.analvids.com
 www.ddfcontent.com
+www.analvids.com
+www.pornworld.com
 www.pornbox.com
 www.pornbox.com
 www.analvids.com
@@ -91,8 +91,8 @@ backend.zyro.com
 *.000webhost.com
 www.hostinger.com
 hpanel.hostinger.com
-logo.zyro.com
 www.zyro.com
+logo.zyro.com
 *.000webhost.com
 www.hostinger.com
 cpanel.hostinger.com
@@ -182,12 +182,12 @@ widget.rentalcars.com
 secure.booking.com
 admin.booking.com
 distribution-xml.booking.com
-booking.com
 *.rentalcars.com
-account.booking.com
+booking.com
 careers.booking.com
-spark.fareharbor.com
+account.booking.com
 *.booking.com
+spark.fareharbor.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -231,8 +231,8 @@ api2.frontapp.com
 app.frontapp.com
 app.frontapp.com
 api2.frontapp.com
-*.booztlet.com
 *.boozt.com
+*.booztlet.com
 *.boozt.com
 *.booztlet.com
 *.trip.com
@@ -484,10 +484,10 @@ m.krisha.kz
 m.kolesa.kz
 id.kolesa.kz
 api.kolesa.kz
-krisha.kz
 api.avtoelon.uz
-avtoelon.uz
+krisha.kz
 kolesa.kz
+avtoelon.uz
 kolesa.kz
 m.kolesa.kz
 krisha.kz
@@ -677,9 +677,9 @@ oneview.malwarebytes.com
 *.mb-cosmos.com
 *.cyrus-security.com
 cloud.malwarebytes.com
+www.malwarebytes.com
 *.threatdown.com
 *.cloud.malwarebytes.com
-www.malwarebytes.com
 *.malwarebytes.com
 my.malwarebytes.com
 *.mwbsys.com
@@ -941,11 +941,11 @@ insights.deribit.com
 pb.deribit.com
 tools.deribit.com
 metrics.deribit.com
-api.poloniex.com
 api2.poloniex.com
 public.poloniex.com
 m.poloniex.com
 www.poloniex.com
+api.poloniex.com
 www.poloniex.com
 api.poloniex.com
 m.poloniex.com
@@ -1026,7 +1026,6 @@ business.linkedin.com
 *.wealthsimple.com
 *.wealthsimple.com
 *.simpletax.ca
-www.mundi.com.br
 business.kayak.com
 www.momondo.com
 www.swoodoo.com
@@ -1034,6 +1033,7 @@ www.checkfelix.com
 www.kayak.com
 www.cheapflights.com
 www.hotelscombined.com
+www.mundi.com.br
 www.kayak.com
 www.swoodoo.com
 www.checkfelix.com
@@ -1171,8 +1171,8 @@ labs.databricks.com
 customer-academy.databricks.com
 advocates.databricks.com
 support.databricks.com
-databricks.com
 kb.databricks.com
+databricks.com
 databricks.com
 academy.databricks.com
 accounts.cloud.databricks.com
@@ -1752,9 +1752,9 @@ www.pangleglobal.com
 business.tiktok.com
 shop.tiktok.com
 *.tiktokv.com
-*.tiktok.com
 tiktok.com
 partner.tiktokshop.com
+*.tiktok.com
 ads.tiktok.com
 *.tiktok.com
 business.tiktok.com
@@ -1842,18 +1842,16 @@ app.kruidvat.nl
 www.theperfumeshop.com
 app.theperfumeshop.com
 api.theperfumeshop.com
-api.watsons.com.my
-www.watsons.com.my
-www10.watsons.com.my
-www.iciparisxl.nl
-www.iciparisxl.be
-www.iciparisxl.lu
-app.iciparisxl.nl
-app.iciparisxl.be
-app.iciparisxl.lu
-www.marionnaud.at
-app.marionnaud.at
-www.marionnaud.ch
+www10.watsons.com.tw
+www.watsons.com.tw
+api.watsons.com.tw
+www10.watsons.com.ph
+api.watsons.com.ph
+www.watsons.com.ph
+www.watsons.co.th
+www20.watsons.co.th
+www10.watsons.co.th
+api.watsons.co.th
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -2220,9 +2218,9 @@ amazonpayinsurance.in
 *.taobao.com
 *.Daraz.com
 *.1688.com
-*.aliexpress.com
 *.aliyun.com
 www.alibabagroup.com
+*.aliexpress.com
 *.alibaba.com
 *.aliexpress.com
 *.taobao.com
@@ -3530,7 +3528,6 @@ yourcompany.udemy.com
 www.udemy.com
 yourcompany.udemy.com
 shopifyinbox.com
-arrive-server.shopifycloud.com
 *.shopifykloud.com
 *.shopifycloud.com
 accounts.shopify.com
@@ -3538,10 +3535,11 @@ shopify.plus
 partners.shopify.com
 linkpop.com
 your-store.myshopify.com
+shop.app
 *.shopify.com
 admin.shopify.com
-shop.app
 *.shopifycs.com
+arrive-server.shopifycloud.com
 *.shopifycs.com
 *.shopify.com
 *.shopifykloud.com
@@ -3584,9 +3582,9 @@ web.snapchat.com
 accounts.snapchat.com
 login.playcanvas.com
 *.sc-core.net
-scan.snapchat.com
-playcanvas.com
 snappublisher.snapchat.com
+playcanvas.com
+scan.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
