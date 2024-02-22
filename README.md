@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Feb 22 11:14:02 UTC 2024)
+## Domains with Bounties (Last Updated Thu Feb 22 12:21:01 UTC 2024)
 ```
 *.worldcoin-distributors.com
 *.worldcoin.dev
@@ -52,9 +52,9 @@ my.sheer.com
 www.sheer.com
 www.sheer.com
 my.sheer.com
-www.pornworld.com
-www.analvids.com
 www.ddfcontent.com
+www.analvids.com
+www.pornworld.com
 www.pornbox.com
 www.pornbox.com
 www.analvids.com
@@ -183,8 +183,8 @@ admin.booking.com
 distribution-xml.booking.com
 *.rentalcars.com
 booking.com
-careers.booking.com
 account.booking.com
+careers.booking.com
 spark.fareharbor.com
 *.booking.com
 cars.booking.com
@@ -677,9 +677,9 @@ oneview.malwarebytes.com
 *.mb-cosmos.com
 *.cyrus-security.com
 cloud.malwarebytes.com
+www.malwarebytes.com
 *.threatdown.com
 *.cloud.malwarebytes.com
-www.malwarebytes.com
 *.malwarebytes.com
 my.malwarebytes.com
 *.mwbsys.com
@@ -806,8 +806,8 @@ admin.8x8.com
 moonpay.com
 *.moonpaycloud.com
 hypermint.com
-*.moonpay.com
 *.hypermint.com
+*.moonpay.com
 *.moonpaycloud.com
 *.hypermint.com
 *.moonpay.com
@@ -858,7 +858,6 @@ www.flights.com
 www.stayz.com.au
 www.travelocity.com
 www.carrentals.com
-www.expedia.com
 www.cheaptickets.com
 www.abritel.fr
 www.ebookers.com
@@ -869,6 +868,7 @@ www.expediacruises.com
 www.hotels.com
 www.vrbo.com
 www.expediagroup.com
+www.expedia.com
 www.hotels.com
 www.expedia.com
 www.expediapartnercentral.com
@@ -1170,8 +1170,8 @@ docs.databricks.com
 labs.databricks.com
 customer-academy.databricks.com
 support.databricks.com
-kb.databricks.com
 databricks.com
+kb.databricks.com
 advocates.databricks.com
 databricks.com
 academy.databricks.com
@@ -1197,8 +1197,8 @@ analytics.krisp.ai
 download.krisp.ai
 teams.krisp.ai
 krisp.ai
-api.krisp.ai
 *.krisp.ai
+api.krisp.ai
 *.krisp.ai
 krisp.ai
 account.krisp.ai
@@ -1496,8 +1496,8 @@ app.spiketrap.io
 *.snooguts.net
 *.reddithelp.com
 ads.reddit.com
-www.reddit.com
 *.reddit.com
+www.reddit.com
 oauth.reddit.com
 *.snooguts.net
 *.redditmedia.com
@@ -1976,9 +1976,9 @@ store.playstation.com
 my.playstation.com
 my.account.sony.com
 *.api.playstation.com
-*.sonyentertainmentnetwork.com
 transact.playstation.com
 *.playstation.net
+*.sonyentertainmentnetwork.com
 *.playstation.net
 *.sonyentertainmentnetwork.com
 *.api.playstation.com
@@ -2221,8 +2221,8 @@ amazonpayinsurance.in
 *.1688.com
 www.alibabagroup.com
 *.aliexpress.com
-*.aliyun.com
 *.taobao.com
+*.aliyun.com
 *.alibaba.com
 *.aliexpress.com
 *.taobao.com
@@ -2340,9 +2340,9 @@ http://www.shopmarriott.com
 www.goodrx.com
 www.goodrx.com
 *.rbx.com
-*.guilded.gg
 *.ra.roblox.com
 *.roblox.com
+*.guilded.gg
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -2508,6 +2508,7 @@ flyiin.com
 admin.rezserver.com
 cruises.priceline.com
 secure.rezserver.com
+www.bookingholdings.com
 www.priceline.com
 secure.rezserver.com
 reservations.rezserver.com
@@ -2537,8 +2538,8 @@ developers.smartsheet.com
 *invitations-api.trustpilot.com
 *share.trustpilot.com
 *business.trustpilot.com
-*www.trustpilot.com
 *legal.trustpilot.com
+*www.trustpilot.com
 *api.trustpilot.com
 *authenticate.trustpilot.com
 *invitations-api.trustpilot.com
@@ -2706,8 +2707,8 @@ www.hyattinclusivecollection.com
 booking.applevacations.com
 grammarly.ai
 *.grammarly.io
-*.grammarlyaws.com
 *.grammarly.com
+*.grammarlyaws.com
 *.grammarly.io
 *.grammarlyaws.com
 *.grammarly.com
@@ -3212,8 +3213,8 @@ chatdate.app
 zodia.studio
 backstage.io
 api.spotify.com
-assets.spotify.com
 everynoise.com
+assets.spotify.com
 assets.spotify.com
 api.spotify.com
 everynoise.com
@@ -3490,7 +3491,6 @@ werkenbijdefensie.nl
 werkenbijderet.nl
 devmaximum.com
 doorstromen.mijnkombijdepolitie.nl
-mijnkombijdepolitie.nl
 qatest.nl
 rudderplatform.com
 no-reply.cloud
@@ -3501,6 +3501,7 @@ nossl.nl
 wp-mail.nl
 www.werkenbijbakertilly.nl
 werkenbijdnb.nl
+mijnkombijdepolitie.nl
 werkenbijdefensie.nl
 werkenbijderet.nl
 www.werkenbijbakertilly.nl
@@ -3549,11 +3550,11 @@ partners.shopify.com
 shopify.plus
 linkpop.com
 your-store.myshopify.com
-admin.shopify.com
 *.shopify.com
 shop.app
 *.shopifycs.com
 arrive-server.shopifycloud.com
+admin.shopify.com
 *.shopifycs.com
 *.shopify.com
 *.shopifykloud.com
@@ -3596,9 +3597,9 @@ web.snapchat.com
 accounts.snapchat.com
 login.playcanvas.com
 *.sc-core.net
-scan.snapchat.com
-playcanvas.com
 snappublisher.snapchat.com
+playcanvas.com
+scan.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
@@ -3743,9 +3744,9 @@ app.interseller.io
 onboarding.greenhouse.io
 boards.greenhouse.io
 interseller.io
-app.greenhouse.io
 www.greenhouse.io
 api.greenhouse.io
+app.greenhouse.io
 app.greenhouse.io
 boards.greenhouse.io
 api.greenhouse.io
@@ -3871,10 +3872,10 @@ spaces.pm
 slackatwork.com
 slack-redir.net
 slack-imgs.com
-app.slack.com
 api.slack.com
 www.quip.com
 *.quip.com
+app.slack.com
 slack.com
 slack.com
 api.slack.com
@@ -3910,9 +3911,9 @@ hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 a5s.hackerone-ext-content.com
 hackerone.live
 b5s.hackerone-ext-content.com
+app.pullrequest.com
 hackerone-ext-content.com
 errors.hackerone.net
-app.pullrequest.com
 ctf.hacker101.com
 hackerone-user-content.com
 api.hackerone.com
