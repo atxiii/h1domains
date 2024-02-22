@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Feb 22 01:45:49 UTC 2024)
+## Domains with Bounties (Last Updated Thu Feb 22 02:22:00 UTC 2024)
 ```
 *.worldcoin-distributors.com
 *.toolsforhumanity.com
@@ -134,11 +134,11 @@ www.mercadopago.com.ar
 www.mercadolibre.com.co
 www.mercadolibre.com.pe
 www.mercadolibre.cl
-www.mercadopago.com.mx
-www.mercadolibre.com.ar
 www.mercadopago.com.br
 www.mercadopago.cl
 www.mercadolivre.com.br
+www.mercadopago.com.mx
+www.mercadolibre.com.ar
 api.mercadolibre.com
 api.mercadopago.com
 www.mercadopago.com.ar
@@ -186,8 +186,8 @@ distribution-xml.booking.com
 *.booking.com
 spark.fareharbor.com
 booking.com
-account.booking.com
 careers.booking.com
+account.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -484,9 +484,9 @@ m.krisha.kz
 m.kolesa.kz
 id.kolesa.kz
 api.kolesa.kz
+krisha.kz
 api.avtoelon.uz
 avtoelon.uz
-krisha.kz
 kolesa.kz
 kolesa.kz
 m.kolesa.kz
@@ -520,12 +520,12 @@ location.services.mozilla.com
 firefox-ci-tc.services.mozilla.com
 hg.mozilla.org
 bugzilla.mozilla.org
-mozilla-pontoon-staging.herokuapp.com
 phabricator.allizom.org
+mozilla-pontoon-staging.herokuapp.com
 accounts.firefox.com
 firefox.settings.services.mozilla.com
-addons.allizom.org
 contile.services.mozilla.com
+addons.allizom.org
 addons.allizom.org
 accounts.firefox.com
 bugzilla.mozilla.org
@@ -675,11 +675,11 @@ oneview.malwarebytes.com
 *.mbamupdates.com
 *.mwbsys.com
 *.mb-cosmos.com
+*.cloud.malwarebytes.com
+*.threatdown.com
+www.malwarebytes.com
 *.cyrus-security.com
 cloud.malwarebytes.com
-www.malwarebytes.com
-*.threatdown.com
-*.cloud.malwarebytes.com
 *.malwarebytes.com
 my.malwarebytes.com
 *.mwbsys.com
@@ -721,8 +721,8 @@ auth.skypicker.com
 tequila.kiwi.com
 www.kiwi.com
 jobs.kiwi.com
-*.skypicker.com
 *.kiwi.com
+*.skypicker.com
 *.kiwi.com
 *.skypicker.com
 www.kiwi.com
@@ -1835,25 +1835,19 @@ hackerone.affirm-odin.com
 helpcenter.affirm.ca
 helpcenter.affirm.com
 www.trekpleister.nl
-www.kruidvat.nl
-app.kruidvat.nl
-www.theperfumeshop.com
-app.theperfumeshop.com
-api.theperfumeshop.com
+www10.watsons.com.vn
+api.watsons.com.vn
 www10.pns.hk
 api.pns.hk
 www.pns.hk
-www10.watsons.com.sg
-www.watsons.com.sg
-api.watsons.com.sg
-www.watsons.com.hk
-www10.watsons.com.hk
-api.watsons.com.hk
-www10.watsons.co.id
-api.watsons.co.id
-www.watsons.co.id
-blog.watsons.com.tr
-app.watsons.com.tr
+mapi-sim.fortress.com.hk
+www.fortress.com.hk
+www.marionnaud.fr
+app.marionnaud.fr
+mapi.moneyback.com.hk
+www.moneyback.com.hk
+www.kruidvat.nl
+app.kruidvat.nl
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -2396,7 +2390,6 @@ https://coda.io/signup/email
 codahosted.io
 codacontent.io
 comic.pixiv.net
-sketch.pixiv.net
 sensei.pixiv.net
 hub.vroid.com
 dic.pixiv.net
@@ -2408,6 +2401,7 @@ payment.pixiv.net
 www.pixiv.net
 accounts.pixiv.net
 *.fanbox.cc
+sketch.pixiv.net
 *.fanbox.cc
 booth.pm
 comic.pixiv.net
@@ -3525,8 +3519,8 @@ zopim.com
 app.futuresimple.com
 api.getbase.com
 http://h1-your-domain.zendesk.com/sell
-yourcompany.udemy.com
 www.udemy.com
+yourcompany.udemy.com
 www.udemy.com
 yourcompany.udemy.com
 shopifyinbox.com
@@ -3535,12 +3529,12 @@ arrive-server.shopifycloud.com
 *.shopifycs.com
 *.shopifycloud.com
 accounts.shopify.com
-shopify.plus
 partners.shopify.com
+shopify.plus
 linkpop.com
 your-store.myshopify.com
-*.shopify.com
 admin.shopify.com
+*.shopify.com
 shop.app
 *.shopifycs.com
 *.shopify.com
@@ -3860,10 +3854,10 @@ spaces.pm
 slackatwork.com
 slack-redir.net
 slack-imgs.com
-app.slack.com
 api.slack.com
 www.quip.com
 *.quip.com
+app.slack.com
 slack.com
 slack.com
 api.slack.com
