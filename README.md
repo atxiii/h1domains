@@ -2,17 +2,17 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Feb 22 20:14:57 UTC 2024)
+## Domains with Bounties (Last Updated Thu Feb 22 21:13:28 UTC 2024)
 ```
 *.worldcoin-distributors.com
 *.worldcoin.dev
 toolsforhumanity.com
 bioid-management.app
-*.toolsforhumanity.com
 getworldcoin.com
 worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin.org
+*.toolsforhumanity.com
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -52,9 +52,9 @@ www.sheer.com
 my.sheer.com
 www.sheer.com
 my.sheer.com
+www.ddfcontent.com
 www.pornworld.com
 www.analvids.com
-www.ddfcontent.com
 www.pornbox.com
 www.pornbox.com
 www.analvids.com
@@ -133,9 +133,9 @@ www.mercadopago.com.pe
 www.mercadopago.com.ar
 www.mercadolibre.com.pe
 www.mercadolibre.cl
-www.mercadopago.cl
 www.mercadopago.com.mx
 www.mercadolibre.com.ar
+www.mercadopago.cl
 api.mercadolibre.com
 www.mercadolivre.com.br
 www.mercadopago.com.br
@@ -184,10 +184,10 @@ distribution-xml.booking.com
 booking.com
 account.booking.com
 cars.booking.com
-*.booking.com
+secure.booking.com
 careers.booking.com
 spark.fareharbor.com
-secure.booking.com
+*.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -259,8 +259,8 @@ app.moderntreasury.com
 cdn.moderntreasury.com
 app.moderntreasury.com
 cdn.moderntreasury.com
-test.nicex.com
 test.nicehash.com
+test.nicex.com
 test.nicehash.com
 https://test.nicehash.com/shop/
 https://test.nicex.com
@@ -553,8 +553,8 @@ support.mozilla.org
 stage.taskcluster.nonprod.cloudops.mozgcp.net
 relay.firefox.com
 hg.mozilla.org
-monitor.firefox.com
 www.mozilla.org
+monitor.firefox.com
 developer.mozilla.org
 profiler.firefox.com
 vpn.mozilla.org
@@ -1834,20 +1834,24 @@ hackerone.affirm-odin.com
 hackerone.affirm-odin.com
 helpcenter.affirm.ca
 helpcenter.affirm.com
-www10.watsons.com.vn
-api.watsons.com.vn
-www10.pns.hk
-api.pns.hk
-www.pns.hk
-mapi-sim.fortress.com.hk
-www.fortress.com.hk
-www.marionnaud.fr
-app.marionnaud.fr
-mapi.moneyback.com.hk
-www.moneyback.com.hk
+www.superdrug.com
+app.superdrug.com
+api.superdrug.com
 www.kruidvat.nl
 app.kruidvat.nl
 www.theperfumeshop.com
+app.theperfumeshop.com
+api.theperfumeshop.com
+www10.watsons.com.tw
+www.watsons.com.tw
+api.watsons.com.tw
+www10.watsons.com.ph
+api.watsons.com.ph
+www.watsons.com.ph
+www.watsons.co.th
+www20.watsons.co.th
+www10.watsons.co.th
+api.watsons.co.th
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -2778,8 +2782,8 @@ decision.swiftfinancial.com
 paypal.me
 py.pl
 *.venmo.com
-*.hyperwallet.com
 paypalobjects.com
+*.hyperwallet.com
 *.xoom.com
 *.braintreegateway.com
 *.paypalcorp.com
@@ -3393,8 +3397,8 @@ npmjs.org
 classroom.github.com
 *.githubapp.com
 npmjs.com
-github.com
 api.github.com
+github.com
 github.com
 api.github.com
 gist.github.com
@@ -3671,8 +3675,8 @@ assets.airbnb.com
 api.airbnb.com
 *.airbnbcitizen.com
 *.airbnb.com
-*.withairbnb.com
 www.airbnb.com
+*.withairbnb.com
 www.hoteltonight.com
 www.airbnb.com
 next.airbnb.com
