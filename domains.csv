@@ -7,10 +7,10 @@ toolsforhumanity,*.worldcoin-distributors.com,True
 toolsforhumanity,*.worldcoin.dev,True
 toolsforhumanity,toolsforhumanity.com,True
 toolsforhumanity,bioid-management.app,True
-toolsforhumanity,*.consumer.worldcoin.org,True
 toolsforhumanity,getworldcoin.com,True
 toolsforhumanity,*.toolsforhumanity.com,True
 toolsforhumanity,worldcoin.org,True
+toolsforhumanity,*.consumer.worldcoin.org,True
 toolsforhumanity,*.worldcoin.org,True
 toolsforhumanity,*.worldcoin.org,True
 toolsforhumanity,*.consumer.worldcoin.org,True
@@ -101,9 +101,9 @@ sheer_bbp,my.sheer.com,True
 sheer_bbp,www.sheer.com,True
 sheer_bbp,www.sheer.com,True
 sheer_bbp,my.sheer.com,True
-pornbox,www.ddfcontent.com,True
 pornbox,www.pornworld.com,True
 pornbox,www.analvids.com,True
+pornbox,www.ddfcontent.com,True
 pornbox,www.pornbox.com,True
 pornbox,www.pornbox.com,True
 pornbox,www.analvids.com,True
@@ -148,8 +148,8 @@ hostinger,backend.zyro.com,True
 hostinger,*.000webhost.com,True
 hostinger,www.hostinger.com,True
 hostinger,hpanel.hostinger.com,True
-hostinger,www.zyro.com,True
 hostinger,logo.zyro.com,True
+hostinger,www.zyro.com,True
 hostinger,*.000webhost.com,True
 hostinger,www.hostinger.com,True
 hostinger,cpanel.hostinger.com,True
@@ -1695,9 +1695,9 @@ greenfly,api.greenfly.com,False
 greenfly,api.greenfly.com,False
 greenfly,portal.greenfly.com,False
 aven_response,aven.com,False
-aven_response,notary.aven.com,False
 aven_response,my.aven.com,False
 aven_response,*.aven.com,False
+aven_response,notary.aven.com,False
 aven_response,*.aven.com,False
 aven_response,aven.com,False
 aven_response,my.aven.com,False
@@ -1735,7 +1735,6 @@ redox_bbp,webhooks.gamma.redoxstage.com,True
 redox_bbp,api.gamma.redoxstage.com,True
 redox_bbp,gamma.redoxstage.com,True
 redox_bbp,sftp.gamma.redoxstage.com,True
-redox_bbp,app.gamma.redoxstage.com,True
 redox_bbp,clientcert.gamma.redoxstage.com,True
 redox_bbp,eets.gamma.redoxstage.com,True
 redox_bbp,evening-earth.gamma.redoxstage.com,True
@@ -1745,6 +1744,7 @@ redox_bbp,10x.redoxengine.com,True
 redox_bbp,dashboard.gamma.redoxstage.com,True
 redox_bbp,testapp.redoxengine.com,True
 redox_bbp,www.redoxengine.com,True
+redox_bbp,app.gamma.redoxstage.com,True
 redox_bbp,10x.redoxengine.com,True
 redox_bbp,testapp.redoxengine.com,True
 redox_bbp,testapi.redoxengine.com,True
@@ -2839,10 +2839,10 @@ clarivate,biologybrowser.com,False
 clarivate,biologybrowser.org,False
 clarivate,biologyfinder.com,False
 freshworks,yourdomain.freshcaller.com,True
-freshworks,yourdomain.freshdesk.com,True
 freshworks,yourdomain.myfreshworks.com,True
 freshworks,yourdomain.freshchat.com,True
 freshworks,yourdomain.freshservice.com,True
+freshworks,yourdomain.freshdesk.com,True
 freshworks,yourdomain.freshdesk.com,True
 freshworks,yourdomain.freshservice.com,True
 freshworks,yourdomain.freshchat.com,True
@@ -2858,8 +2858,8 @@ kolesagroup,m.krisha.kz,True
 kolesagroup,m.kolesa.kz,True
 kolesagroup,id.kolesa.kz,True
 kolesagroup,api.kolesa.kz,True
-kolesagroup,api.avtoelon.uz,True
 kolesagroup,krisha.kz,True
+kolesagroup,api.avtoelon.uz,True
 kolesagroup,avtoelon.uz,True
 kolesagroup,kolesa.kz,True
 kolesagroup,kolesa.kz,True
@@ -2970,8 +2970,8 @@ shutterfly_vdp,*.photoccino.com,False
 shutterfly_vdp,*.snapfish.com,False
 shutterfly_vdp,blog.spoonflower.com,False
 shutterfly_vdp,photo.walgreens.com,False
-shutterfly_vdp,lifetouch.com,False
 shutterfly_vdp,admin.spoonflower.com,False
+shutterfly_vdp,lifetouch.com,False
 shutterfly_vdp,*.shutterfly.com,False
 shutterfly_vdp,*.snapfish.com,False
 shutterfly_vdp,*.sf-cdn.com,False
@@ -3206,9 +3206,9 @@ malwarebytes,*.mb-cosmos.com,True
 malwarebytes,blog.malwarebytes.com,False
 malwarebytes,*.cyrus-security.com,True
 malwarebytes,cloud.malwarebytes.com,True
-malwarebytes,www.malwarebytes.com,True
 malwarebytes,*.threatdown.com,True
 malwarebytes,*.cloud.malwarebytes.com,True
+malwarebytes,www.malwarebytes.com,True
 malwarebytes,*.malwarebytes.com,True
 malwarebytes,my.malwarebytes.com,True
 malwarebytes,*.mwbsys.com,True
@@ -4692,8 +4692,8 @@ razorpay,invoices.razorpay.com,True
 razorpay,payroll.razorpay.com,True
 razorpay,x.razorpay.com,True
 razorpay,checkout.razorpay.com,True
-razorpay,api.razorpay.com,True
 razorpay,dashboard.razorpay.com,True
+razorpay,api.razorpay.com,True
 razorpay,dashboard.razorpay.com,True
 razorpay,api.razorpay.com,True
 razorpay,checkout.razorpay.com,True
@@ -4843,8 +4843,8 @@ etoro_bbp,rankings.etoro.com,True
 etoro_bbp,candle.etoro.com,True
 etoro_bbp,r.etoro.com,True
 etoro_bbp,delta.app,True
-etoro_bbp,bullsheet.me,True
 etoro_bbp,etoropartners.com,True
+etoro_bbp,bullsheet.me,True
 etoro_bbp,www.etoro.com,True
 etoro_bbp,www.etoro.com,True
 etoro_bbp,etoropartners.com,True
@@ -4940,8 +4940,8 @@ databricks,docs.databricks.com,True
 databricks,labs.databricks.com,True
 databricks,customer-academy.databricks.com,True
 databricks,support.databricks.com,True
-databricks,databricks.com,True
 databricks,kb.databricks.com,True
+databricks,databricks.com,True
 databricks,advocates.databricks.com,True
 databricks,databricks.com,True
 databricks,academy.databricks.com,True
@@ -5070,8 +5070,8 @@ krisp,contact.krisp.ai,False
 krisp,url5145.krisp.ai,False
 krisp,krisp.ai,True
 krisp,help.krisp.ai,False
-krisp,*.krisp.ai,True
 krisp,api.krisp.ai,True
+krisp,*.krisp.ai,True
 krisp,*.krisp.ai,True
 krisp,krisp.ai,True
 krisp,account.krisp.ai,True
@@ -6980,8 +6980,8 @@ tiktok,www.pangleglobal.com,True
 tiktok,business.tiktok.com,True
 tiktok,shop.tiktok.com,True
 tiktok,*.tiktokv.com,True
-tiktok,partner.tiktokshop.com,True
 tiktok,tiktok.com,True
+tiktok,partner.tiktokshop.com,True
 tiktok,*.tiktok.com,True
 tiktok,ads.tiktok.com,True
 tiktok,*.tiktok.com,True
@@ -7331,8 +7331,8 @@ playstation,my.playstation.com,True
 playstation,my.account.sony.com,True
 playstation,*.api.playstation.com,True
 playstation,*.sonyentertainmentnetwork.com,True
-playstation,*.playstation.net,True
 playstation,transact.playstation.com,True
+playstation,*.playstation.net,True
 playstation,*.playstation.net,True
 playstation,*.sonyentertainmentnetwork.com,True
 playstation,*.api.playstation.com,True
@@ -8558,8 +8558,8 @@ pixiv,booth.pm,True
 pixiv,payment.pixiv.net,True
 pixiv,www.pixiv.net,True
 pixiv,*.fanbox.cc,True
-pixiv,sketch.pixiv.net,True
 pixiv,accounts.pixiv.net,True
+pixiv,sketch.pixiv.net,True
 pixiv,*.fanbox.cc,True
 pixiv,booth.pm,True
 pixiv,comic.pixiv.net,True
@@ -9909,8 +9909,8 @@ github,*.githubusercontent.com,True
 github,classroom.github.com,True
 github,*.githubapp.com,True
 github,api.github.com,True
-github,github.com,True
 github,npmjs.com,True
+github,github.com,True
 github,github.com,True
 github,api.github.com,True
 github,gist.github.com,True
@@ -10108,9 +10108,9 @@ snapchat,web.snapchat.com,True
 snapchat,accounts.snapchat.com,True
 snapchat,login.playcanvas.com,True
 snapchat,*.sc-core.net,True
-snapchat,snappublisher.snapchat.com,True
-snapchat,playcanvas.com,True
 snapchat,scan.snapchat.com,True
+snapchat,playcanvas.com,True
+snapchat,snappublisher.snapchat.com,True
 snapchat,accounts.snapchat.com,True
 snapchat,app.snapchat.com,True
 snapchat,*.sc-core.net,True
