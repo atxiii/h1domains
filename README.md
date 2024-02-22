@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Feb 22 00:45:34 UTC 2024)
+## Domains with Bounties (Last Updated Thu Feb 22 01:45:49 UTC 2024)
 ```
 *.worldcoin-distributors.com
 *.toolsforhumanity.com
@@ -53,8 +53,8 @@ www.sheer.com
 www.sheer.com
 my.sheer.com
 www.ddfcontent.com
-www.analvids.com
 www.pornworld.com
+www.analvids.com
 www.pornbox.com
 www.pornbox.com
 www.analvids.com
@@ -182,10 +182,10 @@ widget.rentalcars.com
 secure.booking.com
 admin.booking.com
 distribution-xml.booking.com
-spark.fareharbor.com
-booking.com
 *.rentalcars.com
 *.booking.com
+spark.fareharbor.com
+booking.com
 account.booking.com
 careers.booking.com
 *.booking.com
@@ -520,8 +520,8 @@ location.services.mozilla.com
 firefox-ci-tc.services.mozilla.com
 hg.mozilla.org
 bugzilla.mozilla.org
-phabricator.allizom.org
 mozilla-pontoon-staging.herokuapp.com
+phabricator.allizom.org
 accounts.firefox.com
 firefox.settings.services.mozilla.com
 addons.allizom.org
@@ -584,8 +584,8 @@ hiltonhotels.jp
 hiltonbusinessonline.com
 *.hilton.io
 *.hilton.com.tr
-*.hilton.com
 hilton.com
+*.hilton.com
 *.hilton.com
 *.hilton.io
 *.hilton.com.tr
@@ -622,9 +622,9 @@ super-services.indriverapp.com
 auth2.indrive.tech
 watchdocs.indriverapp.com
 cargo.indrive.com
-*.indrive.com
 *.indriver.com
 *.indriverapp.com
+*.indrive.com
 *.indriverapp.com
 *.indrive.com
 *.indriver.com
@@ -1109,8 +1109,8 @@ rankings.etoro.com
 candle.etoro.com
 r.etoro.com
 delta.app
-bullsheet.me
 etoropartners.com
+bullsheet.me
 www.etoro.com
 www.etoro.com
 etoropartners.com
@@ -1170,8 +1170,8 @@ docs.databricks.com
 labs.databricks.com
 customer-academy.databricks.com
 advocates.databricks.com
-databricks.com
 support.databricks.com
+databricks.com
 kb.databricks.com
 databricks.com
 academy.databricks.com
@@ -1484,7 +1484,6 @@ sh.reddit.com
 www.spiketrap.io
 matrix.redditspace.com
 ads-api.reddit.com
-oauth.reddit.com
 gateway.reddit.com
 mod.reddit.com
 *.redditinc.com
@@ -1499,6 +1498,7 @@ app.spiketrap.io
 ads.reddit.com
 www.reddit.com
 *.reddit.com
+oauth.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -2217,12 +2217,12 @@ amazonpayinsurance.in
 *.alibabacloud.com
 *.alibaba-inc.com
 *.alibaba.com
-*.aliyun.com
 *.taobao.com
 *.Daraz.com
 *.1688.com
 www.alibabagroup.com
 *.aliexpress.com
+*.aliyun.com
 *.alibaba.com
 *.aliexpress.com
 *.taobao.com
@@ -2775,8 +2775,8 @@ decision.swiftfinancial.com
 paypal.me
 py.pl
 *.venmo.com
-paypalobjects.com
 *.hyperwallet.com
+paypalobjects.com
 *.paypal.com
 www.paypal-*.com
 *.xoom.com
@@ -3535,12 +3535,12 @@ arrive-server.shopifycloud.com
 *.shopifycs.com
 *.shopifycloud.com
 accounts.shopify.com
-partners.shopify.com
 shopify.plus
+partners.shopify.com
 linkpop.com
 your-store.myshopify.com
-admin.shopify.com
 *.shopify.com
+admin.shopify.com
 shop.app
 *.shopifycs.com
 *.shopify.com
@@ -3860,10 +3860,10 @@ spaces.pm
 slackatwork.com
 slack-redir.net
 slack-imgs.com
+app.slack.com
 api.slack.com
 www.quip.com
 *.quip.com
-app.slack.com
 slack.com
 slack.com
 api.slack.com
@@ -3905,9 +3905,9 @@ app.pullrequest.com
 ctf.hacker101.com
 cover-photos.hackerone-user-content.com
 www.hackerone.com
+hackerone-user-content.com
 api.hackerone.com
 hackerone.com
-hackerone-user-content.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
