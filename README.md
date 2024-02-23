@@ -2,15 +2,15 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Feb 23 13:16:09 UTC 2024)
+## Domains with Bounties (Last Updated Fri Feb 23 14:15:24 UTC 2024)
 ```
 *.worldcoin-distributors.com
 *.worldcoin.dev
 toolsforhumanity.com
 worldcoin.org
 *.toolsforhumanity.com
-getworldcoin.com
 bioid-management.app
+getworldcoin.com
 *.consumer.worldcoin.org
 *.worldcoin.org
 *.worldcoin.org
@@ -25,8 +25,8 @@ worldcoin.org
 rfc.tari.com
 textexplore.tari.com
 www.tarilabs.com
-www.tari.com
 explore.tari.com
+www.tari.com
 explore.tari.com
 rfc.tari.com
 textexplore.tari.com
@@ -48,12 +48,12 @@ verify.arkoselabs.com
 iframe.arkoselabs.com
 www.arkoselabs.com
 demo.arkoselabs.com
-www.sheer.com
 my.sheer.com
 www.sheer.com
+www.sheer.com
 my.sheer.com
-www.pornworld.com
 www.ddfcontent.com
+www.pornworld.com
 www.pornbox.com
 www.analvids.com
 www.pornbox.com
@@ -284,12 +284,12 @@ xero-sandbox.gocardless.com
 oauth-sandbox.gocardless.com
 *.gocardless-staging.io
 manage-sandbox.gocardless.com
-*.gocardless-lab.io
 *.gocardless.io
 *.gocardless-banking.io
 www.gocardless.com
 *.gocardless-cicd.io
 api-sandbox.gocardless.com
+*.gocardless-lab.io
 *.gocardless.io
 *.gocardless-banking.io
 *.gocardless-cicd.io
@@ -1197,8 +1197,8 @@ analytics.krisp.ai
 download.krisp.ai
 teams.krisp.ai
 krisp.ai
-api.krisp.ai
 *.krisp.ai
+api.krisp.ai
 *.krisp.ai
 krisp.ai
 account.krisp.ai
@@ -2506,6 +2506,7 @@ admin.rezserver.com
 cruises.priceline.com
 www.bookingholdings.com
 press.priceline.com
+priceline.com
 www.priceline.com
 secure.rezserver.com
 reservations.rezserver.com
@@ -2782,11 +2783,11 @@ decision.swiftfinancial.com
 paypal.me
 py.pl
 *.venmo.com
-paypalobjects.com
 *.hyperwallet.com
+paypalobjects.com
 *.braintreegateway.com
-*.paypalcorp.com
 *.xoom.com
+*.paypalcorp.com
 *.paypal.com
 www.paypal-*.com
 *.xoom.com
@@ -2945,9 +2946,9 @@ www.valvesoftware.com
 www.teamfortress.com
 www.dota2.com
 www.counter-strike.net
-api.steampowered.com
 steamcommunity.com
 store.steampowered.com
+api.steampowered.com
 www.dota2.com
 support.steampowered.com
 partner.steampowered.com
@@ -3548,8 +3549,8 @@ shop.app
 arrive-server.shopifycloud.com
 *.shopifycs.com
 partners.shopify.com
-*.shopify.com
 accounts.shopify.com
+*.shopify.com
 admin.shopify.com
 your-store.myshopify.com
 *.shopifycs.com
@@ -3675,8 +3676,8 @@ assets.airbnb.com
 api.airbnb.com
 *.airbnbcitizen.com
 www.airbnb.com
-*.airbnb.com
 www.hoteltonight.com
+*.airbnb.com
 *.withairbnb.com
 www.airbnb.com
 next.airbnb.com
@@ -3758,8 +3759,8 @@ ide.x.ai
 grok.x.ai
 *.twimg.com
 api.x.ai
-x.com
 *.twitter.com
+x.com
 *.twitter.com
 *.vine.co
 *.twimg.com
@@ -3872,8 +3873,8 @@ slack-imgs.com
 www.quip.com
 *.quip.com
 slack.com
-api.slack.com
 app.slack.com
+api.slack.com
 slack.com
 api.slack.com
 status.slack.com
@@ -3911,12 +3912,12 @@ b5s.hackerone-ext-content.com
 hackerone-ext-content.com
 errors.hackerone.net
 cover-photos.hackerone-user-content.com
-api.hackerone.com
 hackerone-user-content.com
 app.pullrequest.com
 www.hackerone.com
-hackerone.com
 ctf.hacker101.com
+hackerone.com
+api.hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
