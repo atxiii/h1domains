@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Feb 23 10:18:08 UTC 2024)
+## Domains with Bounties (Last Updated Fri Feb 23 11:13:23 UTC 2024)
 ```
 *.worldcoin-distributors.com
 *.worldcoin.dev
@@ -52,8 +52,8 @@ www.sheer.com
 my.sheer.com
 www.sheer.com
 my.sheer.com
-www.pornworld.com
 www.ddfcontent.com
+www.pornworld.com
 www.pornbox.com
 www.analvids.com
 www.pornbox.com
@@ -179,15 +179,15 @@ chat.booking.com
 widget.rentalcars.com
 admin.booking.com
 distribution-xml.booking.com
-booking.com
 *.rentalcars.com
+booking.com
 cars.booking.com
 secure.booking.com
 careers.booking.com
-*.booking.com
 spark.fareharbor.com
-account.booking.com
+*.booking.com
 portal.taxi.booking.com
+account.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -259,8 +259,8 @@ app.moderntreasury.com
 cdn.moderntreasury.com
 app.moderntreasury.com
 cdn.moderntreasury.com
-test.nicex.com
 test.nicehash.com
+test.nicex.com
 test.nicehash.com
 https://test.nicehash.com/shop/
 https://test.nicex.com
@@ -288,8 +288,8 @@ manage-sandbox.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
 www.gocardless.com
-api-sandbox.gocardless.com
 *.gocardless-cicd.io
+api-sandbox.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
 *.gocardless-cicd.io
@@ -675,11 +675,11 @@ oneview.malwarebytes.com
 *.mbamupdates.com
 *.mwbsys.com
 *.mb-cosmos.com
+*.cloud.malwarebytes.com
+*.threatdown.com
+www.malwarebytes.com
 *.cyrus-security.com
 cloud.malwarebytes.com
-*.threatdown.com
-*.cloud.malwarebytes.com
-www.malwarebytes.com
 *.malwarebytes.com
 my.malwarebytes.com
 *.mwbsys.com
@@ -1170,8 +1170,8 @@ docs.databricks.com
 labs.databricks.com
 customer-academy.databricks.com
 support.databricks.com
-databricks.com
 kb.databricks.com
+databricks.com
 advocates.databricks.com
 databricks.com
 academy.databricks.com
@@ -1197,8 +1197,8 @@ analytics.krisp.ai
 download.krisp.ai
 teams.krisp.ai
 krisp.ai
-api.krisp.ai
 *.krisp.ai
+api.krisp.ai
 *.krisp.ai
 krisp.ai
 account.krisp.ai
@@ -1750,12 +1750,12 @@ creatormarketplace.tiktok.com
 www.pangleglobal.com
 business.tiktok.com
 tiktok.com
-ads.tiktok.com
 shop.tiktok.com
 *.tiktok.com
 partner.tiktokshop.com
 effecthouse.tiktok.com
 *.tiktokv.com
+ads.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -1834,26 +1834,25 @@ helpcenter.affirm.ca
 hackerone.affirm-odin.com
 helpcenter.affirm.ca
 helpcenter.affirm.com
-www.superdrug.com
-app.superdrug.com
-api.superdrug.com
 www.kruidvat.nl
 app.kruidvat.nl
 www.theperfumeshop.com
 app.theperfumeshop.com
 api.theperfumeshop.com
-api.watsons.com.my
-www.watsons.com.my
-www10.watsons.com.my
-www.iciparisxl.nl
-www.iciparisxl.be
-www.iciparisxl.lu
-app.iciparisxl.nl
-app.iciparisxl.be
-app.iciparisxl.lu
-www.marionnaud.at
-app.marionnaud.at
-www.marionnaud.ch
+www10.pns.hk
+api.pns.hk
+www.pns.hk
+www10.watsons.com.sg
+www.watsons.com.sg
+api.watsons.com.sg
+www.watsons.com.hk
+www10.watsons.com.hk
+api.watsons.com.hk
+www10.watsons.co.id
+api.watsons.co.id
+www.watsons.co.id
+blog.watsons.com.tr
+app.watsons.com.tr
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -3424,10 +3423,10 @@ registry.gitlab.com
 design.gitlab.com
 advisories.gitlab.com
 docs.gitlab.com
-*.gitlab.net
 customers.gitlab.com
 about.gitlab.com
 *.gitlab.org
+*.gitlab.net
 gitlab.com
 *.gitlab.net
 *.gitlab.org
@@ -3549,9 +3548,9 @@ shop.app
 arrive-server.shopifycloud.com
 *.shopifycs.com
 partners.shopify.com
-accounts.shopify.com
 *.shopify.com
 your-store.myshopify.com
+accounts.shopify.com
 admin.shopify.com
 *.shopifycs.com
 *.shopify.com
@@ -3676,8 +3675,8 @@ assets.airbnb.com
 api.airbnb.com
 *.airbnbcitizen.com
 www.airbnb.com
-www.hoteltonight.com
 *.airbnb.com
+www.hoteltonight.com
 *.withairbnb.com
 www.airbnb.com
 next.airbnb.com
@@ -3775,6 +3774,7 @@ one.dash.cloudflare.com
 waf.cumulusfire.net
 api.cloudflare.com
 dash.cloudflare.com
+*.cloudflare.com
 dash.cloudflare.com
 cloudflareworkers.com
 *.teams.cloudflare.com
