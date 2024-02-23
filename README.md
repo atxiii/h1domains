@@ -2,17 +2,17 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Feb 23 06:18:50 UTC 2024)
+## Domains with Bounties (Last Updated Fri Feb 23 07:17:35 UTC 2024)
 ```
 *.worldcoin-distributors.com
 *.worldcoin.dev
 toolsforhumanity.com
 worldcoin.org
-*.consumer.worldcoin.org
 *.toolsforhumanity.com
+*.consumer.worldcoin.org
+getworldcoin.com
 bioid-management.app
 *.worldcoin.org
-getworldcoin.com
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -69,8 +69,8 @@ http://sandbox-api.fireblocks.io
 university-staging.dynatracelabs.com
 *.sprint.dynatracelabs.com
 account-sprint.dynatracelabs.com
-myaccount-hardening.dynatracelabs.com
 sso-sprint.dynatracelabs.com
+myaccount-hardening.dynatracelabs.com
 *.sprint.dynatracelabs.com
 *.sprint.apps.dynatracelabs.com
 account-sprint.dynatracelabs.com
@@ -182,12 +182,12 @@ admin.booking.com
 distribution-xml.booking.com
 *.rentalcars.com
 booking.com
-account.booking.com
 cars.booking.com
 secure.booking.com
 careers.booking.com
 spark.fareharbor.com
 *.booking.com
+account.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -237,8 +237,8 @@ api2.frontapp.com
 *.booztlet.com
 *.trip.com
 *.trip.com
-dashboard.mergify.com
 api.mergify.com
+dashboard.mergify.com
 api.mergify.com
 dashboard.mergify.com
 www.compass.com
@@ -259,8 +259,8 @@ app.moderntreasury.com
 cdn.moderntreasury.com
 app.moderntreasury.com
 cdn.moderntreasury.com
-test.nicehash.com
 test.nicex.com
+test.nicehash.com
 test.nicehash.com
 https://test.nicehash.com/shop/
 https://test.nicex.com
@@ -623,8 +623,8 @@ cargo.indrive.com
 *.indriver.com
 *.indrive.com
 new-order.eu-east-1.indriverapp.com
-argocd.indrive.dev
 *.indriverapp.com
+argocd.indrive.dev
 *.indriverapp.com
 *.indrive.com
 *.indriver.com
@@ -1834,26 +1834,20 @@ helpcenter.affirm.ca
 hackerone.affirm-odin.com
 helpcenter.affirm.ca
 helpcenter.affirm.com
-www.superdrug.com
-app.superdrug.com
-api.superdrug.com
+www10.watsons.com.vn
+api.watsons.com.vn
+www10.pns.hk
+api.pns.hk
+www.pns.hk
+mapi-sim.fortress.com.hk
+www.fortress.com.hk
+www.marionnaud.fr
+app.marionnaud.fr
+mapi.moneyback.com.hk
+www.moneyback.com.hk
 www.kruidvat.nl
 app.kruidvat.nl
 www.theperfumeshop.com
-app.theperfumeshop.com
-api.theperfumeshop.com
-api.watsons.com.my
-www.watsons.com.my
-www10.watsons.com.my
-www.iciparisxl.nl
-www.iciparisxl.be
-www.iciparisxl.lu
-app.iciparisxl.nl
-app.iciparisxl.be
-app.iciparisxl.lu
-www.marionnaud.at
-app.marionnaud.at
-www.marionnaud.ch
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -2220,8 +2214,8 @@ www.alibabagroup.com
 *.aliexpress.com
 *.taobao.com
 *.1688.com
-*.aliyun.com
 *.alibaba.com
+*.aliyun.com
 *.alibaba.com
 *.aliexpress.com
 *.taobao.com
@@ -2405,8 +2399,8 @@ sketch.pixiv.net
 accounts.pixiv.net
 www.pixiv.net
 *.fanbox.cc
-comic.pixiv.net
 dic.pixiv.net
+comic.pixiv.net
 *.fanbox.cc
 booth.pm
 comic.pixiv.net
@@ -2507,7 +2501,6 @@ admin.rezserver.com
 cruises.priceline.com
 www.bookingholdings.com
 press.priceline.com
-priceline.com
 www.priceline.com
 secure.rezserver.com
 reservations.rezserver.com
@@ -3212,8 +3205,8 @@ chatdate.app
 zodia.studio
 backstage.io
 api.spotify.com
-everynoise.com
 assets.spotify.com
+everynoise.com
 assets.spotify.com
 api.spotify.com
 everynoise.com
@@ -3549,11 +3542,11 @@ linkpop.com
 shop.app
 arrive-server.shopifycloud.com
 *.shopifycs.com
-admin.shopify.com
 partners.shopify.com
 *.shopify.com
 your-store.myshopify.com
 accounts.shopify.com
+admin.shopify.com
 *.shopifycs.com
 *.shopify.com
 *.shopifykloud.com
@@ -3916,8 +3909,8 @@ cover-photos.hackerone-user-content.com
 api.hackerone.com
 hackerone-user-content.com
 app.pullrequest.com
-hackerone.com
 www.hackerone.com
+hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
