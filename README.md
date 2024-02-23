@@ -2,17 +2,17 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Feb 23 07:17:35 UTC 2024)
+## Domains with Bounties (Last Updated Fri Feb 23 08:18:34 UTC 2024)
 ```
 *.worldcoin-distributors.com
 *.worldcoin.dev
 toolsforhumanity.com
 worldcoin.org
-*.toolsforhumanity.com
 *.consumer.worldcoin.org
-getworldcoin.com
+*.toolsforhumanity.com
 bioid-management.app
 *.worldcoin.org
+getworldcoin.com
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -23,10 +23,10 @@ getworldcoin.com
 bioid-management.app
 worldcoin.org
 rfc.tari.com
-explore.tari.com
 textexplore.tari.com
 www.tarilabs.com
 www.tari.com
+explore.tari.com
 explore.tari.com
 rfc.tari.com
 textexplore.tari.com
@@ -133,9 +133,9 @@ www.mercadopago.com.pe
 www.mercadopago.com.ar
 www.mercadolibre.com.pe
 www.mercadolibre.cl
-www.mercadopago.cl
 www.mercadopago.com.mx
 www.mercadolibre.com.ar
+www.mercadopago.cl
 api.mercadolibre.com
 www.mercadolivre.com.br
 www.mercadopago.com.br
@@ -170,7 +170,6 @@ supply-xml.booking.com
 metasearch-api.booking.com
 taxis.booking.com
 phone-validation.taxi.booking.com
-portal.taxi.booking.com
 experiences.booking.com
 indicative-pricing.taxi.booking.com
 paymentcomponent.booking.com
@@ -188,6 +187,7 @@ careers.booking.com
 spark.fareharbor.com
 *.booking.com
 account.booking.com
+portal.taxi.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -1170,8 +1170,8 @@ docs.databricks.com
 labs.databricks.com
 customer-academy.databricks.com
 support.databricks.com
-databricks.com
 kb.databricks.com
+databricks.com
 advocates.databricks.com
 databricks.com
 academy.databricks.com
@@ -1744,18 +1744,18 @@ api.adm.cloud.com
 academy-outbound-ads.tiktok.com
 fp-sg.tiktokv.com
 developers.tiktok.com
-effecthouse.tiktok.com
 careers.tiktok.com
 live-backstage.tiktok.com
 creatormarketplace.tiktok.com
 www.pangleglobal.com
 business.tiktok.com
-*.tiktokv.com
 tiktok.com
 ads.tiktok.com
 shop.tiktok.com
-*.tiktok.com
 partner.tiktokshop.com
+*.tiktok.com
+*.tiktokv.com
+effecthouse.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2501,6 +2501,7 @@ admin.rezserver.com
 cruises.priceline.com
 www.bookingholdings.com
 press.priceline.com
+priceline.com
 www.priceline.com
 secure.rezserver.com
 reservations.rezserver.com
@@ -2777,11 +2778,11 @@ decision.swiftfinancial.com
 paypal.me
 py.pl
 *.venmo.com
-*.hyperwallet.com
 paypalobjects.com
+*.hyperwallet.com
 *.braintreegateway.com
-*.xoom.com
 *.paypalcorp.com
+*.xoom.com
 *.paypal.com
 www.paypal-*.com
 *.xoom.com
@@ -3670,8 +3671,8 @@ assets.airbnb.com
 api.airbnb.com
 *.airbnbcitizen.com
 www.airbnb.com
-www.hoteltonight.com
 *.airbnb.com
+www.hoteltonight.com
 *.withairbnb.com
 www.airbnb.com
 next.airbnb.com
@@ -3753,8 +3754,8 @@ ide.x.ai
 grok.x.ai
 *.twimg.com
 api.x.ai
-*.twitter.com
 x.com
+*.twitter.com
 *.twitter.com
 *.vine.co
 *.twimg.com
@@ -3908,8 +3909,8 @@ ctf.hacker101.com
 cover-photos.hackerone-user-content.com
 api.hackerone.com
 hackerone-user-content.com
-app.pullrequest.com
 www.hackerone.com
+app.pullrequest.com
 hackerone.com
 hackerone.com
 api.hackerone.com
