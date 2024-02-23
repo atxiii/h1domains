@@ -2,15 +2,15 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Feb 23 20:18:18 UTC 2024)
+## Domains with Bounties (Last Updated Fri Feb 23 21:14:03 UTC 2024)
 ```
 *.worldcoin-distributors.com
 *.worldcoin.dev
 toolsforhumanity.com
-*.toolsforhumanity.com
 worldcoin.org
-bioid-management.app
+*.toolsforhumanity.com
 *.worldcoin.org
+bioid-management.app
 *.consumer.worldcoin.org
 getworldcoin.com
 *.worldcoin.org
@@ -48,8 +48,8 @@ verify.arkoselabs.com
 iframe.arkoselabs.com
 www.arkoselabs.com
 demo.arkoselabs.com
-www.sheer.com
 my.sheer.com
+www.sheer.com
 www.sheer.com
 my.sheer.com
 www.ddfcontent.com
@@ -185,8 +185,8 @@ cars.booking.com
 secure.booking.com
 careers.booking.com
 spark.fareharbor.com
-portal.taxi.booking.com
 account.booking.com
+portal.taxi.booking.com
 *.booking.com
 *.booking.com
 *.rentalcars.com
@@ -247,8 +247,8 @@ pentesting.gethypr.com
 hypr37448.gethypr.com
 pentesting3.gethypr.com
 pentesting2.gethypr.com
-hypr74352.gethypr.com
 *.hypr.com
+hypr74352.gethypr.com
 *.hypr.com
 pentesting.gethypr.com
 pentesting3.gethypr.com
@@ -464,9 +464,9 @@ www.visainfinite.ca
 http://myvisainfinite.com/suntrust/en_us/home.html
 http://www.myvisacardportal.com/welcome/enbd/product/#
 yourdomain.freshcaller.com
+yourdomain.freshdesk.com
 yourdomain.freshchat.com
 yourdomain.freshservice.com
-yourdomain.freshdesk.com
 yourdomain.myfreshworks.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
@@ -522,8 +522,8 @@ bugzilla.mozilla.org
 firefox.settings.services.mozilla.com
 contile.services.mozilla.com
 addons.allizom.org
-mozilla-pontoon-staging.herokuapp.com
 phabricator.allizom.org
+mozilla-pontoon-staging.herokuapp.com
 accounts.firefox.com
 addons.allizom.org
 accounts.firefox.com
@@ -568,8 +568,8 @@ community-tc.services.mozilla.com
 www.six-group.com
 www.six-group.com
 api-eu.floqast.app
-*.floqast.app
 *.eu.floqast.app
+*.floqast.app
 *.eu.floqast.app
 *.floqast.app
 api-eu.floqast.app
@@ -622,8 +622,8 @@ cargo.indrive.com
 *.indriver.com
 *.indrive.com
 new-order.eu-east-1.indriverapp.com
-*.indriverapp.com
 argocd.indrive.dev
+*.indriverapp.com
 *.indriverapp.com
 *.indrive.com
 *.indriver.com
@@ -1149,9 +1149,9 @@ bullsheet.me
 admin.instacart.com
 shoppers.instacart.com
 api.instacart.com
-www.instacart.com
 *.instacart.com
 *.instacart.tools
+www.instacart.com
 *.instacart.com
 *.instacart.tools
 api.instacart.com
@@ -1169,8 +1169,8 @@ docs.databricks.com
 labs.databricks.com
 customer-academy.databricks.com
 support.databricks.com
-kb.databricks.com
 databricks.com
+kb.databricks.com
 advocates.databricks.com
 databricks.com
 academy.databricks.com
@@ -1833,19 +1833,24 @@ helpcenter.affirm.ca
 hackerone.affirm-odin.com
 helpcenter.affirm.ca
 helpcenter.affirm.com
-www10.watsons.com.vn
-api.watsons.com.vn
-www10.pns.hk
-api.pns.hk
-www.pns.hk
-www.fortress.com.hk
-www.marionnaud.fr
-app.marionnaud.fr
-mapi.moneyback.com.hk
-www.moneyback.com.hk
+www.superdrug.com
+app.superdrug.com
+api.superdrug.com
 www.kruidvat.nl
 app.kruidvat.nl
 www.theperfumeshop.com
+app.theperfumeshop.com
+api.theperfumeshop.com
+www10.watsons.com.tw
+www.watsons.com.tw
+api.watsons.com.tw
+www10.watsons.com.ph
+api.watsons.com.ph
+www.watsons.com.ph
+www.watsons.co.th
+www20.watsons.co.th
+www10.watsons.co.th
+api.watsons.co.th
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -2395,8 +2400,8 @@ payment.pixiv.net
 sketch.pixiv.net
 accounts.pixiv.net
 www.pixiv.net
-dic.pixiv.net
 *.fanbox.cc
+dic.pixiv.net
 comic.pixiv.net
 *.fanbox.cc
 booth.pm
@@ -2772,6 +2777,7 @@ decision.swiftfinancial.com
 *.braintree-api.com
 *.braintreepayments.com
 *.paylution.com
+*.paypalcorp.com
 paypal.me
 py.pl
 *.venmo.com
@@ -2779,7 +2785,6 @@ paypalobjects.com
 *.braintreegateway.com
 *.xoom.com
 *.hyperwallet.com
-*.paypalcorp.com
 *.paypal.com
 www.paypal-*.com
 *.xoom.com
@@ -3449,9 +3454,9 @@ winecellar.zomato.com
 api.grofers.com
 api2.grofers.com
 blinkit.com
-www.algolia.com
 *.algolia.net
 *.algolianet.com
+www.algolia.com
 *.algolia.net
 *.algolianet.com
 www.algolia.com
@@ -3533,17 +3538,17 @@ yourcompany.udemy.com
 www.udemy.com
 yourcompany.udemy.com
 shopifyinbox.com
+*.shopify.com
 *.shopifykloud.com
 shopify.plus
 linkpop.com
 arrive-server.shopifycloud.com
-partners.shopify.com
 *.shopifycs.com
 shop.app
 *.shopifycloud.com
 admin.shopify.com
+partners.shopify.com
 accounts.shopify.com
-*.shopify.com
 your-store.myshopify.com
 *.shopifycs.com
 *.shopify.com
@@ -3585,9 +3590,9 @@ web.snapchat.com
 accounts.snapchat.com
 login.playcanvas.com
 *.sc-core.net
-scan.snapchat.com
-playcanvas.com
 snappublisher.snapchat.com
+playcanvas.com
+scan.snapchat.com
 app.snapchat.com
 ads.snapchat.com
 accounts.snapchat.com
