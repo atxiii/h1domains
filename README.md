@@ -2,16 +2,16 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Feb 24 13:15:47 UTC 2024)
+## Domains with Bounties (Last Updated Sat Feb 24 14:13:36 UTC 2024)
 ```
 *.worldcoin-distributors.com
 worldcoin.org
 *.toolsforhumanity.com
 *.consumer.worldcoin.org
 bioid-management.app
+toolsforhumanity.com
 *.worldcoin.dev
 getworldcoin.com
-toolsforhumanity.com
 *.worldcoin.org
 *.worldcoin.org
 *.consumer.worldcoin.org
@@ -25,8 +25,8 @@ worldcoin.org
 rfc.tari.com
 textexplore.tari.com
 www.tarilabs.com
-explore.tari.com
 www.tari.com
+explore.tari.com
 explore.tari.com
 rfc.tari.com
 textexplore.tari.com
@@ -52,8 +52,8 @@ www.sheer.com
 my.sheer.com
 www.sheer.com
 my.sheer.com
-www.ddfcontent.com
 www.pornworld.com
+www.ddfcontent.com
 www.analvids.com
 www.pornbox.com
 www.pornbox.com
@@ -485,8 +485,8 @@ api.avtoelon.uz
 avtoelon.uz
 id.kolesa.kz
 krisha.kz
-m.kolesa.kz
 kolesa.kz
+m.kolesa.kz
 kolesa.kz
 m.kolesa.kz
 krisha.kz
@@ -622,8 +622,8 @@ cargo.indrive.com
 *.indriver.com
 *.indrive.com
 new-order.eu-east-1.indriverapp.com
-argocd.indrive.dev
 *.indriverapp.com
+argocd.indrive.dev
 *.indriverapp.com
 *.indrive.com
 *.indriver.com
@@ -912,11 +912,11 @@ zerobounce.net
 cloud.gravitational.io
 askpam.ai
 *.teleportinfra.sh
-teleport.sh
 *.teleport.dev
 *.gravitational.io
 platform.teleport.sh
 *.goteleport.com
+teleport.sh
 *.goteleport.com
 *.gravitational.com
 *.teleport.dev
@@ -1107,8 +1107,8 @@ rankings.etoro.com
 candle.etoro.com
 r.etoro.com
 delta.app
-etoropartners.com
 bullsheet.me
+etoropartners.com
 www.etoro.com
 www.etoro.com
 etoropartners.com
@@ -1195,8 +1195,8 @@ analytics.krisp.ai
 download.krisp.ai
 teams.krisp.ai
 krisp.ai
-*.krisp.ai
 api.krisp.ai
+*.krisp.ai
 *.krisp.ai
 krisp.ai
 account.krisp.ai
@@ -1752,8 +1752,8 @@ effecthouse.tiktok.com
 *.tiktokv.com
 live-backstage.tiktok.com
 tiktok.com
-*.tiktok.com
 ads.tiktok.com
+*.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -1840,18 +1840,16 @@ app.kruidvat.nl
 www.theperfumeshop.com
 app.theperfumeshop.com
 api.theperfumeshop.com
-api.watsons.com.my
-www.watsons.com.my
-www10.watsons.com.my
-www.iciparisxl.nl
-www.iciparisxl.be
-www.iciparisxl.lu
-app.iciparisxl.nl
-app.iciparisxl.be
-app.iciparisxl.lu
-www.marionnaud.at
-app.marionnaud.at
-www.marionnaud.ch
+www10.watsons.com.tw
+www.watsons.com.tw
+api.watsons.com.tw
+www10.watsons.com.ph
+api.watsons.com.ph
+www.watsons.com.ph
+www.watsons.co.th
+www20.watsons.co.th
+www10.watsons.co.th
+api.watsons.co.th
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -2400,8 +2398,8 @@ booth.pm
 payment.pixiv.net
 sketch.pixiv.net
 www.pixiv.net
-dic.pixiv.net
 *.fanbox.cc
+dic.pixiv.net
 comic.pixiv.net
 accounts.pixiv.net
 *.fanbox.cc
@@ -2726,8 +2724,8 @@ mobile-prod.tvg.com
 fdbox.net
 www.4njbets.com
 sportsbook.fanduel.com
-tvg.com
 *racing.fanduel.com
+tvg.com
 us.tvg.com
 com.fanduel.android.live
 *.fanduel.com
@@ -3455,9 +3453,9 @@ winecellar.zomato.com
 api.grofers.com
 api2.grofers.com
 blinkit.com
-www.algolia.com
 *.algolia.net
 *.algolianet.com
+www.algolia.com
 *.algolia.net
 *.algolianet.com
 www.algolia.com
@@ -3539,12 +3537,12 @@ www.udemy.com
 www.udemy.com
 yourcompany.udemy.com
 shopifyinbox.com
+*.shopify.com
 linkpop.com
 arrive-server.shopifycloud.com
-*.shopify.com
+*.shopifycs.com
 *.shopifycloud.com
 admin.shopify.com
-*.shopifycs.com
 partners.shopify.com
 accounts.shopify.com
 your-store.myshopify.com
@@ -3738,10 +3736,10 @@ jss.greenhouse.io
 app.interseller.io
 onboarding.greenhouse.io
 boards.greenhouse.io
-interseller.io
 www.greenhouse.io
 api.greenhouse.io
 app.greenhouse.io
+interseller.io
 app.greenhouse.io
 boards.greenhouse.io
 api.greenhouse.io
