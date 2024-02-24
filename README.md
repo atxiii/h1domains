@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Feb 24 09:13:34 UTC 2024)
+## Domains with Bounties (Last Updated Sat Feb 24 10:14:23 UTC 2024)
 ```
 *.worldcoin-distributors.com
 worldcoin.org
@@ -23,10 +23,10 @@ getworldcoin.com
 bioid-management.app
 worldcoin.org
 rfc.tari.com
+www.tari.com
 textexplore.tari.com
 www.tarilabs.com
 explore.tari.com
-www.tari.com
 explore.tari.com
 rfc.tari.com
 textexplore.tari.com
@@ -52,8 +52,8 @@ my.sheer.com
 www.sheer.com
 www.sheer.com
 my.sheer.com
-www.pornworld.com
 www.ddfcontent.com
+www.pornworld.com
 www.analvids.com
 www.pornbox.com
 www.pornbox.com
@@ -127,7 +127,6 @@ research.23andme.com
 www.mercadolibre.com.uy
 api.mercadopago.com
 www.mercadopago.com.uy
-api.mercadolibre.com
 www.mercadolibre.com.mx
 www.mercadopago.com.co
 www.mercadopago.com.pe
@@ -138,6 +137,7 @@ www.mercadopago.com.mx
 www.mercadolivre.com.br
 www.mercadopago.com.br
 www.mercadolibre.com.co
+api.mercadolibre.com
 www.mercadolibre.com.ar
 www.mercadopago.cl
 api.mercadopago.com
@@ -402,8 +402,8 @@ www.fraedom.com
 visa.co.cr
 ht.visa.com
 www.visa.co.in
-www.authorize.net
 www.yellowpepper.com
+www.visa.com.br
 aw.visa.com
 bb.visa.com
 bd.visa.com
@@ -464,10 +464,10 @@ www.visainfinite.ca
 http://myvisainfinite.com/suntrust/en_us/home.html
 http://www.myvisacardportal.com/welcome/enbd/product/#
 yourdomain.freshcaller.com
-yourdomain.freshdesk.com
 yourdomain.freshchat.com
 yourdomain.freshservice.com
 yourdomain.myfreshworks.com
+yourdomain.freshdesk.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -480,13 +480,13 @@ m.avtoelon.uz
 api.krisha.kz
 app.krisha.kz
 m.krisha.kz
-m.kolesa.kz
 api.kolesa.kz
 api.avtoelon.uz
 avtoelon.uz
 id.kolesa.kz
 kolesa.kz
 krisha.kz
+m.kolesa.kz
 kolesa.kz
 m.kolesa.kz
 krisha.kz
@@ -976,8 +976,8 @@ artifactory.corp.mongodb.com/
 https://www.*mongodb.com/*
 mongodb.live/*
 artifactory.corp.mongodb.com/
-royal.checksw.com
 checksw.com
+royal.checksw.com
 checksw.com
 royal.checksw.com
 *.superpal.io/*
@@ -1107,8 +1107,8 @@ rankings.etoro.com
 candle.etoro.com
 r.etoro.com
 delta.app
-bullsheet.me
 etoropartners.com
+bullsheet.me
 www.etoro.com
 www.etoro.com
 etoropartners.com
@@ -1195,8 +1195,8 @@ analytics.krisp.ai
 download.krisp.ai
 teams.krisp.ai
 krisp.ai
-*.krisp.ai
 api.krisp.ai
+*.krisp.ai
 *.krisp.ai
 krisp.ai
 account.krisp.ai
@@ -2004,8 +2004,8 @@ portal.polygon.technology
 *.miwifi.com
 *.miui.com
 *.xiaomiyoupin.com
-*.mi.com
 *.xiaomi.com
+*.mi.com
 *.mi.com
 *.xiaomi.com
 *.miui.com
@@ -2696,8 +2696,8 @@ www.hyattinclusivecollection.com
 booking.applevacations.com
 grammarly.ai
 *.grammarlyaws.com
-*.grammarly.com
 *.grammarly.io
+*.grammarly.com
 *.grammarly.io
 *.grammarlyaws.com
 *.grammarly.com
@@ -2719,8 +2719,8 @@ mobile-prod.tvg.com
 fdbox.net
 www.4njbets.com
 sportsbook.fanduel.com
-*racing.fanduel.com
 tvg.com
+*racing.fanduel.com
 us.tvg.com
 com.fanduel.android.live
 *.fanduel.com
@@ -2777,9 +2777,9 @@ py.pl
 paypalobjects.com
 *.braintreegateway.com
 *.xoom.com
-*.hyperwallet.com
 *.paypalcorp.com
 *.paypal.com
+*.hyperwallet.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -3435,9 +3435,9 @@ winecellar.zomato.com
 api2.grofers.com
 api.grofers.com
 *.zomans.com
-*.hyperpure.com
 *.runnr.in
 blinkit.com
+*.hyperpure.com
 *.zomato.com
 *.zomato.com
 *.zdev.net
@@ -3527,21 +3527,21 @@ zopim.com
 app.futuresimple.com
 api.getbase.com
 http://h1-your-domain.zendesk.com/sell
-www.udemy.com
 yourcompany.udemy.com
+www.udemy.com
 www.udemy.com
 yourcompany.udemy.com
 shopifyinbox.com
-shop.app
 *.shopifykloud.com
 linkpop.com
 arrive-server.shopifycloud.com
-*.shopifycs.com
+*.shopify.com
 *.shopifycloud.com
 admin.shopify.com
-accounts.shopify.com
+*.shopifycs.com
 partners.shopify.com
-*.shopify.com
+shop.app
+accounts.shopify.com
 your-store.myshopify.com
 shopify.plus
 *.shopifycs.com
@@ -3664,10 +3664,10 @@ callbacks.airbnb.com
 *.hoteltonight-test.com
 next.airbnb.com
 assets.airbnb.com
+www.airbnb.com
 api.airbnb.com
 *.airbnbcitizen.com
 www.hoteltonight.com
-www.airbnb.com
 *.withairbnb.com
 *.airbnb.com
 www.airbnb.com
@@ -3902,8 +3902,8 @@ b5s.hackerone-ext-content.com
 hackerone-ext-content.com
 errors.hackerone.net
 cover-photos.hackerone-user-content.com
-app.pullrequest.com
 ctf.hacker101.com
+app.pullrequest.com
 api.hackerone.com
 hackerone-user-content.com
 hackerone.live
