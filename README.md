@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Feb 25 18:16:34 UTC 2024)
+## Domains with Bounties (Last Updated Sun Feb 25 19:13:45 UTC 2024)
 ```
 *.worldcoin-distributors.com
 *.consumer.worldcoin.org
@@ -259,8 +259,8 @@ cdn.moderntreasury.com
 app.moderntreasury.com
 app.moderntreasury.com
 cdn.moderntreasury.com
-test.nicex.com
 test.nicehash.com
+test.nicex.com
 test.nicehash.com
 https://test.nicehash.com/shop/
 https://test.nicex.com
@@ -621,8 +621,8 @@ watchdocs.indriverapp.com
 cargo.indrive.com
 *.indriver.com
 new-order.eu-east-1.indriverapp.com
-*.indriverapp.com
 argocd.indrive.dev
+*.indriverapp.com
 *.indrive.com
 *.indriverapp.com
 *.indrive.com
@@ -718,10 +718,10 @@ api.sokos.fi
 cfapi.voikukka.fi
 tequila.kiwi.com
 jobs.kiwi.com
-auth.skypicker.com
 www.kiwi.com
 *.skypicker.com
 *.kiwi.com
+auth.skypicker.com
 *.kiwi.com
 *.skypicker.com
 www.kiwi.com
@@ -750,7 +750,6 @@ sso.8x8.com
 voapi.8x8.com
 *.jitsi.net
 *.packet8.net
-connect.8x8.com
 *.8x8.vc
 *.jit.si
 *.jitsi.net
@@ -930,9 +929,9 @@ askpam.ai
 pb.deribit.com
 tools.deribit.com
 metrics.deribit.com
-test.deribit.com
 insights.deribit.com
 *.deribit.com
+test.deribit.com
 *.deribit.com
 test.deribit.com
 insights.deribit.com
@@ -1235,7 +1234,6 @@ twinmotion.unrealengine.com
 metahuman.unrealengine.com
 *.oncatapult.com
 *.psyonix.com
-*.3lateral.com
 *.popjam.com
 *.rukkaz.com
 *.jellychat.com
@@ -1748,11 +1746,11 @@ shop.tiktok.com
 effecthouse.tiktok.com
 *.tiktokv.com
 tiktok.com
-business.tiktok.com
 partner.tiktokshop.com
 ads.tiktok.com
 www.pangleglobal.com
 *.tiktok.com
+business.tiktok.com
 live-backstage.tiktok.com
 *.tiktok.com
 business.tiktok.com
@@ -1832,22 +1830,19 @@ helpcenter.affirm.ca
 hackerone.affirm-odin.com
 helpcenter.affirm.ca
 helpcenter.affirm.com
-app.superdrug.com
-api.superdrug.com
+www10.watsons.com.vn
+api.watsons.com.vn
+www10.pns.hk
+api.pns.hk
+www.pns.hk
+www.fortress.com.hk
+www.marionnaud.fr
+app.marionnaud.fr
+mapi.moneyback.com.hk
+www.moneyback.com.hk
 www.kruidvat.nl
 app.kruidvat.nl
 app.theperfumeshop.com
-api.theperfumeshop.com
-www10.watsons.com.tw
-www.watsons.com.tw
-api.watsons.com.tw
-www10.watsons.com.ph
-api.watsons.com.ph
-www.watsons.com.ph
-www.watsons.co.th
-www20.watsons.co.th
-www10.watsons.co.th
-api.watsons.co.th
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -2302,9 +2297,9 @@ cpp.marriott.com
 gatewaydsaptst1.marriott.com
 hotel-deals.marriott.com
 all-inclusive.marriott.com
-jobs.marriott.com
 mgs.marriott.com
 activities.marriott.com
+jobs.marriott.com
 www.marriott.com
 homes-and-villas.marriott.com
 sso.marriott.com
@@ -2722,8 +2717,8 @@ mobile-prod.tvg.com
 fdbox.net
 www.4njbets.com
 sportsbook.fanduel.com
-*racing.fanduel.com
 tvg.com
+*racing.fanduel.com
 us.tvg.com
 com.fanduel.android.live
 *.fanduel.com
@@ -3281,9 +3276,9 @@ store.rockstargames.com
 lifeinvader.com
 rockstarnorth.com
 circolocorecords.com/
-www.files.com
 app.files.com
 your-assigned-subdomain.files.com
+www.files.com
 app.files.com
 your-assigned-subdomain.files.com
 www.files.com
@@ -3542,11 +3537,11 @@ shopify.plus
 *.shopifykloud.com
 *.shopifycs.com
 your-store.myshopify.com
-*.shopify.com
 *.shopifycloud.com
 admin.shopify.com
 shop.app
 accounts.shopify.com
+*.shopify.com
 *.shopifycs.com
 *.shopify.com
 *.shopifykloud.com
@@ -3867,8 +3862,8 @@ slack-imgs.com
 www.quip.com
 *.quip.com
 slack.com
-api.slack.com
 app.slack.com
+api.slack.com
 slack.com
 api.slack.com
 status.slack.com
@@ -3896,14 +3891,14 @@ www.wearehackerone.com
 profile-photos.hackerone-user-content.com
 reviewer.pullrequest.com
 hackathon-photos-us-east-2.hackerone-user-content.com
-hackerone-user-content.com
-hackerone.live
 cover-photos-us-east-2.hackerone-user-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 a5s.hackerone-ext-content.com
 hackerone-ext-content.com
 errors.hackerone.net
 app.pullrequest.com
+hackerone-user-content.com
+hackerone.live
 cover-photos.hackerone-user-content.com
 api.hackerone.com
 www.hackerone.com
