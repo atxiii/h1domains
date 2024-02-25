@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Feb 24 23:14:54 UTC 2024)
+## Domains with Bounties (Last Updated Sun Feb 25 00:48:34 UTC 2024)
 ```
 *.worldcoin-distributors.com
 worldcoin.org
@@ -48,12 +48,12 @@ verify.arkoselabs.com
 iframe.arkoselabs.com
 www.arkoselabs.com
 demo.arkoselabs.com
-my.sheer.com
-www.sheer.com
 www.sheer.com
 my.sheer.com
-www.pornworld.com
+www.sheer.com
+my.sheer.com
 www.ddfcontent.com
+www.pornworld.com
 www.analvids.com
 www.pornbox.com
 www.pornbox.com
@@ -485,8 +485,8 @@ api.avtoelon.uz
 avtoelon.uz
 id.kolesa.kz
 krisha.kz
-kolesa.kz
 m.kolesa.kz
+kolesa.kz
 kolesa.kz
 m.kolesa.kz
 krisha.kz
@@ -583,8 +583,8 @@ hiltonhotels.jp
 hiltonbusinessonline.com
 *.hilton.io
 *.hilton.com.tr
-hilton.com
 *.hilton.com
+hilton.com
 *.hilton.com
 *.hilton.io
 *.hilton.com.tr
@@ -784,11 +784,11 @@ admin.8x8.com
 *.napoleonsports.be
 *.luckydays.com
 *.superbet.rs
-*.superbet.com
 *.napoleongames.be
 *.superbet.ro
 *.superbet.pl
 *.magicjackpot.ro
+*.superbet.com
 *.superbet.ro
 *.superbet.rs
 *.superbet.com
@@ -1840,18 +1840,16 @@ app.kruidvat.nl
 www.theperfumeshop.com
 app.theperfumeshop.com
 api.theperfumeshop.com
-api.watsons.com.my
-www.watsons.com.my
-www10.watsons.com.my
-www.iciparisxl.nl
-www.iciparisxl.be
-www.iciparisxl.lu
-app.iciparisxl.nl
-app.iciparisxl.be
-app.iciparisxl.lu
-www.marionnaud.at
-app.marionnaud.at
-www.marionnaud.ch
+www10.watsons.com.tw
+www.watsons.com.tw
+api.watsons.com.tw
+www10.watsons.com.ph
+api.watsons.com.ph
+www.watsons.com.ph
+www.watsons.co.th
+www20.watsons.co.th
+www10.watsons.co.th
+api.watsons.co.th
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -2400,8 +2398,8 @@ booth.pm
 payment.pixiv.net
 sketch.pixiv.net
 www.pixiv.net
-*.fanbox.cc
 dic.pixiv.net
+*.fanbox.cc
 comic.pixiv.net
 accounts.pixiv.net
 *.fanbox.cc
@@ -2703,8 +2701,8 @@ www.hyattinclusivecollection.com
 booking.applevacations.com
 grammarly.ai
 *.grammarlyaws.com
-*.grammarly.io
 *.grammarly.com
+*.grammarly.io
 *.grammarly.io
 *.grammarlyaws.com
 *.grammarly.com
@@ -2726,8 +2724,8 @@ mobile-prod.tvg.com
 fdbox.net
 www.4njbets.com
 sportsbook.fanduel.com
-tvg.com
 *racing.fanduel.com
+tvg.com
 us.tvg.com
 com.fanduel.android.live
 *.fanduel.com
@@ -3396,8 +3394,8 @@ classroom.github.com
 npmjs.com
 *.githubapp.com
 github.com
-*.githubusercontent.com
 api.github.com
+*.githubusercontent.com
 github.com
 api.github.com
 gist.github.com
@@ -3455,9 +3453,9 @@ winecellar.zomato.com
 api.grofers.com
 api2.grofers.com
 blinkit.com
+www.algolia.com
 *.algolia.net
 *.algolianet.com
-www.algolia.com
 *.algolia.net
 *.algolianet.com
 www.algolia.com
@@ -3546,8 +3544,8 @@ partners.shopify.com
 accounts.shopify.com
 shopify.plus
 shop.app
-admin.shopify.com
 *.shopifykloud.com
+admin.shopify.com
 your-store.myshopify.com
 *.shopify.com
 *.shopifycs.com
@@ -3901,8 +3899,6 @@ profile-photos.hackerone-user-content.com
 mta-sts.wearehackerone.com
 reviewer.pullrequest.com
 hackathon-photos-us-east-2.hackerone-user-content.com
-hackerone-user-content.com
-hackerone.live
 cover-photos-us-east-2.hackerone-user-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 a5s.hackerone-ext-content.com
@@ -3913,6 +3909,8 @@ cover-photos.hackerone-user-content.com
 app.pullrequest.com
 ctf.hacker101.com
 api.hackerone.com
+hackerone-user-content.com
+hackerone.live
 www.hackerone.com
 hackerone.com
 hackerone.com
