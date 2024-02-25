@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Feb 25 13:15:06 UTC 2024)
+## Domains with Bounties (Last Updated Sun Feb 25 14:13:23 UTC 2024)
 ```
 *.worldcoin-distributors.com
 *.toolsforhumanity.com
@@ -259,8 +259,8 @@ cdn.moderntreasury.com
 app.moderntreasury.com
 app.moderntreasury.com
 cdn.moderntreasury.com
-test.nicex.com
 test.nicehash.com
+test.nicex.com
 test.nicehash.com
 https://test.nicehash.com/shop/
 https://test.nicex.com
@@ -316,7 +316,6 @@ www.leather.io
 www.leather.io
 api.wisdomtreeprimeapp.com
 api.wisdomtreeprimeapp.com
-help.redoxengine.com
 testapi.redoxengine.com
 fhir.redoxengine.com
 docs.redoxengine.com
@@ -336,6 +335,7 @@ dashboard.gamma.redoxstage.com
 testapp.redoxengine.com
 www.redoxengine.com
 app.gamma.redoxstage.com
+help.redoxengine.com
 10x.redoxengine.com
 testapp.redoxengine.com
 testapi.redoxengine.com
@@ -552,8 +552,8 @@ support.mozilla.org
 stage.taskcluster.nonprod.cloudops.mozgcp.net
 relay.firefox.com
 hg.mozilla.org
-monitor.firefox.com
 www.mozilla.org
+monitor.firefox.com
 developer.mozilla.org
 profiler.firefox.com
 vpn.mozilla.org
@@ -750,7 +750,6 @@ sso.8x8.com
 voapi.8x8.com
 *.jitsi.net
 *.packet8.net
-connect.8x8.com
 *.8x8.vc
 *.jit.si
 *.jitsi.net
@@ -1168,8 +1167,8 @@ docs.databricks.com
 labs.databricks.com
 customer-academy.databricks.com
 support.databricks.com
-databricks.com
 kb.databricks.com
+databricks.com
 advocates.databricks.com
 databricks.com
 academy.databricks.com
@@ -1472,7 +1471,6 @@ www.urbanclap.com
 new.reddit.com
 *.redditblog.com
 amp.reddit.com
-gql.reddit.com
 strapi.reddit.com
 m.reddit.com
 meta-api.reddit.com
@@ -1497,6 +1495,7 @@ ads.reddit.com
 *.reddit.com
 ads-api.reddit.com
 www.reddit.com
+gql.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1636,8 +1635,8 @@ ccloud.yoti.com
 code.yoti.com
 api.yoti.com
 www.yotisign.com
-hub.yoti.com
 identity.yoti.com
+hub.yoti.com
 core.yoti.com
 api.yoti.com
 ccloud.yoti.com
@@ -1832,26 +1831,19 @@ helpcenter.affirm.ca
 hackerone.affirm-odin.com
 helpcenter.affirm.ca
 helpcenter.affirm.com
-www.superdrug.com
-app.superdrug.com
-api.superdrug.com
+www10.watsons.com.vn
+api.watsons.com.vn
+www10.pns.hk
+api.pns.hk
+www.pns.hk
+www.fortress.com.hk
+www.marionnaud.fr
+app.marionnaud.fr
+mapi.moneyback.com.hk
+www.moneyback.com.hk
 www.kruidvat.nl
 app.kruidvat.nl
 www.theperfumeshop.com
-app.theperfumeshop.com
-api.theperfumeshop.com
-api.watsons.com.my
-www.watsons.com.my
-www10.watsons.com.my
-www.iciparisxl.nl
-www.iciparisxl.be
-www.iciparisxl.lu
-app.iciparisxl.nl
-app.iciparisxl.be
-app.iciparisxl.lu
-www.marionnaud.at
-app.marionnaud.at
-www.marionnaud.ch
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -2399,8 +2391,8 @@ novel.pixiv.net
 booth.pm
 payment.pixiv.net
 sketch.pixiv.net
-dic.pixiv.net
 *.fanbox.cc
+dic.pixiv.net
 comic.pixiv.net
 accounts.pixiv.net
 www.pixiv.net
@@ -2702,8 +2694,8 @@ res.hyattinclusivecollection.com
 www.hyattinclusivecollection.com
 booking.applevacations.com
 grammarly.ai
-*.grammarlyaws.com
 *.grammarly.io
+*.grammarlyaws.com
 *.grammarly.com
 *.grammarly.io
 *.grammarlyaws.com
@@ -3541,16 +3533,16 @@ yourcompany.udemy.com
 shopifyinbox.com
 linkpop.com
 arrive-server.shopifycloud.com
-*.shopifycloud.com
-accounts.shopify.com
 partners.shopify.com
+accounts.shopify.com
 shopify.plus
 shop.app
 *.shopifykloud.com
 *.shopifycs.com
-admin.shopify.com
 *.shopify.com
 your-store.myshopify.com
+admin.shopify.com
+*.shopifycloud.com
 *.shopifycs.com
 *.shopify.com
 *.shopifykloud.com
@@ -3791,7 +3783,6 @@ assets.tumblr.com
 simplenote.com
 simperium.com
 my.pressable.com
-akismet.com
 gravatar.com
 api.tumblr.com
 happy.tools
@@ -3800,6 +3791,7 @@ mailpoet.com
 wordpress.com
 www.tumblr.com
 *.tumblr.com
+akismet.com
 *.tumblr.com
 *.srvcs.tumblr.com
 api.tumblr.com
@@ -3900,6 +3892,8 @@ www.wearehackerone.com
 profile-photos.hackerone-user-content.com
 reviewer.pullrequest.com
 hackathon-photos-us-east-2.hackerone-user-content.com
+hackerone-user-content.com
+hackerone.live
 cover-photos-us-east-2.hackerone-user-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 a5s.hackerone-ext-content.com
@@ -3908,8 +3902,6 @@ hackerone-ext-content.com
 errors.hackerone.net
 app.pullrequest.com
 ctf.hacker101.com
-hackerone-user-content.com
-hackerone.live
 cover-photos.hackerone-user-content.com
 api.hackerone.com
 www.hackerone.com
