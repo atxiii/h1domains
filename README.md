@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Feb 25 20:14:14 UTC 2024)
+## Domains with Bounties (Last Updated Sun Feb 25 21:14:15 UTC 2024)
 ```
 *.worldcoin-distributors.com
 *.consumer.worldcoin.org
@@ -52,8 +52,8 @@ my.sheer.com
 www.sheer.com
 www.sheer.com
 my.sheer.com
-www.ddfcontent.com
 www.pornworld.com
+www.ddfcontent.com
 www.analvids.com
 www.pornbox.com
 www.pornbox.com
@@ -86,12 +86,12 @@ app.dynamic.xyz
 editor.zyro.com
 www.niagahoster.co.id
 payments.hostinger.com
+www.hostinger.com
 cpanel.hostinger.com
 backend.zyro.com
 logo.zyro.com
 www.zyro.com
 hpanel.hostinger.com
-www.hostinger.com
 *.000webhost.com
 *.000webhost.com
 www.hostinger.com
@@ -259,8 +259,8 @@ cdn.moderntreasury.com
 app.moderntreasury.com
 app.moderntreasury.com
 cdn.moderntreasury.com
-test.nicehash.com
 test.nicex.com
+test.nicehash.com
 test.nicehash.com
 https://test.nicehash.com/shop/
 https://test.nicex.com
@@ -284,11 +284,11 @@ xero-sandbox.gocardless.com
 oauth-sandbox.gocardless.com
 *.gocardless-staging.io
 manage-sandbox.gocardless.com
-*.gocardless-cicd.io
 *.gocardless.io
 *.gocardless-banking.io
 api-sandbox.gocardless.com
 *.gocardless-lab.io
+*.gocardless-cicd.io
 www.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
@@ -508,7 +508,6 @@ api.tideplatform.in
 *.tide.co
 api.tideplatform.in
 merino.services.mozilla.com
-aus5.mozilla.org
 lando.services.mozilla.com
 push.services.mozilla.com
 crash-stats.allizom.org
@@ -525,6 +524,7 @@ accounts.firefox.com
 mozilla-pontoon-staging.herokuapp.com
 phabricator.allizom.org
 contile.services.mozilla.com
+aus5.mozilla.org
 addons.allizom.org
 accounts.firefox.com
 bugzilla.mozilla.org
@@ -621,8 +621,8 @@ watchdocs.indriverapp.com
 cargo.indrive.com
 *.indriver.com
 new-order.eu-east-1.indriverapp.com
-*.indriverapp.com
 argocd.indrive.dev
+*.indriverapp.com
 *.indrive.com
 *.indriverapp.com
 *.indrive.com
@@ -673,13 +673,13 @@ oneview.malwarebytes.com
 *.mwb-threatintel.com
 *.mbamupdates.com
 *.mb-cosmos.com
-*.malwarebytes.com
-*.cloud.malwarebytes.com
 *.cyrus-security.com
 cloud.malwarebytes.com
+*.cloud.malwarebytes.com
 my.malwarebytes.com
 *.threatdown.com
 *.mwbsys.com
+*.malwarebytes.com
 www.malwarebytes.com
 *.mwbsys.com
 *.mb-cosmos.com
@@ -1106,8 +1106,8 @@ rankings.etoro.com
 candle.etoro.com
 r.etoro.com
 delta.app
-etoropartners.com
 bullsheet.me
+etoropartners.com
 www.etoro.com
 www.etoro.com
 etoropartners.com
@@ -1148,8 +1148,8 @@ admin.instacart.com
 shoppers.instacart.com
 api.instacart.com
 *.instacart.tools
-*.instacart.com
 www.instacart.com
+*.instacart.com
 *.instacart.com
 *.instacart.tools
 api.instacart.com
@@ -1492,8 +1492,8 @@ accounts.reddit.com
 ads.reddit.com
 *.reddit.com
 ads-api.reddit.com
-www.reddit.com
 gql.reddit.com
+www.reddit.com
 new.reddit.com
 *.snooguts.net
 *.redditmedia.com
@@ -1742,7 +1742,6 @@ fp-sg.tiktokv.com
 developers.tiktok.com
 careers.tiktok.com
 creatormarketplace.tiktok.com
-shop.tiktok.com
 effecthouse.tiktok.com
 *.tiktokv.com
 tiktok.com
@@ -1752,6 +1751,7 @@ www.pangleglobal.com
 *.tiktok.com
 live-backstage.tiktok.com
 business.tiktok.com
+shop.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -1830,19 +1830,26 @@ helpcenter.affirm.ca
 hackerone.affirm-odin.com
 helpcenter.affirm.ca
 helpcenter.affirm.com
-www10.watsons.com.vn
-api.watsons.com.vn
-www10.pns.hk
-api.pns.hk
-www.pns.hk
-www.fortress.com.hk
-www.marionnaud.fr
-app.marionnaud.fr
-mapi.moneyback.com.hk
-www.moneyback.com.hk
+app.superdrug.com
+api.superdrug.com
 www.kruidvat.nl
 app.kruidvat.nl
 app.theperfumeshop.com
+api.theperfumeshop.com
+api.watsons.com.my
+www.watsons.com.my
+www10.watsons.com.my
+www.iciparisxl.nl
+www.iciparisxl.be
+www.iciparisxl.lu
+app.iciparisxl.nl
+app.iciparisxl.be
+app.iciparisxl.lu
+www.marionnaud.at
+app.marionnaud.at
+www.marionnaud.ch
+app.marionnaud.ch
+www.marionnaud.cz
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -2299,8 +2306,8 @@ hotel-deals.marriott.com
 all-inclusive.marriott.com
 mgs.marriott.com
 activities.marriott.com
-www.marriott.com
 jobs.marriott.com
+www.marriott.com
 homes-and-villas.marriott.com
 sso.marriott.com
 mgs.marriott.com
@@ -2388,8 +2395,8 @@ vroid.com
 novel.pixiv.net
 booth.pm
 payment.pixiv.net
-*.fanbox.cc
 dic.pixiv.net
+*.fanbox.cc
 comic.pixiv.net
 accounts.pixiv.net
 www.pixiv.net
@@ -2717,8 +2724,8 @@ mobile-prod.tvg.com
 fdbox.net
 www.4njbets.com
 sportsbook.fanduel.com
-tvg.com
 *racing.fanduel.com
+tvg.com
 us.tvg.com
 com.fanduel.android.live
 *.fanduel.com
@@ -3536,12 +3543,12 @@ partners.shopify.com
 shopify.plus
 *.shopifykloud.com
 *.shopifycs.com
-your-store.myshopify.com
 *.shopifycloud.com
 shop.app
 accounts.shopify.com
 *.shopify.com
 admin.shopify.com
+your-store.myshopify.com
 *.shopifycs.com
 *.shopify.com
 *.shopifykloud.com
@@ -3580,11 +3587,11 @@ business.snapchat.com
 www.bitmoji.com
 login.playcanvas.com
 *.sc-core.net
-snappublisher.snapchat.com
-playcanvas.com
 scan.snapchat.com
-ads.snapchat.com
+playcanvas.com
+snappublisher.snapchat.com
 app.snapchat.com
+ads.snapchat.com
 web.snapchat.com
 accounts.snapchat.com
 accounts.snapchat.com
@@ -3862,8 +3869,8 @@ slack-imgs.com
 www.quip.com
 *.quip.com
 slack.com
-api.slack.com
 app.slack.com
+api.slack.com
 slack.com
 api.slack.com
 status.slack.com
@@ -3891,14 +3898,14 @@ www.wearehackerone.com
 profile-photos.hackerone-user-content.com
 reviewer.pullrequest.com
 hackathon-photos-us-east-2.hackerone-user-content.com
+hackerone-user-content.com
+hackerone.live
 cover-photos-us-east-2.hackerone-user-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 a5s.hackerone-ext-content.com
 hackerone-ext-content.com
 errors.hackerone.net
 app.pullrequest.com
-hackerone-user-content.com
-hackerone.live
 cover-photos.hackerone-user-content.com
 api.hackerone.com
 www.hackerone.com
