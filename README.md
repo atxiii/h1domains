@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Feb 25 19:13:45 UTC 2024)
+## Domains with Bounties (Last Updated Sun Feb 25 20:14:14 UTC 2024)
 ```
 *.worldcoin-distributors.com
 *.consumer.worldcoin.org
@@ -86,12 +86,12 @@ app.dynamic.xyz
 editor.zyro.com
 www.niagahoster.co.id
 payments.hostinger.com
-www.hostinger.com
 cpanel.hostinger.com
 backend.zyro.com
 logo.zyro.com
 www.zyro.com
 hpanel.hostinger.com
+www.hostinger.com
 *.000webhost.com
 *.000webhost.com
 www.hostinger.com
@@ -111,9 +111,9 @@ mediacenter.23andme.com
 therapeutics.23andme.com
 medical.23andme.com
 store.23andme.com
-auth.23andme.com
 blog.23andme.com
 you.23andme.com
+auth.23andme.com
 api.23andme.com
 auth.23andme.com
 blog.23andme.com
@@ -185,9 +185,9 @@ careers.booking.com
 account.booking.com
 *.rentalcars.com
 portal.taxi.booking.com
-*.booking.com
 booking.com
 spark.fareharbor.com
+*.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -284,11 +284,11 @@ xero-sandbox.gocardless.com
 oauth-sandbox.gocardless.com
 *.gocardless-staging.io
 manage-sandbox.gocardless.com
+*.gocardless-cicd.io
 *.gocardless.io
 *.gocardless-banking.io
 api-sandbox.gocardless.com
 *.gocardless-lab.io
-*.gocardless-cicd.io
 www.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
@@ -621,8 +621,8 @@ watchdocs.indriverapp.com
 cargo.indrive.com
 *.indriver.com
 new-order.eu-east-1.indriverapp.com
-argocd.indrive.dev
 *.indriverapp.com
+argocd.indrive.dev
 *.indrive.com
 *.indriverapp.com
 *.indrive.com
@@ -673,13 +673,13 @@ oneview.malwarebytes.com
 *.mwb-threatintel.com
 *.mbamupdates.com
 *.mb-cosmos.com
+*.malwarebytes.com
+*.cloud.malwarebytes.com
 *.cyrus-security.com
 cloud.malwarebytes.com
-*.cloud.malwarebytes.com
 my.malwarebytes.com
 *.threatdown.com
 *.mwbsys.com
-*.malwarebytes.com
 www.malwarebytes.com
 *.mwbsys.com
 *.mb-cosmos.com
@@ -1188,7 +1188,6 @@ labs.databricks.com
 marketplace.databricks.com
 *.payoneer.com
 *.payoneer.com
-account.krisp.ai
 upld.krisp.ai
 analytics.krisp.ai
 download.krisp.ai
@@ -1196,6 +1195,7 @@ teams.krisp.ai
 krisp.ai
 api.krisp.ai
 *.krisp.ai
+account.krisp.ai
 *.krisp.ai
 krisp.ai
 account.krisp.ai
@@ -1750,8 +1750,8 @@ partner.tiktokshop.com
 ads.tiktok.com
 www.pangleglobal.com
 *.tiktok.com
-business.tiktok.com
 live-backstage.tiktok.com
+business.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2201,7 +2201,6 @@ amazonpayinsurance.in
 *.aliexpress.ru
 *.tmall.com
 *.aliyun-inc.com
-*.alibabacloud.com
 *.alibaba-inc.com
 *.Daraz.com
 *.aliexpress.com
@@ -2210,6 +2209,7 @@ amazonpayinsurance.in
 *.aliyun.com
 *.taobao.com
 www.alibabagroup.com
+*.alibabacloud.com
 *.alibaba.com
 *.aliexpress.com
 *.taobao.com
@@ -2299,8 +2299,8 @@ hotel-deals.marriott.com
 all-inclusive.marriott.com
 mgs.marriott.com
 activities.marriott.com
-jobs.marriott.com
 www.marriott.com
+jobs.marriott.com
 homes-and-villas.marriott.com
 sso.marriott.com
 mgs.marriott.com
@@ -2382,7 +2382,6 @@ codacontent.io
 https://coda.io/signup/email
 codahosted.io
 codacontent.io
-sensei.pixiv.net
 hub.vroid.com
 neoket.net
 vroid.com
@@ -2395,6 +2394,7 @@ comic.pixiv.net
 accounts.pixiv.net
 www.pixiv.net
 sketch.pixiv.net
+sensei.pixiv.net
 *.fanbox.cc
 booth.pm
 comic.pixiv.net
@@ -3538,10 +3538,10 @@ shopify.plus
 *.shopifycs.com
 your-store.myshopify.com
 *.shopifycloud.com
-admin.shopify.com
 shop.app
 accounts.shopify.com
 *.shopify.com
+admin.shopify.com
 *.shopifycs.com
 *.shopify.com
 *.shopifykloud.com
@@ -3580,11 +3580,11 @@ business.snapchat.com
 www.bitmoji.com
 login.playcanvas.com
 *.sc-core.net
-scan.snapchat.com
-playcanvas.com
 snappublisher.snapchat.com
-app.snapchat.com
+playcanvas.com
+scan.snapchat.com
 ads.snapchat.com
+app.snapchat.com
 web.snapchat.com
 accounts.snapchat.com
 accounts.snapchat.com
@@ -3662,10 +3662,10 @@ callbacks.airbnb.com
 *.hoteltonight-test.com
 next.airbnb.com
 assets.airbnb.com
+www.airbnb.com
 api.airbnb.com
 *.airbnbcitizen.com
 www.hoteltonight.com
-www.airbnb.com
 *.withairbnb.com
 *.airbnb.com
 www.airbnb.com
@@ -3862,8 +3862,8 @@ slack-imgs.com
 www.quip.com
 *.quip.com
 slack.com
-app.slack.com
 api.slack.com
+app.slack.com
 slack.com
 api.slack.com
 status.slack.com
