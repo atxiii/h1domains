@@ -2,15 +2,15 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Feb 25 00:48:34 UTC 2024)
+## Domains with Bounties (Last Updated Sun Feb 25 01:50:31 UTC 2024)
 ```
 *.worldcoin-distributors.com
 worldcoin.org
 *.toolsforhumanity.com
 *.consumer.worldcoin.org
 bioid-management.app
-toolsforhumanity.com
 *.worldcoin.dev
+toolsforhumanity.com
 *.worldcoin.org
 getworldcoin.com
 *.worldcoin.org
@@ -259,8 +259,8 @@ cdn.moderntreasury.com
 app.moderntreasury.com
 app.moderntreasury.com
 cdn.moderntreasury.com
-test.nicex.com
 test.nicehash.com
+test.nicex.com
 test.nicehash.com
 https://test.nicehash.com/shop/
 https://test.nicex.com
@@ -621,8 +621,8 @@ watchdocs.indriverapp.com
 cargo.indrive.com
 *.indriver.com
 new-order.eu-east-1.indriverapp.com
-*.indriverapp.com
 argocd.indrive.dev
+*.indriverapp.com
 *.indrive.com
 *.indriverapp.com
 *.indrive.com
@@ -1107,8 +1107,8 @@ rankings.etoro.com
 candle.etoro.com
 r.etoro.com
 delta.app
-bullsheet.me
 etoropartners.com
+bullsheet.me
 www.etoro.com
 www.etoro.com
 etoropartners.com
@@ -1752,8 +1752,8 @@ effecthouse.tiktok.com
 *.tiktokv.com
 live-backstage.tiktok.com
 ads.tiktok.com
-*.tiktok.com
 tiktok.com
+*.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -1840,16 +1840,18 @@ app.kruidvat.nl
 www.theperfumeshop.com
 app.theperfumeshop.com
 api.theperfumeshop.com
-www10.watsons.com.tw
-www.watsons.com.tw
-api.watsons.com.tw
-www10.watsons.com.ph
-api.watsons.com.ph
-www.watsons.com.ph
-www.watsons.co.th
-www20.watsons.co.th
-www10.watsons.co.th
-api.watsons.co.th
+api.watsons.com.my
+www.watsons.com.my
+www10.watsons.com.my
+www.iciparisxl.nl
+www.iciparisxl.be
+www.iciparisxl.lu
+app.iciparisxl.nl
+app.iciparisxl.be
+app.iciparisxl.lu
+www.marionnaud.at
+app.marionnaud.at
+www.marionnaud.ch
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -3453,9 +3455,9 @@ winecellar.zomato.com
 api.grofers.com
 api2.grofers.com
 blinkit.com
-www.algolia.com
 *.algolia.net
 *.algolianet.com
+www.algolia.com
 *.algolia.net
 *.algolianet.com
 www.algolia.com
@@ -3540,12 +3542,12 @@ shopifyinbox.com
 linkpop.com
 arrive-server.shopifycloud.com
 *.shopifycloud.com
-partners.shopify.com
 accounts.shopify.com
+partners.shopify.com
 shopify.plus
 shop.app
-*.shopifykloud.com
 admin.shopify.com
+*.shopifykloud.com
 your-store.myshopify.com
 *.shopify.com
 *.shopifycs.com
@@ -3869,8 +3871,8 @@ slack-imgs.com
 www.quip.com
 *.quip.com
 slack.com
-app.slack.com
 api.slack.com
+app.slack.com
 slack.com
 api.slack.com
 status.slack.com
