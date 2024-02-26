@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Feb 26 06:18:09 UTC 2024)
+## Domains with Bounties (Last Updated Mon Feb 26 07:15:57 UTC 2024)
 ```
 *.worldcoin-distributors.com
 toolsforhumanity.com
@@ -10,9 +10,9 @@ getworldcoin.com
 *.worldcoin.dev
 worldcoin.org
 bioid-management.app
-*.worldcoin.org
 *.consumer.worldcoin.org
 *.toolsforhumanity.com
+*.worldcoin.org
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -86,12 +86,12 @@ app.dynamic.xyz
 editor.zyro.com
 www.niagahoster.co.id
 payments.hostinger.com
-www.hostinger.com
 cpanel.hostinger.com
 backend.zyro.com
 logo.zyro.com
 www.zyro.com
 hpanel.hostinger.com
+www.hostinger.com
 *.000webhost.com
 *.000webhost.com
 www.hostinger.com
@@ -465,9 +465,9 @@ http://myvisainfinite.com/suntrust/en_us/home.html
 http://www.myvisacardportal.com/welcome/enbd/product/#
 yourdomain.freshcaller.com
 yourdomain.freshchat.com
-yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.myfreshworks.com
+yourdomain.freshdesk.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -749,7 +749,7 @@ sso.8x8.com
 voapi.8x8.com
 *.jitsi.net
 *.packet8.net
-connect.8x8.com
+*.8x8cloud.net
 *.8x8.vc
 *.jit.si
 *.jitsi.net
@@ -1700,13 +1700,13 @@ secure.sharefile.com
 api.sharefile.eu
 secure.sharefile.eu
 api.sharefile.com
-*.citrixworkspacesapi.net
 (youriwssubdomain).cloud.com
 www.cloud.com
 (yoursubdomain).sharefile.com
 accounts.cloud.com
 eu.cloud.com
 citrix.cloud.com
+*.citrixworkspacesapi.net
 citrix.cloud.com
 www.cloud.com
 ap-s.cloud.com
@@ -1830,24 +1830,19 @@ helpcenter.affirm.ca
 hackerone.affirm-odin.com
 helpcenter.affirm.ca
 helpcenter.affirm.com
-www.kruidvat.nl
-app.kruidvat.nl
-app.theperfumeshop.com
-api.theperfumeshop.com
+www10.watsons.com.vn
+api.watsons.com.vn
 www10.pns.hk
 api.pns.hk
 www.pns.hk
-www10.watsons.com.sg
-www.watsons.com.sg
-api.watsons.com.sg
-www.watsons.com.hk
-www10.watsons.com.hk
-api.watsons.com.hk
-www10.watsons.co.id
-api.watsons.co.id
-www.watsons.co.id
-blog.watsons.com.tr
-app.watsons.com.tr
+www.fortress.com.hk
+www.marionnaud.fr
+app.marionnaud.fr
+mapi.moneyback.com.hk
+www.moneyback.com.hk
+www.kruidvat.nl
+app.kruidvat.nl
+app.theperfumeshop.com
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -2212,9 +2207,9 @@ amazonpayinsurance.in
 *.1688.com
 www.alibabagroup.com
 *.alibabacloud.com
-*.taobao.com
 *.alibaba.com
 *.aliyun.com
+*.taobao.com
 *.alibaba.com
 *.aliexpress.com
 *.taobao.com
@@ -2304,8 +2299,8 @@ hotel-deals.marriott.com
 all-inclusive.marriott.com
 mgs.marriott.com
 activities.marriott.com
-www.marriott.com
 jobs.marriott.com
+www.marriott.com
 homes-and-villas.marriott.com
 sso.marriott.com
 mgs.marriott.com
@@ -2700,8 +2695,8 @@ res.hyattinclusivecollection.com
 www.hyattinclusivecollection.com
 booking.applevacations.com
 grammarly.ai
-*.grammarly.io
 *.grammarlyaws.com
+*.grammarly.io
 *.grammarly.com
 *.grammarly.io
 *.grammarlyaws.com
@@ -2724,8 +2719,8 @@ mobile-prod.tvg.com
 fdbox.net
 www.4njbets.com
 sportsbook.fanduel.com
-tvg.com
 *racing.fanduel.com
+tvg.com
 us.tvg.com
 com.fanduel.android.live
 *.fanduel.com
@@ -3151,14 +3146,12 @@ jira.grab.com
 *.grabpay.com
 *.ovo.id
 *.grab.com
-*.taralite.com
 *.myteksi.com
 *.myteksi.net
 *.grab.com
 *.grabpay.com
 *.grab-sure.com
 *.ovo.id
-*.taralite.com
 *.grabtaxi.com
 *.grab.co
 p.grabtaxi.com
@@ -3547,8 +3540,8 @@ shop.app
 accounts.shopify.com
 *.shopify.com
 *.shopifycs.com
-admin.shopify.com
 your-store.myshopify.com
+admin.shopify.com
 *.shopifycs.com
 *.shopify.com
 *.shopifykloud.com
@@ -3587,8 +3580,8 @@ business.snapchat.com
 www.bitmoji.com
 login.playcanvas.com
 *.sc-core.net
-playcanvas.com
 scan.snapchat.com
+playcanvas.com
 ads.snapchat.com
 web.snapchat.com
 accounts.snapchat.com
@@ -3841,9 +3834,9 @@ institutional.coinbase.com
 api.custody.coinbase.com
 pro.coinbase.com
 coinbase.com
-*.coinbase.com
 cloud.coinbase.com
 api.coinbase.com
+*.coinbase.com
 *.coinbase.com
 *.cbhq.net
 pro.coinbase.com
@@ -3867,9 +3860,9 @@ slack-redir.net
 slack-imgs.com
 www.quip.com
 *.quip.com
-slack.com
-api.slack.com
 app.slack.com
+api.slack.com
+slack.com
 slack.com
 api.slack.com
 status.slack.com
@@ -3910,8 +3903,8 @@ mta-sts.wearehackerone.com
 ctf.hacker101.com
 b5s.hackerone-ext-content.com
 api.hackerone.com
-hackerone.com
 cover-photos.hackerone-user-content.com
+hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
