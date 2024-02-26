@@ -2,16 +2,16 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Feb 26 00:45:50 UTC 2024)
+## Domains with Bounties (Last Updated Mon Feb 26 01:49:04 UTC 2024)
 ```
 *.worldcoin-distributors.com
-*.consumer.worldcoin.org
 toolsforhumanity.com
 getworldcoin.com
 *.worldcoin.dev
 worldcoin.org
 bioid-management.app
 *.toolsforhumanity.com
+*.consumer.worldcoin.org
 *.worldcoin.org
 *.worldcoin.org
 *.consumer.worldcoin.org
@@ -86,12 +86,12 @@ app.dynamic.xyz
 editor.zyro.com
 www.niagahoster.co.id
 payments.hostinger.com
+www.hostinger.com
 cpanel.hostinger.com
 backend.zyro.com
 logo.zyro.com
 www.zyro.com
 hpanel.hostinger.com
-www.hostinger.com
 *.000webhost.com
 *.000webhost.com
 www.hostinger.com
@@ -284,11 +284,11 @@ xero-sandbox.gocardless.com
 oauth-sandbox.gocardless.com
 *.gocardless-staging.io
 manage-sandbox.gocardless.com
-*.gocardless-cicd.io
 *.gocardless.io
 *.gocardless-banking.io
 api-sandbox.gocardless.com
 *.gocardless-lab.io
+*.gocardless-cicd.io
 www.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
@@ -750,6 +750,7 @@ sso.8x8.com
 voapi.8x8.com
 *.jitsi.net
 *.packet8.net
+*.8x8cloud.net
 *.8x8.vc
 *.jit.si
 *.jitsi.net
@@ -1830,26 +1831,19 @@ helpcenter.affirm.ca
 hackerone.affirm-odin.com
 helpcenter.affirm.ca
 helpcenter.affirm.com
-app.superdrug.com
-api.superdrug.com
+www10.watsons.com.vn
+api.watsons.com.vn
+www10.pns.hk
+api.pns.hk
+www.pns.hk
+www.fortress.com.hk
+www.marionnaud.fr
+app.marionnaud.fr
+mapi.moneyback.com.hk
+www.moneyback.com.hk
 www.kruidvat.nl
 app.kruidvat.nl
 app.theperfumeshop.com
-api.theperfumeshop.com
-api.watsons.com.my
-www.watsons.com.my
-www10.watsons.com.my
-www.iciparisxl.nl
-www.iciparisxl.be
-www.iciparisxl.lu
-app.iciparisxl.nl
-app.iciparisxl.be
-app.iciparisxl.lu
-www.marionnaud.at
-app.marionnaud.at
-www.marionnaud.ch
-app.marionnaud.ch
-www.marionnaud.cz
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -2700,8 +2694,8 @@ res.hyattinclusivecollection.com
 www.hyattinclusivecollection.com
 booking.applevacations.com
 grammarly.ai
-*.grammarlyaws.com
 *.grammarly.io
+*.grammarlyaws.com
 *.grammarly.com
 *.grammarly.io
 *.grammarlyaws.com
@@ -2724,8 +2718,8 @@ mobile-prod.tvg.com
 fdbox.net
 www.4njbets.com
 sportsbook.fanduel.com
-tvg.com
 *racing.fanduel.com
+tvg.com
 us.tvg.com
 com.fanduel.android.live
 *.fanduel.com
@@ -2836,9 +2830,9 @@ testnet.bitmex.com
 *.bitmex.com
 testnet.bitmex.com
 *.staging-airtableblocks.com
-*.staging.airtable.com
 api-staging.airtable.com
 staging.airtable.com
+*.staging.airtable.com
 *.staging-airtableblocks.com
 *.staging.airtable.com
 staging.airtable.com
@@ -3150,8 +3144,8 @@ kartaview.org
 jira.grab.com
 *.grabpay.com
 *.taralite.com
-*.grab.com
 *.ovo.id
+*.grab.com
 *.myteksi.com
 *.myteksi.net
 *.grab.com
@@ -3453,9 +3447,9 @@ winecellar.zomato.com
 api.grofers.com
 api2.grofers.com
 blinkit.com
+www.algolia.com
 *.algolia.net
 *.algolianet.com
-www.algolia.com
 *.algolia.net
 *.algolianet.com
 www.algolia.com
@@ -3546,8 +3540,8 @@ shopify.plus
 shop.app
 accounts.shopify.com
 *.shopify.com
-your-store.myshopify.com
 admin.shopify.com
+your-store.myshopify.com
 *.shopifycs.com
 *.shopifycs.com
 *.shopify.com
