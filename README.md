@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Feb 26 12:23:40 UTC 2024)
+## Domains with Bounties (Last Updated Mon Feb 26 13:17:14 UTC 2024)
 ```
 *.worldcoin-distributors.com
 toolsforhumanity.com
@@ -552,8 +552,8 @@ support.mozilla.org
 stage.taskcluster.nonprod.cloudops.mozgcp.net
 relay.firefox.com
 hg.mozilla.org
-www.mozilla.org
 monitor.firefox.com
+www.mozilla.org
 developer.mozilla.org
 profiler.firefox.com
 vpn.mozilla.org
@@ -620,8 +620,8 @@ watchdocs.indriverapp.com
 cargo.indrive.com
 *.indriver.com
 new-order.eu-east-1.indriverapp.com
-argocd.indrive.dev
 *.indriverapp.com
+argocd.indrive.dev
 *.indrive.com
 *.indriverapp.com
 *.indrive.com
@@ -672,12 +672,12 @@ oneview.malwarebytes.com
 *.mwb-threatintel.com
 *.mbamupdates.com
 *.mb-cosmos.com
-*.malwarebytes.com
-*.cloud.malwarebytes.com
 *.cyrus-security.com
 cloud.malwarebytes.com
+*.cloud.malwarebytes.com
 *.threatdown.com
 *.mwbsys.com
+*.malwarebytes.com
 www.malwarebytes.com
 my.malwarebytes.com
 *.mwbsys.com
@@ -749,6 +749,7 @@ sso.8x8.com
 voapi.8x8.com
 *.jitsi.net
 *.packet8.net
+*.8x8cloud.net
 *.8x8.vc
 *.jit.si
 *.jitsi.net
@@ -1068,8 +1069,8 @@ social-trading.exness.com
 https://my.exness.com/pa/socialtrading
 exness.com
 api.smtp2go.com
-smtp2go.com
 app.smtp2go.com
+smtp2go.com
 smtp2go.com
 app.smtp2go.com
 api.smtp2go.com
@@ -1193,8 +1194,8 @@ download.krisp.ai
 teams.krisp.ai
 krisp.ai
 api.krisp.ai
-account.krisp.ai
 *.krisp.ai
+account.krisp.ai
 *.krisp.ai
 krisp.ai
 account.krisp.ai
@@ -1487,13 +1488,13 @@ app.spiketrap.io
 *.snooguts.net
 *.reddithelp.com
 oauth.reddit.com
-ads.reddit.com
 ads-api.reddit.com
 gql.reddit.com
 new.reddit.com
-www.reddit.com
-*.reddit.com
 accounts.reddit.com
+ads.reddit.com
+*.reddit.com
+www.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1835,16 +1836,20 @@ www.kruidvat.nl
 app.kruidvat.nl
 app.theperfumeshop.com
 api.theperfumeshop.com
-www10.watsons.com.tw
-www.watsons.com.tw
-api.watsons.com.tw
-www10.watsons.com.ph
-api.watsons.com.ph
-www.watsons.com.ph
-www.watsons.co.th
-www20.watsons.co.th
-www10.watsons.co.th
-api.watsons.co.th
+api.watsons.com.my
+www.watsons.com.my
+www10.watsons.com.my
+www.iciparisxl.nl
+www.iciparisxl.be
+www.iciparisxl.lu
+app.iciparisxl.nl
+app.iciparisxl.be
+app.iciparisxl.lu
+www.marionnaud.at
+app.marionnaud.at
+www.marionnaud.ch
+app.marionnaud.ch
+www.marionnaud.cz
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -2207,8 +2212,8 @@ amazonpayinsurance.in
 *.aliexpress.com
 www.alibabagroup.com
 *.alibabacloud.com
-*.1688.com
 *.taobao.com
+*.1688.com
 *.aliyun.com
 *.alibaba.com
 *.alibaba.com
@@ -2720,8 +2725,8 @@ mobile-prod.tvg.com
 fdbox.net
 www.4njbets.com
 sportsbook.fanduel.com
-tvg.com
 *racing.fanduel.com
+tvg.com
 us.tvg.com
 com.fanduel.android.live
 *.fanduel.com
@@ -3541,10 +3546,10 @@ shopify.plus
 *.shopifycloud.com
 shop.app
 *.shopifycs.com
-your-store.myshopify.com
 admin.shopify.com
-*.shopify.com
+your-store.myshopify.com
 accounts.shopify.com
+*.shopify.com
 *.shopifycs.com
 *.shopify.com
 *.shopifykloud.com
@@ -3583,8 +3588,8 @@ business.snapchat.com
 www.bitmoji.com
 login.playcanvas.com
 *.sc-core.net
-scan.snapchat.com
 playcanvas.com
+scan.snapchat.com
 ads.snapchat.com
 snappublisher.snapchat.com
 web.snapchat.com
@@ -3874,20 +3879,20 @@ www.wearehackerone.com
 profile-photos.hackerone-user-content.com
 reviewer.pullrequest.com
 hackathon-photos-us-east-2.hackerone-user-content.com
+hackerone-user-content.com
+hackerone.live
 cover-photos-us-east-2.hackerone-user-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 a5s.hackerone-ext-content.com
 hackerone-ext-content.com
 errors.hackerone.net
 app.pullrequest.com
-hackerone-user-content.com
-hackerone.live
 www.hackerone.com
 mta-sts.wearehackerone.com
 ctf.hacker101.com
 b5s.hackerone-ext-content.com
-api.hackerone.com
 cover-photos.hackerone-user-content.com
+api.hackerone.com
 hackerone.com
 hackerone.com
 api.hackerone.com
