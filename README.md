@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Feb 26 15:22:26 UTC 2024)
+## Domains with Bounties (Last Updated Mon Feb 26 16:23:55 UTC 2024)
 ```
 *.worldcoin-distributors.com
 toolsforhumanity.com
@@ -52,8 +52,8 @@ my.sheer.com
 www.sheer.com
 www.sheer.com
 my.sheer.com
-www.ddfcontent.com
 www.pornworld.com
+www.ddfcontent.com
 www.analvids.com
 www.pornbox.com
 www.pornbox.com
@@ -137,9 +137,9 @@ www.mercadopago.com.mx
 www.mercadolibre.com.co
 www.mercadolibre.com.ar
 www.mercadopago.cl
-api.mercadolibre.com
 www.mercadopago.com.br
 www.mercadolivre.com.br
+api.mercadolibre.com
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -186,8 +186,8 @@ account.booking.com
 *.rentalcars.com
 portal.taxi.booking.com
 booking.com
-spark.fareharbor.com
 *.booking.com
+spark.fareharbor.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -520,11 +520,11 @@ hg.mozilla.org
 bugzilla.mozilla.org
 firefox.settings.services.mozilla.com
 addons.allizom.org
-accounts.firefox.com
 mozilla-pontoon-staging.herokuapp.com
 phabricator.allizom.org
 contile.services.mozilla.com
 aus5.mozilla.org
+accounts.firefox.com
 addons.allizom.org
 accounts.firefox.com
 bugzilla.mozilla.org
@@ -672,12 +672,12 @@ oneview.malwarebytes.com
 *.mwb-threatintel.com
 *.mbamupdates.com
 *.mb-cosmos.com
+*.malwarebytes.com
+*.cloud.malwarebytes.com
 *.cyrus-security.com
 cloud.malwarebytes.com
-*.cloud.malwarebytes.com
 *.threatdown.com
 *.mwbsys.com
-*.malwarebytes.com
 www.malwarebytes.com
 my.malwarebytes.com
 *.mwbsys.com
@@ -784,9 +784,9 @@ admin.8x8.com
 *.superbet.rs
 *.napoleongames.be
 *.superbet.pl
-*.superbet.ro
 *.magicjackpot.ro
 *.superbet.com
+*.superbet.ro
 *.superbet.ro
 *.superbet.rs
 *.superbet.com
@@ -912,9 +912,9 @@ askpam.ai
 *.teleport.dev
 *.gravitational.io
 platform.teleport.sh
-teleport.sh
 *.goteleport.com
 *.gravitational.co
+teleport.sh
 *.goteleport.com
 *.gravitational.com
 *.teleport.dev
@@ -1105,8 +1105,8 @@ rankings.etoro.com
 candle.etoro.com
 r.etoro.com
 delta.app
-bullsheet.me
 etoropartners.com
+bullsheet.me
 www.etoro.com
 www.etoro.com
 etoropartners.com
@@ -1492,8 +1492,8 @@ gql.reddit.com
 new.reddit.com
 accounts.reddit.com
 ads.reddit.com
-www.reddit.com
 *.reddit.com
+www.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1743,7 +1743,6 @@ careers.tiktok.com
 creatormarketplace.tiktok.com
 effecthouse.tiktok.com
 partner.tiktokshop.com
-*.tiktok.com
 live-backstage.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -1751,6 +1750,7 @@ ads.tiktok.com
 tiktok.com
 shop.tiktok.com
 www.pangleglobal.com
+*.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2202,10 +2202,10 @@ amazonpayinsurance.in
 *.alibaba-inc.com
 *.Daraz.com
 *.aliexpress.com
-www.alibabagroup.com
 *.alibabacloud.com
 *.1688.com
 *.alibaba.com
+www.alibabagroup.com
 *.taobao.com
 *.aliyun.com
 *.alibaba.com
@@ -2717,8 +2717,8 @@ mobile-prod.tvg.com
 fdbox.net
 www.4njbets.com
 sportsbook.fanduel.com
-tvg.com
 *racing.fanduel.com
+tvg.com
 us.tvg.com
 com.fanduel.android.live
 *.fanduel.com
@@ -3535,13 +3535,13 @@ shopify.plus
 *.shopifykloud.com
 *.shopifycloud.com
 shop.app
-*.shopifycs.com
 your-store.myshopify.com
 accounts.shopify.com
 *.shopify.com
 partners.shopify.com
 linkpop.com
 admin.shopify.com
+*.shopifycs.com
 *.shopifycs.com
 *.shopify.com
 *.shopifykloud.com
@@ -3585,8 +3585,8 @@ web.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
 snappublisher.snapchat.com
-ads.snapchat.com
 business.snapchat.com
+ads.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
@@ -3666,8 +3666,8 @@ api.airbnb.com
 *.airbnbcitizen.com
 www.hoteltonight.com
 *.withairbnb.com
-www.airbnb.com
 *.airbnb.com
+www.airbnb.com
 www.airbnb.com
 next.airbnb.com
 api.airbnb.com
