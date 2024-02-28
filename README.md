@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Feb 28 11:17:19 UTC 2024)
+## Domains with Bounties (Last Updated Wed Feb 28 12:23:30 UTC 2024)
 ```
 *.worldcoin-distributors.com
 toolsforhumanity.com
@@ -90,8 +90,8 @@ www.zyro.com
 backend.zyro.com
 hpanel.hostinger.com
 www.niagahoster.co.id
-*.000webhost.com
 editor.zyro.com
+*.000webhost.com
 www.hostinger.com
 *.000webhost.com
 www.hostinger.com
@@ -127,6 +127,9 @@ research.23andme.com
 www.mercadolibre.com.uy
 api.mercadopago.com
 www.mercadopago.com.uy
+www.mercadolivre.com.br
+api.mercadolibre.com
+www.mercadopago.cl
 www.mercadolibre.com.mx
 www.mercadopago.com.co
 www.mercadopago.com.pe
@@ -135,9 +138,6 @@ www.mercadolibre.com.pe
 www.mercadolibre.cl
 www.mercadolibre.com.co
 www.mercadolibre.com.ar
-www.mercadolivre.com.br
-api.mercadolibre.com
-www.mercadopago.cl
 www.mercadopago.com.mx
 www.mercadopago.com.br
 api.mercadopago.com
@@ -184,8 +184,8 @@ portal.taxi.booking.com
 secure.booking.com
 *.rentalcars.com
 spark.fareharbor.com
-widget.rentalcars.com
 *.booking.com
+widget.rentalcars.com
 account.booking.com
 booking.com
 *.booking.com
@@ -283,9 +283,9 @@ connect-sandbox.gocardless.com
 xero-sandbox.gocardless.com
 oauth-sandbox.gocardless.com
 *.gocardless-staging.io
-*.gocardless-cicd.io
 api-sandbox.gocardless.com
 *.gocardless-lab.io
+*.gocardless-cicd.io
 manage-sandbox.gocardless.com
 www.gocardless.com
 *.gocardless.io
@@ -465,8 +465,8 @@ http://myvisainfinite.com/suntrust/en_us/home.html
 http://www.myvisacardportal.com/welcome/enbd/product/#
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
-yourdomain.freshchat.com
 yourdomain.freshdesk.com
+yourdomain.freshchat.com
 yourdomain.myfreshworks.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
@@ -749,7 +749,7 @@ sso.8x8.com
 voapi.8x8.com
 *.jitsi.net
 *.packet8.net
-connect.8x8.com
+*.8x8cloud.net
 *.8x8.vc
 *.jit.si
 *.jitsi.net
@@ -856,6 +856,7 @@ www.travelocity.com
 www.carrentals.com
 www.cheaptickets.com
 www.ebookers.com
+www.stayz.com.au
 www.orbitz.com
 www.bookabach.co.nz
 www.hotwire.com
@@ -863,7 +864,6 @@ www.expediacruises.com
 www.expedia.com
 www.hotels.com
 www.expediagroup.com
-www.stayz.com.au
 www.vrbo.com
 www.abritel.fr
 www.hotels.com
@@ -1003,8 +1003,8 @@ snaps.metamask.io
 portfolio.metamask.io
 invoices.razorpay.com
 payroll.razorpay.com
-api.razorpay.com
 checkout.razorpay.com
+api.razorpay.com
 x.razorpay.com
 dashboard.razorpay.com
 dashboard.razorpay.com
@@ -1193,8 +1193,8 @@ analytics.krisp.ai
 download.krisp.ai
 teams.krisp.ai
 krisp.ai
-account.krisp.ai
 api.krisp.ai
+account.krisp.ai
 *.krisp.ai
 *.krisp.ai
 krisp.ai
@@ -1428,9 +1428,9 @@ main.trafficfactory.biz
 www.elastic.co
 *.swiftype.com
 *.elstc.co
-*.elastic.co
 cloud.elastic.co
 *.found.io
+*.elastic.co
 *.elastic.co
 *.found.io
 *.swiftype.com
@@ -1633,9 +1633,9 @@ core.yoti.com
 ccloud.yoti.com
 code.yoti.com
 api.yoti.com
-www.yotisign.com
 identity.yoti.com
 hub.yoti.com
+www.yotisign.com
 core.yoti.com
 api.yoti.com
 ccloud.yoti.com
@@ -1824,22 +1824,20 @@ account.acronis.com
 *.acronis.work
 beta-cloud.acronis.com
 account.acronis.com
-app.superdrug.com
-api.superdrug.com
+www10.watsons.com.vn
+api.watsons.com.vn
+www10.pns.hk
+api.pns.hk
+www.pns.hk
+www.marionnaud.fr
+app.marionnaud.fr
+mapi.moneyback.com.hk
+www.moneyback.com.hk
 www.kruidvat.nl
 app.kruidvat.nl
 app.theperfumeshop.com
 api.theperfumeshop.com
 www10.watsons.com.tw
-www.watsons.com.tw
-api.watsons.com.tw
-www10.watsons.com.ph
-api.watsons.com.ph
-www.watsons.com.ph
-www.watsons.co.th
-www20.watsons.co.th
-www10.watsons.co.th
-api.watsons.co.th
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -2197,9 +2195,9 @@ amazonpayinsurance.in
 *.aliyun-inc.com
 *.alibaba-inc.com
 *.Daraz.com
-*.aliexpress.com
-*.aliyun.com
 www.alibabagroup.com
+*.aliyun.com
+*.aliexpress.com
 *.alimama.com
 *.taobao.com
 *.1688.com
@@ -2291,11 +2289,11 @@ homes-and-villas.marriott.com
 marrtool.com
 all-inclusive.marriott.com
 marriottfranchisetransactions.marriott.com
-mgs.marriott.com
 passwordchallenge.marriott.com
-www.marriott.com
 www.ritzcarlton.com
 gatewaydsaptst1.marriott.com
+mgs.marriott.com
+www.marriott.com
 homes-and-villas.marriott.com
 sso.marriott.com
 mgs.marriott.com
@@ -2323,8 +2321,8 @@ www.goodrx.com
 www.goodrx.com
 *.ra.roblox.com
 *.rbx.com
-*.guilded.gg
 *.roblox.com
+*.guilded.gg
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -2357,8 +2355,8 @@ app.nordpass.com
 app.nordpass.com
 *.line.naver.jp
 *.line.me
-*.line.biz
 *.line-apps.com
+*.line.biz
 *.line.me
 *.line-apps.com
 *.line.naver.jp
@@ -3261,8 +3259,8 @@ lifeinvader.com
 prod.ros.rockstargames.com
 support.rockstargames.com
 socialclub.rockstargames.com
-rockstarnorth.com
 *.rockstargames.com
+rockstarnorth.com
 socialclub.rockstargames.com
 prod.ros.rockstargames.com
 support.rockstargames.com
@@ -3271,8 +3269,8 @@ store.rockstargames.com
 lifeinvader.com
 rockstarnorth.com
 circolocorecords.com/
-app.files.com
 www.files.com
+app.files.com
 your-assigned-subdomain.files.com
 app.files.com
 your-assigned-subdomain.files.com
@@ -3311,9 +3309,9 @@ gift.starbucks.co.jp
 app.starbucks.com
 openapi.starbucks.com
 www.starbucks.com.cn
-www.starbucks.de
 www.starbucks.com
 www.starbucks.co.kr
+www.starbucks.de
 www.starbucksreserve.com
 gift.starbucks.co.jp
 login.starbucks.co.jp
@@ -3525,9 +3523,9 @@ www.udemy.com
 www.udemy.com
 yourcompany.udemy.com
 shopifyinbox.com
+*.shopifycloud.com
 linkpop.com
 *.shopifycs.com
-*.shopifycloud.com
 shop.app
 shopify.plus
 *.shopifykloud.com
@@ -3579,9 +3577,9 @@ web.snapchat.com
 accounts.snapchat.com
 snappublisher.snapchat.com
 ads.snapchat.com
-business.snapchat.com
 playcanvas.com
 app.snapchat.com
+business.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
@@ -3806,9 +3804,9 @@ international.coinbase.com
 *.cbhq.net
 institutional.coinbase.com
 api.custody.coinbase.com
-api.coinbase.com
 pro.coinbase.com
 cloud.coinbase.com
+api.coinbase.com
 *.coinbase.com
 coinbase.com
 *.base.org
