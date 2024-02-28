@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Feb 28 01:48:04 UTC 2024)
+## Domains with Bounties (Last Updated Wed Feb 28 02:22:53 UTC 2024)
 ```
 *.worldcoin-distributors.com
 toolsforhumanity.com
@@ -52,8 +52,8 @@ www.sheer.com
 my.sheer.com
 www.sheer.com
 my.sheer.com
-www.ddfcontent.com
 www.pornworld.com
+www.ddfcontent.com
 www.analvids.com
 www.pornbox.com
 www.pornbox.com
@@ -84,10 +84,10 @@ app.dynamic-preprod.xyz
 demo.dynamic.xyz
 app.dynamic.xyz
 payments.hostinger.com
-backend.zyro.com
 cpanel.hostinger.com
 logo.zyro.com
 www.zyro.com
+backend.zyro.com
 *.000webhost.com
 hpanel.hostinger.com
 www.hostinger.com
@@ -127,6 +127,9 @@ research.23andme.com
 www.mercadolibre.com.uy
 api.mercadopago.com
 www.mercadopago.com.uy
+www.mercadolivre.com.br
+api.mercadolibre.com
+www.mercadopago.cl
 www.mercadolibre.com.mx
 www.mercadopago.com.co
 www.mercadopago.com.pe
@@ -135,9 +138,6 @@ www.mercadolibre.com.pe
 www.mercadolibre.cl
 www.mercadolibre.com.co
 www.mercadolibre.com.ar
-www.mercadolivre.com.br
-api.mercadolibre.com
-www.mercadopago.cl
 www.mercadopago.com.mx
 www.mercadopago.com.br
 api.mercadopago.com
@@ -183,10 +183,10 @@ cars.booking.com
 careers.booking.com
 portal.taxi.booking.com
 secure.booking.com
-booking.com
 *.rentalcars.com
-*.booking.com
 spark.fareharbor.com
+booking.com
+*.booking.com
 account.booking.com
 *.booking.com
 *.rentalcars.com
@@ -247,8 +247,8 @@ pentesting.gethypr.com
 hypr37448.gethypr.com
 pentesting3.gethypr.com
 pentesting2.gethypr.com
-hypr74352.gethypr.com
 *.hypr.com
+hypr74352.gethypr.com
 *.hypr.com
 pentesting.gethypr.com
 pentesting3.gethypr.com
@@ -259,8 +259,8 @@ cdn.moderntreasury.com
 app.moderntreasury.com
 app.moderntreasury.com
 cdn.moderntreasury.com
-test.nicehash.com
 test.nicex.com
+test.nicehash.com
 test.nicehash.com
 https://test.nicehash.com/shop/
 https://test.nicex.com
@@ -516,6 +516,7 @@ sync.services.mozilla.com
 crash-reports.allizom.org
 location.services.mozilla.com
 firefox-ci-tc.services.mozilla.com
+aus5.mozilla.org
 hg.mozilla.org
 bugzilla.mozilla.org
 firefox.settings.services.mozilla.com
@@ -523,7 +524,6 @@ addons.allizom.org
 mozilla-pontoon-staging.herokuapp.com
 phabricator.allizom.org
 contile.services.mozilla.com
-aus5.mozilla.org
 accounts.firefox.com
 addons.allizom.org
 accounts.firefox.com
@@ -580,10 +580,10 @@ hiltonhotels.jp
 *.hiltonlocalbiz.com
 *.hiltonbusinessonline.com
 *.hiltonhotels.jp
-hilton.com
 hiltonbusinessonline.com
 *.hilton.io
 *.hilton.com.tr
+hilton.com
 *.hilton.com
 *.hilton.com
 *.hilton.io
@@ -672,14 +672,14 @@ oneview.malwarebytes.com
 *.mwb-threatintel.com
 *.mbamupdates.com
 *.mb-cosmos.com
-*.malwarebytes.com
-*.cloud.malwarebytes.com
+my.malwarebytes.com
 *.cyrus-security.com
 cloud.malwarebytes.com
+*.cloud.malwarebytes.com
 *.threatdown.com
 *.mwbsys.com
+*.malwarebytes.com
 www.malwarebytes.com
-my.malwarebytes.com
 *.mwbsys.com
 *.mb-cosmos.com
 *.mbamupdates.com
@@ -749,7 +749,7 @@ sso.8x8.com
 voapi.8x8.com
 *.jitsi.net
 *.packet8.net
-connect.8x8.com
+*.8x8cloud.net
 *.8x8.vc
 *.jit.si
 *.jitsi.net
@@ -1295,8 +1295,8 @@ capturingreality.com
 *.tstaging.tools
 *.tinderwebstaging.com
 *.tstaging.com
-*.gotinder.com
 *.tinder.com
+*.gotinder.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1633,9 +1633,9 @@ core.yoti.com
 ccloud.yoti.com
 code.yoti.com
 api.yoti.com
-www.yotisign.com
 identity.yoti.com
 hub.yoti.com
+www.yotisign.com
 core.yoti.com
 api.yoti.com
 ccloud.yoti.com
@@ -2281,8 +2281,8 @@ www.ritzcarlton.com
 *uat.marriott.com
 reservations.all-inclusive.marriott.com
 cpp.marriott.com
-jobs.marriott.com
 activities.marriott.com
+jobs.marriott.com
 gatewaydsapdev2.marriott.com
 hotel-deals.marriott.com
 homes-and-villas.marriott.com
@@ -2710,8 +2710,8 @@ mobile-prod.tvg.com
 fdbox.net
 www.4njbets.com
 sportsbook.fanduel.com
-*racing.fanduel.com
 tvg.com
+*racing.fanduel.com
 us.tvg.com
 com.fanduel.android.live
 *.fanduel.com
@@ -2950,8 +2950,8 @@ js.crypto.com
 merchant.crypto.com
 tax.crypto.com
 *.crypto.com
-auth.crypto.com
 www.crypto.com
+auth.crypto.com
 *.crypto.com
 *.mona.co
 www.crypto.com
@@ -3258,8 +3258,8 @@ lifeinvader.com
 prod.ros.rockstargames.com
 support.rockstargames.com
 socialclub.rockstargames.com
-rockstarnorth.com
 *.rockstargames.com
+rockstarnorth.com
 socialclub.rockstargames.com
 prod.ros.rockstargames.com
 support.rockstargames.com
@@ -3427,8 +3427,8 @@ api.grofers.com
 *.zomans.com
 blinkit.com
 *.runnr.in
-*.zomato.com
 *.hyperpure.com
+*.zomato.com
 *.zomato.com
 *.zdev.net
 *.zomans.com
@@ -3522,11 +3522,11 @@ www.udemy.com
 www.udemy.com
 yourcompany.udemy.com
 shopifyinbox.com
+*.shopifycloud.com
 linkpop.com
 *.shopifycs.com
-*.shopifycloud.com
-*.shopifykloud.com
 shop.app
+*.shopifykloud.com
 shopify.plus
 *.shopify.com
 partners.shopify.com
@@ -3575,9 +3575,9 @@ scan.snapchat.com
 web.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
+snappublisher.snapchat.com
 ads.snapchat.com
 business.snapchat.com
-snappublisher.snapchat.com
 playcanvas.com
 accounts.snapchat.com
 app.snapchat.com
@@ -3807,9 +3807,9 @@ api.custody.coinbase.com
 pro.coinbase.com
 cloud.coinbase.com
 api.coinbase.com
+*.base.org
 *.coinbase.com
 coinbase.com
-*.base.org
 *.coinbase.com
 *.cbhq.net
 pro.coinbase.com
@@ -3830,12 +3830,12 @@ edgeapi.slack.com
 spaces.pm
 slackatwork.com
 slack-redir.net
-slack.com
 slack-imgs.com
 www.quip.com
 *.quip.com
-api.slack.com
+slack.com
 app.slack.com
+api.slack.com
 slack.com
 api.slack.com
 status.slack.com
@@ -3871,8 +3871,8 @@ mta-sts.wearehackerone.com
 cover-photos.hackerone-user-content.com
 b5s.hackerone-ext-content.com
 www.hackerone.com
-app.pullrequest.com
 api.hackerone.com
+app.pullrequest.com
 errors.hackerone.net
 hackerone-user-content.com
 hackerone.live
