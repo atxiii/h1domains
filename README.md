@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Feb 28 14:18:36 UTC 2024)
+## Domains with Bounties (Last Updated Wed Feb 28 15:21:45 UTC 2024)
 ```
 *.worldcoin-distributors.com
 toolsforhumanity.com
@@ -23,9 +23,9 @@ getworldcoin.com
 bioid-management.app
 worldcoin.org
 rfc.tari.com
+explore.tari.com
 textexplore.tari.com
 www.tarilabs.com
-explore.tari.com
 www.tari.com
 explore.tari.com
 rfc.tari.com
@@ -78,8 +78,8 @@ sso-sprint.dynatracelabs.com
 university-staging.dynatracelabs.com
 myaccount-hardening.dynatracelabs.com
 demo.dynamic.xyz
-app.dynamic-preprod.xyz
 app.dynamic.xyz
+app.dynamic-preprod.xyz
 app.dynamic-preprod.xyz
 demo.dynamic.xyz
 app.dynamic.xyz
@@ -127,6 +127,8 @@ research.23andme.com
 www.mercadolibre.com.uy
 api.mercadopago.com
 www.mercadopago.com.uy
+api.mercadolibre.com
+www.mercadopago.cl
 www.mercadolibre.com.mx
 www.mercadopago.com.co
 www.mercadopago.com.pe
@@ -135,11 +137,9 @@ www.mercadolibre.com.pe
 www.mercadolibre.cl
 www.mercadolibre.com.co
 www.mercadolibre.com.ar
-www.mercadolivre.com.br
-api.mercadolibre.com
-www.mercadopago.cl
 www.mercadopago.com.mx
 www.mercadopago.com.br
+www.mercadolivre.com.br
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -184,10 +184,10 @@ secure.booking.com
 spark.fareharbor.com
 widget.rentalcars.com
 account.booking.com
-*.booking.com
 booking.com
 *.rentalcars.com
 flights.booking.com
+*.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -515,6 +515,7 @@ shavar.services.mozilla.com
 sync.services.mozilla.com
 crash-reports.allizom.org
 firefox-ci-tc.services.mozilla.com
+aus5.mozilla.org
 hg.mozilla.org
 bugzilla.mozilla.org
 firefox.settings.services.mozilla.com
@@ -522,7 +523,6 @@ addons.allizom.org
 mozilla-pontoon-staging.herokuapp.com
 phabricator.allizom.org
 contile.services.mozilla.com
-aus5.mozilla.org
 location.services.mozilla.com
 accounts.firefox.com
 addons.allizom.org
@@ -781,8 +781,8 @@ admin.8x8.com
 *.luckydays.ca
 *.napoleonsports.be
 *.luckydays.com
-*.superbet.rs
 *.magicjackpot.ro
+*.superbet.rs
 *.napoleoncasino.be
 *.superbet.com
 *.napoleongames.be
@@ -856,7 +856,6 @@ www.travelocity.com
 www.carrentals.com
 www.cheaptickets.com
 www.ebookers.com
-www.stayz.com.au
 www.orbitz.com
 www.bookabach.co.nz
 www.hotwire.com
@@ -864,8 +863,9 @@ www.expediacruises.com
 www.expedia.com
 www.hotels.com
 www.expediagroup.com
-www.vrbo.com
+www.stayz.com.au
 www.abritel.fr
+www.vrbo.com
 www.hotels.com
 www.expedia.com
 www.expediapartnercentral.com
@@ -913,8 +913,8 @@ askpam.ai
 *.teleport.dev
 *.gravitational.io
 platform.teleport.sh
-*.gravitational.co
 teleport.sh
+*.gravitational.co
 *.goteleport.com
 *.goteleport.com
 *.gravitational.com
@@ -1193,8 +1193,8 @@ analytics.krisp.ai
 download.krisp.ai
 teams.krisp.ai
 krisp.ai
-api.krisp.ai
 account.krisp.ai
+api.krisp.ai
 *.krisp.ai
 *.krisp.ai
 krisp.ai
@@ -1428,9 +1428,9 @@ main.trafficfactory.biz
 www.elastic.co
 *.swiftype.com
 *.elstc.co
-*.elastic.co
 cloud.elastic.co
 *.found.io
+*.elastic.co
 *.elastic.co
 *.found.io
 *.swiftype.com
@@ -1824,23 +1824,22 @@ account.acronis.com
 *.acronis.work
 beta-cloud.acronis.com
 account.acronis.com
+app.superdrug.com
+api.superdrug.com
 www.kruidvat.nl
 app.kruidvat.nl
 app.theperfumeshop.com
 api.theperfumeshop.com
-www10.pns.hk
-api.pns.hk
-www.pns.hk
-www10.watsons.com.sg
-www.watsons.com.sg
-api.watsons.com.sg
-www.watsons.com.hk
-www10.watsons.com.hk
-api.watsons.com.hk
-www10.watsons.co.id
-api.watsons.co.id
-www.watsons.co.id
-blog.watsons.com.tr
+www10.watsons.com.tw
+www.watsons.com.tw
+api.watsons.com.tw
+www10.watsons.com.ph
+api.watsons.com.ph
+www.watsons.com.ph
+www.watsons.co.th
+www20.watsons.co.th
+www10.watsons.co.th
+api.watsons.co.th
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -2198,9 +2197,9 @@ amazonpayinsurance.in
 *.aliyun-inc.com
 *.alibaba-inc.com
 *.Daraz.com
-www.alibabagroup.com
-*.aliyun.com
 *.aliexpress.com
+*.aliyun.com
+www.alibabagroup.com
 *.alimama.com
 *.taobao.com
 *.1688.com
@@ -2295,8 +2294,8 @@ marriottfranchisetransactions.marriott.com
 passwordchallenge.marriott.com
 www.ritzcarlton.com
 gatewaydsaptst1.marriott.com
-mgs.marriott.com
 www.marriott.com
+mgs.marriott.com
 homes-and-villas.marriott.com
 sso.marriott.com
 mgs.marriott.com
@@ -2358,8 +2357,8 @@ app.nordpass.com
 app.nordpass.com
 *.line.naver.jp
 *.line.me
-*.line.biz
 *.line-apps.com
+*.line.biz
 *.line.me
 *.line-apps.com
 *.line.naver.jp
@@ -3262,8 +3261,8 @@ lifeinvader.com
 prod.ros.rockstargames.com
 support.rockstargames.com
 socialclub.rockstargames.com
-*.rockstargames.com
 rockstarnorth.com
+*.rockstargames.com
 socialclub.rockstargames.com
 prod.ros.rockstargames.com
 support.rockstargames.com
@@ -3272,8 +3271,8 @@ store.rockstargames.com
 lifeinvader.com
 rockstarnorth.com
 circolocorecords.com/
-app.files.com
 www.files.com
+app.files.com
 your-assigned-subdomain.files.com
 app.files.com
 your-assigned-subdomain.files.com
@@ -3526,18 +3525,18 @@ www.udemy.com
 www.udemy.com
 yourcompany.udemy.com
 shopifyinbox.com
-*.shopifycloud.com
 linkpop.com
-shop.app
+*.shopifycloud.com
 *.shopifykloud.com
+shop.app
 shopify.plus
 partners.shopify.com
 accounts.shopify.com
 arrive-server.shopifycloud.com
+*.shopify.com
 admin.shopify.com
 your-store.myshopify.com
 *.shopifycs.com
-*.shopify.com
 *.shopifycs.com
 *.shopify.com
 *.shopifykloud.com
@@ -3572,14 +3571,14 @@ create.snapchat.com
 my.snapchat.com
 forum.playcanvas.com
 spectacles.com
-snappublisher.snapchat.com
-ads.snapchat.com
 www.bitmoji.com
 login.playcanvas.com
 *.sc-core.net
 scan.snapchat.com
 web.snapchat.com
 accounts.snapchat.com
+snappublisher.snapchat.com
+ads.snapchat.com
 playcanvas.com
 app.snapchat.com
 business.snapchat.com
@@ -3661,8 +3660,8 @@ api.airbnb.com
 *.hoteltonight-test.com
 *.withairbnb.com
 www.hoteltonight.com
-www.airbnb.com
 *.airbnb.com
+www.airbnb.com
 www.airbnb.com
 next.airbnb.com
 api.airbnb.com
@@ -3764,8 +3763,8 @@ intensedebate.com
 mailpoet.com
 www.tumblr.com
 *.tumblr.com
-wordpress.com
 akismet.com
+wordpress.com
 *.tumblr.com
 *.srvcs.tumblr.com
 api.tumblr.com
