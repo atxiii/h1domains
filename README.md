@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Feb 28 03:16:47 UTC 2024)
+## Domains with Bounties (Last Updated Wed Feb 28 04:17:09 UTC 2024)
 ```
 *.worldcoin-distributors.com
 toolsforhumanity.com
@@ -127,6 +127,9 @@ research.23andme.com
 www.mercadolibre.com.uy
 api.mercadopago.com
 www.mercadopago.com.uy
+www.mercadolivre.com.br
+api.mercadolibre.com
+www.mercadopago.cl
 www.mercadolibre.com.mx
 www.mercadopago.com.co
 www.mercadopago.com.pe
@@ -135,9 +138,6 @@ www.mercadolibre.com.pe
 www.mercadolibre.cl
 www.mercadolibre.com.co
 www.mercadolibre.com.ar
-www.mercadolivre.com.br
-api.mercadolibre.com
-www.mercadopago.cl
 www.mercadopago.com.mx
 www.mercadopago.com.br
 api.mercadopago.com
@@ -247,8 +247,8 @@ pentesting.gethypr.com
 hypr37448.gethypr.com
 pentesting3.gethypr.com
 pentesting2.gethypr.com
-hypr74352.gethypr.com
 *.hypr.com
+hypr74352.gethypr.com
 *.hypr.com
 pentesting.gethypr.com
 pentesting3.gethypr.com
@@ -391,11 +391,6 @@ www.visa.com.tw
 www.practicalmoneyskills.com
 www.visa.com.ph
 www.visa.com.my
-www.authorize.net
-www.currencycloud.com
-www.cardinalcommerce.com
-aw.visa.com
-www.visainfinite.ca
 www.cybersource.com
 visa.com.au
 www.fraedom.com
@@ -404,6 +399,11 @@ ht.visa.com
 www.visa.co.in
 www.yellowpepper.com
 www.visa.co.id
+usa.visa.com
+www.visa.co.ve
+www.currencycloud.com
+www.cardinalcommerce.com
+aw.visa.com
 aw.visa.com
 bb.visa.com
 bd.visa.com
@@ -465,9 +465,9 @@ http://myvisainfinite.com/suntrust/en_us/home.html
 http://www.myvisacardportal.com/welcome/enbd/product/#
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
-yourdomain.myfreshworks.com
-yourdomain.freshdesk.com
 yourdomain.freshchat.com
+yourdomain.freshdesk.com
+yourdomain.myfreshworks.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -620,8 +620,8 @@ argocd.indrive.dev
 ci.indrive.dev
 super-services.indriverapp.com
 *.indriverapp.com
-*.indrive.com
 auth.indrive.tech
+*.indrive.com
 *.indriver.com
 *.indriverapp.com
 *.indrive.com
@@ -781,8 +781,8 @@ admin.8x8.com
 *.luckydays.ca
 *.napoleonsports.be
 *.luckydays.com
-*.superbet.rs
 *.magicjackpot.ro
+*.superbet.rs
 *.napoleoncasino.be
 *.superbet.com
 *.superbet.pl
@@ -1054,10 +1054,10 @@ ws.sorare.com
 exnessaffiliates.com
 pwapi.ex2b.com
 api.excalls.mobi
-my.exness.com
 social-trading.exness.com
 pay.ibex.exchange
 exness.com
+my.exness.com
 my.exness.com
 pay.ibex.exchange
 https://my.exness.com/webtrading/
@@ -1295,8 +1295,8 @@ capturingreality.com
 *.tstaging.tools
 *.tinderwebstaging.com
 *.tstaging.com
-*.tinder.com
 *.gotinder.com
+*.tinder.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1740,17 +1740,17 @@ api.adm.cloud.com
 academy-outbound-ads.tiktok.com
 fp-sg.tiktokv.com
 developers.tiktok.com
-creatormarketplace.tiktok.com
-effecthouse.tiktok.com
 shop.tiktok.com
 partner.tiktokshop.com
 live-backstage.tiktok.com
+creatormarketplace.tiktok.com
+effecthouse.tiktok.com
 careers.tiktok.com
 *.tiktokv.com
 tiktok.com
-*.tiktok.com
 business.tiktok.com
 www.pangleglobal.com
+*.tiktok.com
 ads.tiktok.com
 *.tiktok.com
 business.tiktok.com
@@ -2195,16 +2195,16 @@ amazonpayinsurance.in
 *.aliexpress.ru
 *.tmall.com
 *.aliyun-inc.com
-*.aliyun.com
-www.alibabagroup.com
-*.aliexpress.com
 *.alibaba-inc.com
 *.Daraz.com
-*.1688.com
+*.aliexpress.com
+*.aliyun.com
+www.alibabagroup.com
 *.alimama.com
 *.taobao.com
-*.alibabacloud.com
 *.alibaba.com
+*.alibabacloud.com
+*.1688.com
 *.alibaba.com
 *.aliexpress.com
 *.taobao.com
@@ -2321,8 +2321,8 @@ hotel-deals.marriott.com
 http://www.shopmarriott.com
 www.goodrx.com
 www.goodrx.com
-*.roblox.com
 *.ra.roblox.com
+*.roblox.com
 *.rbx.com
 *.guilded.gg
 *.roblox.com
@@ -2491,7 +2491,7 @@ api.rezserver.com
 cruises.priceline.com
 www.bookingholdings.com
 admin.rezserver.com
-priceline.com
+www.getaroom.com
 www.priceline.com
 secure.rezserver.com
 reservations.rezserver.com
@@ -3261,8 +3261,8 @@ lifeinvader.com
 prod.ros.rockstargames.com
 support.rockstargames.com
 socialclub.rockstargames.com
-*.rockstargames.com
 rockstarnorth.com
+*.rockstargames.com
 socialclub.rockstargames.com
 prod.ros.rockstargames.com
 support.rockstargames.com
@@ -3382,8 +3382,8 @@ classroom.github.com
 *.githubapp.com
 *.githubusercontent.com
 npmjs.com
-github.com
 api.github.com
+github.com
 github.com
 api.github.com
 gist.github.com
@@ -3529,8 +3529,8 @@ shopifyinbox.com
 linkpop.com
 *.shopifycs.com
 shop.app
-shopify.plus
 *.shopifykloud.com
+shopify.plus
 *.shopify.com
 partners.shopify.com
 accounts.shopify.com
@@ -3571,16 +3571,16 @@ create.snapchat.com
 my.snapchat.com
 forum.playcanvas.com
 spectacles.com
+app.snapchat.com
+snappublisher.snapchat.com
+ads.snapchat.com
+business.snapchat.com
 www.bitmoji.com
 login.playcanvas.com
 *.sc-core.net
 scan.snapchat.com
 web.snapchat.com
 accounts.snapchat.com
-app.snapchat.com
-snappublisher.snapchat.com
-ads.snapchat.com
-business.snapchat.com
 playcanvas.com
 accounts.snapchat.com
 app.snapchat.com
@@ -3655,9 +3655,9 @@ callbacks.airbnb.com
 *.muscache.com
 next.airbnb.com
 assets.airbnb.com
-*.airbnb.com
 api.airbnb.com
 *.airbnbcitizen.com
+*.airbnb.com
 *.hoteltonight-test.com
 www.airbnb.com
 *.withairbnb.com
@@ -3833,10 +3833,10 @@ edgeapi.slack.com
 spaces.pm
 slackatwork.com
 slack-redir.net
-slack.com
 slack-imgs.com
 www.quip.com
 *.quip.com
+slack.com
 app.slack.com
 api.slack.com
 slack.com
@@ -3866,20 +3866,20 @@ www.wearehackerone.com
 profile-photos.hackerone-user-content.com
 reviewer.pullrequest.com
 hackathon-photos-us-east-2.hackerone-user-content.com
-www.hackerone.com
-b5s.hackerone-ext-content.com
 cover-photos-us-east-2.hackerone-user-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 a5s.hackerone-ext-content.com
 hackerone-ext-content.com
 mta-sts.wearehackerone.com
 cover-photos.hackerone-user-content.com
-app.pullrequest.com
+b5s.hackerone-ext-content.com
+www.hackerone.com
 api.hackerone.com
-ctf.hacker101.com
+app.pullrequest.com
 errors.hackerone.net
 hackerone-user-content.com
 hackerone.live
+ctf.hacker101.com
 hackerone.com
 hackerone.com
 api.hackerone.com
