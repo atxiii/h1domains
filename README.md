@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Feb 28 17:17:49 UTC 2024)
+## Domains with Bounties (Last Updated Wed Feb 28 18:21:15 UTC 2024)
 ```
 *.worldcoin-distributors.com
 toolsforhumanity.com
@@ -11,8 +11,8 @@ bioid-management.app
 getworldcoin.com
 *.toolsforhumanity.com
 *.consumer.worldcoin.org
-*.worldcoin.org
 worldcoin.org
+*.worldcoin.org
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -84,14 +84,14 @@ app.dynamic-preprod.xyz
 demo.dynamic.xyz
 app.dynamic.xyz
 payments.hostinger.com
+backend.zyro.com
 cpanel.hostinger.com
 logo.zyro.com
 www.zyro.com
-backend.zyro.com
 hpanel.hostinger.com
 www.niagahoster.co.id
-editor.zyro.com
 *.000webhost.com
+editor.zyro.com
 www.hostinger.com
 *.000webhost.com
 www.hostinger.com
@@ -127,6 +127,8 @@ research.23andme.com
 www.mercadolibre.com.uy
 api.mercadopago.com
 www.mercadopago.com.uy
+api.mercadolibre.com
+www.mercadopago.cl
 www.mercadolibre.com.mx
 www.mercadopago.com.co
 www.mercadopago.com.pe
@@ -135,8 +137,6 @@ www.mercadolibre.com.pe
 www.mercadolibre.cl
 www.mercadolibre.com.co
 www.mercadolibre.com.ar
-api.mercadolibre.com
-www.mercadopago.cl
 www.mercadopago.com.mx
 www.mercadopago.com.br
 www.mercadolivre.com.br
@@ -183,11 +183,11 @@ portal.taxi.booking.com
 secure.booking.com
 widget.rentalcars.com
 account.booking.com
-spark.fareharbor.com
-*.booking.com
 booking.com
 *.rentalcars.com
 flights.booking.com
+spark.fareharbor.com
+*.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -259,8 +259,8 @@ cdn.moderntreasury.com
 app.moderntreasury.com
 app.moderntreasury.com
 cdn.moderntreasury.com
-test.nicex.com
 test.nicehash.com
+test.nicex.com
 test.nicehash.com
 https://test.nicehash.com/shop/
 https://test.nicex.com
@@ -283,9 +283,9 @@ connect-sandbox.gocardless.com
 xero-sandbox.gocardless.com
 oauth-sandbox.gocardless.com
 *.gocardless-staging.io
+*.gocardless-cicd.io
 api-sandbox.gocardless.com
 *.gocardless-lab.io
-*.gocardless-cicd.io
 manage-sandbox.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
@@ -384,7 +384,6 @@ visa.com.ua
 www.practicalmoneyskills.org
 www.practicalbusinessskills.org
 www.visa.co.ke
-www.visa.co.uk
 bd.visa.com
 www.visa.co.jp
 www.visa.com.tw
@@ -404,6 +403,7 @@ www.currencycloud.com
 www.cardinalcommerce.com
 aw.visa.com
 www.authorize.net
+www.visainfinite.ca
 aw.visa.com
 bb.visa.com
 bd.visa.com
@@ -485,8 +485,8 @@ krisha.kz
 m.kolesa.kz
 kolesa.kz
 avtoelon.uz
-id.kolesa.kz
 m.avtoelon.uz
+id.kolesa.kz
 kolesa.kz
 m.kolesa.kz
 krisha.kz
@@ -749,7 +749,7 @@ sso.8x8.com
 voapi.8x8.com
 *.jitsi.net
 *.packet8.net
-*.8x8cloud.net
+connect.8x8.com
 *.8x8.vc
 *.jit.si
 *.jitsi.net
@@ -856,6 +856,7 @@ www.travelocity.com
 www.carrentals.com
 www.cheaptickets.com
 www.ebookers.com
+www.stayz.com.au
 www.orbitz.com
 www.bookabach.co.nz
 www.hotwire.com
@@ -863,7 +864,6 @@ www.expediacruises.com
 www.expedia.com
 www.hotels.com
 www.expediagroup.com
-www.stayz.com.au
 www.vrbo.com
 www.abritel.fr
 www.hotels.com
@@ -912,10 +912,10 @@ askpam.ai
 *.teleport.dev
 *.gravitational.io
 platform.teleport.sh
-*.gravitational.co
 teleport.sh
-*.goteleport.com
+*.gravitational.co
 cloud.gravitational.io
+*.goteleport.com
 *.goteleport.com
 *.gravitational.com
 *.teleport.dev
@@ -2288,11 +2288,11 @@ homes-and-villas.marriott.com
 marrtool.com
 all-inclusive.marriott.com
 marriottfranchisetransactions.marriott.com
-passwordchallenge.marriott.com
 www.ritzcarlton.com
+passwordchallenge.marriott.com
 gatewaydsaptst1.marriott.com
-www.marriott.com
 mgs.marriott.com
+www.marriott.com
 homes-and-villas.marriott.com
 sso.marriott.com
 mgs.marriott.com
@@ -2687,8 +2687,8 @@ www.hyattinclusivecollection.com
 booking.applevacations.com
 grammarly.ai
 *.grammarlyaws.com
-*.grammarly.com
 *.grammarly.io
+*.grammarly.com
 *.grammarly.io
 *.grammarlyaws.com
 *.grammarly.com
@@ -2710,8 +2710,8 @@ mobile-prod.tvg.com
 fdbox.net
 www.4njbets.com
 sportsbook.fanduel.com
-*racing.fanduel.com
 tvg.com
+*racing.fanduel.com
 us.tvg.com
 com.fanduel.android.live
 *.fanduel.com
@@ -2823,8 +2823,8 @@ testnet.bitmex.com
 testnet.bitmex.com
 *.staging-airtableblocks.com
 api-staging.airtable.com
-staging.airtable.com
 *.staging.airtable.com
+staging.airtable.com
 *.staging-airtableblocks.com
 *.staging.airtable.com
 staging.airtable.com
@@ -3258,8 +3258,8 @@ lifeinvader.com
 prod.ros.rockstargames.com
 support.rockstargames.com
 socialclub.rockstargames.com
-rockstarnorth.com
 *.rockstargames.com
+rockstarnorth.com
 socialclub.rockstargames.com
 prod.ros.rockstargames.com
 support.rockstargames.com
@@ -3308,9 +3308,9 @@ gift.starbucks.co.jp
 app.starbucks.com
 openapi.starbucks.com
 www.starbucks.com.cn
-www.starbucks.de
 www.starbucks.com
 www.starbucks.co.kr
+www.starbucks.de
 www.starbucksreserve.com
 gift.starbucks.co.jp
 login.starbucks.co.jp
@@ -3522,18 +3522,18 @@ yourcompany.udemy.com
 www.udemy.com
 yourcompany.udemy.com
 shopifyinbox.com
-linkpop.com
 *.shopifycloud.com
+linkpop.com
 shop.app
-shopify.plus
 *.shopifykloud.com
+shopify.plus
 partners.shopify.com
 accounts.shopify.com
 arrive-server.shopifycloud.com
-*.shopify.com
-admin.shopify.com
 *.shopifycs.com
+*.shopify.com
 your-store.myshopify.com
+admin.shopify.com
 *.shopifycs.com
 *.shopify.com
 *.shopifykloud.com
@@ -3657,8 +3657,8 @@ api.airbnb.com
 *.hoteltonight-test.com
 *.withairbnb.com
 www.hoteltonight.com
-www.airbnb.com
 *.airbnb.com
+www.airbnb.com
 www.airbnb.com
 next.airbnb.com
 api.airbnb.com
@@ -3803,9 +3803,9 @@ international.coinbase.com
 *.cbhq.net
 institutional.coinbase.com
 api.custody.coinbase.com
-api.coinbase.com
 pro.coinbase.com
 cloud.coinbase.com
+api.coinbase.com
 *.coinbase.com
 *.base.org
 coinbase.com
@@ -3869,14 +3869,14 @@ mta-sts.wearehackerone.com
 cover-photos.hackerone-user-content.com
 b5s.hackerone-ext-content.com
 api.hackerone.com
-hackerone-user-content.com
 hackerone.live
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 app.pullrequest.com
 www.hackerone.com
 ctf.hacker101.com
-hackerone.com
 errors.hackerone.net
+hackerone.com
+hackerone-user-content.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
