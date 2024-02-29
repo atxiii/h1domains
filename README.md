@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Feb 29 15:17:47 UTC 2024)
+## Domains with Bounties (Last Updated Thu Feb 29 16:19:20 UTC 2024)
 ```
 *.worldcoin-distributors.com
 toolsforhumanity.com
@@ -11,8 +11,8 @@ worldcoin.org
 getworldcoin.com
 *.worldcoin.dev
 *.worldcoin.org
-*.toolsforhumanity.com
 bioid-management.app
+*.toolsforhumanity.com
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -25,8 +25,8 @@ worldcoin.org
 rfc.tari.com
 textexplore.tari.com
 explore.tari.com
-www.tarilabs.com
 www.tari.com
+www.tarilabs.com
 explore.tari.com
 rfc.tari.com
 textexplore.tari.com
@@ -84,10 +84,10 @@ app.dynamic-preprod.xyz
 demo.dynamic.xyz
 app.dynamic.xyz
 payments.hostinger.com
+backend.zyro.com
 cpanel.hostinger.com
 logo.zyro.com
 www.zyro.com
-backend.zyro.com
 www.niagahoster.co.id
 editor.zyro.com
 www.hostinger.com
@@ -135,8 +135,8 @@ www.mercadolibre.com.pe
 www.mercadolibre.cl
 www.mercadolibre.com.co
 www.mercadolibre.com.ar
-www.mercadopago.cl
 api.mercadolibre.com
+www.mercadopago.cl
 www.mercadopago.com.mx
 www.mercadopago.com.br
 www.mercadolivre.com.br
@@ -185,9 +185,9 @@ account.booking.com
 spark.fareharbor.com
 widget.rentalcars.com
 booking.com
-*.booking.com
-*.rentalcars.com
 flights.booking.com
+*.rentalcars.com
+*.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -283,8 +283,8 @@ connect-sandbox.gocardless.com
 xero-sandbox.gocardless.com
 oauth-sandbox.gocardless.com
 *.gocardless-staging.io
-api-sandbox.gocardless.com
 *.gocardless-cicd.io
+api-sandbox.gocardless.com
 manage-sandbox.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
@@ -401,8 +401,8 @@ www.visa.co.ve
 www.currencycloud.com
 www.authorize.net
 www.visainfinite.ca
-www.visa.com.mx
 bb.visa.com
+www.visa.com.mx
 cw.visa.com
 aw.visa.com
 bb.visa.com
@@ -621,8 +621,8 @@ ci.indrive.dev
 super-services.indriverapp.com
 *.indriverapp.com
 auth.indrive.tech
-*.indriver.com
 *.indrive.com
+*.indriver.com
 *.indriverapp.com
 *.indrive.com
 *.indriver.com
@@ -748,8 +748,8 @@ sso.8x8.com
 voapi.8x8.com
 *.jitsi.net
 *.packet8.net
-*.8x8cloud.net
 connect.8x8.com
+*.8x8cloud.net
 *.8x8.vc
 *.jit.si
 *.jitsi.net
@@ -1295,8 +1295,8 @@ capturingreality.com
 *.tstaging.tools
 *.tinderwebstaging.com
 *.tstaging.com
-*.tinder.com
 *.gotinder.com
+*.tinder.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1421,9 +1421,9 @@ https://www.xvideos.net/app/
 *.eops.nl
 www.elastic.co
 *.swiftype.com
+*.elastic.co
 cloud.elastic.co
 *.found.io
-*.elastic.co
 *.elstc.co
 *.elastic.co
 *.found.io
@@ -1734,11 +1734,10 @@ api.adm.cloud.com
 academy-outbound-ads.tiktok.com
 fp-sg.tiktokv.com
 developers.tiktok.com
-live-backstage.tiktok.com
 creatormarketplace.tiktok.com
 effecthouse.tiktok.com
+live-backstage.tiktok.com
 careers.tiktok.com
-shop.tiktok.com
 ads.tiktok.com
 tiktok.com
 *.tiktokv.com
@@ -1746,6 +1745,7 @@ business.tiktok.com
 www.pangleglobal.com
 *.tiktok.com
 partner.tiktokshop.com
+shop.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2258,8 +2258,8 @@ dcfgatewaytst1.marriott.com
 lawmanager.marriott.com
 gatewaydsaptst2.marriott.com
 *uat.marriott.com
-activities.marriott.com
 jobs.marriott.com
+activities.marriott.com
 gatewaydsapdev2.marriott.com
 hotel-deals.marriott.com
 homes-and-villas.marriott.com
@@ -2299,9 +2299,9 @@ http://www.shopmarriott.com
 www.goodrx.com
 www.goodrx.com
 *.ra.roblox.com
+*.guilded.gg
 *.roblox.com
 *.rbx.com
-*.guilded.gg
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -2466,9 +2466,9 @@ app.command.cysiv.com
 reservations.rezserver.com
 api.rezserver.com
 cruises.priceline.com
-www.bookingholdings.com
 admin.rezserver.com
 www.getaroom.com
+priceline.com
 www.priceline.com
 secure.rezserver.com
 reservations.rezserver.com
@@ -2667,8 +2667,8 @@ www.hyattinclusivecollection.com
 booking.applevacations.com
 grammarly.ai
 *.grammarlyaws.com
-*.grammarly.io
 *.grammarly.com
+*.grammarly.io
 *.grammarly.io
 *.grammarlyaws.com
 *.grammarly.com
@@ -2689,8 +2689,8 @@ mobile-prod.tvg.com
 fdbox.net
 www.4njbets.com
 sportsbook.fanduel.com
-*racing.fanduel.com
 tvg.com
+*racing.fanduel.com
 us.tvg.com
 com.fanduel.android.live
 *.fanduel.com
@@ -2903,10 +2903,10 @@ playartifact.com
 www.valvesoftware.com
 www.dota2.com
 api.steampowered.com
-www.teamfortress.com
 www.counter-strike.net
 steamcommunity.com
 store.steampowered.com
+www.teamfortress.com
 www.dota2.com
 support.steampowered.com
 partner.steampowered.com
@@ -3245,8 +3245,8 @@ store.rockstargames.com
 lifeinvader.com
 rockstarnorth.com
 circolocorecords.com/
-www.files.com
 app.files.com
+www.files.com
 your-assigned-subdomain.files.com
 app.files.com
 your-assigned-subdomain.files.com
@@ -3355,8 +3355,8 @@ classroom.github.com
 *.githubapp.com
 *.githubusercontent.com
 npmjs.com
-api.github.com
 *.github.net
+api.github.com
 github.com
 github.com
 api.github.com
@@ -3494,23 +3494,23 @@ zopim.com
 app.futuresimple.com
 api.getbase.com
 http://h1-your-domain.zendesk.com/sell
-www.udemy.com
 yourcompany.udemy.com
+www.udemy.com
 www.udemy.com
 yourcompany.udemy.com
 shopifyinbox.com
 linkpop.com
 *.shopifycloud.com
+*.shopifykloud.com
 shop.app
 shopify.plus
-*.shopifykloud.com
 *.shopifycs.com
 accounts.shopify.com
 arrive-server.shopifycloud.com
 your-store.myshopify.com
-partners.shopify.com
-*.shopify.com
 admin.shopify.com
+*.shopify.com
+partners.shopify.com
 *.shopifycs.com
 *.shopify.com
 *.shopifykloud.com
@@ -3542,11 +3542,11 @@ msg.playcanvas.com
 create.snapchat.com
 my.snapchat.com
 forum.playcanvas.com
+snappublisher.snapchat.com
+ads.snapchat.com
 www.bitmoji.com
 login.playcanvas.com
 scan.snapchat.com
-snappublisher.snapchat.com
-ads.snapchat.com
 playcanvas.com
 app.snapchat.com
 business.snapchat.com
@@ -3736,8 +3736,8 @@ intensedebate.com
 mailpoet.com
 www.tumblr.com
 *.tumblr.com
-akismet.com
 wordpress.com
+akismet.com
 *.tumblr.com
 *.srvcs.tumblr.com
 api.tumblr.com
@@ -3809,8 +3809,8 @@ slack-imgs.com
 www.quip.com
 *.quip.com
 app.slack.com
-slack.com
 api.slack.com
+slack.com
 slack.com
 api.slack.com
 status.slack.com
@@ -3844,9 +3844,9 @@ hackerone-ext-content.com
 mta-sts.wearehackerone.com
 b5s.hackerone-ext-content.com
 hackerone.live
+hackerone-user-content.com
 ctf.hacker101.com
 errors.hackerone.net
-hackerone-user-content.com
 www.hackerone.com
 api.hackerone.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
