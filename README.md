@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Mar  1 03:18:13 UTC 2024)
+## Domains with Bounties (Last Updated Fri Mar  1 04:18:40 UTC 2024)
 ```
 *.worldcoin-distributors.com
 toolsforhumanity.com
@@ -23,8 +23,8 @@ getworldcoin.com
 bioid-management.app
 worldcoin.org
 rfc.tari.com
-textexplore.tari.com
 explore.tari.com
+textexplore.tari.com
 www.tarilabs.com
 www.tari.com
 explore.tari.com
@@ -89,10 +89,10 @@ www.zyro.com
 backend.zyro.com
 www.niagahoster.co.id
 editor.zyro.com
-www.hostinger.com
-*.000webhost.com
 hpanel.hostinger.com
 cpanel.hostinger.com
+*.000webhost.com
+www.hostinger.com
 *.000webhost.com
 www.hostinger.com
 cpanel.hostinger.com
@@ -127,6 +127,7 @@ research.23andme.com
 www.mercadolibre.com.uy
 api.mercadopago.com
 www.mercadopago.com.uy
+www.mercadopago.cl
 www.mercadolibre.com.mx
 www.mercadopago.com.co
 www.mercadopago.com.pe
@@ -134,12 +135,11 @@ www.mercadolibre.com.pe
 www.mercadolibre.cl
 www.mercadolibre.com.co
 www.mercadolibre.com.ar
-www.mercadopago.cl
 www.mercadopago.com.mx
-api.mercadolibre.com
-www.mercadopago.com.br
 www.mercadolivre.com.br
 www.mercadopago.com.ar
+api.mercadolibre.com
+www.mercadopago.com.br
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -186,8 +186,8 @@ widget.rentalcars.com
 booking.com
 flights.booking.com
 *.rentalcars.com
-*.booking.com
 spark.fareharbor.com
+*.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -259,8 +259,8 @@ cdn.moderntreasury.com
 app.moderntreasury.com
 app.moderntreasury.com
 cdn.moderntreasury.com
-test.nicehash.com
 test.nicex.com
+test.nicehash.com
 test.nicehash.com
 https://test.nicehash.com/shop/
 https://test.nicex.com
@@ -390,6 +390,8 @@ www.visa.com.tw
 www.practicalmoneyskills.com
 www.visa.com.ph
 www.visa.com.my
+www.authorize.net
+www.currencycloud.com
 www.cybersource.com
 visa.com.au
 www.fraedom.com
@@ -398,12 +400,10 @@ www.visa.co.in
 www.yellowpepper.com
 www.visa.co.id
 www.visa.co.ve
-www.currencycloud.com
-www.authorize.net
-bb.visa.com
-www.visa.com.mx
 cw.visa.com
-www.tink.com
+www.visa.com.mx
+bb.visa.com
+www.visa.com.br
 aw.visa.com
 bb.visa.com
 bd.visa.com
@@ -521,9 +521,9 @@ phabricator.allizom.org
 contile.services.mozilla.com
 aus5.mozilla.org
 location.services.mozilla.com
-accounts.firefox.com
 sync.services.mozilla.com
 mozilla-pontoon-staging.herokuapp.com
+accounts.firefox.com
 merino.services.mozilla.com
 addons.allizom.org
 accounts.firefox.com
@@ -742,7 +742,6 @@ pay.8x8.com
 user-profile.8x8.com
 *.8x8.id
 *.8x8staging.com
-*.wavecell.com
 cloud8.8x8.com
 sso.8x8.com
 voapi.8x8.com
@@ -750,6 +749,7 @@ voapi.8x8.com
 *.packet8.net
 *.8x8cloud.net
 admin.8x8.com
+*.8x8.vc
 *.8x8.vc
 *.jit.si
 *.jitsi.net
@@ -781,8 +781,8 @@ admin.8x8.com
 *.luckydays.ca
 *.napoleonsports.be
 *.luckydays.com
-*.magicjackpot.ro
 *.superbet.rs
+*.magicjackpot.ro
 *.superbet.com
 *.napoleongames.be
 *.superbet.ro
@@ -863,9 +863,9 @@ www.hotels.com
 www.expediagroup.com
 www.stayz.com.au
 www.vrbo.com
+www.flights.com
 www.cheaptickets.com
 www.abritel.fr
-www.flights.com
 www.hotels.com
 www.expedia.com
 www.expediapartnercentral.com
@@ -1003,8 +1003,8 @@ snaps.metamask.io
 portfolio.metamask.io
 invoices.razorpay.com
 payroll.razorpay.com
-api.razorpay.com
 checkout.razorpay.com
+api.razorpay.com
 x.razorpay.com
 dashboard.razorpay.com
 dashboard.razorpay.com
@@ -1193,8 +1193,8 @@ analytics.krisp.ai
 download.krisp.ai
 teams.krisp.ai
 krisp.ai
-account.krisp.ai
 api.krisp.ai
+account.krisp.ai
 *.krisp.ai
 *.krisp.ai
 krisp.ai
@@ -1477,14 +1477,14 @@ mod.reddit.com
 old.reddit.com
 api.reddit.com
 *.redditmedia.com
+accounts.reddit.com
+gql.reddit.com
 redditforbusiness.com
 app.spiketrap.io
 *.reddithelp.com
 oauth.reddit.com
 new.reddit.com
-accounts.reddit.com
 ads-api.reddit.com
-gql.reddit.com
 www.reddit.com
 *.reddit.com
 ads.reddit.com
@@ -1736,7 +1736,6 @@ fp-sg.tiktokv.com
 developers.tiktok.com
 creatormarketplace.tiktok.com
 effecthouse.tiktok.com
-live-backstage.tiktok.com
 careers.tiktok.com
 tiktok.com
 partner.tiktokshop.com
@@ -1746,6 +1745,7 @@ shop.tiktok.com
 *.tiktok.com
 www.pangleglobal.com
 ads.tiktok.com
+live-backstage.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -1819,26 +1819,23 @@ beta-cloud.acronis.com
 account.acronis.com
 sandbox.affirm.com
 sandbox.affirm.com
-www.watsons.com.tr
-app.superdrug.com
-api.superdrug.com
 www.kruidvat.nl
 app.kruidvat.nl
 app.theperfumeshop.com
 api.theperfumeshop.com
-api.watsons.com.my
-www.watsons.com.my
-www10.watsons.com.my
-www.iciparisxl.nl
-www.iciparisxl.be
-www.iciparisxl.lu
-app.iciparisxl.nl
-app.iciparisxl.be
-app.iciparisxl.lu
-www.marionnaud.at
-app.marionnaud.at
-www.marionnaud.ch
-app.marionnaud.ch
+www10.pns.hk
+api.pns.hk
+www.pns.hk
+www10.watsons.com.sg
+www.watsons.com.sg
+api.watsons.com.sg
+www.watsons.com.hk
+www10.watsons.com.hk
+api.watsons.com.hk
+www10.watsons.co.id
+api.watsons.co.id
+www.watsons.co.id
+blog.watsons.com.tr
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -1960,9 +1957,9 @@ store.playstation.com
 my.playstation.com
 my.account.sony.com
 *.api.playstation.com
-transact.playstation.com
 *.sonyentertainmentnetwork.com
 *.playstation.net
+transact.playstation.com
 *.playstation.net
 *.sonyentertainmentnetwork.com
 *.api.playstation.com
@@ -2287,8 +2284,8 @@ homes-and-villas.marriott.com
 marrtool.com
 all-inclusive.marriott.com
 marriottfranchisetransactions.marriott.com
-passwordchallenge.marriott.com
 www.ritzcarlton.com
+passwordchallenge.marriott.com
 gatewaydsaptst1.marriott.com
 mgs.marriott.com
 cpp.marriott.com
@@ -2321,9 +2318,9 @@ http://www.shopmarriott.com
 www.goodrx.com
 www.goodrx.com
 *.ra.roblox.com
+*.rbx.com
 *.guilded.gg
 *.roblox.com
-*.rbx.com
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -2491,6 +2488,7 @@ admin.rezserver.com
 www.getaroom.com
 priceline.com
 flyiin.com
+www.priceline.com
 www.priceline.com
 secure.rezserver.com
 reservations.rezserver.com
@@ -2711,8 +2709,8 @@ mobile-prod.tvg.com
 fdbox.net
 www.4njbets.com
 sportsbook.fanduel.com
-*racing.fanduel.com
 tvg.com
+*racing.fanduel.com
 us.tvg.com
 com.fanduel.android.live
 www.tvg.com
@@ -2928,9 +2926,9 @@ www.valvesoftware.com
 www.dota2.com
 api.steampowered.com
 www.counter-strike.net
-steamcommunity.com
 store.steampowered.com
 www.teamfortress.com
+steamcommunity.com
 www.dota2.com
 support.steampowered.com
 partner.steampowered.com
@@ -3257,8 +3255,8 @@ lifeinvader.com
 prod.ros.rockstargames.com
 support.rockstargames.com
 socialclub.rockstargames.com
-rockstarnorth.com
 *.rockstargames.com
+rockstarnorth.com
 socialclub.rockstargames.com
 prod.ros.rockstargames.com
 support.rockstargames.com
@@ -3267,8 +3265,8 @@ store.rockstargames.com
 lifeinvader.com
 rockstarnorth.com
 circolocorecords.com/
-app.files.com
 www.files.com
+app.files.com
 your-assigned-subdomain.files.com
 app.files.com
 your-assigned-subdomain.files.com
@@ -3529,10 +3527,10 @@ shopify.plus
 accounts.shopify.com
 arrive-server.shopifycloud.com
 shop.app
-admin.shopify.com
 *.shopify.com
 your-store.myshopify.com
 partners.shopify.com
+admin.shopify.com
 *.shopifycs.com
 *.shopify.com
 *.shopifykloud.com
@@ -3819,11 +3817,11 @@ international.coinbase.com
 *.cbhq.net
 institutional.coinbase.com
 api.custody.coinbase.com
+api.coinbase.com
 pro.coinbase.com
 cloud.coinbase.com
-api.coinbase.com
-*.base.org
 *.coinbase.com
+*.base.org
 coinbase.com
 *.coinbase.com
 *.cbhq.net
