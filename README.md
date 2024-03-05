@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Mar  5 00:47:41 UTC 2024)
+## Domains with Bounties (Last Updated Tue Mar  5 01:47:08 UTC 2024)
 ```
 *.worldcoin-distributors.com
 getworldcoin.com
@@ -11,8 +11,8 @@ bioid-management.app
 *.worldcoin.dev
 *.consumer.worldcoin.org
 worldcoin.org
-*.worldcoin.org
 toolsforhumanity.com
+*.worldcoin.org
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -283,12 +283,12 @@ connect-sandbox.gocardless.com
 xero-sandbox.gocardless.com
 oauth-sandbox.gocardless.com
 *.gocardless-staging.io
+*.gocardless-cicd.io
+www.gocardless.com
 *.gocardless-lab.io
 manage-sandbox.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
-*.gocardless-cicd.io
-www.gocardless.com
 api-sandbox.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
@@ -513,17 +513,17 @@ crash-stats.allizom.org
 shavar.services.mozilla.com
 crash-reports.allizom.org
 firefox-ci-tc.services.mozilla.com
+merino.services.mozilla.com
+aus5.mozilla.org
 hg.mozilla.org
 firefox.settings.services.mozilla.com
 addons.allizom.org
 phabricator.allizom.org
 contile.services.mozilla.com
-aus5.mozilla.org
 location.services.mozilla.com
+accounts.firefox.com
 sync.services.mozilla.com
 mozilla-pontoon-staging.herokuapp.com
-accounts.firefox.com
-merino.services.mozilla.com
 bugzilla.mozilla.org
 addons.allizom.org
 accounts.firefox.com
@@ -672,12 +672,12 @@ oneview.malwarebytes.com
 *.mwb-threatintel.com
 *.mbamupdates.com
 *.mb-cosmos.com
+my.malwarebytes.com
 *.cyrus-security.com
 cloud.malwarebytes.com
 *.cloud.malwarebytes.com
 *.threatdown.com
 *.mwbsys.com
-my.malwarebytes.com
 www.malwarebytes.com
 *.malwarebytes.com
 *.mwbsys.com
@@ -975,8 +975,8 @@ artifactory.corp.mongodb.com/
 https://www.*mongodb.com/*
 mongodb.live/*
 artifactory.corp.mongodb.com/
-checksw.com
 royal.checksw.com
+checksw.com
 checksw.com
 royal.checksw.com
 *.superpal.io/*
@@ -1224,8 +1224,8 @@ woocommerce-adapter.judge.me
 bigcommerce-adapter.judge.me
 cache.judge.me
 api.evernote.com
-accounts.evernote.com
 www.evernote.com
+accounts.evernote.com
 www.evernote.com
 accounts.evernote.com
 api.evernote.com
@@ -1484,10 +1484,10 @@ new.reddit.com
 accounts.reddit.com
 ads-api.reddit.com
 gql.reddit.com
-*.reddit.com
 ads.reddit.com
-www.reddit.com
+*.reddit.com
 old.reddit.com
+www.reddit.com
 *.snooguts.net
 *.snooguts.net
 *.redditmedia.com
@@ -1627,8 +1627,8 @@ core.yoti.com
 ccloud.yoti.com
 code.yoti.com
 api.yoti.com
-identity.yoti.com
 www.yotisign.com
+identity.yoti.com
 hub.yoti.com
 core.yoti.com
 api.yoti.com
@@ -1639,11 +1639,9 @@ hub.yoti.com
 identity.yoti.com
 *.services-prod.nsvcs.net
 screenshot-proxy.netlify.app
-*.onegraph.com
 *.ops.netlify.com
 list-v2--netlify-plugins.netlify.app
 internal-docs.netlify.com
-netlify-rum.netlify.app
 netlify-cdp-loader.netlify.app
 supportal.netlify.app
 internal.netlify.com
@@ -1651,6 +1649,8 @@ internal.netlify.com
 app.netlify.com
 *.services.netlify.com
 api.netlify.com
+*.onegraph.com
+netlify-rum.netlify.app
 *.services.netlify.com
 *.services-prod.nsvcs.net
 *.infra-prod.nsvcs.net
@@ -1734,17 +1734,17 @@ api.adm.cloud.com
 academy-outbound-ads.tiktok.com
 fp-sg.tiktokv.com
 developers.tiktok.com
-careers.tiktok.com
 creatormarketplace.tiktok.com
 effecthouse.tiktok.com
+careers.tiktok.com
 shop.tiktok.com
 business.tiktok.com
 tiktok.com
 live-backstage.tiktok.com
+www.pangleglobal.com
 *.tiktokv.com
 *.tiktok.com
 ads.tiktok.com
-www.pangleglobal.com
 partner.tiktokshop.com
 *.tiktok.com
 business.tiktok.com
@@ -2198,8 +2198,8 @@ updates.amazon.com
 *.Daraz.com
 *.alimama.com
 *.taobao.com
-*.aliexpress.com
 *.aliexpress.ru
+*.aliexpress.com
 *.aliyun.com
 *.1688.com
 *.alibabacloud.com
@@ -2295,9 +2295,9 @@ hotel-deals.marriott.com
 homes-and-villas.marriott.com
 jobs.marriott.com
 www.ritzcarlton.com
-www.marriott.com
 sso.marriott.com
 activities.marriott.com
+www.marriott.com
 homes-and-villas.marriott.com
 sso.marriott.com
 mgs.marriott.com
@@ -2493,7 +2493,6 @@ reservations.rezserver.com
 api.rezserver.com
 admin.rezserver.com
 www.getaroom.com
-priceline.com
 flyiin.com
 secure.rezserver.com
 www.priceline.com
@@ -2929,10 +2928,10 @@ support.steampowered.com
 help.steampowered.com
 playartifact.com
 www.valvesoftware.com
+steamcommunity.com
 www.dota2.com
 api.steampowered.com
 store.steampowered.com
-steamcommunity.com
 www.counter-strike.net
 www.teamfortress.com
 www.dota2.com
@@ -3037,8 +3036,8 @@ app.quovo.com
 secure.quovo.com
 secure.plaid.com
 api.blockscore.com
-plaid.com
 manage.blockscore.com
+plaid.com
 dashboard.plaid.com
 production.plaid.com
 dashboard.plaid.com
@@ -3058,10 +3057,10 @@ hybrid-analysis.com
 *.reposify.com
 *.bionic.ai
 *.preempt.com
-www.crowdstrike.com
 *.humio.com
 falcon-sandbox.com
 *.crowdstrike.com
+www.crowdstrike.com
 *.crowdstrike.com
 *.humio.com
 *.securecircle.com
@@ -3269,8 +3268,8 @@ store.rockstargames.com
 lifeinvader.com
 rockstarnorth.com
 circolocorecords.com/
-app.files.com
 www.files.com
+app.files.com
 your-assigned-subdomain.files.com
 app.files.com
 your-assigned-subdomain.files.com
@@ -3307,11 +3306,11 @@ www.starbucks.com.br
 www.starbucks.com.sg
 gift.starbucks.co.jp
 openapi.starbucks.com
-www.starbucks.co.kr
 www.starbucks.de
+www.starbucks.co.kr
 www.starbucks.com.cn
-app.starbucks.com
 www.starbucks.com
+app.starbucks.com
 www.starbucksreserve.com
 gift.starbucks.co.jp
 login.starbucks.co.jp
@@ -3529,9 +3528,9 @@ shopify.plus
 *.shopifycs.com
 arrive-server.shopifycloud.com
 *.shopifycloud.com
-shop.app
-*.shopify.com
 *.shopify.io
+*.shopify.com
+shop.app
 partners.shopify.com
 admin.shopify.com
 accounts.shopify.com
@@ -3899,8 +3898,8 @@ ctf.hacker101.com
 app.pullrequest.com
 www.hackerone.com
 hackerone-user-content.com
-hackerone.com
 hackerone.live
+hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
