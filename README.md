@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Mar  6 13:15:48 UTC 2024)
+## Domains with Bounties (Last Updated Wed Mar  6 14:15:15 UTC 2024)
 ```
 *.worldcoin-distributors.com
 getworldcoin.com
@@ -10,9 +10,9 @@ getworldcoin.com
 *.worldcoin.dev
 toolsforhumanity.com
 *.consumer.worldcoin.org
-*.worldcoin.org
 bioid-management.app
 worldcoin.org
+*.worldcoin.org
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -24,9 +24,9 @@ bioid-management.app
 worldcoin.org
 rfc.tari.com
 textexplore.tari.com
-explore.tari.com
-www.tari.com
 www.tarilabs.com
+www.tari.com
+explore.tari.com
 explore.tari.com
 rfc.tari.com
 textexplore.tari.com
@@ -48,8 +48,8 @@ verify.arkoselabs.com
 iframe.arkoselabs.com
 www.arkoselabs.com
 demo.arkoselabs.com
-my.sheer.com
 www.sheer.com
+my.sheer.com
 www.sheer.com
 my.sheer.com
 www.pornworld.com
@@ -84,9 +84,9 @@ app.dynamic-preprod.xyz
 demo.dynamic.xyz
 app.dynamic.xyz
 payments.hostinger.com
-backend.zyro.com
 logo.zyro.com
 www.zyro.com
+backend.zyro.com
 www.niagahoster.co.id
 editor.zyro.com
 *.000webhost.com
@@ -127,11 +127,11 @@ research.23andme.com
 www.mercadolibre.com.uy
 api.mercadopago.com
 www.mercadopago.com.uy
+www.mercadopago.cl
 www.mercadolibre.com.mx
 www.mercadopago.com.co
 www.mercadopago.com.pe
 www.mercadolibre.com.pe
-www.mercadopago.cl
 www.mercadopago.com.mx
 www.mercadolibre.cl
 www.mercadolibre.com.co
@@ -182,11 +182,11 @@ widget.rentalcars.com
 cars.booking.com
 booking.com
 flights.booking.com
-www.fareharbor.com
 spark.fareharbor.com
+www.fareharbor.com
 careers.booking.com
-*.booking.com
 account.booking.com
+*.booking.com
 *.rentalcars.com
 admin.booking.com
 *.booking.com
@@ -389,8 +389,6 @@ www.visa.com.tw
 www.practicalmoneyskills.com
 www.visa.com.ph
 www.visa.com.my
-www.visainfinite.ca
-www.authorize.net
 www.cybersource.com
 visa.com.au
 www.fraedom.com
@@ -399,11 +397,13 @@ www.visa.co.in
 www.yellowpepper.com
 www.visa.co.id
 www.visa.co.ve
-cw.visa.com
-www.visa.com.mx
+www.authorize.net
 bb.visa.com
-www.visa.com.br
+www.visa.com.mx
+cw.visa.com
 www.tink.com
+www.visa.com.br
+www.visa.com.ng
 aw.visa.com
 bb.visa.com
 bd.visa.com
@@ -512,12 +512,12 @@ crash-stats.allizom.org
 shavar.services.mozilla.com
 crash-reports.allizom.org
 firefox-ci-tc.services.mozilla.com
+aus5.mozilla.org
 hg.mozilla.org
 firefox.settings.services.mozilla.com
 addons.allizom.org
 phabricator.allizom.org
 contile.services.mozilla.com
-aus5.mozilla.org
 sync.services.mozilla.com
 mozilla-pontoon-staging.herokuapp.com
 location.services.mozilla.com
@@ -1031,8 +1031,8 @@ www.momondo.com
 www.swoodoo.com
 www.cheapflights.com
 www.mundi.com.br
-www.checkfelix.com
 www.hotelscombined.com
+www.checkfelix.com
 www.kayak.com
 www.kayak.com
 www.swoodoo.com
@@ -1198,9 +1198,9 @@ analytics.krisp.ai
 download.krisp.ai
 teams.krisp.ai
 krisp.ai
-*.krisp.ai
-account.krisp.ai
 api.krisp.ai
+account.krisp.ai
+*.krisp.ai
 *.krisp.ai
 krisp.ai
 account.krisp.ai
@@ -1488,10 +1488,10 @@ new.reddit.com
 accounts.reddit.com
 ads-api.reddit.com
 gql.reddit.com
-ads.reddit.com
 *.reddit.com
-old.reddit.com
+ads.reddit.com
 www.reddit.com
+old.reddit.com
 *.snooguts.net
 *.reddithelp.com
 *.snooguts.net
@@ -1809,8 +1809,8 @@ api.faraday.ai
 *-api-*.acronis.com
 *.devicelock.com
 *.5nine.com
-*.acronis.work
 beta-cloud.acronis.com
+*.acronis.work
 account.acronis.com
 *.acronis.com
 *-api-*.acronis.com
@@ -2720,8 +2720,8 @@ mobile-prod.tvg.com
 fdbox.net
 www.4njbets.com
 sportsbook.fanduel.com
-*racing.fanduel.com
 tvg.com
+*racing.fanduel.com
 us.tvg.com
 com.fanduel.android.live
 www.tvg.com
@@ -2774,8 +2774,8 @@ py.pl
 *.venmo.com
 *.hyperwallet.com
 *.paylution.com
-*.paypalcorp.com
 *.braintreepayments.com
+*.paypalcorp.com
 *.braintree-api.com
 paypalobjects.com
 *.xoom.com
@@ -3090,8 +3090,8 @@ privatetarget-1-www.zigzag
 *.beta.lahitapiola.fi
 *.tapiola.fi
 ext-gw.lahitapiola.fi
-verkkopalvelu.tapiola.fi
 secure.lahitapiola.fi
+verkkopalvelu.tapiola.fi
 yrityspalvelu.tapiola.fi
 www.lahitapiola.fi
 *.lahitapiolarahoitus.fi
@@ -3140,11 +3140,11 @@ grab.careers
 kartaview.org
 jira.grab.com
 *.grabpay.com
-*.grabtaxi.com
 *.grab.com
 *.ovo.id
 *.taralite.com
 *.myteksi.net
+*.grabtaxi.com
 *.myteksi.com
 *.myteksi.net
 *.grab.com
@@ -3272,8 +3272,8 @@ store.rockstargames.com
 lifeinvader.com
 rockstarnorth.com
 circolocorecords.com/
-app.files.com
 www.files.com
+app.files.com
 your-assigned-subdomain.files.com
 app.files.com
 your-assigned-subdomain.files.com
@@ -3310,11 +3310,11 @@ www.starbucks.com.br
 www.starbucks.com.sg
 gift.starbucks.co.jp
 openapi.starbucks.com
-www.starbucks.de
 www.starbucks.co.kr
+www.starbucks.de
 www.starbucks.com.cn
-app.starbucks.com
 www.starbucks.com
+app.starbucks.com
 www.starbucksreserve.com
 gift.starbucks.co.jp
 login.starbucks.co.jp
@@ -3381,8 +3381,8 @@ npmjs.org
 *.github.net
 npmjs.com
 education.github.com
-classroom.github.com
 api.github.com
+classroom.github.com
 *.githubusercontent.com
 github.com
 github.com
@@ -3411,8 +3411,8 @@ advisories.gitlab.com
 docs.gitlab.com
 customers.gitlab.com
 about.gitlab.com
-*.gitlab.org
 *.gitlab.net
+*.gitlab.org
 gitlab.com
 *.gitlab.net
 *.gitlab.org
@@ -3456,9 +3456,9 @@ oauth.deriv.com
 derivws.com
 secure-dfadmin.deriv.com
 *.deriv.cloud
-app.deriv.com
 api.deriv.com
 *.deriv.com
+app.deriv.com
 *.deriv.com
 *.deriv.cloud
 *.derivws.com
@@ -3534,11 +3534,11 @@ arrive-server.shopifycloud.com
 *.shopifycloud.com
 partners.shopify.com
 shop.app
-admin.shopify.com
 *.shopify.com
 accounts.shopify.com
 *.shopify.io
 your-store.myshopify.com
+admin.shopify.com
 *.shopifycs.com
 *.shopify.io
 *.shopify.com
@@ -3570,10 +3570,10 @@ msg.playcanvas.com
 create.snapchat.com
 my.snapchat.com
 forum.playcanvas.com
-ads.snapchat.com
 www.bitmoji.com
 login.playcanvas.com
 scan.snapchat.com
+ads.snapchat.com
 business.snapchat.com
 *.sc-core.net
 spectacles.com
@@ -3860,8 +3860,8 @@ www.quip.com
 *.quip.com
 api.slack.com
 slack.com
-app.slack.com
 slack-imgs.com
+app.slack.com
 slack.com
 api.slack.com
 status.slack.com
@@ -3899,8 +3899,8 @@ cover-photos.hackerone-user-content.com
 ctf.hacker101.com
 reviewer.pullrequest.com
 app.pullrequest.com
-hackerone-user-content.com
 hackerone.live
+hackerone-user-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 www.hackerone.com
 api.hackerone.com
