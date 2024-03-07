@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Mar  7 03:13:26 UTC 2024)
+## Domains with Bounties (Last Updated Thu Mar  7 04:15:47 UTC 2024)
 ```
 cards.remitly.io
 app.rewire.to
@@ -34,8 +34,8 @@ bioid-management.app
 worldcoin.org
 rfc.tari.com
 textexplore.tari.com
-www.tarilabs.com
 www.tari.com
+www.tarilabs.com
 explore.tari.com
 explore.tari.com
 rfc.tari.com
@@ -48,8 +48,8 @@ demo.arkoselabs.com
 client-api.arkoselabs.com
 portal.arkoselabs.com
 iframe.arkoselabs.com
-www.arkoselabs.com
 cdn.arkoselabs.com
+www.arkoselabs.com
 client-api.arkoselabs.com
 cdn.arkoselabs.com
 customer-sessions.arkoselabs.com
@@ -95,7 +95,6 @@ demo.dynamic.xyz
 app.dynamic.xyz
 payments.hostinger.com
 logo.zyro.com
-www.zyro.com
 backend.zyro.com
 www.niagahoster.co.id
 editor.zyro.com
@@ -103,6 +102,7 @@ editor.zyro.com
 www.hostinger.com
 cpanel.hostinger.com
 hpanel.hostinger.com
+www.zyro.com
 *.000webhost.com
 www.hostinger.com
 cpanel.hostinger.com
@@ -192,13 +192,13 @@ widget.rentalcars.com
 cars.booking.com
 flights.booking.com
 spark.fareharbor.com
-account.booking.com
 careers.booking.com
+account.booking.com
 admin.booking.com
 www.fareharbor.com
-*.booking.com
 booking.com
 *.rentalcars.com
+*.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -408,8 +408,8 @@ www.yellowpepper.com
 www.visa.co.id
 www.visa.co.ve
 www.authorize.net
-www.visa.com.mx
 bb.visa.com
+www.visa.com.mx
 cw.visa.com
 www.tink.com
 www.visa.com.br
@@ -681,9 +681,9 @@ http://miro.com/blog
 oneview.malwarebytes.com
 *.mwb-threatintel.com
 *.mb-cosmos.com
-*.cloud.malwarebytes.com
 *.cyrus-security.com
 cloud.malwarebytes.com
+*.cloud.malwarebytes.com
 *.threatdown.com
 *.mwbsys.com
 my.malwarebytes.com
@@ -1491,16 +1491,16 @@ mod.reddit.com
 *.redditinc.com
 api.reddit.com
 *.redditmedia.com
+accounts.reddit.com
+gql.reddit.com
 redditforbusiness.com
 app.spiketrap.io
 oauth.reddit.com
 new.reddit.com
-accounts.reddit.com
 ads-api.reddit.com
-gql.reddit.com
 ads.reddit.com
-www.reddit.com
 old.reddit.com
+www.reddit.com
 *.snooguts.net
 *.reddithelp.com
 *.reddit.com
@@ -1542,9 +1542,9 @@ global-api.citymapper.com
 remix.com
 eu.remix.com
 platform.remix.com
-*.withbuddies.com
 *.scopely.com
 *.scopely.io
+*.withbuddies.com
 *.scopely.io
 *.scopely.com
 *.withbuddies.com
@@ -1756,8 +1756,8 @@ business.tiktok.com
 *.tiktokv.com
 shop.tiktok.com
 www.pangleglobal.com
-creatormarketplace.tiktok.com
 partner.tiktokshop.com
+creatormarketplace.tiktok.com
 *.tiktok.com
 ads.tiktok.com
 tiktok.com
@@ -2732,8 +2732,8 @@ mobile-prod.tvg.com
 fdbox.net
 www.4njbets.com
 sportsbook.fanduel.com
-tvg.com
 *racing.fanduel.com
+tvg.com
 us.tvg.com
 com.fanduel.android.live
 www.tvg.com
@@ -2785,15 +2785,15 @@ paypal.me
 py.pl
 *.venmo.com
 *.paylution.com
-*.paypalcorp.com
 *.braintreepayments.com
+*.paypalcorp.com
 *.braintree-api.com
 paypalobjects.com
 *.xoom.com
 *.braintree.tools
-*.paypal.com
 *.hyperwallet.com
 *.braintreegateway.com
+*.paypal.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -2943,8 +2943,8 @@ support.steampowered.com
 playartifact.com
 www.valvesoftware.com
 www.dota2.com
-www.teamfortress.com
 steamcommunity.com
+www.teamfortress.com
 store.steampowered.com
 www.counter-strike.net
 help.steampowered.com
@@ -2968,8 +2968,8 @@ auth.crypto.com
 www.crypto.com
 js.crypto.com
 pay.crypto.com
-merchant.crypto.com
 *.mona.co
+merchant.crypto.com
 *.crypto.com
 *.crypto.com
 *.mona.co
@@ -2980,7 +2980,6 @@ auth.crypto.com
 merchant.crypto.com
 pay.crypto.com
 js.crypto.com
-https://crypto.com/defi/
 https://crypto.com/nft
 tax.crypto.com
 https://crypto.com/price
@@ -3101,8 +3100,8 @@ privatetarget-1-www.zigzag
 *.beta.lahitapiola.fi
 *.tapiola.fi
 ext-gw.lahitapiola.fi
-verkkopalvelu.tapiola.fi
 secure.lahitapiola.fi
+verkkopalvelu.tapiola.fi
 yrityspalvelu.tapiola.fi
 www.lahitapiola.fi
 *.lahitapiolarahoitus.fi
@@ -3283,8 +3282,8 @@ store.rockstargames.com
 lifeinvader.com
 rockstarnorth.com
 circolocorecords.com/
-app.files.com
 www.files.com
+app.files.com
 your-assigned-subdomain.files.com
 app.files.com
 your-assigned-subdomain.files.com
@@ -3321,11 +3320,11 @@ www.starbucks.com.br
 www.starbucks.com.sg
 gift.starbucks.co.jp
 openapi.starbucks.com
-www.starbucks.co.kr
 www.starbucks.de
+www.starbucks.co.kr
 www.starbucks.com.cn
-www.starbucks.com
 app.starbucks.com
+www.starbucks.com
 www.starbucksreserve.com
 gift.starbucks.co.jp
 login.starbucks.co.jp
@@ -3393,9 +3392,9 @@ npmjs.org
 npmjs.com
 education.github.com
 classroom.github.com
-api.github.com
 *.githubusercontent.com
 github.com
+api.github.com
 github.com
 api.github.com
 gist.github.com
@@ -3519,8 +3518,8 @@ apps.zendesk.com
 api.getbase.com
 app.smooch.io
 zopim.com
-www.zendesk.com
 h1-your-domain.zendesk.com
+www.zendesk.com
 www.zendesk.com
 developer.zendesk.com
 h1-your-domain.zendesk.com
@@ -3536,20 +3535,20 @@ www.udemy.com
 yourcompany.udemy.com
 www.udemy.com
 yourcompany.udemy.com
+*.shopifycloud.com
 linkpop.com
-shopify.plus
 *.shopifykloud.com
+shopify.plus
 *.shopifycs.com
 arrive-server.shopifycloud.com
-*.shopifycloud.com
 shop.app
 *.shopify.com
-*.shopify.io
 shopifyinbox.com
+*.shopify.io
 your-store.myshopify.com
+admin.shopify.com
 accounts.shopify.com
 partners.shopify.com
-admin.shopify.com
 *.shopifycs.com
 *.shopify.io
 *.shopify.com
@@ -3585,8 +3584,8 @@ www.bitmoji.com
 login.playcanvas.com
 scan.snapchat.com
 ads.snapchat.com
-business.snapchat.com
 *.sc-core.net
+business.snapchat.com
 spectacles.com
 kit.snapchat.com
 blog.playcanvas.com
@@ -3838,9 +3837,9 @@ international.coinbase.com
 *.cbhq.net
 institutional.coinbase.com
 api.custody.coinbase.com
+api.coinbase.com
 pro.coinbase.com
 cloud.coinbase.com
-api.coinbase.com
 *.base.org
 coinbase.com
 *.coinbase.com
@@ -3870,8 +3869,8 @@ slack-redir.net
 www.quip.com
 *.quip.com
 slack.com
-api.slack.com
 slack-imgs.com
+api.slack.com
 app.slack.com
 slack.com
 api.slack.com
