@@ -2,13 +2,13 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Mar  7 08:15:20 UTC 2024)
+## Domains with Bounties (Last Updated Thu Mar  7 09:15:43 UTC 2024)
 ```
 cards.remitly.io
 api.remitly.io
 app.rewire.to
-remitly.com
 rewire.com
+remitly.com
 remitly.com
 api.remitly.io
 cards.remitly.io
@@ -34,8 +34,8 @@ bioid-management.app
 worldcoin.org
 rfc.tari.com
 textexplore.tari.com
-www.tarilabs.com
 www.tari.com
+www.tarilabs.com
 explore.tari.com
 explore.tari.com
 rfc.tari.com
@@ -58,8 +58,8 @@ verify.arkoselabs.com
 iframe.arkoselabs.com
 www.arkoselabs.com
 demo.arkoselabs.com
-www.sheer.com
 my.sheer.com
+www.sheer.com
 www.sheer.com
 my.sheer.com
 www.pornworld.com
@@ -94,8 +94,8 @@ app.dynamic-preprod.xyz
 demo.dynamic.xyz
 app.dynamic.xyz
 payments.hostinger.com
-logo.zyro.com
 backend.zyro.com
+logo.zyro.com
 www.niagahoster.co.id
 editor.zyro.com
 *.000webhost.com
@@ -193,12 +193,12 @@ cars.booking.com
 flights.booking.com
 spark.fareharbor.com
 careers.booking.com
-account.booking.com
 admin.booking.com
 www.fareharbor.com
 booking.com
 *.rentalcars.com
 *.booking.com
+account.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -399,8 +399,6 @@ www.visa.com.tw
 www.practicalmoneyskills.com
 www.visa.com.ph
 www.visa.com.my
-www.visainfinite.ca
-www.authorize.net
 www.cybersource.com
 visa.com.au
 www.fraedom.com
@@ -409,11 +407,13 @@ www.visa.co.in
 www.yellowpepper.com
 www.visa.co.id
 www.visa.co.ve
-cw.visa.com
+www.authorize.net
 www.visa.com.mx
 bb.visa.com
-www.visa.com.br
+cw.visa.com
 www.tink.com
+www.visa.com.br
+www.visa.com.ng
 aw.visa.com
 bb.visa.com
 bd.visa.com
@@ -631,8 +631,8 @@ auth.indrive.tech
 cargo.indrive.com
 truck-api.eu-east-1.indriverapp.com
 *.indriver.com
-*.indriverapp.com
 file-storage-front.eu-east-1.indriverapp.com
+*.indriverapp.com
 *.indriverapp.com
 *.indrive.com
 *.indriver.com
@@ -681,9 +681,9 @@ http://miro.com/blog
 oneview.malwarebytes.com
 *.mwb-threatintel.com
 *.mb-cosmos.com
+*.cloud.malwarebytes.com
 *.cyrus-security.com
 cloud.malwarebytes.com
-*.cloud.malwarebytes.com
 *.threatdown.com
 *.mwbsys.com
 my.malwarebytes.com
@@ -1490,13 +1490,13 @@ mod.reddit.com
 *.redditinc.com
 api.reddit.com
 *.redditmedia.com
-accounts.reddit.com
-gql.reddit.com
 redditforbusiness.com
 app.spiketrap.io
 oauth.reddit.com
 new.reddit.com
+accounts.reddit.com
 ads-api.reddit.com
+gql.reddit.com
 ads.reddit.com
 old.reddit.com
 www.reddit.com
@@ -1661,8 +1661,8 @@ supportal.netlify.app
 internal.netlify.com
 *.infra-prod.nsvcs.net
 *.services.netlify.com
-*.onegraph.com
 netlify-rum.netlify.app
+*.onegraph.com
 api.netlify.com
 app.netlify.com
 *.services.netlify.com
@@ -1818,8 +1818,8 @@ api.faraday.ai
 *-api-*.acronis.com
 *.devicelock.com
 *.5nine.com
-*.acronis.work
 beta-cloud.acronis.com
+*.acronis.work
 account.acronis.com
 *.acronis.com
 *-api-*.acronis.com
@@ -2216,11 +2216,11 @@ updates.amazon.com
 *.1688.com
 *.alibabacloud.com
 *.alibaba-inc.com
-*.aliyun.com
 *.aliyun-inc.com
 www.alibabagroup.com
 *.aliexpress.com
 *.alibaba.com
+*.aliyun.com
 *.alibaba.com
 *.aliexpress.com
 *.taobao.com
@@ -2309,9 +2309,9 @@ jobs.marriott.com
 www.ritzcarlton.com
 sso.marriott.com
 activities.marriott.com
-www.marriott.com
 all-inclusive.marriott.com
 homes-and-villas.marriott.com
+www.marriott.com
 homes-and-villas.marriott.com
 sso.marriott.com
 mgs.marriott.com
@@ -2339,8 +2339,8 @@ www.goodrx.com
 www.goodrx.com
 *.ra.roblox.com
 *.rbx.com
-*.guilded.gg
 *.roblox.com
+*.guilded.gg
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -2945,11 +2945,11 @@ playartifact.com
 www.valvesoftware.com
 www.dota2.com
 www.teamfortress.com
-steamcommunity.com
 store.steampowered.com
 www.counter-strike.net
 help.steampowered.com
 api.steampowered.com
+steamcommunity.com
 www.dota2.com
 support.steampowered.com
 partner.steampowered.com
@@ -3283,8 +3283,8 @@ store.rockstargames.com
 lifeinvader.com
 rockstarnorth.com
 circolocorecords.com/
-www.files.com
 app.files.com
+www.files.com
 your-assigned-subdomain.files.com
 app.files.com
 your-assigned-subdomain.files.com
@@ -3321,11 +3321,11 @@ www.starbucks.com.br
 www.starbucks.com.sg
 gift.starbucks.co.jp
 openapi.starbucks.com
-www.starbucks.de
 www.starbucks.co.kr
+www.starbucks.de
 www.starbucks.com.cn
-app.starbucks.com
 www.starbucks.com
+app.starbucks.com
 www.starbucksreserve.com
 gift.starbucks.co.jp
 login.starbucks.co.jp
@@ -3519,8 +3519,8 @@ apps.zendesk.com
 api.getbase.com
 app.smooch.io
 zopim.com
-www.zendesk.com
 h1-your-domain.zendesk.com
+www.zendesk.com
 www.zendesk.com
 developer.zendesk.com
 h1-your-domain.zendesk.com
@@ -3537,15 +3537,15 @@ yourcompany.udemy.com
 www.udemy.com
 yourcompany.udemy.com
 linkpop.com
-*.shopifykloud.com
 shopify.plus
+*.shopifykloud.com
 *.shopifycs.com
 arrive-server.shopifycloud.com
 *.shopifycloud.com
 shop.app
 *.shopify.com
-shopifyinbox.com
 *.shopify.io
+shopifyinbox.com
 your-store.myshopify.com
 accounts.shopify.com
 admin.shopify.com
@@ -3913,9 +3913,9 @@ hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 www.hackerone.com
 errors.hackerone.net
 ctf.hacker101.com
-api.hackerone.com
 hackerone.live
 hackerone.com
+api.hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
