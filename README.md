@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Mar  8 08:18:13 UTC 2024)
+## Domains with Bounties (Last Updated Fri Mar  8 09:17:04 UTC 2024)
 ```
 cards.remitly.io
 api.remitly.io
@@ -63,8 +63,8 @@ www.sheer.com
 www.sheer.com
 my.sheer.com
 www.ddfcontent.com
-www.pornworld.com
 www.analvids.com
+www.pornworld.com
 www.pornbox.com
 www.pornbox.com
 www.analvids.com
@@ -101,8 +101,8 @@ editor.zyro.com
 cpanel.hostinger.com
 hpanel.hostinger.com
 www.zyro.com
-www.hostinger.com
 *.000webhost.com
+www.hostinger.com
 *.000webhost.com
 www.hostinger.com
 cpanel.hostinger.com
@@ -137,11 +137,11 @@ research.23andme.com
 www.mercadolibre.com.uy
 api.mercadopago.com
 www.mercadopago.com.uy
-www.mercadopago.cl
 www.mercadolibre.com.mx
 www.mercadopago.com.co
 www.mercadopago.com.pe
 www.mercadolibre.com.pe
+www.mercadopago.cl
 www.mercadopago.com.mx
 www.mercadolibre.cl
 www.mercadolibre.com.co
@@ -195,8 +195,8 @@ spark.fareharbor.com
 careers.booking.com
 admin.booking.com
 booking.com
-www.fareharbor.com
 account.booking.com
+www.fareharbor.com
 *.rentalcars.com
 *.booking.com
 *.booking.com
@@ -295,11 +295,11 @@ connect-sandbox.gocardless.com
 xero-sandbox.gocardless.com
 oauth-sandbox.gocardless.com
 *.gocardless-staging.io
-www.gocardless.com
 *.gocardless-lab.io
 manage-sandbox.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
+www.gocardless.com
 api-sandbox.gocardless.com
 *.gocardless-cicd.io
 *.gocardless.io
@@ -397,6 +397,8 @@ www.visa.com.tw
 www.practicalmoneyskills.com
 www.visa.com.ph
 www.visa.com.my
+www.visainfinite.ca
+www.authorize.net
 www.cybersource.com
 visa.com.au
 www.fraedom.com
@@ -405,15 +407,13 @@ www.visa.co.in
 www.yellowpepper.com
 www.visa.co.id
 www.visa.co.ve
-www.authorize.net
+cw.visa.com
 www.visa.com.mx
 bb.visa.com
-cw.visa.com
-www.tink.com
 www.visa.com.br
+www.tink.com
 www.visa.com.ng
 www.cardinalcommerce.com
-aw.visa.com
 aw.visa.com
 bb.visa.com
 bd.visa.com
@@ -476,8 +476,8 @@ http://www.myvisacardportal.com/welcome/enbd/product/#
 yourdomain.freshcaller.com
 yourdomain.freshchat.com
 yourdomain.myfreshworks.com
-yourdomain.freshservice.com
 yourdomain.freshdesk.com
+yourdomain.freshservice.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -795,8 +795,8 @@ admin.8x8.com
 *.napoleongames.be
 *.napoleoncasino.be
 *.superbet.com
-*.superbet.pl
 *.superbet.rs
+*.superbet.pl
 *.superbet.ro
 *.superbet.ro
 *.superbet.rs
@@ -921,8 +921,8 @@ www.expediagroup.com
 www.flights.com
 *.magiceden.workers.dev
 *.magiceden.dev
-*.magiceden.io
 magiceden.io
+*.magiceden.io
 magiceden.io
 *.magiceden.io
 *.magiceden.dev
@@ -939,8 +939,8 @@ askpam.ai
 *.teleport.dev
 platform.teleport.sh
 *.gravitational.co
-*.goteleport.com
 cloud.gravitational.io
+*.goteleport.com
 teleport.sh
 *.gravitational.io
 *.goteleport.com
@@ -1057,8 +1057,8 @@ www.momondo.com
 www.swoodoo.com
 www.cheapflights.com
 www.mundi.com.br
-www.hotelscombined.com
 www.checkfelix.com
+www.hotelscombined.com
 www.kayak.com
 www.kayak.com
 www.swoodoo.com
@@ -1603,8 +1603,8 @@ wp-integ.chime.com
 wp-qa.chime.com
 stream.launchdarkly.com
 docs.launchdarkly.com
-events.launchdarkly.com
 app.launchdarkly.com
+events.launchdarkly.com
 app.launchdarkly.com
 events.launchdarkly.com
 stream.launchdarkly.com
@@ -1631,8 +1631,8 @@ passport.larksuite.com
 internal-api-drive-stream.larksuite.com
 file.larksuite.com
 status.larksuite.com
-larksuite.com
 app.larksuite.com
+larksuite.com
 hackers_chosendomain.larksuite.com
 internal-api-lark-api.larksuite.com
 larksuite.com
@@ -1680,8 +1680,8 @@ internal.netlify.com
 netlify-rum.netlify.app
 api.netlify.com
 *.onegraph.com
-*.services.netlify.com
 app.netlify.com
+*.services.netlify.com
 *.services.netlify.com
 *.services-prod.nsvcs.net
 *.infra-prod.nsvcs.net
@@ -1848,23 +1848,27 @@ beta-cloud.acronis.com
 account.acronis.com
 sandbox.affirm.com
 sandbox.affirm.com
+www.watsons.com.tr
+app.superdrug.com
+api.superdrug.com
 www.kruidvat.nl
 app.kruidvat.nl
 app.theperfumeshop.com
 api.theperfumeshop.com
-www10.pns.hk
-api.pns.hk
-www.pns.hk
-www10.watsons.com.sg
-www.watsons.com.sg
-api.watsons.com.sg
-www.watsons.com.hk
-www10.watsons.com.hk
-api.watsons.com.hk
-www10.watsons.co.id
-api.watsons.co.id
-www.watsons.co.id
-blog.watsons.com.tr
+api.watsons.com.my
+www10.watsons.com.my
+www.iciparisxl.nl
+www.iciparisxl.be
+www.iciparisxl.lu
+app.iciparisxl.nl
+app.iciparisxl.be
+app.iciparisxl.lu
+www.marionnaud.at
+app.marionnaud.at
+app.marionnaud.ch
+www.marionnaud.cz
+app.marionnaud.cz
+www.marionnaud.hu
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -2328,11 +2332,11 @@ sso.marriott.com
 activities.marriott.com
 all-inclusive.marriott.com
 homes-and-villas.marriott.com
-marrtool.com
 careers.marriott.com
 moments.marriottbonvoy.com
 help.marriott.com
 www.marriott.com
+marrtool.com
 homes-and-villas.marriott.com
 careers.marriott.com
 sso.marriott.com
@@ -2534,7 +2538,6 @@ reservations.rezserver.com
 api.rezserver.com
 admin.rezserver.com
 www.bookingholdings.com
-priceline.com
 secure.rezserver.com
 www.priceline.com
 secure.rezserver.com
@@ -2757,8 +2760,8 @@ mobile-prod.tvg.com
 fdbox.net
 www.4njbets.com
 sportsbook.fanduel.com
-tvg.com
 *racing.fanduel.com
+tvg.com
 us.tvg.com
 com.fanduel.android.live
 www.tvg.com
@@ -2970,8 +2973,8 @@ store.steampowered.com
 help.steampowered.com
 api.steampowered.com
 steamcommunity.com
-www.teamfortress.com
 www.counter-strike.net
+www.teamfortress.com
 www.dota2.com
 support.steampowered.com
 partner.steampowered.com
@@ -3122,8 +3125,8 @@ privatetarget-1-www.zigzag
 *.lahitapiola.fi
 *.beta.lahitapiola.fi
 ext-gw.lahitapiola.fi
-verkkopalvelu.tapiola.fi
 secure.lahitapiola.fi
+verkkopalvelu.tapiola.fi
 www.lahitapiola.fi
 *.tapiola.fi
 yrityspalvelu.tapiola.fi
@@ -3230,8 +3233,8 @@ ccardseu1.badoo.com
 ccardsus1.badoo.com
 chatdate.app
 backstage.io
-assets.spotify.com
 api.spotify.com
+assets.spotify.com
 assets.spotify.com
 api.spotify.com
 backstage.io
@@ -3445,8 +3448,8 @@ docs.gitlab.com
 customers.gitlab.com
 *.gitlab.net
 *.gitlab.org
-about.gitlab.com
 gitlab.com
+about.gitlab.com
 *.gitlab.net
 *.gitlab.org
 *.gitlap.com
@@ -3559,13 +3562,13 @@ yourcompany.udemy.com
 www.udemy.com
 yourcompany.udemy.com
 linkpop.com
-*.shopifykloud.com
 shopify.plus
+*.shopifykloud.com
 *.shopifycs.com
 arrive-server.shopifycloud.com
 *.shopifycloud.com
-shopifyinbox.com
 *.shopify.io
+shopifyinbox.com
 accounts.shopify.com
 your-store.myshopify.com
 partners.shopify.com
@@ -3607,8 +3610,8 @@ www.bitmoji.com
 login.playcanvas.com
 scan.snapchat.com
 ads.snapchat.com
-*.sc-core.net
 business.snapchat.com
+*.sc-core.net
 spectacles.com
 kit.snapchat.com
 blog.playcanvas.com
@@ -3936,8 +3939,8 @@ hackerone-user-content.com
 api.hackerone.com
 cover-photos.hackerone-user-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
-hackerone.com
 www.hackerone.com
+hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
