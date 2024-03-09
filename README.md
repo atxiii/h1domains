@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Mar  9 10:16:50 UTC 2024)
+## Domains with Bounties (Last Updated Sat Mar  9 11:14:50 UTC 2024)
 ```
 cards.remitly.io
 api.remitly.io
@@ -33,8 +33,8 @@ getworldcoin.com
 bioid-management.app
 worldcoin.org
 textexplore.tari.com
-www.tarilabs.com
 www.tari.com
+www.tarilabs.com
 explore.tari.com
 rfc.tari.com
 explore.tari.com
@@ -94,6 +94,7 @@ app.dynamic-preprod.xyz
 demo.dynamic.xyz
 app.dynamic.xyz
 payments.hostinger.com
+*.000webhost.com
 backend.zyro.com
 www.niagahoster.co.id
 editor.zyro.com
@@ -101,7 +102,6 @@ cpanel.hostinger.com
 hpanel.hostinger.com
 www.zyro.com
 www.hostinger.com
-*.000webhost.com
 logo.zyro.com
 *.000webhost.com
 www.hostinger.com
@@ -137,7 +137,6 @@ research.23andme.com
 www.mercadolibre.com.uy
 api.mercadopago.com
 www.mercadopago.com.uy
-api.mercadolibre.com
 www.mercadopago.com.ar
 www.mercadolibre.com.mx
 www.mercadopago.com.co
@@ -148,8 +147,9 @@ www.mercadopago.com.mx
 www.mercadolibre.cl
 www.mercadolibre.com.co
 www.mercadopago.com.br
-www.mercadolibre.com.ar
+api.mercadolibre.com
 www.mercadolivre.com.br
+www.mercadolibre.com.ar
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -193,12 +193,12 @@ cars.booking.com
 flights.booking.com
 careers.booking.com
 account.booking.com
-*.booking.com
-admin.booking.com
 *.rentalcars.com
+admin.booking.com
 booking.com
 spark.fareharbor.com
 www.fareharbor.com
+*.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -389,6 +389,7 @@ www.visa.com.tw
 www.practicalmoneyskills.com
 www.visa.com.ph
 www.visa.com.my
+www.authorize.net
 www.cybersource.com
 visa.com.au
 www.fraedom.com
@@ -397,9 +398,8 @@ www.visa.co.in
 www.yellowpepper.com
 www.visa.co.id
 www.visa.co.ve
-www.authorize.net
-www.visa.com.mx
 cw.visa.com
+www.visa.com.mx
 bb.visa.com
 www.tink.com
 www.visa.com.ng
@@ -467,8 +467,8 @@ http://myvisainfinite.com/suntrust/en_us/home.html
 http://www.myvisacardportal.com/welcome/enbd/product/#
 yourdomain.freshcaller.com
 yourdomain.freshchat.com
-yourdomain.freshdesk.com
 yourdomain.myfreshworks.com
+yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
@@ -514,12 +514,12 @@ crash-stats.allizom.org
 shavar.services.mozilla.com
 crash-reports.allizom.org
 firefox-ci-tc.services.mozilla.com
-aus5.mozilla.org
 hg.mozilla.org
 firefox.settings.services.mozilla.com
 addons.allizom.org
 phabricator.allizom.org
 contile.services.mozilla.com
+aus5.mozilla.org
 sync.services.mozilla.com
 mozilla-pontoon-staging.herokuapp.com
 location.services.mozilla.com
@@ -611,9 +611,7 @@ aws.indrive.tech
 ingest.clairvoyance.indrive.tech
 volans.tech
 injob.indriver.com
-profile-api.eu-east-1.indriverapp.com
 auth2.indrive.tech
-watchdocs.indriverapp.com
 new-order.eu-east-1.indriverapp.com
 argocd.indrive.dev
 ci.indrive.dev
@@ -624,7 +622,9 @@ cargo.indrive.com
 *.indriver.com
 file-storage-front.eu-east-1.indriverapp.com
 *.indriverapp.com
+profile-api.eu-east-1.indriverapp.com
 truck-api.eu-east-1.indriverapp.com
+watchdocs.indriverapp.com
 *.indriverapp.com
 *.indrive.com
 *.indriver.com
@@ -673,11 +673,11 @@ http://miro.com/blog
 oneview.malwarebytes.com
 *.mwb-threatintel.com
 *.mb-cosmos.com
-my.malwarebytes.com
 *.cyrus-security.com
 cloud.malwarebytes.com
 *.cloud.malwarebytes.com
 *.mwbsys.com
+my.malwarebytes.com
 www.malwarebytes.com
 *.mbamupdates.com
 *.threatdown.com
@@ -1048,8 +1048,8 @@ business.kayak.com
 www.swoodoo.com
 www.cheapflights.com
 www.mundi.com.br
-www.hotelscombined.com
 www.checkfelix.com
+www.hotelscombined.com
 www.kayak.com
 www.momondo.com
 www.kayak.com
@@ -1216,9 +1216,9 @@ analytics.krisp.ai
 download.krisp.ai
 teams.krisp.ai
 krisp.ai
-api.krisp.ai
-account.krisp.ai
 *.krisp.ai
+account.krisp.ai
+api.krisp.ai
 *.krisp.ai
 krisp.ai
 account.krisp.ai
@@ -1464,9 +1464,9 @@ js.stripe.com
 *.link.co
 api.stripe.com
 api.taxjar.com
+*.getbouncer.com
 *.stripe.com
 app.taxjar.com
-*.getbouncer.com
 api.stripe.com
 *.stripe.com
 *.touchtechpayments.com
@@ -1499,11 +1499,11 @@ mod.reddit.com
 *.redditinc.com
 api.reddit.com
 *.redditmedia.com
+gql.reddit.com
 redditforbusiness.com
 app.spiketrap.io
 oauth.reddit.com
 new.reddit.com
-gql.reddit.com
 ads.reddit.com
 old.reddit.com
 www.reddit.com
@@ -1766,9 +1766,9 @@ shop.tiktok.com
 partner.tiktokshop.com
 business.tiktok.com
 tiktok.com
-*.tiktok.com
 www.pangleglobal.com
 ads.tiktok.com
+*.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -1840,27 +1840,23 @@ beta-cloud.acronis.com
 account.acronis.com
 sandbox.affirm.com
 sandbox.affirm.com
-www.watsons.com.tr
-app.superdrug.com
-api.superdrug.com
 www.kruidvat.nl
 app.kruidvat.nl
 app.theperfumeshop.com
 api.theperfumeshop.com
-api.watsons.com.my
-www10.watsons.com.my
-www.iciparisxl.nl
-www.iciparisxl.be
-www.iciparisxl.lu
-app.iciparisxl.nl
-app.iciparisxl.be
-app.iciparisxl.lu
-www.marionnaud.at
-app.marionnaud.at
-app.marionnaud.ch
-www.marionnaud.cz
-app.marionnaud.cz
-www.marionnaud.hu
+www10.pns.hk
+api.pns.hk
+www.pns.hk
+www10.watsons.com.sg
+www.watsons.com.sg
+api.watsons.com.sg
+www.watsons.com.hk
+www10.watsons.com.hk
+api.watsons.com.hk
+www10.watsons.co.id
+api.watsons.co.id
+www.watsons.co.id
+blog.watsons.com.tr
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -2090,7 +2086,6 @@ super6.skysports.com
 itv7.itv.com
 chat.amazon.com
 track.amazon.com
-api.amazon.com
 manufacturing.amazon.com
 apay-us.amazon.com
 aax-us-iad.amazon.com
@@ -2123,6 +2118,7 @@ advertising-api.amazon.com
 advertising.amazon.com
 appstore-tv-prod-na.amazon.com
 cscentral.amazon.com
+av-na.amazon.com
 *.amazon.cl
 *.amazon.co.za
 *.amazon.com.au
@@ -2233,8 +2229,8 @@ www.alibabagroup.com
 *.taobao.com
 *.alibaba-inc.com
 *.aliyun.com
-*.Daraz.com
 *.tmall.com
+*.Daraz.com
 *.aliexpress.com
 *.alibaba.com
 *.aliexpress.com
@@ -2759,8 +2755,8 @@ promos.tvg.com
 mobile-prod.tvg.com
 www.4njbets.com
 sportsbook.fanduel.com
-*racing.fanduel.com
 tvg.com
+*racing.fanduel.com
 us.tvg.com
 com.fanduel.android.live
 www.tvg.com
@@ -2800,7 +2796,6 @@ swiftcapital.com
 my.loanbuilder.com
 www.loanbuilder.com
 api.swiftfinancial.com
-api.loanbuilder.com
 loanbuilder.com
 pigeon.swiftfinancial.com
 www.swiftfinancial.com
@@ -2813,7 +2808,6 @@ paypal.me
 py.pl
 *.venmo.com
 *.paylution.com
-*.paypalcorp.com
 paypalobjects.com
 *.xoom.com
 *.braintree.tools
@@ -2821,7 +2815,9 @@ paypalobjects.com
 *.braintree-api.com
 *.braintreepayments.com
 *.braintreegateway.com
+*.paypalcorp.com
 *.paypal.com
+api.loanbuilder.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -3448,8 +3444,8 @@ docs.gitlab.com
 customers.gitlab.com
 *.gitlab.org
 about.gitlab.com
-*.gitlab.net
 gitlab.com
+*.gitlab.net
 *.gitlab.net
 *.gitlab.org
 *.gitlap.com
@@ -3561,20 +3557,20 @@ yourcompany.udemy.com
 www.udemy.com
 www.udemy.com
 yourcompany.udemy.com
+*.shopify.com
 linkpop.com
-*.shopifykloud.com
 shopify.plus
+*.shopifykloud.com
 *.shopifycs.com
 arrive-server.shopifycloud.com
-shopifyinbox.com
 *.shopify.io
 shop.app
 partners.shopify.com
-*.shopify.com
-*.shopifycloud.com
 accounts.shopify.com
 your-store.myshopify.com
+*.shopifycloud.com
 admin.shopify.com
+shopifyinbox.com
 *.shopifycs.com
 *.shopify.io
 *.shopify.com
