@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Mar  9 21:11:17 UTC 2024)
+## Domains with Bounties (Last Updated Sat Mar  9 22:14:51 UTC 2024)
 ```
 cards.remitly.io
 api.remitly.io
@@ -33,8 +33,8 @@ getworldcoin.com
 bioid-management.app
 worldcoin.org
 textexplore.tari.com
-www.tari.com
 www.tarilabs.com
+www.tari.com
 explore.tari.com
 rfc.tari.com
 explore.tari.com
@@ -64,8 +64,8 @@ www.sheer.com
 my.sheer.com
 www.ddfcontent.com
 www.analvids.com
-www.pornbox.com
 www.pornworld.com
+www.pornbox.com
 www.pornbox.com
 www.analvids.com
 www.ddfcontent.com
@@ -235,16 +235,16 @@ spark.fareharbor.com
 www.fareharbor.com
 *.bybit.com
 *.bybit.com
-api.au.frontegg.com
 portal.au.frontegg.com
+api.au.frontegg.com
 api.au.frontegg.com
 portal.au.frontegg.com
 api2.frontapp.com
 app.frontapp.com
 app.frontapp.com
 api2.frontapp.com
-*.booztlet.com
 *.boozt.com
+*.booztlet.com
 *.boozt.com
 *.booztlet.com
 *.trip.com
@@ -399,8 +399,8 @@ www.visa.co.id
 www.visa.co.ve
 www.authorize.net
 www.visa.com.mx
-cw.visa.com
 bb.visa.com
+cw.visa.com
 www.tink.com
 www.visa.com.ng
 www.cardinalcommerce.com
@@ -514,12 +514,12 @@ crash-stats.allizom.org
 shavar.services.mozilla.com
 crash-reports.allizom.org
 firefox-ci-tc.services.mozilla.com
-aus5.mozilla.org
 hg.mozilla.org
 firefox.settings.services.mozilla.com
 addons.allizom.org
 phabricator.allizom.org
 contile.services.mozilla.com
+aus5.mozilla.org
 sync.services.mozilla.com
 mozilla-pontoon-staging.herokuapp.com
 location.services.mozilla.com
@@ -581,10 +581,10 @@ hiltonhotels.jp
 *.hiltonlocalbiz.com
 *.hiltonbusinessonline.com
 *.hiltonhotels.jp
+hilton.com
 hiltonbusinessonline.com
 *.hilton.io
 *.hilton.com.tr
-hilton.com
 *.hilton.com
 hilton.io
 *.hilton.com
@@ -673,11 +673,11 @@ http://miro.com/blog
 oneview.malwarebytes.com
 *.mwb-threatintel.com
 *.mb-cosmos.com
+my.malwarebytes.com
 *.cyrus-security.com
 cloud.malwarebytes.com
 *.cloud.malwarebytes.com
 *.mwbsys.com
-my.malwarebytes.com
 www.malwarebytes.com
 *.mbamupdates.com
 *.threatdown.com
@@ -787,8 +787,8 @@ admin.8x8.com
 *.napoleongames.be
 *.napoleoncasino.be
 *.superbet.com
-*.superbet.pl
 *.superbet.rs
+*.superbet.pl
 *.superbet.ro
 *.superbet.ro
 *.superbet.rs
@@ -930,8 +930,8 @@ zerobounce.net
 *.teleport.dev
 platform.teleport.sh
 *.gravitational.co
-*.goteleport.com
 cloud.gravitational.io
+*.goteleport.com
 *.gravitational.io
 teleport.sh
 askpam.ai
@@ -960,8 +960,8 @@ metrics.deribit.com
 api2.poloniex.com
 public.poloniex.com
 m.poloniex.com
-www.poloniex.com
 api.poloniex.com
+www.poloniex.com
 www.poloniex.com
 api.poloniex.com
 m.poloniex.com
@@ -1216,8 +1216,8 @@ analytics.krisp.ai
 download.krisp.ai
 teams.krisp.ai
 krisp.ai
-account.krisp.ai
 api.krisp.ai
+account.krisp.ai
 *.krisp.ai
 *.krisp.ai
 krisp.ai
@@ -1551,8 +1551,8 @@ remix.com
 eu.remix.com
 platform.remix.com
 *.scopely.com
-*.withbuddies.com
 *.scopely.io
+*.withbuddies.com
 *.scopely.io
 *.scopely.com
 *.withbuddies.com
@@ -1595,8 +1595,8 @@ wp-integ.chime.com
 wp-qa.chime.com
 stream.launchdarkly.com
 docs.launchdarkly.com
-events.launchdarkly.com
 app.launchdarkly.com
+events.launchdarkly.com
 app.launchdarkly.com
 events.launchdarkly.com
 stream.launchdarkly.com
@@ -1622,8 +1622,8 @@ passport.larksuite.com
 internal-api-drive-stream.larksuite.com
 file.larksuite.com
 status.larksuite.com
-larksuite.com
 app.larksuite.com
+larksuite.com
 hackers_chosendomain.larksuite.com
 internal-api-lark-api.larksuite.com
 open.larksuite.com
@@ -1672,8 +1672,8 @@ internal.netlify.com
 netlify-rum.netlify.app
 api.netlify.com
 *.onegraph.com
-*.services.netlify.com
 app.netlify.com
+*.services.netlify.com
 *.services.netlify.com
 *.services-prod.nsvcs.net
 *.infra-prod.nsvcs.net
@@ -1761,8 +1761,8 @@ effecthouse.tiktok.com
 careers.tiktok.com
 creatormarketplace.tiktok.com
 *.tiktokv.com
-shop.tiktok.com
 tiktok.com
+shop.tiktok.com
 www.pangleglobal.com
 business.tiktok.com
 ads.tiktok.com
@@ -1826,10 +1826,10 @@ app.faraday.ai
 api.faraday.ai
 *-api-*.acronis.com
 *.devicelock.com
-beta-cloud.acronis.com
 *.acronis.work
-*.acronis.com
+beta-cloud.acronis.com
 account.acronis.com
+*.acronis.com
 *.5nine.com
 *-api-*.acronis.com
 *.acronis.com
@@ -1840,12 +1840,8 @@ beta-cloud.acronis.com
 account.acronis.com
 sandbox.affirm.com
 sandbox.affirm.com
-www10.watsons.com.vn
-www10.pns.hk
-api.pns.hk
-www.pns.hk
-app.marionnaud.fr
-mapi.moneyback.com.hk
+app.superdrug.com
+api.superdrug.com
 www.kruidvat.nl
 app.kruidvat.nl
 app.theperfumeshop.com
@@ -1855,6 +1851,8 @@ api.watsons.com.tw
 www10.watsons.com.ph
 www.watsons.co.th
 www20.watsons.co.th
+www10.watsons.co.th
+api.watsons.co.th
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -2228,8 +2226,8 @@ www.alibabagroup.com
 *.taobao.com
 *.alibaba-inc.com
 *.aliyun.com
-*.Daraz.com
 *.tmall.com
+*.Daraz.com
 *.aliexpress.com
 *.alibaba.com
 *.aliexpress.com
@@ -2754,12 +2752,12 @@ promos.tvg.com
 mobile-prod.tvg.com
 www.4njbets.com
 sportsbook.fanduel.com
-*racing.fanduel.com
 tvg.com
+*racing.fanduel.com
 us.tvg.com
 com.fanduel.android.live
-*.fanduel.com
 www.tvg.com
+*.fanduel.com
 fdbox.net
 *.fanduel.com
 *racing.fanduel.com
@@ -3341,11 +3339,11 @@ www.starbucks.com.br
 www.starbucks.com.sg
 gift.starbucks.co.jp
 openapi.starbucks.com
-www.starbucks.co.kr
 www.starbucks.de
+www.starbucks.co.kr
 www.starbucks.com.cn
-www.starbucks.com
 app.starbucks.com
+www.starbucks.com
 www.starbucksreserve.com
 gift.starbucks.co.jp
 login.starbucks.co.jp
@@ -3394,9 +3392,9 @@ yelptop100.com
 *.yelp-support.com
 *.yelpwifi.com
 yelptop100.com
+getharvest.com
 id.getharvest.com
 harvestapp.com
-getharvest.com
 forecastapp.com
 harvestapp.com
 forecastapp.com
@@ -3562,14 +3560,14 @@ shopify.plus
 *.shopifycs.com
 arrive-server.shopifycloud.com
 *.shopify.io
-shop.app
 partners.shopify.com
-*.shopifycloud.com
-accounts.shopify.com
+shop.app
 your-store.myshopify.com
+*.shopifycloud.com
 shopifyinbox.com
 admin.shopify.com
 *.shopify.com
+accounts.shopify.com
 *.shopifycs.com
 *.shopify.io
 *.shopify.com
@@ -3613,9 +3611,9 @@ snappublisher.snapchat.com
 app.snapchat.com
 playcanvas.com
 web.snapchat.com
-*.sc-corp.net
 accounts.snapchat.com
 business.snapchat.com
+*.sc-corp.net
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
@@ -3692,8 +3690,8 @@ assets.airbnb.com
 *.airbnbcitizen.com
 api.airbnb.com
 www.airbnb.com
-*.airbnb.com
 www.hoteltonight.com
+*.airbnb.com
 *.hoteltonight-test.com
 *.withairbnb.com
 www.airbnb.com
@@ -3927,15 +3925,15 @@ b5s.hackerone-ext-content.com
 www.wearehackerone.com
 reviewer.pullrequest.com
 errors.hackerone.net
-hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 ctf.hacker101.com
 hackerone.live
-hackerone-user-content.com
+hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 app.pullrequest.com
 cover-photos.hackerone-user-content.com
 api.hackerone.com
-hackerone.com
 www.hackerone.com
+hackerone.com
+hackerone-user-content.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
