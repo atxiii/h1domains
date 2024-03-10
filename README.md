@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Mar 10 01:51:38 UTC 2024)
+## Domains with Bounties (Last Updated Sun Mar 10 02:26:03 UTC 2024)
 ```
 cards.remitly.io
 api.remitly.io
@@ -138,11 +138,11 @@ www.mercadolibre.com.uy
 api.mercadopago.com
 www.mercadopago.com.uy
 www.mercadopago.com.ar
-www.mercadopago.cl
 www.mercadolibre.com.mx
 www.mercadopago.com.co
 www.mercadopago.com.pe
 www.mercadolibre.com.pe
+www.mercadopago.cl
 www.mercadopago.com.mx
 www.mercadolibre.cl
 www.mercadolibre.com.co
@@ -287,11 +287,11 @@ connect-sandbox.gocardless.com
 xero-sandbox.gocardless.com
 oauth-sandbox.gocardless.com
 *.gocardless-staging.io
-www.gocardless.com
 *.gocardless-lab.io
 manage-sandbox.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
+www.gocardless.com
 api-sandbox.gocardless.com
 *.gocardless-cicd.io
 *.gocardless.io
@@ -673,9 +673,9 @@ http://miro.com/blog
 oneview.malwarebytes.com
 *.mwb-threatintel.com
 *.mb-cosmos.com
-*.cloud.malwarebytes.com
 *.cyrus-security.com
 cloud.malwarebytes.com
+*.cloud.malwarebytes.com
 *.mwbsys.com
 my.malwarebytes.com
 www.malwarebytes.com
@@ -789,8 +789,8 @@ admin.8x8.com
 *.napoleongames.be
 *.napoleoncasino.be
 *.superbet.com
-*.superbet.rs
 *.superbet.pl
+*.superbet.rs
 *.superbet.ro
 *.superbet.ro
 *.superbet.rs
@@ -949,10 +949,10 @@ cloud.gravitational.io
 askpam.ai
 pb.deribit.com
 metrics.deribit.com
-test.deribit.com
 insights.deribit.com
 *.deribit.com
 tools.deribit.com
+test.deribit.com
 *.deribit.com
 test.deribit.com
 insights.deribit.com
@@ -1652,8 +1652,8 @@ core.yoti.com
 ccloud.yoti.com
 code.yoti.com
 api.yoti.com
-www.yotisign.com
 identity.yoti.com
+www.yotisign.com
 hub.yoti.com
 core.yoti.com
 api.yoti.com
@@ -1759,8 +1759,8 @@ api.adm.cloud.com
 academy-outbound-ads.tiktok.com
 fp-sg.tiktokv.com
 developers.tiktok.com
-careers.tiktok.com
 effecthouse.tiktok.com
+careers.tiktok.com
 creatormarketplace.tiktok.com
 *.tiktokv.com
 shop.tiktok.com
@@ -1830,8 +1830,8 @@ api.faraday.ai
 *.devicelock.com
 *.acronis.work
 beta-cloud.acronis.com
-*.acronis.com
 account.acronis.com
+*.acronis.com
 *.5nine.com
 *-api-*.acronis.com
 *.acronis.com
@@ -1842,23 +1842,21 @@ beta-cloud.acronis.com
 account.acronis.com
 sandbox.affirm.com
 sandbox.affirm.com
+www10.watsons.com.vn
+www10.pns.hk
+api.pns.hk
+www.pns.hk
+app.marionnaud.fr
+mapi.moneyback.com.hk
 www.kruidvat.nl
 app.kruidvat.nl
 app.theperfumeshop.com
 api.theperfumeshop.com
-www10.pns.hk
-api.pns.hk
-www.pns.hk
-www10.watsons.com.sg
-www.watsons.com.sg
-api.watsons.com.sg
-www.watsons.com.hk
-www10.watsons.com.hk
-api.watsons.com.hk
-www10.watsons.co.id
-api.watsons.co.id
-www.watsons.co.id
-blog.watsons.com.tr
+www10.watsons.com.tw
+api.watsons.com.tw
+www10.watsons.com.ph
+www.watsons.co.th
+www20.watsons.co.th
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -2231,10 +2229,10 @@ updates.amazon.com
 www.alibabagroup.com
 *.alibaba.com
 *.taobao.com
-*.alibaba-inc.com
-*.aliyun.com
 *.Daraz.com
+*.aliyun.com
 *.tmall.com
+*.alibaba-inc.com
 *.aliexpress.com
 *.alibaba.com
 *.aliexpress.com
@@ -2314,24 +2312,24 @@ gatewaydsaptst2.marriott.com
 gatewaydsapdev2.marriott.com
 marriottfranchisetransactions.marriott.com
 passwordchallenge.marriott.com
+cpp.marriott.com
 gatewaydsaptst1.marriott.com
 mgs.marriott.com
-cpp.marriott.com
 hotel-deals.marriott.com
 jobs.marriott.com
 www.ritzcarlton.com
 sso.marriott.com
 activities.marriott.com
 all-inclusive.marriott.com
-moments.marriottbonvoy.com
 careers.marriott.com
+moments.marriottbonvoy.com
 help.marriott.com
 marrtool.com
 www.marriott.com
-homes-and-villas.marriott.com
-reservations.all-inclusive.marriott.com
 mipartnerprivileges.marriott.com
+reservations.all-inclusive.marriott.com
 travelagents.marriott.com/
+homes-and-villas.marriott.com
 traveler.marriott.com
 homes-and-villas.marriott.com
 careers.marriott.com
@@ -2398,10 +2396,10 @@ app.nordpass.com
 *.nordvpn.com
 *.nordvpn.com
 app.nordpass.com
+*.line.me
 *.line.biz
 *.line.naver.jp
 *.line-apps.com
-*.line.me
 *.linecorp.com
 *.line.me
 *.line-apps.com
@@ -2973,8 +2971,8 @@ help.steampowered.com
 api.steampowered.com
 steamcommunity.com
 www.teamfortress.com
-www.dota2.com
 www.counter-strike.net
+www.dota2.com
 www.dota2.com
 support.steampowered.com
 partner.steampowered.com
@@ -3179,8 +3177,8 @@ jira.grab.com
 *.myteksi.net
 *.grabtaxi.com
 *.taralite.com
-*.grab.com
 *.ovo.id
+*.grab.com
 *.myteksi.com
 *.myteksi.net
 *.grab.com
@@ -3399,9 +3397,9 @@ yelptop100.com
 *.yelp-support.com
 *.yelpwifi.com
 yelptop100.com
-getharvest.com
 id.getharvest.com
 harvestapp.com
+getharvest.com
 forecastapp.com
 harvestapp.com
 forecastapp.com
@@ -3418,8 +3416,8 @@ npmjs.com
 education.github.com
 *.githubusercontent.com
 *.githubapp.com
-api.github.com
 github.com
+api.github.com
 classroom.github.com
 github.com
 api.github.com
