@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Mar 10 11:12:41 UTC 2024)
+## Domains with Bounties (Last Updated Sun Mar 10 12:19:03 UTC 2024)
 ```
 cards.remitly.io
 api.remitly.io
@@ -137,7 +137,6 @@ research.23andme.com
 www.mercadolibre.com.uy
 api.mercadopago.com
 www.mercadopago.com.uy
-api.mercadolibre.com
 www.mercadopago.com.ar
 www.mercadolibre.com.mx
 www.mercadopago.com.co
@@ -148,6 +147,7 @@ www.mercadopago.com.mx
 www.mercadolibre.cl
 www.mercadolibre.com.co
 www.mercadopago.com.br
+api.mercadolibre.com
 www.mercadolivre.com.br
 www.mercadolibre.com.ar
 api.mercadopago.com
@@ -389,7 +389,6 @@ www.visa.com.tw
 www.practicalmoneyskills.com
 www.visa.com.ph
 www.visa.com.my
-www.authorize.net
 www.cybersource.com
 visa.com.au
 www.fraedom.com
@@ -398,9 +397,10 @@ www.visa.co.in
 www.yellowpepper.com
 www.visa.co.id
 www.visa.co.ve
-cw.visa.com
+www.authorize.net
 www.visa.com.mx
 bb.visa.com
+cw.visa.com
 www.tink.com
 www.visa.com.ng
 www.cardinalcommerce.com
@@ -487,8 +487,8 @@ m.avtoelon.uz
 avtoelon.uz
 m.kolesa.kz
 kolesa.kz
-id.kolesa.kz
 krisha.kz
+id.kolesa.kz
 kolesa.kz
 m.kolesa.kz
 krisha.kz
@@ -580,10 +580,10 @@ hiltonlocalbiz.com
 hiltonhotels.jp
 *.hiltonlocalbiz.com
 *.hiltonhotels.jp
+hilton.com
 hiltonbusinessonline.com
 *.hilton.io
 *.hilton.com.tr
-hilton.com
 *.hilton.com
 hilton.io
 *.hiltonbusinessonline.com
@@ -789,8 +789,8 @@ admin.8x8.com
 *.napoleongames.be
 *.napoleoncasino.be
 *.superbet.com
-*.superbet.rs
 *.superbet.pl
+*.superbet.rs
 *.superbet.ro
 *.superbet.ro
 *.superbet.rs
@@ -1501,11 +1501,11 @@ mod.reddit.com
 *.redditinc.com
 api.reddit.com
 *.redditmedia.com
-gql.reddit.com
 redditforbusiness.com
 app.spiketrap.io
 oauth.reddit.com
 new.reddit.com
+gql.reddit.com
 ads.reddit.com
 www.reddit.com
 *.snooguts.net
@@ -1769,8 +1769,8 @@ www.pangleglobal.com
 business.tiktok.com
 partner.tiktokshop.com
 live-backstage.tiktok.com
-ads.tiktok.com
 *.tiktok.com
+ads.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -1842,19 +1842,23 @@ beta-cloud.acronis.com
 account.acronis.com
 sandbox.affirm.com
 sandbox.affirm.com
-app.superdrug.com
-api.superdrug.com
 www.kruidvat.nl
 app.kruidvat.nl
 app.theperfumeshop.com
 api.theperfumeshop.com
-www10.watsons.com.tw
-api.watsons.com.tw
-www10.watsons.com.ph
-www.watsons.co.th
-www20.watsons.co.th
-www10.watsons.co.th
-api.watsons.co.th
+www10.pns.hk
+api.pns.hk
+www.pns.hk
+www10.watsons.com.sg
+www.watsons.com.sg
+api.watsons.com.sg
+www.watsons.com.hk
+www10.watsons.com.hk
+api.watsons.com.hk
+www10.watsons.co.id
+api.watsons.co.id
+www.watsons.co.id
+blog.watsons.com.tr
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -2227,10 +2231,10 @@ updates.amazon.com
 www.alibabagroup.com
 *.alibaba.com
 *.taobao.com
-*.Daraz.com
-*.aliyun.com
-*.tmall.com
 *.alibaba-inc.com
+*.aliyun.com
+*.Daraz.com
+*.tmall.com
 *.aliexpress.com
 *.alibaba.com
 *.aliexpress.com
@@ -2310,9 +2314,9 @@ gatewaydsaptst2.marriott.com
 gatewaydsapdev2.marriott.com
 marriottfranchisetransactions.marriott.com
 passwordchallenge.marriott.com
+cpp.marriott.com
 gatewaydsaptst1.marriott.com
 mgs.marriott.com
-cpp.marriott.com
 hotel-deals.marriott.com
 jobs.marriott.com
 www.ritzcarlton.com
@@ -2322,10 +2326,10 @@ all-inclusive.marriott.com
 careers.marriott.com
 moments.marriottbonvoy.com
 marrtool.com
-homes-and-villas.marriott.com
-reservations.all-inclusive.marriott.com
 mipartnerprivileges.marriott.com
+reservations.all-inclusive.marriott.com
 travelagents.marriott.com/
+homes-and-villas.marriott.com
 traveler.marriott.com
 help.marriott.com
 www.marriott.com
@@ -2970,8 +2974,8 @@ help.steampowered.com
 api.steampowered.com
 steamcommunity.com
 www.teamfortress.com
-www.counter-strike.net
 www.dota2.com
+www.counter-strike.net
 www.dota2.com
 support.steampowered.com
 partner.steampowered.com
@@ -3396,9 +3400,9 @@ yelptop100.com
 *.yelp-support.com
 *.yelpwifi.com
 yelptop100.com
+getharvest.com
 id.getharvest.com
 harvestapp.com
-getharvest.com
 forecastapp.com
 harvestapp.com
 forecastapp.com
@@ -3563,8 +3567,8 @@ linkpop.com
 shopify.plus
 arrive-server.shopifycloud.com
 *.shopify.io
-partners.shopify.com
 shop.app
+partners.shopify.com
 *.shopifycloud.com
 shopifyinbox.com
 admin.shopify.com
@@ -3614,10 +3618,10 @@ blog.playcanvas.com
 snappublisher.snapchat.com
 playcanvas.com
 web.snapchat.com
-accounts.snapchat.com
 business.snapchat.com
 *.sc-corp.net
 app.snapchat.com
+accounts.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
@@ -3694,8 +3698,8 @@ assets.airbnb.com
 *.airbnbcitizen.com
 api.airbnb.com
 www.airbnb.com
-www.hoteltonight.com
 *.airbnb.com
+www.hoteltonight.com
 *.hoteltonight-test.com
 *.withairbnb.com
 www.airbnb.com
@@ -3929,9 +3933,9 @@ b5s.hackerone-ext-content.com
 www.wearehackerone.com
 reviewer.pullrequest.com
 errors.hackerone.net
-hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 ctf.hacker101.com
 hackerone.live
+hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 app.pullrequest.com
 cover-photos.hackerone-user-content.com
 hackerone-user-content.com
