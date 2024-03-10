@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Mar 10 15:12:51 UTC 2024)
+## Domains with Bounties (Last Updated Sun Mar 10 16:17:11 UTC 2024)
 ```
 cards.remitly.io
 api.remitly.io
@@ -33,8 +33,8 @@ getworldcoin.com
 bioid-management.app
 worldcoin.org
 textexplore.tari.com
-www.tarilabs.com
 www.tari.com
+www.tarilabs.com
 explore.tari.com
 rfc.tari.com
 explore.tari.com
@@ -137,6 +137,7 @@ research.23andme.com
 www.mercadolibre.com.uy
 api.mercadopago.com
 www.mercadopago.com.uy
+api.mercadolibre.com
 www.mercadopago.com.ar
 www.mercadolibre.com.mx
 www.mercadopago.com.co
@@ -147,7 +148,6 @@ www.mercadopago.com.mx
 www.mercadolibre.cl
 www.mercadolibre.com.co
 www.mercadopago.com.br
-api.mercadolibre.com
 www.mercadolivre.com.br
 www.mercadolibre.com.ar
 api.mercadopago.com
@@ -398,13 +398,13 @@ www.yellowpepper.com
 www.visa.co.id
 www.visa.co.ve
 www.authorize.net
-bb.visa.com
 www.visa.com.mx
+bb.visa.com
 cw.visa.com
 www.tink.com
 www.visa.com.ng
-visa.co.cr
 www.cardinalcommerce.com
+visa.co.cr
 www.visa.co.uk
 aw.visa.com
 bb.visa.com
@@ -465,11 +465,11 @@ sandbox.secure.checkout.visa.com
 www.visainfinite.ca
 http://myvisainfinite.com/suntrust/en_us/home.html
 http://www.myvisacardportal.com/welcome/enbd/product/#
-yourdomain.freshcaller.com
 yourdomain.freshchat.com
 yourdomain.freshservice.com
 yourdomain.myfreshworks.com
 yourdomain.freshdesk.com
+yourdomain.freshcaller.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -514,12 +514,12 @@ crash-stats.allizom.org
 shavar.services.mozilla.com
 crash-reports.allizom.org
 firefox-ci-tc.services.mozilla.com
+aus5.mozilla.org
 hg.mozilla.org
 firefox.settings.services.mozilla.com
 addons.allizom.org
 phabricator.allizom.org
 contile.services.mozilla.com
-aus5.mozilla.org
 sync.services.mozilla.com
 mozilla-pontoon-staging.herokuapp.com
 location.services.mozilla.com
@@ -580,9 +580,9 @@ hiltonlocalbiz.com
 hiltonhotels.jp
 *.hiltonlocalbiz.com
 *.hiltonhotels.jp
+hilton.com
 hiltonbusinessonline.com
 *.hilton.io
-hilton.com
 *.hilton.com
 hilton.io
 *.hiltonbusinessonline.com
@@ -673,9 +673,9 @@ http://miro.com/blog
 oneview.malwarebytes.com
 *.mwb-threatintel.com
 *.mb-cosmos.com
-*.cloud.malwarebytes.com
 *.cyrus-security.com
 cloud.malwarebytes.com
+*.cloud.malwarebytes.com
 *.mwbsys.com
 my.malwarebytes.com
 www.malwarebytes.com
@@ -789,8 +789,8 @@ admin.8x8.com
 *.napoleongames.be
 *.napoleoncasino.be
 *.superbet.com
-*.superbet.pl
 *.superbet.rs
+*.superbet.pl
 *.superbet.ro
 *.superbet.ro
 *.superbet.rs
@@ -873,8 +873,8 @@ www.bookabach.co.nz
 www.vrbo.com
 *.wotif.com
 *.expediacruises.com
-www.travelocity.com
 www.expedia.com
+www.travelocity.com
 www.expediagroup.com
 *.vrbo.com
 *.hotwire.com
@@ -1050,10 +1050,10 @@ business.kayak.com
 www.swoodoo.com
 www.cheapflights.com
 www.mundi.com.br
-www.checkfelix.com
 www.hotelscombined.com
 www.momondo.com
 www.kayak.com
+www.checkfelix.com
 www.kayak.com
 www.swoodoo.com
 www.checkfelix.com
@@ -1624,8 +1624,8 @@ passport.larksuite.com
 internal-api-drive-stream.larksuite.com
 file.larksuite.com
 status.larksuite.com
-larksuite.com
 app.larksuite.com
+larksuite.com
 hackers_chosendomain.larksuite.com
 internal-api-lark-api.larksuite.com
 open.larksuite.com
@@ -1674,8 +1674,8 @@ internal.netlify.com
 netlify-rum.netlify.app
 api.netlify.com
 *.onegraph.com
-app.netlify.com
 *.services.netlify.com
+app.netlify.com
 *.services.netlify.com
 *.services-prod.nsvcs.net
 *.infra-prod.nsvcs.net
@@ -1828,8 +1828,8 @@ app.faraday.ai
 api.faraday.ai
 *-api-*.acronis.com
 *.devicelock.com
-*.acronis.work
 beta-cloud.acronis.com
+*.acronis.work
 *.acronis.com
 account.acronis.com
 *.5nine.com
@@ -1842,19 +1842,23 @@ beta-cloud.acronis.com
 account.acronis.com
 sandbox.affirm.com
 sandbox.affirm.com
-app.superdrug.com
-api.superdrug.com
 www.kruidvat.nl
 app.kruidvat.nl
 app.theperfumeshop.com
 api.theperfumeshop.com
-www10.watsons.com.tw
-api.watsons.com.tw
-www10.watsons.com.ph
-www.watsons.co.th
-www20.watsons.co.th
-www10.watsons.co.th
-api.watsons.co.th
+www10.pns.hk
+api.pns.hk
+www.pns.hk
+www10.watsons.com.sg
+www.watsons.com.sg
+api.watsons.com.sg
+www.watsons.com.hk
+www10.watsons.com.hk
+api.watsons.com.hk
+www10.watsons.co.id
+api.watsons.co.id
+www.watsons.co.id
+blog.watsons.com.tr
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -2229,8 +2233,8 @@ www.alibabagroup.com
 *.taobao.com
 *.alibaba-inc.com
 *.aliyun.com
-*.Daraz.com
 *.tmall.com
+*.Daraz.com
 *.aliexpress.com
 *.alibaba.com
 *.aliexpress.com
@@ -2394,10 +2398,10 @@ app.nordpass.com
 *.nordvpn.com
 *.nordvpn.com
 app.nordpass.com
-*.line.me
 *.line.biz
 *.line.naver.jp
 *.line-apps.com
+*.line.me
 *.linecorp.com
 *.line.me
 *.line-apps.com
@@ -3176,8 +3180,8 @@ jira.grab.com
 *.myteksi.net
 *.grabtaxi.com
 *.taralite.com
-*.grab.com
 *.ovo.id
+*.grab.com
 *.myteksi.com
 *.myteksi.net
 *.grab.com
@@ -3345,8 +3349,8 @@ gift.starbucks.co.jp
 openapi.starbucks.com
 www.starbucks.de
 www.starbucks.com.cn
-www.starbucks.com
 app.starbucks.com
+www.starbucks.com
 www.starbucks.co.kr
 www.starbucksreserve.com
 gift.starbucks.co.jp
@@ -3415,8 +3419,8 @@ npmjs.com
 education.github.com
 *.githubusercontent.com
 *.githubapp.com
-api.github.com
 github.com
+api.github.com
 classroom.github.com
 github.com
 api.github.com
@@ -3559,17 +3563,17 @@ www.udemy.com
 www.udemy.com
 yourcompany.udemy.com
 linkpop.com
-*.shopifykloud.com
 shopify.plus
+*.shopifykloud.com
 arrive-server.shopifycloud.com
 *.shopify.io
-partners.shopify.com
 shop.app
+partners.shopify.com
 *.shopifycloud.com
 shopifyinbox.com
 admin.shopify.com
-*.shopify.com
 accounts.shopify.com
+*.shopify.com
 *.shopifycs.com
 your-store.myshopify.com
 *.shopifycs.com
@@ -3603,10 +3607,10 @@ msg.playcanvas.com
 create.snapchat.com
 my.snapchat.com
 forum.playcanvas.com
+ads.snapchat.com
 www.bitmoji.com
 login.playcanvas.com
 scan.snapchat.com
-ads.snapchat.com
 *.sc-core.net
 spectacles.com
 kit.snapchat.com
@@ -3616,8 +3620,8 @@ playcanvas.com
 web.snapchat.com
 business.snapchat.com
 *.sc-corp.net
-app.snapchat.com
 accounts.snapchat.com
+app.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
