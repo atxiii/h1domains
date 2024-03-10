@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Mar 10 05:14:15 UTC 2024)
+## Domains with Bounties (Last Updated Sun Mar 10 06:16:26 UTC 2024)
 ```
 cards.remitly.io
 api.remitly.io
@@ -19,8 +19,8 @@ getworldcoin.com
 *.worldcoin.dev
 worldcoin.org
 bioid-management.app
-*.worldcoin.org
 *.consumer.worldcoin.org
+*.worldcoin.org
 *.toolsforhumanity.com
 toolsforhumanity.com
 *.worldcoin.org
@@ -33,8 +33,8 @@ getworldcoin.com
 bioid-management.app
 worldcoin.org
 textexplore.tari.com
-www.tarilabs.com
 www.tari.com
+www.tarilabs.com
 explore.tari.com
 rfc.tari.com
 explore.tari.com
@@ -389,6 +389,7 @@ www.visa.com.tw
 www.practicalmoneyskills.com
 www.visa.com.ph
 www.visa.com.my
+www.authorize.net
 www.cybersource.com
 visa.com.au
 www.fraedom.com
@@ -397,10 +398,9 @@ www.visa.co.in
 www.yellowpepper.com
 www.visa.co.id
 www.visa.co.ve
-www.authorize.net
+cw.visa.com
 www.visa.com.mx
 bb.visa.com
-cw.visa.com
 www.tink.com
 www.visa.com.ng
 www.cardinalcommerce.com
@@ -580,10 +580,10 @@ hiltonlocalbiz.com
 hiltonhotels.jp
 *.hiltonlocalbiz.com
 *.hiltonhotels.jp
-hilton.com
 hiltonbusinessonline.com
 *.hilton.io
 *.hilton.com.tr
+hilton.com
 *.hilton.com
 hilton.io
 *.hiltonbusinessonline.com
@@ -673,9 +673,9 @@ http://miro.com/blog
 oneview.malwarebytes.com
 *.mwb-threatintel.com
 *.mb-cosmos.com
+*.cloud.malwarebytes.com
 *.cyrus-security.com
 cloud.malwarebytes.com
-*.cloud.malwarebytes.com
 *.mwbsys.com
 my.malwarebytes.com
 www.malwarebytes.com
@@ -789,8 +789,8 @@ admin.8x8.com
 *.napoleongames.be
 *.napoleoncasino.be
 *.superbet.com
-*.superbet.pl
 *.superbet.rs
+*.superbet.pl
 *.superbet.ro
 *.superbet.ro
 *.superbet.rs
@@ -854,27 +854,27 @@ www.lastminute.com.au
 www.wotif.com
 www.expediaagents.com
 www.fewo-direkt.de
-www.stayz.com.au
 www.expediacruises.com
 www.hotels.com
+www.stayz.com.au
+www.cheaptickets.com
+www.orbitz.com
 www.ebookers.com
 www.hotwire.com
 www.flights.com
 www.carrentals.com
-www.cheaptickets.com
-www.orbitz.com
 www.abritel.fr
 www.expediapartnersolutions.com
-*.expediapartnercentral.com
+*.lastminute.com.au
 *.cheaptickets.com
 *.travelocity.ca
-*.lastminute.com.au
+*.expediapartnercentral.com
 *.travelocity.com
 www.bookabach.co.nz
 *.vrbo.com
 www.vrbo.com
-*.expediacruises.com
 *.wotif.com
+*.expediacruises.com
 www.expedia.com
 *.vrbo.com
 *.hotwire.com
@@ -913,10 +913,10 @@ www.fewo-direkt.de
 www.stayz.com.au
 www.expediagroup.com
 www.flights.com
-*.magiceden.dev
 *.magiceden.workers.dev
 *.magiceden.io
 magiceden.io
+*.magiceden.dev
 magiceden.io
 *.magiceden.io
 *.magiceden.dev
@@ -1501,11 +1501,11 @@ mod.reddit.com
 *.redditinc.com
 api.reddit.com
 *.redditmedia.com
-gql.reddit.com
 redditforbusiness.com
 app.spiketrap.io
 oauth.reddit.com
 new.reddit.com
+gql.reddit.com
 ads.reddit.com
 www.reddit.com
 *.snooguts.net
@@ -1652,8 +1652,8 @@ core.yoti.com
 ccloud.yoti.com
 code.yoti.com
 api.yoti.com
-identity.yoti.com
 www.yotisign.com
+identity.yoti.com
 hub.yoti.com
 core.yoti.com
 api.yoti.com
@@ -1759,12 +1759,12 @@ api.adm.cloud.com
 academy-outbound-ads.tiktok.com
 fp-sg.tiktokv.com
 developers.tiktok.com
-effecthouse.tiktok.com
 careers.tiktok.com
+effecthouse.tiktok.com
 creatormarketplace.tiktok.com
 *.tiktokv.com
-tiktok.com
 shop.tiktok.com
+tiktok.com
 www.pangleglobal.com
 business.tiktok.com
 partner.tiktokshop.com
@@ -2396,10 +2396,10 @@ app.nordpass.com
 *.nordvpn.com
 *.nordvpn.com
 app.nordpass.com
+*.line.me
 *.line.biz
 *.line.naver.jp
 *.line-apps.com
-*.line.me
 *.linecorp.com
 *.line.me
 *.line-apps.com
@@ -2757,8 +2757,8 @@ promos.tvg.com
 mobile-prod.tvg.com
 www.4njbets.com
 sportsbook.fanduel.com
-tvg.com
 *racing.fanduel.com
+tvg.com
 us.tvg.com
 com.fanduel.android.live
 www.tvg.com
@@ -2853,12 +2853,12 @@ swiftcapital.com
 m.chaturbate.com
 *.securegatewayaccess.com
 billingsupport.chaturbate.com
-secure.chaturbate.com
 *.mmcdn.com
 *.highwebmedia.com
 *.mmwebc.dev
 *.cb.dev
 chaturbate.com
+secure.chaturbate.com
 *.highwebmedia.com
 *.securegatewayaccess.com
 *.mmcdn.com
@@ -2971,8 +2971,8 @@ help.steampowered.com
 api.steampowered.com
 steamcommunity.com
 www.teamfortress.com
-www.dota2.com
 www.counter-strike.net
+www.dota2.com
 www.dota2.com
 support.steampowered.com
 partner.steampowered.com
@@ -3565,10 +3565,10 @@ shopify.plus
 *.shopifycs.com
 arrive-server.shopifycloud.com
 *.shopify.io
-partners.shopify.com
 shop.app
-your-store.myshopify.com
+partners.shopify.com
 *.shopifycloud.com
+your-store.myshopify.com
 shopifyinbox.com
 admin.shopify.com
 *.shopify.com
@@ -3695,8 +3695,8 @@ assets.airbnb.com
 *.airbnbcitizen.com
 api.airbnb.com
 www.airbnb.com
-www.hoteltonight.com
 *.airbnb.com
+www.hoteltonight.com
 *.hoteltonight-test.com
 *.withairbnb.com
 www.airbnb.com
@@ -3861,8 +3861,8 @@ international.coinbase.com
 *.cbhq.net
 institutional.coinbase.com
 api.custody.coinbase.com
-api.coinbase.com
 pro.coinbase.com
+api.coinbase.com
 *.base.org
 *.coinbase.com
 commerce.coinbase.com
