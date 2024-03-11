@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Mar 11 02:22:07 UTC 2024)
+## Domains with Bounties (Last Updated Mon Mar 11 03:17:39 UTC 2024)
 ```
 cards.remitly.io
 app.rewire.to
@@ -33,8 +33,8 @@ getworldcoin.com
 bioid-management.app
 worldcoin.org
 textexplore.tari.com
-www.tarilabs.com
 www.tari.com
+www.tarilabs.com
 explore.tari.com
 rfc.tari.com
 explore.tari.com
@@ -138,11 +138,11 @@ www.mercadolibre.com.uy
 api.mercadopago.com
 www.mercadopago.com.uy
 www.mercadopago.com.ar
+www.mercadopago.cl
 www.mercadolibre.com.mx
 www.mercadopago.com.co
 www.mercadopago.com.pe
 www.mercadolibre.com.pe
-www.mercadopago.cl
 www.mercadopago.com.mx
 www.mercadolibre.cl
 www.mercadolibre.com.co
@@ -486,8 +486,8 @@ api.avtoelon.uz
 m.avtoelon.uz
 avtoelon.uz
 m.kolesa.kz
-krisha.kz
 id.kolesa.kz
+krisha.kz
 kolesa.kz
 kolesa.kz
 m.kolesa.kz
@@ -514,11 +514,11 @@ crash-stats.allizom.org
 shavar.services.mozilla.com
 crash-reports.allizom.org
 firefox-ci-tc.services.mozilla.com
+aus5.mozilla.org
 hg.mozilla.org
 firefox.settings.services.mozilla.com
 phabricator.allizom.org
 contile.services.mozilla.com
-aus5.mozilla.org
 sync.services.mozilla.com
 mozilla-pontoon-staging.herokuapp.com
 location.services.mozilla.com
@@ -611,7 +611,6 @@ aws.indrive.tech
 ingest.clairvoyance.indrive.tech
 volans.tech
 injob.indriver.com
-profile-api.eu-east-1.indriverapp.com
 auth2.indrive.tech
 new-order.eu-east-1.indriverapp.com
 argocd.indrive.dev
@@ -622,6 +621,7 @@ cargo.indrive.com
 *.indriver.com
 file-storage-front.eu-east-1.indriverapp.com
 *.indriverapp.com
+profile-api.eu-east-1.indriverapp.com
 truck-api.eu-east-1.indriverapp.com
 watchdocs.indriverapp.com
 *.indrive.com
@@ -872,10 +872,10 @@ www.bookabach.co.nz
 *.vrbo.com
 www.vrbo.com
 *.wotif.com
-www.expedia.com
 www.travelocity.com
+www.expedia.com
 www.expediagroup.com
-*.lastminute.co.nz
+*.carrentals.com
 *.vrbo.com
 *.hotwire.com
 *.carrentals.com
@@ -932,8 +932,8 @@ zerobounce.net
 *.teleport.dev
 platform.teleport.sh
 *.gravitational.co
-cloud.gravitational.io
 *.goteleport.com
+cloud.gravitational.io
 *.gravitational.io
 teleport.sh
 askpam.ai
@@ -949,10 +949,10 @@ cloud.gravitational.io
 askpam.ai
 pb.deribit.com
 metrics.deribit.com
-insights.deribit.com
 tools.deribit.com
-test.deribit.com
 *.deribit.com
+insights.deribit.com
+test.deribit.com
 *.deribit.com
 test.deribit.com
 insights.deribit.com
@@ -1623,8 +1623,8 @@ passport.larksuite.com
 internal-api-drive-stream.larksuite.com
 file.larksuite.com
 status.larksuite.com
-larksuite.com
 app.larksuite.com
+larksuite.com
 hackers_chosendomain.larksuite.com
 internal-api-lark-api.larksuite.com
 open.larksuite.com
@@ -1673,8 +1673,8 @@ internal.netlify.com
 netlify-rum.netlify.app
 api.netlify.com
 *.onegraph.com
-app.netlify.com
 *.services.netlify.com
+app.netlify.com
 *.services.netlify.com
 *.services-prod.nsvcs.net
 *.infra-prod.nsvcs.net
@@ -1827,10 +1827,10 @@ app.faraday.ai
 api.faraday.ai
 *-api-*.acronis.com
 *.devicelock.com
-*.acronis.work
 beta-cloud.acronis.com
-account.acronis.com
+*.acronis.work
 *.acronis.com
+account.acronis.com
 *.5nine.com
 *-api-*.acronis.com
 *.acronis.com
@@ -1841,12 +1841,8 @@ beta-cloud.acronis.com
 account.acronis.com
 sandbox.affirm.com
 sandbox.affirm.com
-www10.watsons.com.vn
-www10.pns.hk
-api.pns.hk
-www.pns.hk
-app.marionnaud.fr
-mapi.moneyback.com.hk
+app.superdrug.com
+api.superdrug.com
 www.kruidvat.nl
 app.kruidvat.nl
 app.theperfumeshop.com
@@ -1856,6 +1852,8 @@ api.watsons.com.tw
 www10.watsons.com.ph
 www.watsons.co.th
 www20.watsons.co.th
+www10.watsons.co.th
+api.watsons.co.th
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -2311,22 +2309,22 @@ gatewaydsaptst2.marriott.com
 gatewaydsapdev2.marriott.com
 marriottfranchisetransactions.marriott.com
 passwordchallenge.marriott.com
+cpp.marriott.com
 gatewaydsaptst1.marriott.com
 mgs.marriott.com
-cpp.marriott.com
 hotel-deals.marriott.com
 jobs.marriott.com
 www.ritzcarlton.com
 sso.marriott.com
 activities.marriott.com
 all-inclusive.marriott.com
-moments.marriottbonvoy.com
 careers.marriott.com
+moments.marriottbonvoy.com
 marrtool.com
-homes-and-villas.marriott.com
-reservations.all-inclusive.marriott.com
 mipartnerprivileges.marriott.com
+reservations.all-inclusive.marriott.com
 travelagents.marriott.com/
+homes-and-villas.marriott.com
 help.marriott.com
 www.marriott.com
 traveler.marriott.com
@@ -2395,10 +2393,10 @@ app.nordpass.com
 *.nordvpn.com
 *.nordvpn.com
 app.nordpass.com
+*.line.me
 *.line.biz
 *.line.naver.jp
 *.line-apps.com
-*.line.me
 *.linecorp.com
 *.line.me
 *.line-apps.com
@@ -2757,8 +2755,8 @@ promos.tvg.com
 mobile-prod.tvg.com
 www.4njbets.com
 sportsbook.fanduel.com
-tvg.com
 *racing.fanduel.com
+tvg.com
 us.tvg.com
 com.fanduel.android.live
 www.tvg.com
@@ -2970,8 +2968,8 @@ help.steampowered.com
 api.steampowered.com
 steamcommunity.com
 www.teamfortress.com
-www.dota2.com
 www.counter-strike.net
+www.dota2.com
 support.steampowered.com
 www.dota2.com
 support.steampowered.com
@@ -2989,12 +2987,12 @@ developer.valvesoftware.com
 app.mona.co
 auth.crypto.com
 js.crypto.com
-*.mona.co
 merchant.crypto.com
 *.crypto.com
 www.crypto.com
 pay.crypto.com
 tax.crypto.com
+*.mona.co
 *.crypto.com
 *.mona.co
 www.crypto.com
@@ -3397,9 +3395,9 @@ yelptop100.com
 *.yelp-support.com
 *.yelpwifi.com
 yelptop100.com
+getharvest.com
 id.getharvest.com
 harvestapp.com
-getharvest.com
 forecastapp.com
 harvestapp.com
 forecastapp.com
@@ -3604,10 +3602,10 @@ msg.playcanvas.com
 create.snapchat.com
 my.snapchat.com
 forum.playcanvas.com
+ads.snapchat.com
 www.bitmoji.com
 login.playcanvas.com
 scan.snapchat.com
-ads.snapchat.com
 *.sc-core.net
 spectacles.com
 kit.snapchat.com
@@ -3861,8 +3859,8 @@ international.coinbase.com
 *.cbhq.net
 institutional.coinbase.com
 api.custody.coinbase.com
-api.coinbase.com
 pro.coinbase.com
+api.coinbase.com
 *.base.org
 *.coinbase.com
 commerce.coinbase.com
@@ -3930,9 +3928,9 @@ b5s.hackerone-ext-content.com
 www.wearehackerone.com
 reviewer.pullrequest.com
 errors.hackerone.net
+hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 ctf.hacker101.com
 hackerone.live
-hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 app.pullrequest.com
 cover-photos.hackerone-user-content.com
 hackerone-user-content.com
