@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Mar 12 21:16:52 UTC 2024)
+## Domains with Bounties (Last Updated Tue Mar 12 22:15:06 UTC 2024)
 ```
 www.dyson.co.uk
 www.dysoncanada.ca
@@ -152,6 +152,7 @@ enterprise-portal-noneu.truecaller.com
 enterprise-reports-noneu.truecaller.com
 enterprise-service-management-noneu.truecaller.com
 enterprise-survey-asia-south1.truecaller.com
+enterprise-survey-noneu.truecaller.com
 business.truecaller.com
 account-noneu.truecaller.com
 account-onboarding-noneu.truecaller.com
@@ -327,8 +328,6 @@ api.remitly.io
 cards.remitly.io
 rewire.com
 app.rewire.to
-*.worldcoin.org
-*.consumer.worldcoin.org
 toolsforhumanity.com
 getworldcoin.com
 *.worldcoin-distributors.com
@@ -336,6 +335,8 @@ bioid-management.app
 *.worldcoin.dev
 worldcoin.org
 *.toolsforhumanity.com
+*.worldcoin.org
+*.consumer.worldcoin.org
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -508,8 +509,8 @@ www.fareharbor.com
 spark.fareharbor.com
 kyc-onboarding.booking.com
 secure.booking.com
-*.booking.com
 account.booking.com
+*.booking.com
 *.rentalcars.com
 careers.booking.com
 *.booking.com
@@ -900,8 +901,8 @@ hiltonhotels.jp
 hilton.com.tr
 hiltonbusinessonline.com
 hiltonlocalbiz.com
-*.hilton.com.tr
 *.hilton.com
+*.hilton.com.tr
 *.hilton.com
 *.hilton.io
 *.hilton.com.tr
@@ -1034,10 +1035,10 @@ api.sokos.fi
 cfapi.voikukka.fi
 www.kiwi.com
 *.kiwi.com
-*.skypicker.com
 auth.skypicker.com
 tequila.kiwi.com
 jobs.kiwi.com
+*.skypicker.com
 *.kiwi.com
 *.skypicker.com
 www.kiwi.com
@@ -1760,8 +1761,8 @@ www.elastic.co
 *.elstc.co
 *.elasticnet.co
 *.eops.nl
-*.swiftype.com
 cloud.elastic.co
+*.swiftype.com
 *.elastic.co
 *.found.io
 *.swiftype.com
@@ -1929,7 +1930,6 @@ http://bitso.com/alpha
 nvio.mx
 nvio.ar
 hackers_chosendomain.larksuite.com
-larksuite.com
 lark-frontier.byteoversea.com
 file.larksuite.com
 open.larksuite.com
@@ -1941,6 +1941,7 @@ passport.larksuite.com
 internal-api.larksuite.com
 internal-api-lark-api.larksuite.com
 internal-api-drive-stream.larksuite.com
+larksuite.com
 larksuite.com
 lark-frontier.byteoversea.com
 file.larksuite.com
@@ -2069,20 +2070,20 @@ api.adm.cloud.com
 (yoursubdomain).eu.iws.cloud.com
 (youriwssubdomain).cloud.com
 careers.tiktok.com
-creatormarketplace.tiktok.com
 developers.tiktok.com
-business.tiktok.com
 tiktok.com
 shop.tiktok.com
 live-backstage.tiktok.com
 academy-outbound-ads.tiktok.com
 fp-sg.tiktokv.com
 effecthouse.tiktok.com
-ads.tiktok.com
 *.tiktokv.com
-*.tiktok.com
 www.pangleglobal.com
+*.tiktok.com
+business.tiktok.com
 partner.tiktokshop.com
+creatormarketplace.tiktok.com
+ads.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2450,6 +2451,8 @@ imdbtv-backend-na.amazon.com
 mas-ext.amazon.com
 mas-sdk.amazon.com
 msh.amazon.com
+music-api.amazon.com
+music-hints-na.amazon.com
 *.amazon.cl
 *.amazon.co.za
 *.amazon.com.au
@@ -2920,7 +2923,6 @@ dashboard.omise.co
 offsite.omise.co
 www.omise.co
 www.opn.ooo
-hyatt.com
 www.hyatt.com
 world.hyatt.com
 salesportal.hyatt.com
@@ -2966,6 +2968,7 @@ new.www.vaxvacationaccess.com
 res.blueskytours.globalbookingsolutions.com
 res.fr.travelbrandsagent.com
 res.southwestvacations.com
+res.universalorlandovacations.com
 hyatt.com
 www.hyatt.com
 world.hyatt.com
@@ -3133,8 +3136,8 @@ pigeon.swiftfinancial.com
 scrutiny.swiftfinancial.com
 *.hyperwallet.com
 *.paylution.com
-*.paypalcorp.com
 *.braintreegateway.com
+*.paypalcorp.com
 *.paypal.com
 www.paypal-*.com
 *.xoom.com
@@ -3184,8 +3187,8 @@ chaturbate.com
 m.chaturbate.com
 billingsupport.chaturbate.com
 secure.chaturbate.com
-testnet.bitmex.com
 *.bitmex.com
+testnet.bitmex.com
 *.bitmex.com
 testnet.bitmex.com
 *.staging-airtableblocks.com
@@ -3294,18 +3297,18 @@ api.foliofn.com
 *.foliofirst.com
 *.folioinvesting.com
 developer.valvesoftware.com
-www.teamfortress.com
 www.counter-strike.net
 www.dota2.com
 support.steampowered.com
 partner.steampowered.com
-store.steampowered.com
 www.valvesoftware.com
 partner.steamgames.com
-steamcommunity.com
 playartifact.com
-help.steampowered.com
 api.steampowered.com
+steamcommunity.com
+www.teamfortress.com
+help.steampowered.com
+store.steampowered.com
 www.dota2.com
 support.steampowered.com
 partner.steampowered.com
@@ -3320,7 +3323,6 @@ playartifact.com
 help.steampowered.com
 developer.valvesoftware.com
 www.crypto.com
-*.crypto.com
 auth.crypto.com
 pay.crypto.com
 app.mona.co
@@ -3328,6 +3330,7 @@ tax.crypto.com
 *.mona.co
 js.crypto.com
 merchant.crypto.com
+*.crypto.com
 *.crypto.com
 *.mona.co
 www.crypto.com
@@ -3848,7 +3851,6 @@ www.udemy.com
 yourcompany.udemy.com
 www.udemy.com
 yourcompany.udemy.com
-*.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
 linkpop.com
@@ -3858,10 +3860,11 @@ shopify.plus
 arrive-server.shopifycloud.com
 *.shopifycs.com
 accounts.shopify.com
-*.shopify.io
 partners.shopify.com
 admin.shopify.com
 your-store.myshopify.com
+*.shopify.io
+*.shopify.com
 *.shopifycs.com
 *.shopify.io
 *.shopify.com
@@ -4159,13 +4162,13 @@ pro.coinbase.com
 custody.coinbase.com
 commerce.coinbase.com
 prime.coinbase.com
-institutional.coinbase.com
 api.coinbase.com
+institutional.coinbase.com
 *.base.org
 international.coinbase.com
 nft.coinbase.com
-cloud.coinbase.com
 coinbase.com
+cloud.coinbase.com
 *.coinbase.com
 *.coinbase.com
 *.cbhq.net
@@ -4206,9 +4209,9 @@ slack-imgs.com
 spaces.pm
 www.quip.com
 *.quip.com
-data.mail.yahoo.com
 le.yahooapis.com
 onepush.query.yahoo.com
+proddata.xobni.yahoo.com
 data.mail.yahoo.com
 le.yahooapis.com
 onepush.query.yahoo.com
@@ -4228,7 +4231,6 @@ hackathon-photos.hackerone-user-content.com
 cover-photos.hackerone-user-content.com
 hackathon-photos-us-east-2.hackerone-user-content.com
 profile-photos.hackerone-user-content.com
-hackerone-user-content.com
 profile-photos-us-east-2.hackerone-user-content.com
 cover-photos-us-east-2.hackerone-user-content.com
 app.pullrequest.com
@@ -4237,6 +4239,7 @@ ctf.hacker101.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 www.wearehackerone.com
 hackerone.com
+hackerone-user-content.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
