@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Mar 13 18:19:43 UTC 2024)
+## Domains with Bounties (Last Updated Wed Mar 13 19:17:14 UTC 2024)
 ```
 www.dyson.co.uk
 www.dysoncanada.ca
@@ -23,7 +23,6 @@ api.dysoncanada.ca
 api.dyson.dk
 api.dyson.it
 api.dyson.es
-api.dyson.co.uk
 api.dyson.at
 api.dyson.nl
 api.dyson.be
@@ -40,11 +39,12 @@ www.dyson.co.kr
 www.dyson.co.nz
 www.dyson.ae
 www.dyson.hk
-www.dyson.my
 shop.dyson.co.za
 www.sa.dyson.com
 www.dyson.cz
 www.dyson.com.ro
+*.cp.dyson.com
+www.dyson.cn
 *.dyson.com
 www.dyson.co.uk
 www.dyson.com
@@ -336,8 +336,8 @@ bioid-management.app
 *.worldcoin.dev
 worldcoin.org
 *.toolsforhumanity.com
-*.consumer.worldcoin.org
 *.worldcoin.org
+*.consumer.worldcoin.org
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -377,10 +377,10 @@ my.sheer.com
 www.sheer.com
 www.sheer.com
 my.sheer.com
-www.pornbox.com
 www.analvids.com
 www.ddfcontent.com
 www.pornworld.com
+www.pornbox.com
 www.pornbox.com
 www.analvids.com
 www.ddfcontent.com
@@ -461,10 +461,10 @@ www.mercadolibre.com.uy
 www.mercadolibre.cl
 www.mercadopago.cl
 www.mercadopago.com.br
-api.mercadolibre.com
+www.mercadolivre.com.br
 www.mercadopago.com.ar
 www.mercadolibre.com.ar
-www.mercadolivre.com.br
+api.mercadolibre.com
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -511,9 +511,9 @@ account.booking.com
 careers.booking.com
 secure.booking.com
 widget.rentalcars.com
-*.rentalcars.com
 booking.com
 *.booking.com
+*.rentalcars.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -870,8 +870,8 @@ stage.taskcluster.nonprod.cloudops.mozgcp.net
 community-tc.services.mozilla.com
 support.mozilla.org
 hg.mozilla.org
-www.mozilla.org
 monitor.mozilla.org
+www.mozilla.org
 developer.mozilla.org
 developer.mozilla.org
 profiler.firefox.com
@@ -902,8 +902,8 @@ hilton.com.tr
 hiltonbusinessonline.com
 hiltonlocalbiz.com
 *.hilton.com.tr
-*.hilton.com
 *.hiltonbusinessonline.com
+*.hilton.com
 *.hilton.com
 *.hilton.io
 *.hilton.com.tr
@@ -1035,11 +1035,11 @@ www.sokos.fi
 api.sokos.fi
 cfapi.voikukka.fi
 www.kiwi.com
-*.kiwi.com
 auth.skypicker.com
 tequila.kiwi.com
 jobs.kiwi.com
 *.skypicker.com
+*.kiwi.com
 *.kiwi.com
 *.skypicker.com
 www.kiwi.com
@@ -1514,12 +1514,12 @@ payoneer.com.cn
 payoneer.com.cn
 krisp.ai
 account.krisp.ai
-api.krisp.ai
 teams.krisp.ai
 download.krisp.ai
 analytics.krisp.ai
 upld.krisp.ai
 *.krisp.ai
+api.krisp.ai
 *.krisp.ai
 krisp.ai
 account.krisp.ai
@@ -1927,7 +1927,6 @@ api.bitso.com
 http://bitso.com/alpha
 nvio.mx
 nvio.ar
-larksuite.com
 lark-frontier.byteoversea.com
 file.larksuite.com
 api.larksuite.com
@@ -1937,9 +1936,10 @@ passport.larksuite.com
 internal-api.larksuite.com
 internal-api-lark-api.larksuite.com
 internal-api-drive-stream.larksuite.com
+larksuite.com
+open.larksuite.com
 app.larksuite.com
 hackers_chosendomain.larksuite.com
-open.larksuite.com
 larksuite.com
 lark-frontier.byteoversea.com
 file.larksuite.com
@@ -2002,9 +2002,9 @@ list-v2--netlify-plugins.netlify.app
 internal-docs.netlify.com
 supportal.netlify.app
 launchpad.37signals.com
-*.hey.com
 world.hey.com
 3.basecamp.com
+*.hey.com
 *.hey.com
 3.basecamp.com
 launchpad.37signals.com
@@ -2074,14 +2074,14 @@ fp-sg.tiktokv.com
 shop.tiktok.com
 effecthouse.tiktok.com
 careers.tiktok.com
-creatormarketplace.tiktok.com
-www.pangleglobal.com
 business.tiktok.com
 *.tiktokv.com
-*.tiktok.com
-partner.tiktokshop.com
 ads.tiktok.com
 tiktok.com
+creatormarketplace.tiktok.com
+www.pangleglobal.com
+*.tiktok.com
+partner.tiktokshop.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2423,7 +2423,6 @@ portal.polygon.technology
 *.ppbdev.com
 super6.skysports.com
 itv7.itv.com
-music.amazon.com
 chat.amazon.com
 track.amazon.com
 api.amazon.com
@@ -2451,6 +2450,7 @@ music-hints-na.amazon.com
 musicapp.amazon.com
 musiccentral.amazon.com
 pitangui.amazon.com
+preview-flex-capacity-na.amazon.com
 *.amazon.cl
 *.amazon.co.za
 *.amazon.com.au
@@ -2560,8 +2560,8 @@ www.alibabagroup.com
 *.alimama.com
 *.aliexpress.ru
 *.Daraz.com
-*.aliexpress.com
 *.alibaba.com
+*.aliexpress.com
 *.aliyun.com
 *.tmall.com
 *.alibaba.com
@@ -3111,14 +3111,6 @@ https://github.com/matomo-org/docker
 *.venmo.com
 paypal.me
 py.pl
-*.braintreepayments.com
-*.braintree-api.com
-*.braintree.tools
-prequal.swiftfinancial.com
-partner.swiftfinancial.com
-decision.swiftfinancial.com
-pigeon.swiftfinancial.com
-scrutiny.swiftfinancial.com
 www.swiftcapital.com
 www.swiftfinancial.com
 api.swiftfinancial.com
@@ -3127,14 +3119,22 @@ my.loanbuilder.com
 loanbuilder.com
 swiftfinancial.com
 swiftcapital.com
+*.braintreepayments.com
+*.braintree-api.com
+*.braintree.tools
+prequal.swiftfinancial.com
+partner.swiftfinancial.com
+decision.swiftfinancial.com
+pigeon.swiftfinancial.com
+scrutiny.swiftfinancial.com
 *.hyperwallet.com
 *.paylution.com
 *.braintreegateway.com
 www.loanbuilder.com
 my.swiftfinancial.com
 *.paypalcorp.com
-paypalobjects.com
 *.paypal.com
+paypalobjects.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -3321,11 +3321,11 @@ www.crypto.com
 auth.crypto.com
 pay.crypto.com
 app.mona.co
-*.mona.co
 js.crypto.com
 merchant.crypto.com
 *.crypto.com
 tax.crypto.com
+*.mona.co
 *.crypto.com
 *.mona.co
 www.crypto.com
@@ -3582,9 +3582,9 @@ lifeinvader.com
 rockstarnorth.com
 prod.ros.rockstargames.com
 support.rockstargames.com
-*.rockstargames.com
 circolocorecords.com/
 store.rockstargames.com
+*.rockstargames.com
 socialclub.rockstargames.com
 prod.ros.rockstargames.com
 support.rockstargames.com
@@ -3703,8 +3703,8 @@ classroom.github.com
 education.github.com
 npmjs.com
 npmjs.org
-api.github.com
 *.githubusercontent.com
+api.github.com
 github.com
 github.com
 api.github.com
@@ -3856,9 +3856,9 @@ arrive-server.shopifycloud.com
 accounts.shopify.com
 *.shopify.io
 shopifyinbox.com
+your-store.myshopify.com
 partners.shopify.com
 admin.shopify.com
-your-store.myshopify.com
 *.shopify.com
 *.shopifycs.com
 *.shopify.io
@@ -3898,7 +3898,6 @@ developer.playcanvas.com
 forum.playcanvas.com
 launch.playcanvas.com
 msg.playcanvas.com
-playcanvas.com
 relay.playcanvas.com
 rt.playcanvas.com
 store.playcanvas.com
@@ -3906,6 +3905,7 @@ playcanv.as
 *.sc-corp.net
 web.snapchat.com
 login.playcanvas.com
+playcanvas.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
@@ -4228,13 +4228,13 @@ ctf.hacker101.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 www.wearehackerone.com
 hackerone-user-content.com
-app.pullrequest.com
 cover-photos.hackerone-user-content.com
-hackerone-ext-content.com
+app.pullrequest.com
 www.hackerone.com
+hackerone-ext-content.com
 api.hackerone.com
-hackerone.com
 hackathon-photos.hackerone-user-content.com
+hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
