@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Mar 13 11:16:15 UTC 2024)
+## Domains with Bounties (Last Updated Wed Mar 13 12:22:01 UTC 2024)
 ```
 www.dyson.co.uk
 www.dysoncanada.ca
@@ -321,8 +321,8 @@ webonboarding-eu.truecaller.com
 cards.remitly.io
 rewire.com
 api.remitly.io
-remitly.com
 app.rewire.to
+remitly.com
 remitly.com
 api.remitly.io
 cards.remitly.io
@@ -509,10 +509,10 @@ spark.fareharbor.com
 kyc-onboarding.booking.com
 account.booking.com
 careers.booking.com
-*.booking.com
-booking.com
 secure.booking.com
 *.rentalcars.com
+*.booking.com
+booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -549,8 +549,8 @@ spark.fareharbor.com
 www.fareharbor.com
 *.bybit.com
 *.bybit.com
-portal.au.frontegg.com
 api.au.frontegg.com
+portal.au.frontegg.com
 api.au.frontegg.com
 portal.au.frontegg.com
 api2.frontapp.com
@@ -783,9 +783,9 @@ http://myvisainfinite.com/suntrust/en_us/home.html
 http://www.myvisacardportal.com/welcome/enbd/product/#
 yourdomain.freshdesk.com
 yourdomain.freshcaller.com
-yourdomain.freshchat.com
 yourdomain.myfreshworks.com
 yourdomain.freshservice.com
+yourdomain.freshchat.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -901,8 +901,8 @@ hiltonhotels.jp
 hilton.com.tr
 hiltonbusinessonline.com
 hiltonlocalbiz.com
-*.hilton.com
 *.hilton.com.tr
+*.hilton.com
 *.hilton.com
 *.hilton.io
 *.hilton.com.tr
@@ -1181,10 +1181,10 @@ www.stayz.com.au
 www.expediagroup.com
 www.flights.com
 *.travelocity.ca
-www.expedia.com
-*.expediapartnercentral.com
-*.expediacruises.com
 *.travelocity.com
+www.expedia.com
+*.expediacruises.com
+*.expediapartnercentral.com
 *.vrbo.com
 *.hotwire.com
 *.carrentals.com
@@ -1213,8 +1213,8 @@ www.expediagroup.com
 www.flights.com
 *.magiceden.dev
 *.magiceden.io
-magiceden.io
 *.magiceden.workers.dev
+magiceden.io
 magiceden.io
 *.magiceden.io
 *.magiceden.dev
@@ -1372,13 +1372,13 @@ ws.sorare.com
 *.shein.com
 *.romwe.com
 *.sheingsp.com
-my.exness.com
 pay.ibex.exchange
 exnessaffiliates.com
 social-trading.exness.com
 pwapi.ex2b.com
 exness.com
 api.excalls.mobi
+my.exness.com
 my.exness.com
 pay.ibex.exchange
 https://my.exness.com/webtrading/
@@ -1469,8 +1469,8 @@ bullsheet.me
 api.instacart.com
 admin.instacart.com
 shoppers.instacart.com
-*.instacart.com
 www.instacart.com
+*.instacart.com
 *.instacart.com
 *.instacart.tools
 api.instacart.com
@@ -1489,8 +1489,8 @@ community.databricks.com
 customer-academy.databricks.com
 labs.databricks.com
 marketplace.databricks.com
-databricks.com
 accounts.cloud.databricks.com
+databricks.com
 databricks.com
 academy.databricks.com
 accounts.cloud.databricks.com
@@ -1559,7 +1559,6 @@ metahuman.unrealengine.com
 twinmotion.unrealengine.com
 *.psyonix.com
 *.unrealengine.com
-*.fortnite.com
 *.mediatonic.co.uk
 *.3lateral.com
 *.cubicmotion.com
@@ -1938,8 +1937,8 @@ passport.larksuite.com
 internal-api.larksuite.com
 internal-api-lark-api.larksuite.com
 internal-api-drive-stream.larksuite.com
-hackers_chosendomain.larksuite.com
 app.larksuite.com
+hackers_chosendomain.larksuite.com
 larksuite.com
 lark-frontier.byteoversea.com
 file.larksuite.com
@@ -1983,10 +1982,10 @@ internal-docs.netlify.com
 *.services.netlify.com
 *.services-prod.nsvcs.net
 internal.netlify.com
-*.infra-prod.nsvcs.net
 *.ops.netlify.com
 app.netlify.com
 api.netlify.com
+*.infra-prod.nsvcs.net
 *.services.netlify.com
 *.services-prod.nsvcs.net
 *.infra-prod.nsvcs.net
@@ -2075,13 +2074,13 @@ fp-sg.tiktokv.com
 business.tiktok.com
 creatormarketplace.tiktok.com
 partner.tiktokshop.com
-effecthouse.tiktok.com
-ads.tiktok.com
-*.tiktokv.com
-shop.tiktok.com
 tiktok.com
-*.tiktok.com
+*.tiktokv.com
 www.pangleglobal.com
+ads.tiktok.com
+shop.tiktok.com
+*.tiktok.com
+effecthouse.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2428,7 +2427,6 @@ chat.amazon.com
 track.amazon.com
 api.amazon.com
 manufacturing.amazon.com
-aax-us-iad.amazon.com
 aca-livecards-service.amazon.com
 address-photos.amazon.com
 ads-setu-proxy.amazon.com
@@ -2449,6 +2447,7 @@ mas-sdk.amazon.com
 msh.amazon.com
 music-api.amazon.com
 music-hints-na.amazon.com
+musicapp.amazon.com
 *.amazon.cl
 *.amazon.co.za
 *.amazon.com.au
@@ -2850,6 +2849,7 @@ www.priceline.com
 reservations.rezserver.com
 cruises.priceline.com
 press.priceline.com
+www.bookingholdings.com
 www.priceline.com
 secure.rezserver.com
 reservations.rezserver.com
@@ -3054,7 +3054,6 @@ grammarly.ai
 *.grammarlyaws.com
 *.grammarly.com
 grammarly.ai
-fanduel.design
 com.fanduel.android.live
 sportsbook.fanduel.com
 *racing.fanduel.com
@@ -3076,6 +3075,7 @@ tvg.com
 www.4njbets.com
 fdbox.net
 *.fanduel.com
+fanduel.design
 *.fanduel.com
 *racing.fanduel.com
 fdbox.net
@@ -3318,11 +3318,11 @@ www.crypto.com
 auth.crypto.com
 pay.crypto.com
 app.mona.co
-tax.crypto.com
 *.mona.co
+js.crypto.com
 merchant.crypto.com
 *.crypto.com
-js.crypto.com
+tax.crypto.com
 *.crypto.com
 *.mona.co
 www.crypto.com
@@ -3408,8 +3408,8 @@ verovelvollisuustiedot.lahitapiola.fi
 sijoitusvakuutus.lahitapiola.fi
 privatetarget-1-www.zigzag
 privatetarget-2-secure.zigzag
-*.lahitapiola.fi
 *.beta.lahitapiola.fi
+*.lahitapiola.fi
 *.lahitapiolarahoitus.fi
 *.lahitapiola.fi
 *.tapiola.fi
@@ -3631,8 +3631,8 @@ card.starbucks.com.sg
 www.starbucks.com.sg
 cart.starbucks.co.jp
 www.starbucks.co.kr
-gift.starbucks.co.jp
 www.starbucks.com
+gift.starbucks.co.jp
 www.starbucksreserve.com
 gift.starbucks.co.jp
 login.starbucks.co.jp
@@ -3791,8 +3791,8 @@ secure-dfadmin.deriv.com
 werkenbijdefensie.nl
 mijnkombijdepolitie.nl
 doorstromen.mijnkombijdepolitie.nl
-www.werkenbijbakertilly.nl
 devmaximum.com
+www.werkenbijbakertilly.nl
 acme-challenge.nl
 nossl.nl
 no-reply.cloud
@@ -3839,8 +3839,8 @@ zopim.com
 app.futuresimple.com
 api.getbase.com
 http://h1-your-domain.zendesk.com/sell
-yourcompany.udemy.com
 www.udemy.com
+yourcompany.udemy.com
 www.udemy.com
 yourcompany.udemy.com
 *.shopifykloud.com
@@ -3853,8 +3853,8 @@ arrive-server.shopifycloud.com
 *.shopifycs.com
 accounts.shopify.com
 your-store.myshopify.com
-*.shopify.com
 partners.shopify.com
+*.shopify.com
 admin.shopify.com
 *.shopify.io
 *.shopifycs.com
@@ -3984,8 +3984,8 @@ callbacks.airbnb.com
 *.luxuryretreats.com
 *.hoteltonight-test.com
 www.hoteltonight.com
-*.airbnbcitizen.com
 www.airbnb.com
+*.airbnbcitizen.com
 *.airbnb.com
 www.airbnb.com
 next.airbnb.com
@@ -4149,11 +4149,11 @@ team-irc.irccloud.com
 blog.irccloud.com
 *.cbhq.net
 api.custody.coinbase.com
-api.coinbase.com
 pro.coinbase.com
 custody.coinbase.com
 commerce.coinbase.com
 prime.coinbase.com
+api.coinbase.com
 institutional.coinbase.com
 *.base.org
 international.coinbase.com
