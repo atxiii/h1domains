@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Mar 13 17:17:55 UTC 2024)
+## Domains with Bounties (Last Updated Wed Mar 13 18:19:43 UTC 2024)
 ```
 www.dyson.co.uk
 www.dysoncanada.ca
@@ -322,8 +322,8 @@ webonboarding-eu.truecaller.com
 cards.remitly.io
 rewire.com
 app.rewire.to
-api.remitly.io
 remitly.com
+api.remitly.io
 remitly.com
 api.remitly.io
 cards.remitly.io
@@ -336,8 +336,8 @@ bioid-management.app
 *.worldcoin.dev
 worldcoin.org
 *.toolsforhumanity.com
-*.worldcoin.org
 *.consumer.worldcoin.org
+*.worldcoin.org
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -461,10 +461,10 @@ www.mercadolibre.com.uy
 www.mercadolibre.cl
 www.mercadopago.cl
 www.mercadopago.com.br
-www.mercadolivre.com.br
 api.mercadolibre.com
 www.mercadopago.com.ar
 www.mercadolibre.com.ar
+www.mercadolivre.com.br
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -510,9 +510,9 @@ kyc-onboarding.booking.com
 account.booking.com
 careers.booking.com
 secure.booking.com
-booking.com
 widget.rentalcars.com
 *.rentalcars.com
+booking.com
 *.booking.com
 *.booking.com
 *.rentalcars.com
@@ -833,7 +833,6 @@ sync.services.mozilla.com
 push.services.mozilla.com
 crash-reports.allizom.org
 crash-stats.allizom.org
-aus5.mozilla.org
 bugzilla.mozilla.org
 hg.mozilla.org
 contile.services.mozilla.com
@@ -844,6 +843,7 @@ shavar.services.mozilla.com
 lando.services.mozilla.com
 phabricator.allizom.org
 firefox-ci-tc.services.mozilla.com
+aus5.mozilla.org
 addons.allizom.org
 accounts.firefox.com
 bugzilla.mozilla.org
@@ -902,8 +902,8 @@ hilton.com.tr
 hiltonbusinessonline.com
 hiltonlocalbiz.com
 *.hilton.com.tr
-*.hiltonbusinessonline.com
 *.hilton.com
+*.hiltonbusinessonline.com
 *.hilton.com
 *.hilton.io
 *.hilton.com.tr
@@ -1181,11 +1181,11 @@ www.fewo-direkt.de
 www.stayz.com.au
 www.expediagroup.com
 www.flights.com
-*.travelocity.ca
 www.expedia.com
-*.expediapartnercentral.com
 *.expediacruises.com
+*.expediapartnercentral.com
 *.travelocity.com
+*.travelocity.ca
 *.vrbo.com
 *.hotwire.com
 *.carrentals.com
@@ -1769,7 +1769,6 @@ cloud.elastic.co
 *.eops.nl
 www.elastic.co
 cloud.elastic.co
-*.stripe.com
 *.touchtechpayments.com
 api.taxjar.com
 js.stripe.com
@@ -1777,9 +1776,10 @@ js.stripe.com
 *.reckoproduction.com
 *.reckostaging.com
 *.link.co
-*.getbouncer.com
 api.stripe.com
 app.taxjar.com
+*.getbouncer.com
+*.stripe.com
 api.stripe.com
 *.stripe.com
 *.touchtechpayments.com
@@ -2071,17 +2071,17 @@ developers.tiktok.com
 live-backstage.tiktok.com
 academy-outbound-ads.tiktok.com
 fp-sg.tiktokv.com
-partner.tiktokshop.com
-tiktok.com
 shop.tiktok.com
 effecthouse.tiktok.com
 careers.tiktok.com
 creatormarketplace.tiktok.com
 www.pangleglobal.com
-*.tiktok.com
 business.tiktok.com
 *.tiktokv.com
+*.tiktok.com
+partner.tiktokshop.com
 ads.tiktok.com
+tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2450,6 +2450,7 @@ music-api.amazon.com
 music-hints-na.amazon.com
 musicapp.amazon.com
 musiccentral.amazon.com
+pitangui.amazon.com
 *.amazon.cl
 *.amazon.co.za
 *.amazon.com.au
@@ -2611,7 +2612,6 @@ maria.casino
 *.vladcazino.ro
 *.unibet.fr
 *.storspiller.com
-*.bingo.com
 *.mariacasino.com
 *.kolikkopelit.com
 *.casinohuone.com
@@ -2619,6 +2619,7 @@ maria.casino
 www.32red.com
 *.kes.kindredext.net
 *.highrolling.nu
+*.bingo.com
 *.unibet.com
 *.unibet.fr
 *.storspiller.com
@@ -3108,17 +3109,8 @@ https://github.com/matomo-org/docker
 *.xoom.com
 *.paydiant.com
 *.venmo.com
-paypalobjects.com
 paypal.me
 py.pl
-www.swiftcapital.com
-www.swiftfinancial.com
-api.swiftfinancial.com
-api.loanbuilder.com
-my.loanbuilder.com
-loanbuilder.com
-swiftfinancial.com
-swiftcapital.com
 *.braintreepayments.com
 *.braintree-api.com
 *.braintree.tools
@@ -3127,12 +3119,21 @@ partner.swiftfinancial.com
 decision.swiftfinancial.com
 pigeon.swiftfinancial.com
 scrutiny.swiftfinancial.com
+www.swiftcapital.com
+www.swiftfinancial.com
+api.swiftfinancial.com
+api.loanbuilder.com
+my.loanbuilder.com
+loanbuilder.com
+swiftfinancial.com
+swiftcapital.com
 *.hyperwallet.com
 *.paylution.com
 *.braintreegateway.com
 www.loanbuilder.com
 my.swiftfinancial.com
 *.paypalcorp.com
+paypalobjects.com
 *.paypal.com
 www.paypal-*.com
 *.xoom.com
@@ -3321,9 +3322,9 @@ auth.crypto.com
 pay.crypto.com
 app.mona.co
 *.mona.co
+js.crypto.com
 merchant.crypto.com
 *.crypto.com
-js.crypto.com
 tax.crypto.com
 *.crypto.com
 *.mona.co
@@ -3410,8 +3411,8 @@ verovelvollisuustiedot.lahitapiola.fi
 sijoitusvakuutus.lahitapiola.fi
 privatetarget-1-www.zigzag
 privatetarget-2-secure.zigzag
-*.lahitapiola.fi
 *.beta.lahitapiola.fi
+*.lahitapiola.fi
 *.lahitapiolarahoitus.fi
 *.lahitapiola.fi
 *.tapiola.fi
@@ -3702,8 +3703,8 @@ classroom.github.com
 education.github.com
 npmjs.com
 npmjs.org
-*.githubusercontent.com
 api.github.com
+*.githubusercontent.com
 github.com
 github.com
 api.github.com
@@ -3793,8 +3794,8 @@ secure-dfadmin.deriv.com
 werkenbijdefensie.nl
 mijnkombijdepolitie.nl
 doorstromen.mijnkombijdepolitie.nl
-www.werkenbijbakertilly.nl
 devmaximum.com
+www.werkenbijbakertilly.nl
 acme-challenge.nl
 nossl.nl
 no-reply.cloud
@@ -3852,13 +3853,13 @@ shop.app
 shopify.plus
 arrive-server.shopifycloud.com
 *.shopifycs.com
-partners.shopify.com
+accounts.shopify.com
 *.shopify.io
 shopifyinbox.com
-accounts.shopify.com
+partners.shopify.com
 admin.shopify.com
-*.shopify.com
 your-store.myshopify.com
+*.shopify.com
 *.shopifycs.com
 *.shopify.io
 *.shopify.com
@@ -3987,8 +3988,8 @@ callbacks.airbnb.com
 *.hoteltonight-test.com
 www.hoteltonight.com
 www.airbnb.com
-*.airbnb.com
 *.airbnbcitizen.com
+*.airbnb.com
 www.airbnb.com
 next.airbnb.com
 api.airbnb.com
@@ -4151,17 +4152,17 @@ team-irc.irccloud.com
 blog.irccloud.com
 *.cbhq.net
 api.custody.coinbase.com
+api.coinbase.com
 pro.coinbase.com
 custody.coinbase.com
 commerce.coinbase.com
 prime.coinbase.com
 institutional.coinbase.com
-api.coinbase.com
 *.base.org
 international.coinbase.com
 nft.coinbase.com
-cloud.coinbase.com
 *.coinbase.com
+cloud.coinbase.com
 coinbase.com
 *.coinbase.com
 *.cbhq.net
@@ -4187,9 +4188,9 @@ slack-imgs.com
 spaces.pm
 www.quip.com
 *.quip.com
-app.slack.com
 api.slack.com
 slack.com
+app.slack.com
 slack.com
 api.slack.com
 status.slack.com
@@ -4232,8 +4233,8 @@ cover-photos.hackerone-user-content.com
 hackerone-ext-content.com
 www.hackerone.com
 api.hackerone.com
-hackathon-photos.hackerone-user-content.com
 hackerone.com
+hackathon-photos.hackerone-user-content.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
