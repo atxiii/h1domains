@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Mar 13 22:15:18 UTC 2024)
+## Domains with Bounties (Last Updated Wed Mar 13 23:14:57 UTC 2024)
 ```
 www.dyson.co.uk
 www.dysoncanada.ca
@@ -333,10 +333,10 @@ getworldcoin.com
 *.worldcoin-distributors.com
 bioid-management.app
 *.worldcoin.dev
-worldcoin.org
 *.toolsforhumanity.com
 *.consumer.worldcoin.org
 *.worldcoin.org
+worldcoin.org
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -402,8 +402,8 @@ sso-sprint.dynatracelabs.com
 university-staging.dynatracelabs.com
 myaccount-hardening.dynatracelabs.com
 demo.dynamic.xyz
-app.dynamic.xyz
 app.dynamic-preprod.xyz
+app.dynamic.xyz
 app.dynamic-preprod.xyz
 demo.dynamic.xyz
 app.dynamic.xyz
@@ -459,10 +459,10 @@ www.mercadolibre.com.pe
 www.mercadolibre.com.uy
 www.mercadolibre.cl
 www.mercadopago.cl
-www.mercadolivre.com.br
 api.mercadolibre.com
-www.mercadopago.com.br
 www.mercadolibre.com.ar
+www.mercadolivre.com.br
+www.mercadopago.com.br
 www.mercadopago.com.ar
 api.mercadopago.com
 www.mercadopago.com.ar
@@ -828,7 +828,6 @@ api.tideplatform.in
 addons.allizom.org
 accounts.firefox.com
 location.services.mozilla.com
-sync.services.mozilla.com
 push.services.mozilla.com
 crash-reports.allizom.org
 crash-stats.allizom.org
@@ -843,6 +842,7 @@ lando.services.mozilla.com
 phabricator.allizom.org
 firefox-ci-tc.services.mozilla.com
 aus5.mozilla.org
+sync.services.mozilla.com
 addons.allizom.org
 accounts.firefox.com
 bugzilla.mozilla.org
@@ -869,8 +869,8 @@ stage.taskcluster.nonprod.cloudops.mozgcp.net
 community-tc.services.mozilla.com
 support.mozilla.org
 hg.mozilla.org
-monitor.mozilla.org
 www.mozilla.org
+monitor.mozilla.org
 developer.mozilla.org
 developer.mozilla.org
 profiler.firefox.com
@@ -1181,10 +1181,10 @@ www.stayz.com.au
 www.expediagroup.com
 www.flights.com
 www.expedia.com
-*.expediacruises.com
 *.expediapartnercentral.com
 *.travelocity.com
 *.travelocity.ca
+*.expediacruises.com
 *.vrbo.com
 *.hotwire.com
 *.carrentals.com
@@ -1489,8 +1489,8 @@ community.databricks.com
 customer-academy.databricks.com
 labs.databricks.com
 marketplace.databricks.com
-accounts.cloud.databricks.com
 databricks.com
+accounts.cloud.databricks.com
 databricks.com
 academy.databricks.com
 accounts.cloud.databricks.com
@@ -1757,8 +1757,8 @@ www.elastic.co
 *.elstc.co
 *.elasticnet.co
 *.eops.nl
-*.swiftype.com
 cloud.elastic.co
+*.swiftype.com
 *.elastic.co
 *.found.io
 *.swiftype.com
@@ -2032,8 +2032,8 @@ api.adm.cloud.com
 (yoursubdomain).ap.iws.cloud.com
 (yoursubdomain).eu.iws.cloud.com
 (youriwssubdomain).cloud.com
-(yoursubdomain).sharefile.com
 www.cloud.com
+(yoursubdomain).sharefile.com
 (yoursubdomain).sharefile.eu
 citrix.cloud.com
 www.cloud.com
@@ -2069,17 +2069,17 @@ developers.tiktok.com
 live-backstage.tiktok.com
 academy-outbound-ads.tiktok.com
 fp-sg.tiktokv.com
-effecthouse.tiktok.com
-shop.tiktok.com
 careers.tiktok.com
+shop.tiktok.com
+effecthouse.tiktok.com
+creatormarketplace.tiktok.com
+www.pangleglobal.com
 business.tiktok.com
 *.tiktokv.com
-www.pangleglobal.com
-creatormarketplace.tiktok.com
 tiktok.com
-*.tiktok.com
-ads.tiktok.com
 partner.tiktokshop.com
+ads.tiktok.com
+*.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2558,8 +2558,8 @@ www.alibabagroup.com
 *.alimama.com
 *.aliexpress.ru
 *.Daraz.com
-*.alibaba.com
 *.aliexpress.com
+*.alibaba.com
 *.aliyun.com
 *.tmall.com
 *.alibaba.com
@@ -3073,10 +3073,10 @@ promos.tvg.com
 service.tvg.com
 us.tvg.com
 tvg.com
+fdbox.net
+fanduel.design
 www.4njbets.com
 *.fanduel.com
-fanduel.design
-fdbox.net
 *.fanduel.com
 *racing.fanduel.com
 fdbox.net
@@ -3109,14 +3109,6 @@ https://github.com/matomo-org/docker
 *.venmo.com
 paypal.me
 py.pl
-www.swiftcapital.com
-www.swiftfinancial.com
-api.swiftfinancial.com
-api.loanbuilder.com
-my.loanbuilder.com
-loanbuilder.com
-swiftfinancial.com
-swiftcapital.com
 *.braintreepayments.com
 *.braintree-api.com
 *.braintree.tools
@@ -3125,6 +3117,14 @@ partner.swiftfinancial.com
 decision.swiftfinancial.com
 pigeon.swiftfinancial.com
 scrutiny.swiftfinancial.com
+www.swiftcapital.com
+www.swiftfinancial.com
+api.swiftfinancial.com
+api.loanbuilder.com
+my.loanbuilder.com
+loanbuilder.com
+swiftfinancial.com
+swiftcapital.com
 *.hyperwallet.com
 *.paylution.com
 *.braintreegateway.com
@@ -3296,12 +3296,12 @@ partner.steampowered.com
 www.valvesoftware.com
 partner.steamgames.com
 playartifact.com
-www.teamfortress.com
 help.steampowered.com
-steamcommunity.com
+www.teamfortress.com
 store.steampowered.com
 www.counter-strike.net
 api.steampowered.com
+steamcommunity.com
 www.dota2.com
 support.steampowered.com
 partner.steampowered.com
@@ -3319,8 +3319,8 @@ www.crypto.com
 auth.crypto.com
 pay.crypto.com
 app.mona.co
-js.crypto.com
 *.crypto.com
+js.crypto.com
 tax.crypto.com
 *.mona.co
 merchant.crypto.com
@@ -3702,8 +3702,8 @@ education.github.com
 npmjs.com
 npmjs.org
 api.github.com
-github.com
 *.githubusercontent.com
+github.com
 github.com
 api.github.com
 gist.github.com
@@ -3883,7 +3883,6 @@ accounts.snapchat.com
 app.snapchat.com
 map.snapchat.com
 story.snapchat.com
-ads.snapchat.com
 businesshelp.snapchat.com
 store.snapchat.com
 *.sc-core.net
@@ -3904,6 +3903,7 @@ playcanv.as
 web.snapchat.com
 login.playcanvas.com
 playcanvas.com
+ads.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
@@ -4225,10 +4225,10 @@ reviewer.pullrequest.com
 ctf.hacker101.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 www.wearehackerone.com
-cover-photos.hackerone-user-content.com
 app.pullrequest.com
-www.hackerone.com
+cover-photos.hackerone-user-content.com
 hackerone-ext-content.com
+www.hackerone.com
 api.hackerone.com
 hackathon-photos.hackerone-user-content.com
 hackerone.com
