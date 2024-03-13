@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Mar 13 20:16:12 UTC 2024)
+## Domains with Bounties (Last Updated Wed Mar 13 21:17:23 UTC 2024)
 ```
 www.dyson.co.uk
 www.dysoncanada.ca
@@ -32,7 +32,6 @@ api.dyson.de
 api.dyson.ch
 api.dyson.fr
 api.dyson.ie
-api.fi.dyson.com
 www.dyson.com.mx
 www.dyson.com.sg
 www.dyson.co.kr
@@ -41,10 +40,10 @@ www.dyson.ae
 www.dyson.hk
 shop.dyson.co.za
 www.sa.dyson.com
-www.dyson.cz
 www.dyson.com.ro
 *.cp.dyson.com
 www.dyson.cn
+shop.dyson.ru
 *.dyson.com
 www.dyson.co.uk
 www.dyson.com
@@ -111,7 +110,6 @@ account-onboarding-noneu.truecaller.com
 ads-audience-ingestion-noneu.truecaller.com
 ads-audience-uploader.truecaller.com
 ads-config-engine-noneu.truecaller.com
-ads-partner-noneu.truecaller.com
 ads-rules-asia-south1.truecaller.com
 ads-rules-noneu.truecaller.com
 ads5-asia-south1.truecaller.com
@@ -144,16 +142,17 @@ duo.truecaller.com
 edge-locations5.truecaller.com
 email-verification-noneu.truecaller.com
 enterprise-account-management-noneu.truecaller.com
-enterprise-accounts-noneu.truecaller.com
 enterprise-auth-noneu.truecaller.com
 enterprise-bizengage-noneu.truecaller.com
 enterprise-biznumbers-noneu.truecaller.com
 enterprise-feedback-noneu.truecaller.com
-enterprise-reports-noneu.truecaller.com
 enterprise-service-management-noneu.truecaller.com
 enterprise-survey-asia-south1.truecaller.com
 enterprise-survey-noneu.truecaller.com
 enterprise-webhooks-noneu.truecaller.com
+feedback-asia-south1.truecaller.com
+filter-store4-asia-south1.truecaller.com
+filter-store4.truecaller.com
 business.truecaller.com
 account-noneu.truecaller.com
 account-onboarding-noneu.truecaller.com
@@ -322,8 +321,8 @@ webonboarding-eu.truecaller.com
 cards.remitly.io
 rewire.com
 app.rewire.to
-api.remitly.io
 remitly.com
+api.remitly.io
 remitly.com
 api.remitly.io
 cards.remitly.io
@@ -336,8 +335,8 @@ bioid-management.app
 *.worldcoin.dev
 worldcoin.org
 *.toolsforhumanity.com
-*.worldcoin.org
 *.consumer.worldcoin.org
+*.worldcoin.org
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -390,8 +389,8 @@ sandbox.fireblocks.io
 http://sb-mobile-api.fireblocks.io
 http://sb-console-api.fireblocks.io
 http://sandbox-api.fireblocks.io
-sso-sprint.dynatracelabs.com
 *.sprint.dynatracelabs.com
+sso-sprint.dynatracelabs.com
 university-staging.dynatracelabs.com
 *.sprint.apps.dynatracelabs.com
 account-sprint.dynatracelabs.com
@@ -461,8 +460,8 @@ www.mercadolibre.com.uy
 www.mercadolibre.cl
 www.mercadopago.cl
 www.mercadopago.com.br
-www.mercadolivre.com.br
 www.mercadolibre.com.ar
+www.mercadolivre.com.br
 api.mercadolibre.com
 www.mercadopago.com.ar
 api.mercadopago.com
@@ -512,8 +511,8 @@ careers.booking.com
 secure.booking.com
 widget.rentalcars.com
 booking.com
-*.rentalcars.com
 *.booking.com
+*.rentalcars.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -564,8 +563,8 @@ api2.frontapp.com
 *.booztlet.com
 *.trip.com
 *.trip.com
-api.mergify.com
 dashboard.mergify.com
+api.mergify.com
 api.mergify.com
 dashboard.mergify.com
 www.compass.com
@@ -699,7 +698,6 @@ www.visa.com.lk
 www.visa.com.ms
 www.visa.com.my
 www.visa.com.ng
-www.visa.com.ph
 www.visa.com.sg
 www.visa.com.tr
 visa.com.ua
@@ -723,6 +721,7 @@ www.cardinalcommerce.com
 www.yellowpepper.com
 www.fraedom.com
 www.tink.com
+www.practicalmoneyskills.com
 aw.visa.com
 bb.visa.com
 bd.visa.com
@@ -1181,11 +1180,11 @@ www.fewo-direkt.de
 www.stayz.com.au
 www.expediagroup.com
 www.flights.com
+*.travelocity.ca
+*.travelocity.com
 www.expedia.com
 *.expediacruises.com
 *.expediapartnercentral.com
-*.travelocity.com
-*.travelocity.ca
 *.vrbo.com
 *.hotwire.com
 *.carrentals.com
@@ -1778,8 +1777,8 @@ js.stripe.com
 *.getbouncer.com
 app.taxjar.com
 *.touchtechpayments.com
-*.stripe.com
 api.stripe.com
+*.stripe.com
 api.stripe.com
 *.stripe.com
 *.touchtechpayments.com
@@ -1823,8 +1822,8 @@ app.spiketrap.io
 www.spiketrap.io
 old.reddit.com
 www.reddit.com
-matrix.redditspace.com
 ads.reddit.com
+matrix.redditspace.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1927,7 +1926,6 @@ api.bitso.com
 http://bitso.com/alpha
 nvio.mx
 nvio.ar
-larksuite.com
 lark-frontier.byteoversea.com
 file.larksuite.com
 api.larksuite.com
@@ -1937,9 +1935,10 @@ passport.larksuite.com
 internal-api.larksuite.com
 internal-api-lark-api.larksuite.com
 internal-api-drive-stream.larksuite.com
+larksuite.com
+open.larksuite.com
 app.larksuite.com
 hackers_chosendomain.larksuite.com
-open.larksuite.com
 larksuite.com
 lark-frontier.byteoversea.com
 file.larksuite.com
@@ -2071,17 +2070,17 @@ developers.tiktok.com
 live-backstage.tiktok.com
 academy-outbound-ads.tiktok.com
 fp-sg.tiktokv.com
-shop.tiktok.com
 effecthouse.tiktok.com
+shop.tiktok.com
 careers.tiktok.com
 business.tiktok.com
 *.tiktokv.com
-tiktok.com
-creatormarketplace.tiktok.com
 www.pangleglobal.com
-*.tiktok.com
-partner.tiktokshop.com
 ads.tiktok.com
+partner.tiktokshop.com
+creatormarketplace.tiktok.com
+tiktok.com
+*.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2347,15 +2346,14 @@ portal.polygon.technology
 *.miui.com
 *.xiaomiyoupin.com
 *.miwifi.com
-*.mi.com
 *.xiaomi.com
+*.mi.com
 *.mi.com
 *.xiaomi.com
 *.miui.com
 *.xiaomiyoupin.com
 *.miwifi.com
 *.betfair.com
-*.paddypower.com
 *.betfair.es
 *.betfair.ro
 *.betfair.se
@@ -2385,6 +2383,7 @@ portal.polygon.technology
 *.skybettingandgaming.design
 *.skybettingandgaming.info
 *.betsharedservices.io
+super6.skysports.com
 *.betfair.com
 *.paddypower.com
 *.betfair.es
@@ -3075,10 +3074,10 @@ promos.tvg.com
 service.tvg.com
 us.tvg.com
 tvg.com
-fdbox.net
 fanduel.design
-www.4njbets.com
 *.fanduel.com
+www.4njbets.com
+fdbox.net
 *.fanduel.com
 *racing.fanduel.com
 fdbox.net
@@ -3111,14 +3110,6 @@ https://github.com/matomo-org/docker
 *.venmo.com
 paypal.me
 py.pl
-www.swiftcapital.com
-www.swiftfinancial.com
-api.swiftfinancial.com
-api.loanbuilder.com
-my.loanbuilder.com
-loanbuilder.com
-swiftfinancial.com
-swiftcapital.com
 *.braintreepayments.com
 *.braintree-api.com
 *.braintree.tools
@@ -3127,6 +3118,14 @@ partner.swiftfinancial.com
 decision.swiftfinancial.com
 pigeon.swiftfinancial.com
 scrutiny.swiftfinancial.com
+www.swiftcapital.com
+www.swiftfinancial.com
+api.swiftfinancial.com
+api.loanbuilder.com
+my.loanbuilder.com
+loanbuilder.com
+swiftfinancial.com
+swiftcapital.com
 *.hyperwallet.com
 *.paylution.com
 *.braintreegateway.com
@@ -3298,8 +3297,8 @@ partner.steampowered.com
 www.valvesoftware.com
 partner.steamgames.com
 playartifact.com
-help.steampowered.com
 www.teamfortress.com
+help.steampowered.com
 steamcommunity.com
 store.steampowered.com
 www.counter-strike.net
@@ -3324,8 +3323,8 @@ app.mona.co
 *.crypto.com
 js.crypto.com
 tax.crypto.com
-*.mona.co
 merchant.crypto.com
+*.mona.co
 *.crypto.com
 *.mona.co
 www.crypto.com
@@ -3580,11 +3579,11 @@ gutenberg.run
 socialclub.rockstargames.com
 lifeinvader.com
 rockstarnorth.com
-prod.ros.rockstargames.com
 support.rockstargames.com
 circolocorecords.com/
 store.rockstargames.com
 *.rockstargames.com
+prod.ros.rockstargames.com
 socialclub.rockstargames.com
 prod.ros.rockstargames.com
 support.rockstargames.com
@@ -4160,10 +4159,10 @@ prime.coinbase.com
 institutional.coinbase.com
 *.base.org
 international.coinbase.com
-nft.coinbase.com
 *.coinbase.com
 cloud.coinbase.com
 coinbase.com
+nft.coinbase.com
 *.coinbase.com
 *.cbhq.net
 pro.coinbase.com
@@ -4233,8 +4232,8 @@ cover-photos.hackerone-user-content.com
 hackerone-ext-content.com
 www.hackerone.com
 api.hackerone.com
-hackerone.com
 hackathon-photos.hackerone-user-content.com
+hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
@@ -4402,13 +4401,13 @@ https://github.com/evolveum/midpoint
 https://svn.filezilla-project.org/svn/filezilla3/trunk/src/putty
 marketplace.magento.com
 magentocommerce.com
-magento.com
 u.magento.com
 imagine.magento.com
 magentolive.com
 account.magento.com
 repo.magento.com
 accounts.magento.cloud
+magento.com
 marketplace.magento.com
 magentocommerce.com
 repo.magento.com
