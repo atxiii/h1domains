@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Mar 13 12:22:01 UTC 2024)
+## Domains with Bounties (Last Updated Wed Mar 13 13:17:39 UTC 2024)
 ```
 www.dyson.co.uk
 www.dysoncanada.ca
@@ -509,10 +509,10 @@ spark.fareharbor.com
 kyc-onboarding.booking.com
 account.booking.com
 careers.booking.com
-secure.booking.com
-*.rentalcars.com
-*.booking.com
 booking.com
+*.booking.com
+*.rentalcars.com
+secure.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -784,8 +784,8 @@ http://www.myvisacardportal.com/welcome/enbd/product/#
 yourdomain.freshdesk.com
 yourdomain.freshcaller.com
 yourdomain.myfreshworks.com
-yourdomain.freshservice.com
 yourdomain.freshchat.com
+yourdomain.freshservice.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -869,8 +869,8 @@ stage.taskcluster.nonprod.cloudops.mozgcp.net
 community-tc.services.mozilla.com
 support.mozilla.org
 hg.mozilla.org
-monitor.mozilla.org
 www.mozilla.org
+monitor.mozilla.org
 developer.mozilla.org
 developer.mozilla.org
 profiler.firefox.com
@@ -901,8 +901,8 @@ hiltonhotels.jp
 hilton.com.tr
 hiltonbusinessonline.com
 hiltonlocalbiz.com
-*.hilton.com.tr
 *.hilton.com
+*.hilton.com.tr
 *.hilton.com
 *.hilton.io
 *.hilton.com.tr
@@ -1469,8 +1469,8 @@ bullsheet.me
 api.instacart.com
 admin.instacart.com
 shoppers.instacart.com
-www.instacart.com
 *.instacart.com
+www.instacart.com
 *.instacart.com
 *.instacart.tools
 api.instacart.com
@@ -1489,8 +1489,8 @@ community.databricks.com
 customer-academy.databricks.com
 labs.databricks.com
 marketplace.databricks.com
-accounts.cloud.databricks.com
 databricks.com
+accounts.cloud.databricks.com
 databricks.com
 academy.databricks.com
 accounts.cloud.databricks.com
@@ -1919,8 +1919,8 @@ fetlife.com
 fetlife.com
 bitso.com
 api.bitso.com
-nvio.mx
 nvio.ar
+nvio.mx
 bitso.com
 api.bitso.com
 http://bitso.com/alpha
@@ -2074,13 +2074,13 @@ fp-sg.tiktokv.com
 business.tiktok.com
 creatormarketplace.tiktok.com
 partner.tiktokshop.com
-tiktok.com
 *.tiktokv.com
-www.pangleglobal.com
 ads.tiktok.com
 shop.tiktok.com
 *.tiktok.com
 effecthouse.tiktok.com
+tiktok.com
+www.pangleglobal.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2549,7 +2549,6 @@ paragon-na.amazon.com
 read.amazon.com
 updates.amazon.com
 *.taobao.com
-*.aliyun.com
 *.alibabacloud.com
 *.1688.com
 *.alibaba-inc.com
@@ -2558,9 +2557,10 @@ www.alibabagroup.com
 *.alimama.com
 *.aliexpress.ru
 *.Daraz.com
-*.tmall.com
 *.aliexpress.com
 *.alibaba.com
+*.tmall.com
+*.aliyun.com
 *.alibaba.com
 *.aliexpress.com
 *.taobao.com
@@ -2586,7 +2586,6 @@ www.bmw-motorrad.de
 configure.bmw.de
 configure.mini.de
 konfigurator.bmw-motorrad.de
-auth.magic.link
 dashboard.magic.link
 api.magic.link
 fortmatic.com
@@ -2594,6 +2593,7 @@ api.fortmatic.com
 x2.fortmatic.com
 careers.fortmatic.com
 dashboard.fortmatic.com
+auth.magic.link
 api.fortmatic.com
 x2.fortmatic.com
 careers.fortmatic.com
@@ -2845,11 +2845,11 @@ cysiv.com
 app.command.cysiv.com
 api.rezserver.com
 admin.rezserver.com
-www.priceline.com
 reservations.rezserver.com
 cruises.priceline.com
 press.priceline.com
 www.bookingholdings.com
+secure.rezserver.com
 www.priceline.com
 secure.rezserver.com
 reservations.rezserver.com
@@ -3073,9 +3073,9 @@ service.tvg.com
 us.tvg.com
 tvg.com
 www.4njbets.com
+fanduel.design
 fdbox.net
 *.fanduel.com
-fanduel.design
 *.fanduel.com
 *racing.fanduel.com
 fdbox.net
@@ -3319,9 +3319,9 @@ auth.crypto.com
 pay.crypto.com
 app.mona.co
 *.mona.co
-js.crypto.com
 merchant.crypto.com
 *.crypto.com
+js.crypto.com
 tax.crypto.com
 *.crypto.com
 *.mona.co
@@ -3631,8 +3631,8 @@ card.starbucks.com.sg
 www.starbucks.com.sg
 cart.starbucks.co.jp
 www.starbucks.co.kr
-www.starbucks.com
 gift.starbucks.co.jp
+www.starbucks.com
 www.starbucksreserve.com
 gift.starbucks.co.jp
 login.starbucks.co.jp
@@ -3791,8 +3791,8 @@ secure-dfadmin.deriv.com
 werkenbijdefensie.nl
 mijnkombijdepolitie.nl
 doorstromen.mijnkombijdepolitie.nl
-devmaximum.com
 www.werkenbijbakertilly.nl
+devmaximum.com
 acme-challenge.nl
 nossl.nl
 no-reply.cloud
@@ -3839,8 +3839,8 @@ zopim.com
 app.futuresimple.com
 api.getbase.com
 http://h1-your-domain.zendesk.com/sell
-www.udemy.com
 yourcompany.udemy.com
+www.udemy.com
 www.udemy.com
 yourcompany.udemy.com
 *.shopifykloud.com
@@ -3852,11 +3852,11 @@ shopify.plus
 arrive-server.shopifycloud.com
 *.shopifycs.com
 accounts.shopify.com
-your-store.myshopify.com
-partners.shopify.com
 *.shopify.com
+partners.shopify.com
 admin.shopify.com
 *.shopify.io
+your-store.myshopify.com
 *.shopifycs.com
 *.shopify.io
 *.shopify.com
@@ -3984,8 +3984,8 @@ callbacks.airbnb.com
 *.luxuryretreats.com
 *.hoteltonight-test.com
 www.hoteltonight.com
-www.airbnb.com
 *.airbnbcitizen.com
+www.airbnb.com
 *.airbnb.com
 www.airbnb.com
 next.airbnb.com
@@ -4149,11 +4149,11 @@ team-irc.irccloud.com
 blog.irccloud.com
 *.cbhq.net
 api.custody.coinbase.com
+api.coinbase.com
 pro.coinbase.com
 custody.coinbase.com
 commerce.coinbase.com
 prime.coinbase.com
-api.coinbase.com
 institutional.coinbase.com
 *.base.org
 international.coinbase.com
@@ -4228,10 +4228,10 @@ ctf.hacker101.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 www.wearehackerone.com
 hackerone-user-content.com
-www.hackerone.com
-cover-photos.hackerone-user-content.com
 app.pullrequest.com
 hackerone.com
+cover-photos.hackerone-user-content.com
+www.hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
