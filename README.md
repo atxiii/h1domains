@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Mar 13 07:13:45 UTC 2024)
+## Domains with Bounties (Last Updated Wed Mar 13 08:18:04 UTC 2024)
 ```
 www.dyson.co.uk
 www.dysoncanada.ca
@@ -390,11 +390,11 @@ http://sb-mobile-api.fireblocks.io
 http://sb-console-api.fireblocks.io
 http://sandbox-api.fireblocks.io
 sso-sprint.dynatracelabs.com
-account-sprint.dynatracelabs.com
 *.sprint.dynatracelabs.com
 university-staging.dynatracelabs.com
 myaccount-hardening.dynatracelabs.com
 *.sprint.apps.dynatracelabs.com
+account-sprint.dynatracelabs.com
 *.sprint.dynatracelabs.com
 *.sprint.apps.dynatracelabs.com
 account-sprint.dynatracelabs.com
@@ -509,8 +509,8 @@ spark.fareharbor.com
 kyc-onboarding.booking.com
 secure.booking.com
 account.booking.com
-careers.booking.com
 *.rentalcars.com
+careers.booking.com
 *.booking.com
 booking.com
 *.booking.com
@@ -783,8 +783,8 @@ http://myvisainfinite.com/suntrust/en_us/home.html
 http://www.myvisacardportal.com/welcome/enbd/product/#
 yourdomain.freshdesk.com
 yourdomain.freshcaller.com
-yourdomain.freshchat.com
 yourdomain.myfreshworks.com
+yourdomain.freshchat.com
 yourdomain.freshservice.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
@@ -1010,7 +1010,6 @@ www.malwarebytes.com
 my.malwarebytes.com
 cloud.malwarebytes.com
 oneview.malwarebytes.com
-www.s-pankki.fi
 mobile.s-pankki.fi
 www.s-kaupat.fi
 extranet.s-pankki.fi
@@ -1021,6 +1020,7 @@ api.sokos.fi
 cfapi.voikukka.fi
 digili.s-cloud.fi
 online.s-pankki.fi
+www.s-pankki.fi
 online.s-pankki.fi
 www.s-pankki.fi
 https://crosskey.io/stores/s-pankki/apis
@@ -1176,7 +1176,6 @@ www.expediaagents.com
 *.lastminute.co.nz
 *.lastminute.com.au
 *.travelocity.com
-*.expediapartnercentral.com
 www.abritel.fr
 www.bookabach.co.nz
 www.fewo-direkt.de
@@ -1186,6 +1185,7 @@ www.flights.com
 *.travelocity.ca
 www.expedia.com
 *.expediacruises.com
+*.expediapartnercentral.com
 *.vrbo.com
 *.hotwire.com
 *.carrentals.com
@@ -1639,13 +1639,13 @@ capturingreality.com
 *.tinderwebstaging.com
 therecord.media
 api.recordedfuture.com
-app.recordedfuture.com
 id.recordedfuture.com
 securitytrails.com
 geminiadvisory.io
 hatching.io
 tria.ge
 www.recordedfuture.com
+app.recordedfuture.com
 www.recordedfuture.com
 api.recordedfuture.com
 app.recordedfuture.com
@@ -1938,8 +1938,8 @@ passport.larksuite.com
 internal-api.larksuite.com
 internal-api-lark-api.larksuite.com
 internal-api-drive-stream.larksuite.com
-hackers_chosendomain.larksuite.com
 app.larksuite.com
+hackers_chosendomain.larksuite.com
 larksuite.com
 lark-frontier.byteoversea.com
 file.larksuite.com
@@ -2022,7 +2022,6 @@ launch.cloud.com
 (yoursubdomain).sf-api.com
 (yoursubdomain).sf-api.eu
 sf-rp-eu.sharefile.com
-(yoursubdomain).sharefile.eu
 sf-rp-us.sharefile.com
 secure.sharefile.com
 sf-rp.sharefile.com
@@ -2035,8 +2034,9 @@ api.adm.cloud.com
 (yoursubdomain).ap.iws.cloud.com
 (yoursubdomain).eu.iws.cloud.com
 (youriwssubdomain).cloud.com
-(yoursubdomain).sharefile.com
 www.cloud.com
+(yoursubdomain).sharefile.com
+(yoursubdomain).sharefile.eu
 citrix.cloud.com
 www.cloud.com
 ap-s.cloud.com
@@ -2075,8 +2075,8 @@ fp-sg.tiktokv.com
 effecthouse.tiktok.com
 business.tiktok.com
 creatormarketplace.tiktok.com
-partner.tiktokshop.com
 www.pangleglobal.com
+partner.tiktokshop.com
 *.tiktokv.com
 *.tiktok.com
 shop.tiktok.com
@@ -2550,9 +2550,7 @@ na.account.amazon.com
 paragon-na.amazon.com
 read.amazon.com
 updates.amazon.com
-*.alibaba.com
 *.taobao.com
-*.tmall.com
 *.aliyun.com
 *.alibabacloud.com
 *.1688.com
@@ -2563,6 +2561,8 @@ www.alibabagroup.com
 *.aliexpress.ru
 *.Daraz.com
 *.aliexpress.com
+*.alibaba.com
+*.tmall.com
 *.alibaba.com
 *.aliexpress.com
 *.taobao.com
@@ -2947,7 +2947,6 @@ res.vacations.seaworld.com
 vacations.universalstudioshollywood.com
 vacations.us.palladiumhotelgroup.com
 vacations.vallarta.grandvelas.com
-www.funjet.com
 www.universalorlandovacations.com
 www.wynnvacations.com
 www.beachbound.com
@@ -2963,6 +2962,7 @@ res.universalorlandovacations.com
 res.vacations.united.com
 res.vacations.universalstudioshollywood.com
 reservations.wynnvacations.com
+rezagent.triseptsolutions.com
 hyatt.com
 www.hyatt.com
 world.hyatt.com
@@ -3110,6 +3110,14 @@ https://github.com/matomo-org/docker
 paypalobjects.com
 paypal.me
 py.pl
+*.braintreepayments.com
+*.braintree-api.com
+*.braintree.tools
+prequal.swiftfinancial.com
+partner.swiftfinancial.com
+decision.swiftfinancial.com
+pigeon.swiftfinancial.com
+scrutiny.swiftfinancial.com
 www.swiftcapital.com
 www.swiftfinancial.com
 api.swiftfinancial.com
@@ -3119,14 +3127,6 @@ my.loanbuilder.com
 loanbuilder.com
 swiftfinancial.com
 swiftcapital.com
-*.braintreepayments.com
-*.braintree-api.com
-*.braintree.tools
-prequal.swiftfinancial.com
-partner.swiftfinancial.com
-decision.swiftfinancial.com
-pigeon.swiftfinancial.com
-scrutiny.swiftfinancial.com
 *.hyperwallet.com
 *.paylution.com
 *.braintreegateway.com
@@ -3321,8 +3321,8 @@ pay.crypto.com
 app.mona.co
 tax.crypto.com
 *.mona.co
-merchant.crypto.com
 js.crypto.com
+merchant.crypto.com
 *.crypto.com
 *.crypto.com
 *.mona.co
@@ -3409,8 +3409,8 @@ verovelvollisuustiedot.lahitapiola.fi
 sijoitusvakuutus.lahitapiola.fi
 privatetarget-1-www.zigzag
 privatetarget-2-secure.zigzag
-*.lahitapiola.fi
 *.beta.lahitapiola.fi
+*.lahitapiola.fi
 *.lahitapiolarahoitus.fi
 *.lahitapiola.fi
 *.tapiola.fi
@@ -3460,8 +3460,8 @@ gifts.grab.com
 *.ovo.id
 *.taralite.com
 kartaview.org
-wiki.grab.com
 *.grab.com
+wiki.grab.com
 *.myteksi.com
 *.myteksi.net
 *.grab.com
@@ -3699,11 +3699,11 @@ classroom.github.com
 *.githubapp.com
 *.github.net
 education.github.com
-*.githubusercontent.com
 npmjs.com
 npmjs.org
 api.github.com
 github.com
+*.githubusercontent.com
 github.com
 api.github.com
 gist.github.com
@@ -3792,8 +3792,8 @@ secure-dfadmin.deriv.com
 werkenbijdefensie.nl
 mijnkombijdepolitie.nl
 doorstromen.mijnkombijdepolitie.nl
-www.werkenbijbakertilly.nl
 devmaximum.com
+www.werkenbijbakertilly.nl
 acme-challenge.nl
 nossl.nl
 no-reply.cloud
@@ -3854,8 +3854,8 @@ arrive-server.shopifycloud.com
 *.shopifycs.com
 accounts.shopify.com
 your-store.myshopify.com
-*.shopify.com
 partners.shopify.com
+*.shopify.com
 admin.shopify.com
 *.shopify.io
 *.shopifycs.com
@@ -3987,8 +3987,8 @@ callbacks.airbnb.com
 *.luxuryretreats.com
 *.hoteltonight-test.com
 www.hoteltonight.com
-*.airbnbcitizen.com
 www.airbnb.com
+*.airbnbcitizen.com
 www.airbnb.com
 next.airbnb.com
 api.airbnb.com
@@ -4048,7 +4048,6 @@ staging.magisto.com
 applause1.magisto.com
 www.livestream.com
 donations.livestream.com
-app.greenhouse.io
 www.greenhouse.io
 boards.greenhouse.io
 api.greenhouse.io
@@ -4057,6 +4056,7 @@ support.greenhouse.io
 jss.greenhouse.io
 interseller.io
 app.interseller.io
+app.greenhouse.io
 app.greenhouse.io
 boards.greenhouse.io
 api.greenhouse.io
@@ -4155,8 +4155,8 @@ pro.coinbase.com
 custody.coinbase.com
 commerce.coinbase.com
 prime.coinbase.com
-institutional.coinbase.com
 api.coinbase.com
+institutional.coinbase.com
 *.base.org
 international.coinbase.com
 nft.coinbase.com
@@ -4215,14 +4215,12 @@ yimg.com
 *.vpn.hackerone.net
 errors.hackerone.net
 api.hackerone.com
-www.hackerone.com
 hackerone.live
 mta-sts.wearehackerone.com
 a5s.hackerone-ext-content.com
 b5s.hackerone-ext-content.com
 hackerone-ext-content.com
 hackathon-photos.hackerone-user-content.com
-cover-photos.hackerone-user-content.com
 hackathon-photos-us-east-2.hackerone-user-content.com
 profile-photos.hackerone-user-content.com
 profile-photos-us-east-2.hackerone-user-content.com
@@ -4233,7 +4231,9 @@ ctf.hacker101.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 www.wearehackerone.com
 hackerone-user-content.com
+www.hackerone.com
 hackerone.com
+cover-photos.hackerone-user-content.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
