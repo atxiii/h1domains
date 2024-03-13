@@ -2,11 +2,10 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Mar 13 13:17:39 UTC 2024)
+## Domains with Bounties (Last Updated Wed Mar 13 14:18:24 UTC 2024)
 ```
 www.dyson.co.uk
 www.dysoncanada.ca
-www.dyson.it
 www.dyson.ie
 www.dyson.ch
 www.dyson.se
@@ -44,6 +43,8 @@ www.dyson.hk
 www.dyson.co.th
 www.dyson.my
 shop.dyson.co.za
+www.sa.dyson.com
+www.dyson.cz
 *.dyson.com
 www.dyson.co.uk
 www.dyson.com
@@ -320,9 +321,9 @@ webdirectory-eu.truecaller.com
 webonboarding-eu.truecaller.com
 cards.remitly.io
 rewire.com
-api.remitly.io
 app.rewire.to
 remitly.com
+api.remitly.io
 remitly.com
 api.remitly.io
 cards.remitly.io
@@ -335,8 +336,8 @@ bioid-management.app
 *.worldcoin.dev
 worldcoin.org
 *.toolsforhumanity.com
-*.consumer.worldcoin.org
 *.worldcoin.org
+*.consumer.worldcoin.org
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -413,10 +414,10 @@ editor.zyro.com
 logo.zyro.com
 cpanel.hostinger.com
 payments.hostinger.com
-www.niagahoster.co.id
 *.000webhost.com
 www.hostinger.com
 hpanel.hostinger.com
+www.niagahoster.co.id
 *.000webhost.com
 www.hostinger.com
 cpanel.hostinger.com
@@ -509,10 +510,10 @@ spark.fareharbor.com
 kyc-onboarding.booking.com
 account.booking.com
 careers.booking.com
+secure.booking.com
 booking.com
 *.booking.com
 *.rentalcars.com
-secure.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -783,8 +784,8 @@ http://myvisainfinite.com/suntrust/en_us/home.html
 http://www.myvisacardportal.com/welcome/enbd/product/#
 yourdomain.freshdesk.com
 yourdomain.freshcaller.com
-yourdomain.myfreshworks.com
 yourdomain.freshchat.com
+yourdomain.myfreshworks.com
 yourdomain.freshservice.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
@@ -869,8 +870,8 @@ stage.taskcluster.nonprod.cloudops.mozgcp.net
 community-tc.services.mozilla.com
 support.mozilla.org
 hg.mozilla.org
-www.mozilla.org
 monitor.mozilla.org
+www.mozilla.org
 developer.mozilla.org
 developer.mozilla.org
 profiler.firefox.com
@@ -901,8 +902,8 @@ hiltonhotels.jp
 hilton.com.tr
 hiltonbusinessonline.com
 hiltonlocalbiz.com
-*.hilton.com
 *.hilton.com.tr
+*.hilton.com
 *.hilton.com
 *.hilton.io
 *.hilton.com.tr
@@ -1180,11 +1181,11 @@ www.fewo-direkt.de
 www.stayz.com.au
 www.expediagroup.com
 www.flights.com
-*.travelocity.ca
-*.travelocity.com
 www.expedia.com
 *.expediacruises.com
 *.expediapartnercentral.com
+*.travelocity.com
+*.travelocity.ca
 *.vrbo.com
 *.hotwire.com
 *.carrentals.com
@@ -1213,8 +1214,8 @@ www.expediagroup.com
 www.flights.com
 *.magiceden.dev
 *.magiceden.io
-*.magiceden.workers.dev
 magiceden.io
+*.magiceden.workers.dev
 magiceden.io
 *.magiceden.io
 *.magiceden.dev
@@ -1489,8 +1490,8 @@ community.databricks.com
 customer-academy.databricks.com
 labs.databricks.com
 marketplace.databricks.com
-databricks.com
 accounts.cloud.databricks.com
+databricks.com
 databricks.com
 academy.databricks.com
 accounts.cloud.databricks.com
@@ -1768,7 +1769,6 @@ cloud.elastic.co
 *.eops.nl
 www.elastic.co
 cloud.elastic.co
-api.stripe.com
 *.stripe.com
 *.touchtechpayments.com
 api.taxjar.com
@@ -1779,6 +1779,7 @@ js.stripe.com
 *.reckostaging.com
 *.link.co
 *.getbouncer.com
+api.stripe.com
 api.stripe.com
 *.stripe.com
 *.touchtechpayments.com
@@ -1926,10 +1927,8 @@ api.bitso.com
 http://bitso.com/alpha
 nvio.mx
 nvio.ar
-larksuite.com
 lark-frontier.byteoversea.com
 file.larksuite.com
-open.larksuite.com
 api.larksuite.com
 caldav.larksuite.com
 status.larksuite.com
@@ -1937,8 +1936,10 @@ passport.larksuite.com
 internal-api.larksuite.com
 internal-api-lark-api.larksuite.com
 internal-api-drive-stream.larksuite.com
+larksuite.com
 app.larksuite.com
 hackers_chosendomain.larksuite.com
+open.larksuite.com
 larksuite.com
 lark-frontier.byteoversea.com
 file.larksuite.com
@@ -2033,8 +2034,8 @@ api.adm.cloud.com
 (yoursubdomain).ap.iws.cloud.com
 (yoursubdomain).eu.iws.cloud.com
 (youriwssubdomain).cloud.com
-www.cloud.com
 (yoursubdomain).sharefile.com
+www.cloud.com
 (yoursubdomain).sharefile.eu
 citrix.cloud.com
 www.cloud.com
@@ -2066,21 +2067,21 @@ api.adm.cloud.com
 (yoursubdomain).ap.iws.cloud.com
 (yoursubdomain).eu.iws.cloud.com
 (youriwssubdomain).cloud.com
-careers.tiktok.com
 developers.tiktok.com
 live-backstage.tiktok.com
 academy-outbound-ads.tiktok.com
 fp-sg.tiktokv.com
 business.tiktok.com
 creatormarketplace.tiktok.com
-partner.tiktokshop.com
-*.tiktokv.com
-ads.tiktok.com
-shop.tiktok.com
-*.tiktok.com
-effecthouse.tiktok.com
 tiktok.com
 www.pangleglobal.com
+partner.tiktokshop.com
+effecthouse.tiktok.com
+ads.tiktok.com
+shop.tiktok.com
+careers.tiktok.com
+*.tiktokv.com
+*.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2448,6 +2449,7 @@ msh.amazon.com
 music-api.amazon.com
 music-hints-na.amazon.com
 musicapp.amazon.com
+musiccentral.amazon.com
 *.amazon.cl
 *.amazon.co.za
 *.amazon.com.au
@@ -2586,7 +2588,6 @@ www.bmw-motorrad.de
 configure.bmw.de
 configure.mini.de
 konfigurator.bmw-motorrad.de
-dashboard.magic.link
 api.magic.link
 fortmatic.com
 api.fortmatic.com
@@ -2594,6 +2595,7 @@ x2.fortmatic.com
 careers.fortmatic.com
 dashboard.fortmatic.com
 auth.magic.link
+dashboard.magic.link
 api.fortmatic.com
 x2.fortmatic.com
 careers.fortmatic.com
@@ -3073,9 +3075,9 @@ service.tvg.com
 us.tvg.com
 tvg.com
 www.4njbets.com
-fanduel.design
 fdbox.net
 *.fanduel.com
+fanduel.design
 *.fanduel.com
 *racing.fanduel.com
 fdbox.net
@@ -3295,12 +3297,12 @@ partner.steampowered.com
 www.valvesoftware.com
 partner.steamgames.com
 playartifact.com
-api.steampowered.com
-www.teamfortress.com
 help.steampowered.com
+www.teamfortress.com
 steamcommunity.com
 store.steampowered.com
 www.counter-strike.net
+api.steampowered.com
 www.dota2.com
 support.steampowered.com
 partner.steampowered.com
@@ -3701,8 +3703,8 @@ education.github.com
 npmjs.com
 npmjs.org
 api.github.com
-github.com
 *.githubusercontent.com
+github.com
 github.com
 api.github.com
 gist.github.com
@@ -3746,11 +3748,11 @@ winecellar.zomato.com
 *.zomans.com
 *.hyperpure.com
 *.zdev.net
-*.runnr.in
 api.grofers.com
 api2.grofers.com
 blinkit.com
 *.zomato.com
+*.runnr.in
 *.zomato.com
 *.zdev.net
 *.zomans.com
@@ -3791,8 +3793,8 @@ secure-dfadmin.deriv.com
 werkenbijdefensie.nl
 mijnkombijdepolitie.nl
 doorstromen.mijnkombijdepolitie.nl
-www.werkenbijbakertilly.nl
 devmaximum.com
+www.werkenbijbakertilly.nl
 acme-challenge.nl
 nossl.nl
 no-reply.cloud
@@ -3851,12 +3853,12 @@ shop.app
 shopify.plus
 arrive-server.shopifycloud.com
 *.shopifycs.com
-accounts.shopify.com
-*.shopify.com
 partners.shopify.com
+*.shopify.com
+accounts.shopify.com
+your-store.myshopify.com
 admin.shopify.com
 *.shopify.io
-your-store.myshopify.com
 *.shopifycs.com
 *.shopify.io
 *.shopify.com
@@ -3985,8 +3987,8 @@ callbacks.airbnb.com
 *.hoteltonight-test.com
 www.hoteltonight.com
 *.airbnbcitizen.com
-www.airbnb.com
 *.airbnb.com
+www.airbnb.com
 www.airbnb.com
 next.airbnb.com
 api.airbnb.com
@@ -4176,7 +4178,6 @@ nft.coinbase.com
 http://coinbase.com
 international.coinbase.com
 *.base.org
-api.slack.com
 status.slack.com
 slackb.com
 edgeapi.slack.com
@@ -4188,6 +4189,7 @@ www.quip.com
 *.quip.com
 slack.com
 app.slack.com
+api.slack.com
 slack.com
 api.slack.com
 status.slack.com
@@ -4217,7 +4219,6 @@ hackerone.live
 mta-sts.wearehackerone.com
 a5s.hackerone-ext-content.com
 b5s.hackerone-ext-content.com
-hackerone-ext-content.com
 hackathon-photos.hackerone-user-content.com
 hackathon-photos-us-east-2.hackerone-user-content.com
 profile-photos.hackerone-user-content.com
@@ -4228,10 +4229,11 @@ ctf.hacker101.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 www.wearehackerone.com
 hackerone-user-content.com
-app.pullrequest.com
-hackerone.com
 cover-photos.hackerone-user-content.com
+app.pullrequest.com
 www.hackerone.com
+hackerone-ext-content.com
+hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
