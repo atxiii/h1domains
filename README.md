@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Mar 13 21:17:23 UTC 2024)
+## Domains with Bounties (Last Updated Wed Mar 13 22:15:18 UTC 2024)
 ```
 www.dyson.co.uk
 www.dysoncanada.ca
@@ -321,8 +321,8 @@ webonboarding-eu.truecaller.com
 cards.remitly.io
 rewire.com
 app.rewire.to
-remitly.com
 api.remitly.io
+remitly.com
 remitly.com
 api.remitly.io
 cards.remitly.io
@@ -389,8 +389,8 @@ sandbox.fireblocks.io
 http://sb-mobile-api.fireblocks.io
 http://sb-console-api.fireblocks.io
 http://sandbox-api.fireblocks.io
-*.sprint.dynatracelabs.com
 sso-sprint.dynatracelabs.com
+*.sprint.dynatracelabs.com
 university-staging.dynatracelabs.com
 *.sprint.apps.dynatracelabs.com
 account-sprint.dynatracelabs.com
@@ -402,8 +402,8 @@ sso-sprint.dynatracelabs.com
 university-staging.dynatracelabs.com
 myaccount-hardening.dynatracelabs.com
 demo.dynamic.xyz
-app.dynamic-preprod.xyz
 app.dynamic.xyz
+app.dynamic-preprod.xyz
 app.dynamic-preprod.xyz
 demo.dynamic.xyz
 app.dynamic.xyz
@@ -459,10 +459,10 @@ www.mercadolibre.com.pe
 www.mercadolibre.com.uy
 www.mercadolibre.cl
 www.mercadopago.cl
-www.mercadopago.com.br
-www.mercadolibre.com.ar
 www.mercadolivre.com.br
 api.mercadolibre.com
+www.mercadopago.com.br
+www.mercadolibre.com.ar
 www.mercadopago.com.ar
 api.mercadopago.com
 www.mercadopago.com.ar
@@ -508,10 +508,10 @@ spark.fareharbor.com
 kyc-onboarding.booking.com
 account.booking.com
 careers.booking.com
-secure.booking.com
 widget.rentalcars.com
 booking.com
 *.booking.com
+secure.booking.com
 *.rentalcars.com
 *.booking.com
 *.rentalcars.com
@@ -869,8 +869,8 @@ stage.taskcluster.nonprod.cloudops.mozgcp.net
 community-tc.services.mozilla.com
 support.mozilla.org
 hg.mozilla.org
-www.mozilla.org
 monitor.mozilla.org
+www.mozilla.org
 developer.mozilla.org
 developer.mozilla.org
 profiler.firefox.com
@@ -1180,11 +1180,11 @@ www.fewo-direkt.de
 www.stayz.com.au
 www.expediagroup.com
 www.flights.com
-*.travelocity.ca
-*.travelocity.com
 www.expedia.com
 *.expediacruises.com
 *.expediapartnercentral.com
+*.travelocity.com
+*.travelocity.ca
 *.vrbo.com
 *.hotwire.com
 *.carrentals.com
@@ -1469,8 +1469,8 @@ bullsheet.me
 api.instacart.com
 admin.instacart.com
 shoppers.instacart.com
-www.instacart.com
 *.instacart.com
+www.instacart.com
 *.instacart.com
 *.instacart.tools
 api.instacart.com
@@ -1517,8 +1517,8 @@ teams.krisp.ai
 download.krisp.ai
 analytics.krisp.ai
 upld.krisp.ai
-*.krisp.ai
 api.krisp.ai
+*.krisp.ai
 *.krisp.ai
 krisp.ai
 account.krisp.ai
@@ -1554,7 +1554,6 @@ accounts.evernote.com
 api.evernote.com
 *.unrealtournament.com
 *.psynet.gg
-*.epicgames.dev
 metahuman.unrealengine.com
 twinmotion.unrealengine.com
 *.psyonix.com
@@ -1814,7 +1813,6 @@ strapi.reddit.com
 m.reddit.com
 reddit.secure.force.com
 s.reddit.com
-*.reddit.com
 sh.reddit.com
 *.redditmedia.com
 redditforbusiness.com
@@ -1822,8 +1820,9 @@ app.spiketrap.io
 www.spiketrap.io
 old.reddit.com
 www.reddit.com
-ads.reddit.com
 matrix.redditspace.com
+ads.reddit.com
+*.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -2033,8 +2032,8 @@ api.adm.cloud.com
 (yoursubdomain).ap.iws.cloud.com
 (yoursubdomain).eu.iws.cloud.com
 (youriwssubdomain).cloud.com
-www.cloud.com
 (yoursubdomain).sharefile.com
+www.cloud.com
 (yoursubdomain).sharefile.eu
 citrix.cloud.com
 www.cloud.com
@@ -2076,11 +2075,11 @@ careers.tiktok.com
 business.tiktok.com
 *.tiktokv.com
 www.pangleglobal.com
-ads.tiktok.com
-partner.tiktokshop.com
 creatormarketplace.tiktok.com
 tiktok.com
 *.tiktok.com
+ads.tiktok.com
+partner.tiktokshop.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2346,8 +2345,8 @@ portal.polygon.technology
 *.miui.com
 *.xiaomiyoupin.com
 *.miwifi.com
-*.xiaomi.com
 *.mi.com
+*.xiaomi.com
 *.mi.com
 *.xiaomi.com
 *.miui.com
@@ -2559,8 +2558,8 @@ www.alibabagroup.com
 *.alimama.com
 *.aliexpress.ru
 *.Daraz.com
-*.aliexpress.com
 *.alibaba.com
+*.aliexpress.com
 *.aliyun.com
 *.tmall.com
 *.alibaba.com
@@ -3074,9 +3073,9 @@ promos.tvg.com
 service.tvg.com
 us.tvg.com
 tvg.com
-fanduel.design
-*.fanduel.com
 www.4njbets.com
+*.fanduel.com
+fanduel.design
 fdbox.net
 *.fanduel.com
 *racing.fanduel.com
@@ -3110,14 +3109,6 @@ https://github.com/matomo-org/docker
 *.venmo.com
 paypal.me
 py.pl
-*.braintreepayments.com
-*.braintree-api.com
-*.braintree.tools
-prequal.swiftfinancial.com
-partner.swiftfinancial.com
-decision.swiftfinancial.com
-pigeon.swiftfinancial.com
-scrutiny.swiftfinancial.com
 www.swiftcapital.com
 www.swiftfinancial.com
 api.swiftfinancial.com
@@ -3126,6 +3117,14 @@ my.loanbuilder.com
 loanbuilder.com
 swiftfinancial.com
 swiftcapital.com
+*.braintreepayments.com
+*.braintree-api.com
+*.braintree.tools
+prequal.swiftfinancial.com
+partner.swiftfinancial.com
+decision.swiftfinancial.com
+pigeon.swiftfinancial.com
+scrutiny.swiftfinancial.com
 *.hyperwallet.com
 *.paylution.com
 *.braintreegateway.com
@@ -3320,11 +3319,11 @@ www.crypto.com
 auth.crypto.com
 pay.crypto.com
 app.mona.co
-*.crypto.com
 js.crypto.com
+*.crypto.com
 tax.crypto.com
-merchant.crypto.com
 *.mona.co
+merchant.crypto.com
 *.crypto.com
 *.mona.co
 www.crypto.com
@@ -3703,8 +3702,8 @@ education.github.com
 npmjs.com
 npmjs.org
 api.github.com
-*.githubusercontent.com
 github.com
+*.githubusercontent.com
 github.com
 api.github.com
 gist.github.com
@@ -3751,8 +3750,8 @@ winecellar.zomato.com
 api.grofers.com
 api2.grofers.com
 blinkit.com
-*.runnr.in
 *.zomato.com
+*.runnr.in
 *.zomato.com
 *.zdev.net
 *.zomans.com
@@ -3852,12 +3851,12 @@ shop.app
 shopify.plus
 arrive-server.shopifycloud.com
 *.shopifycs.com
-accounts.shopify.com
 *.shopify.io
 shopifyinbox.com
 your-store.myshopify.com
 partners.shopify.com
 admin.shopify.com
+accounts.shopify.com
 *.shopify.com
 *.shopifycs.com
 *.shopify.io
@@ -4151,11 +4150,11 @@ team-irc.irccloud.com
 blog.irccloud.com
 *.cbhq.net
 api.custody.coinbase.com
-api.coinbase.com
 pro.coinbase.com
 custody.coinbase.com
 commerce.coinbase.com
 prime.coinbase.com
+api.coinbase.com
 institutional.coinbase.com
 *.base.org
 international.coinbase.com
@@ -4226,14 +4225,14 @@ reviewer.pullrequest.com
 ctf.hacker101.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 www.wearehackerone.com
-hackerone-user-content.com
-app.pullrequest.com
 cover-photos.hackerone-user-content.com
-hackerone-ext-content.com
+app.pullrequest.com
 www.hackerone.com
+hackerone-ext-content.com
 api.hackerone.com
 hackathon-photos.hackerone-user-content.com
 hackerone.com
+hackerone-user-content.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
