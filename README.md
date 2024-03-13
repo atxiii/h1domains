@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Mar 13 16:21:12 UTC 2024)
+## Domains with Bounties (Last Updated Wed Mar 13 17:17:55 UTC 2024)
 ```
 www.dyson.co.uk
 www.dysoncanada.ca
@@ -322,8 +322,8 @@ webonboarding-eu.truecaller.com
 cards.remitly.io
 rewire.com
 app.rewire.to
-remitly.com
 api.remitly.io
+remitly.com
 remitly.com
 api.remitly.io
 cards.remitly.io
@@ -454,7 +454,6 @@ www.mercadopago.com.mx
 www.mercadopago.com.co
 www.mercadopago.com.pe
 www.mercadopago.com.uy
-www.mercadolibre.com.ar
 www.mercadolibre.com.mx
 www.mercadolibre.com.co
 www.mercadolibre.com.pe
@@ -462,9 +461,10 @@ www.mercadolibre.com.uy
 www.mercadolibre.cl
 www.mercadopago.cl
 www.mercadopago.com.br
-api.mercadolibre.com
 www.mercadolivre.com.br
+api.mercadolibre.com
 www.mercadopago.com.ar
+www.mercadolibre.com.ar
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -510,10 +510,10 @@ kyc-onboarding.booking.com
 account.booking.com
 careers.booking.com
 secure.booking.com
-widget.rentalcars.com
 booking.com
-*.booking.com
+widget.rentalcars.com
 *.rentalcars.com
+*.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -870,8 +870,8 @@ stage.taskcluster.nonprod.cloudops.mozgcp.net
 community-tc.services.mozilla.com
 support.mozilla.org
 hg.mozilla.org
-monitor.mozilla.org
 www.mozilla.org
+monitor.mozilla.org
 developer.mozilla.org
 developer.mozilla.org
 profiler.firefox.com
@@ -898,11 +898,11 @@ hilton.io
 *.hiltonhotels.jp
 hiltonhotels.jp
 *.hilton.io
-*.hiltonbusinessonline.com
 hilton.com.tr
 hiltonbusinessonline.com
 hiltonlocalbiz.com
 *.hilton.com.tr
+*.hiltonbusinessonline.com
 *.hilton.com
 *.hilton.com
 *.hilton.io
@@ -1181,11 +1181,11 @@ www.fewo-direkt.de
 www.stayz.com.au
 www.expediagroup.com
 www.flights.com
-www.expedia.com
-*.expediacruises.com
-*.expediapartnercentral.com
-*.travelocity.com
 *.travelocity.ca
+www.expedia.com
+*.expediapartnercentral.com
+*.expediacruises.com
+*.travelocity.com
 *.vrbo.com
 *.hotwire.com
 *.carrentals.com
@@ -1351,8 +1351,8 @@ business.kayak.com
 www.momondo.com
 www.cheapflights.com
 www.mundi.com.br
-www.hotelscombined.com
 www.kayak.com
+www.hotelscombined.com
 www.kayak.com
 www.swoodoo.com
 www.checkfelix.com
@@ -1490,8 +1490,8 @@ community.databricks.com
 customer-academy.databricks.com
 labs.databricks.com
 marketplace.databricks.com
-databricks.com
 accounts.cloud.databricks.com
+databricks.com
 databricks.com
 academy.databricks.com
 accounts.cloud.databricks.com
@@ -2071,17 +2071,17 @@ developers.tiktok.com
 live-backstage.tiktok.com
 academy-outbound-ads.tiktok.com
 fp-sg.tiktokv.com
-business.tiktok.com
-tiktok.com
-www.pangleglobal.com
-careers.tiktok.com
 partner.tiktokshop.com
+tiktok.com
 shop.tiktok.com
 effecthouse.tiktok.com
+careers.tiktok.com
+creatormarketplace.tiktok.com
+www.pangleglobal.com
+*.tiktok.com
+business.tiktok.com
 *.tiktokv.com
 ads.tiktok.com
-*.tiktok.com
-creatormarketplace.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2559,8 +2559,8 @@ www.alibabagroup.com
 *.alimama.com
 *.aliexpress.ru
 *.Daraz.com
-*.alibaba.com
 *.aliexpress.com
+*.alibaba.com
 *.aliyun.com
 *.tmall.com
 *.alibaba.com
@@ -2657,9 +2657,9 @@ hotel-deals.marriott.com
 moments.marriottbonvoy.com
 help.marriott.com
 mipartnerprivileges.marriott.com
-www.marriott.com
 travelagents.marriott.com/
 traveler.marriott.com
+www.marriott.com
 homes-and-villas.marriott.com
 careers.marriott.com
 sso.marriott.com
@@ -2693,8 +2693,8 @@ www.goodrx.com
 www.goodrx.com
 *.rbx.com
 *.ra.roblox.com
-*.roblox.com
 *.guilded.gg
+*.roblox.com
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -2954,7 +2954,6 @@ www.beachbound.com
 book.applevacations.com
 book.booktandl.com
 login.fr.travelbrandsagent.com
-login.www.vaxvacationaccess.com
 new.www.vaxvacationaccess.com
 res.blueskytours.globalbookingsolutions.com
 res.fr.travelbrandsagent.com
@@ -2964,6 +2963,7 @@ res.vacations.united.com
 res.vacations.universalstudioshollywood.com
 reservations.wynnvacations.com
 rezagent.triseptsolutions.com
+shop.wyndhamvacationownership.trisept.travel
 hyatt.com
 www.hyatt.com
 world.hyatt.com
@@ -3074,9 +3074,9 @@ promos.tvg.com
 service.tvg.com
 us.tvg.com
 tvg.com
-www.4njbets.com
-*.fanduel.com
 fanduel.design
+*.fanduel.com
+www.4njbets.com
 fdbox.net
 *.fanduel.com
 *racing.fanduel.com
@@ -3130,9 +3130,9 @@ scrutiny.swiftfinancial.com
 *.hyperwallet.com
 *.paylution.com
 *.braintreegateway.com
-*.paypalcorp.com
 www.loanbuilder.com
 my.swiftfinancial.com
+*.paypalcorp.com
 *.paypal.com
 www.paypal-*.com
 *.xoom.com
@@ -3300,9 +3300,9 @@ playartifact.com
 www.teamfortress.com
 help.steampowered.com
 steamcommunity.com
+api.steampowered.com
 store.steampowered.com
 www.counter-strike.net
-api.steampowered.com
 www.dota2.com
 support.steampowered.com
 partner.steampowered.com
@@ -3410,8 +3410,8 @@ verovelvollisuustiedot.lahitapiola.fi
 sijoitusvakuutus.lahitapiola.fi
 privatetarget-1-www.zigzag
 privatetarget-2-secure.zigzag
-*.beta.lahitapiola.fi
 *.lahitapiola.fi
+*.beta.lahitapiola.fi
 *.lahitapiolarahoitus.fi
 *.lahitapiola.fi
 *.tapiola.fi
@@ -3702,9 +3702,9 @@ classroom.github.com
 education.github.com
 npmjs.com
 npmjs.org
+*.githubusercontent.com
 api.github.com
 github.com
-*.githubusercontent.com
 github.com
 api.github.com
 gist.github.com
@@ -3726,13 +3726,13 @@ https://docs.mapbox.com/api/
 api.mapbox.com
 customers.gitlab.com
 registry.gitlab.com
-*.gitlab.net
 *.gitlab.org
 *.gitlap.com
 about.gitlab.com
 docs.gitlab.com
 design.gitlab.com
 advisories.gitlab.com
+*.gitlab.net
 gitlab.com
 *.gitlab.net
 *.gitlab.org
@@ -3853,12 +3853,12 @@ shopify.plus
 arrive-server.shopifycloud.com
 *.shopifycs.com
 partners.shopify.com
-accounts.shopify.com
 *.shopify.io
 shopifyinbox.com
+accounts.shopify.com
 admin.shopify.com
-your-store.myshopify.com
 *.shopify.com
+your-store.myshopify.com
 *.shopifycs.com
 *.shopify.io
 *.shopify.com
@@ -4151,18 +4151,18 @@ team-irc.irccloud.com
 blog.irccloud.com
 *.cbhq.net
 api.custody.coinbase.com
-api.coinbase.com
 pro.coinbase.com
 custody.coinbase.com
 commerce.coinbase.com
 prime.coinbase.com
 institutional.coinbase.com
+api.coinbase.com
 *.base.org
 international.coinbase.com
 nft.coinbase.com
-coinbase.com
 cloud.coinbase.com
 *.coinbase.com
+coinbase.com
 *.coinbase.com
 *.cbhq.net
 pro.coinbase.com
@@ -4187,9 +4187,9 @@ slack-imgs.com
 spaces.pm
 www.quip.com
 *.quip.com
-slack.com
 app.slack.com
 api.slack.com
+slack.com
 slack.com
 api.slack.com
 status.slack.com
@@ -4227,10 +4227,10 @@ ctf.hacker101.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 www.wearehackerone.com
 hackerone-user-content.com
-cover-photos.hackerone-user-content.com
 app.pullrequest.com
-www.hackerone.com
+cover-photos.hackerone-user-content.com
 hackerone-ext-content.com
+www.hackerone.com
 api.hackerone.com
 hackathon-photos.hackerone-user-content.com
 hackerone.com
@@ -4402,12 +4402,12 @@ https://svn.filezilla-project.org/svn/filezilla3/trunk/src/putty
 marketplace.magento.com
 magentocommerce.com
 magento.com
-accounts.magento.cloud
 u.magento.com
 imagine.magento.com
 magentolive.com
 account.magento.com
 repo.magento.com
+accounts.magento.cloud
 marketplace.magento.com
 magentocommerce.com
 repo.magento.com
