@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Mar 14 00:45:43 UTC 2024)
+## Domains with Bounties (Last Updated Thu Mar 14 01:47:29 UTC 2024)
 ```
 www.dyson.co.uk
 www.dysoncanada.ca
@@ -460,10 +460,10 @@ www.mercadolibre.com.uy
 www.mercadolibre.cl
 www.mercadopago.cl
 api.mercadolibre.com
-www.mercadopago.com.br
-www.mercadopago.com.ar
 www.mercadolibre.com.ar
 www.mercadolivre.com.br
+www.mercadopago.com.br
+www.mercadopago.com.ar
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -1469,8 +1469,8 @@ bullsheet.me
 api.instacart.com
 admin.instacart.com
 shoppers.instacart.com
-*.instacart.com
 www.instacart.com
+*.instacart.com
 *.instacart.com
 *.instacart.tools
 api.instacart.com
@@ -1642,8 +1642,8 @@ securitytrails.com
 geminiadvisory.io
 hatching.io
 tria.ge
-app.recordedfuture.com
 www.recordedfuture.com
+app.recordedfuture.com
 www.recordedfuture.com
 api.recordedfuture.com
 app.recordedfuture.com
@@ -1771,11 +1771,11 @@ api.taxjar.com
 *.reckoproduction.com
 *.link.co
 *.reckostaging.com
-*.touchtechpayments.com
 *.recko.io
+js.stripe.com
 *.getbouncer.com
 app.taxjar.com
-js.stripe.com
+*.touchtechpayments.com
 *.stripe.com
 api.stripe.com
 api.stripe.com
@@ -1818,11 +1818,11 @@ sh.reddit.com
 redditforbusiness.com
 app.spiketrap.io
 www.spiketrap.io
+*.reddit.com
 old.reddit.com
 www.reddit.com
 ads.reddit.com
 matrix.redditspace.com
-*.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -2032,8 +2032,8 @@ api.adm.cloud.com
 (yoursubdomain).ap.iws.cloud.com
 (yoursubdomain).eu.iws.cloud.com
 (youriwssubdomain).cloud.com
-www.cloud.com
 (yoursubdomain).sharefile.com
+www.cloud.com
 (yoursubdomain).sharefile.eu
 citrix.cloud.com
 www.cloud.com
@@ -2068,18 +2068,18 @@ api.adm.cloud.com
 live-backstage.tiktok.com
 academy-outbound-ads.tiktok.com
 fp-sg.tiktokv.com
+careers.tiktok.com
 shop.tiktok.com
 effecthouse.tiktok.com
-careers.tiktok.com
-business.tiktok.com
-*.tiktokv.com
 creatormarketplace.tiktok.com
 www.pangleglobal.com
-partner.tiktokshop.com
+business.tiktok.com
+*.tiktokv.com
 *.tiktok.com
 developers.tiktok.com
 tiktok.com
 ads.tiktok.com
+partner.tiktokshop.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2345,8 +2345,8 @@ portal.polygon.technology
 *.miui.com
 *.xiaomiyoupin.com
 *.miwifi.com
-*.xiaomi.com
 *.mi.com
+*.xiaomi.com
 *.mi.com
 *.xiaomi.com
 *.miui.com
@@ -2449,6 +2449,7 @@ musicapp.amazon.com
 musiccentral.amazon.com
 pitangui.amazon.com
 preview-flex-capacity-na.amazon.com
+prod-dp-discovery-us-east-1.amazon.com
 *.amazon.cl
 *.amazon.co.za
 *.amazon.com.au
@@ -2558,8 +2559,8 @@ www.alibabagroup.com
 *.alimama.com
 *.aliexpress.ru
 *.Daraz.com
-*.aliexpress.com
 *.alibaba.com
+*.aliexpress.com
 *.aliyun.com
 *.tmall.com
 *.alibaba.com
@@ -2849,8 +2850,8 @@ admin.rezserver.com
 reservations.rezserver.com
 cruises.priceline.com
 press.priceline.com
-flyiin.com
-www.priceline.com
+www.bookingholdings.com
+secure.rezserver.com
 www.priceline.com
 secure.rezserver.com
 reservations.rezserver.com
@@ -2875,13 +2876,13 @@ www.smartsheet.com
 *authenticate.trustpilot.com
 *invitations-api.trustpilot.com
 *b2b.trustpilot.com
-*www.trustpilot.com
 *widget.trustpilot.com
 *business.trustpilot.com
 *signup.business.trustpilot.com
 *emailsignature.trustpilot.com
 *share.trustpilot.com
 *legal.trustpilot.com
+*www.trustpilot.com
 *api.trustpilot.com
 *authenticate.trustpilot.com
 *invitations-api.trustpilot.com
@@ -3109,14 +3110,6 @@ https://github.com/matomo-org/docker
 *.venmo.com
 paypal.me
 py.pl
-*.braintreepayments.com
-*.braintree-api.com
-*.braintree.tools
-prequal.swiftfinancial.com
-partner.swiftfinancial.com
-decision.swiftfinancial.com
-pigeon.swiftfinancial.com
-scrutiny.swiftfinancial.com
 www.swiftcapital.com
 www.swiftfinancial.com
 api.swiftfinancial.com
@@ -3125,14 +3118,22 @@ my.loanbuilder.com
 loanbuilder.com
 swiftfinancial.com
 swiftcapital.com
+*.braintreepayments.com
+*.braintree-api.com
+*.braintree.tools
+prequal.swiftfinancial.com
+partner.swiftfinancial.com
+decision.swiftfinancial.com
+pigeon.swiftfinancial.com
+scrutiny.swiftfinancial.com
 *.hyperwallet.com
 *.paylution.com
-*.braintreegateway.com
+*.paypal.com
 www.loanbuilder.com
 my.swiftfinancial.com
 *.paypalcorp.com
 paypalobjects.com
-*.paypal.com
+*.braintreegateway.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -3187,8 +3188,8 @@ testnet.bitmex.com
 testnet.bitmex.com
 *.staging-airtableblocks.com
 api-staging.airtable.com
-staging.airtable.com
 *.staging.airtable.com
+staging.airtable.com
 *.staging-airtableblocks.com
 *.staging.airtable.com
 staging.airtable.com
@@ -3409,8 +3410,8 @@ verovelvollisuustiedot.lahitapiola.fi
 sijoitusvakuutus.lahitapiola.fi
 privatetarget-1-www.zigzag
 privatetarget-2-secure.zigzag
-*.beta.lahitapiola.fi
 *.lahitapiola.fi
+*.beta.lahitapiola.fi
 *.lahitapiolarahoitus.fi
 *.lahitapiola.fi
 *.tapiola.fi
@@ -4150,11 +4151,11 @@ team-irc.irccloud.com
 blog.irccloud.com
 *.cbhq.net
 api.custody.coinbase.com
+api.coinbase.com
 pro.coinbase.com
 custody.coinbase.com
 commerce.coinbase.com
 prime.coinbase.com
-api.coinbase.com
 institutional.coinbase.com
 *.base.org
 international.coinbase.com
@@ -4225,12 +4226,12 @@ reviewer.pullrequest.com
 ctf.hacker101.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 www.wearehackerone.com
-hackathon-photos.hackerone-user-content.com
-app.pullrequest.com
 cover-photos.hackerone-user-content.com
-hackerone-ext-content.com
+app.pullrequest.com
 www.hackerone.com
+hackerone-ext-content.com
 api.hackerone.com
+hackathon-photos.hackerone-user-content.com
 hackerone-user-content.com
 hackerone.com
 hackerone.com
@@ -4404,9 +4405,9 @@ u.magento.com
 imagine.magento.com
 magentolive.com
 account.magento.com
+magento.com
 repo.magento.com
 accounts.magento.cloud
-magento.com
 marketplace.magento.com
 magentocommerce.com
 repo.magento.com
