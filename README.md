@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Mar 14 14:16:08 UTC 2024)
+## Domains with Bounties (Last Updated Thu Mar 14 15:17:54 UTC 2024)
 ```
 www.dyson.co.uk
 www.dysoncanada.ca
@@ -391,8 +391,8 @@ sso-sprint.dynatracelabs.com
 university-staging.dynatracelabs.com
 *.sprint.apps.dynatracelabs.com
 account-sprint.dynatracelabs.com
-myaccount-hardening.dynatracelabs.com
 *.sprint.dynatracelabs.com
+myaccount-hardening.dynatracelabs.com
 *.sprint.dynatracelabs.com
 *.sprint.apps.dynatracelabs.com
 account-sprint.dynatracelabs.com
@@ -410,9 +410,9 @@ backend.zyro.com
 editor.zyro.com
 logo.zyro.com
 payments.hostinger.com
-www.niagahoster.co.id
 *.000webhost.com
 www.hostinger.com
+www.niagahoster.co.id
 hpanel.hostinger.com
 cpanel.hostinger.com
 *.000webhost.com
@@ -504,13 +504,13 @@ cars.booking.com
 www.fareharbor.com
 spark.fareharbor.com
 kyc-onboarding.booking.com
-booking.com
 account.booking.com
 careers.booking.com
 widget.rentalcars.com
+booking.com
 *.booking.com
-*.rentalcars.com
 secure.booking.com
+*.rentalcars.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -547,8 +547,8 @@ spark.fareharbor.com
 www.fareharbor.com
 *.bybit.com
 *.bybit.com
-api.au.frontegg.com
 portal.au.frontegg.com
+api.au.frontegg.com
 api.au.frontegg.com
 portal.au.frontegg.com
 api2.frontapp.com
@@ -780,10 +780,10 @@ www.visainfinite.ca
 http://myvisainfinite.com/suntrust/en_us/home.html
 http://www.myvisacardportal.com/welcome/enbd/product/#
 yourdomain.freshcaller.com
-yourdomain.freshservice.com
 yourdomain.freshdesk.com
-yourdomain.myfreshworks.com
+yourdomain.freshservice.com
 yourdomain.freshchat.com
+yourdomain.myfreshworks.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -837,9 +837,9 @@ mozilla-pontoon-staging.herokuapp.com
 shavar.services.mozilla.com
 lando.services.mozilla.com
 phabricator.allizom.org
-firefox-ci-tc.services.mozilla.com
 aus5.mozilla.org
 sync.services.mozilla.com
+firefox-ci-tc.services.mozilla.com
 firefox.settings.services.mozilla.com
 addons.allizom.org
 accounts.firefox.com
@@ -1034,8 +1034,8 @@ cfapi.voikukka.fi
 www.kiwi.com
 auth.skypicker.com
 jobs.kiwi.com
-tequila.kiwi.com
 *.kiwi.com
+tequila.kiwi.com
 *.skypicker.com
 *.kiwi.com
 *.skypicker.com
@@ -1180,9 +1180,9 @@ www.expediagroup.com
 www.flights.com
 *.travelocity.ca
 *.expediapartnercentral.com
+www.expedia.com
 *.expediacruises.com
 *.travelocity.com
-www.expedia.com
 *.vrbo.com
 *.hotwire.com
 *.carrentals.com
@@ -1209,10 +1209,10 @@ www.fewo-direkt.de
 www.stayz.com.au
 www.expediagroup.com
 www.flights.com
-magiceden.io
 *.magiceden.io
 *.magiceden.workers.dev
 *.magiceden.dev
+magiceden.io
 magiceden.io
 *.magiceden.io
 *.magiceden.dev
@@ -1487,8 +1487,8 @@ community.databricks.com
 customer-academy.databricks.com
 labs.databricks.com
 marketplace.databricks.com
-databricks.com
 accounts.cloud.databricks.com
+databricks.com
 databricks.com
 academy.databricks.com
 accounts.cloud.databricks.com
@@ -1638,8 +1638,8 @@ securitytrails.com
 geminiadvisory.io
 hatching.io
 tria.ge
-app.recordedfuture.com
 www.recordedfuture.com
+app.recordedfuture.com
 www.recordedfuture.com
 api.recordedfuture.com
 app.recordedfuture.com
@@ -1767,10 +1767,10 @@ api.taxjar.com
 *.reckoproduction.com
 *.link.co
 *.reckostaging.com
-*.recko.io
-js.stripe.com
-app.taxjar.com
 *.touchtechpayments.com
+*.recko.io
+app.taxjar.com
+js.stripe.com
 *.stripe.com
 api.stripe.com
 *.getbouncer.com
@@ -1921,7 +1921,6 @@ api.bitso.com
 http://bitso.com/alpha
 nvio.mx
 nvio.ar
-larksuite.com
 lark-frontier.byteoversea.com
 file.larksuite.com
 api.larksuite.com
@@ -1931,8 +1930,9 @@ passport.larksuite.com
 internal-api.larksuite.com
 internal-api-lark-api.larksuite.com
 internal-api-drive-stream.larksuite.com
-app.larksuite.com
+larksuite.com
 open.larksuite.com
+app.larksuite.com
 hackers_chosendomain.larksuite.com
 larksuite.com
 lark-frontier.byteoversea.com
@@ -1979,8 +1979,8 @@ internal-docs.netlify.com
 internal.netlify.com
 *.ops.netlify.com
 api.netlify.com
-app.netlify.com
 *.infra-prod.nsvcs.net
+app.netlify.com
 *.services.netlify.com
 *.services-prod.nsvcs.net
 *.infra-prod.nsvcs.net
@@ -2064,18 +2064,18 @@ api.adm.cloud.com
 live-backstage.tiktok.com
 academy-outbound-ads.tiktok.com
 fp-sg.tiktokv.com
+creatormarketplace.tiktok.com
+developers.tiktok.com
 effecthouse.tiktok.com
 careers.tiktok.com
-creatormarketplace.tiktok.com
 business.tiktok.com
-developers.tiktok.com
 ads.tiktok.com
 partner.tiktokshop.com
 *.tiktokv.com
 www.pangleglobal.com
 shop.tiktok.com
-*.tiktok.com
 tiktok.com
+*.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2142,8 +2142,8 @@ api.faraday.ai
 *-api-*.acronis.com
 *.devicelock.com
 *.acronis.work
-account.acronis.com
 *.acronis.com
+account.acronis.com
 beta-cloud.acronis.com
 *.5nine.com
 *-api-*.acronis.com
@@ -2554,8 +2554,8 @@ www.alibabagroup.com
 *.aliexpress.ru
 *.Daraz.com
 *.aliyun.com
-*.taobao.com
 *.alibaba.com
+*.taobao.com
 *.alibabacloud.com
 *.tmall.com
 *.aliexpress.com
@@ -2590,8 +2590,8 @@ api.fortmatic.com
 x2.fortmatic.com
 careers.fortmatic.com
 dashboard.fortmatic.com
-auth.magic.link
 dashboard.magic.link
+auth.magic.link
 api.fortmatic.com
 x2.fortmatic.com
 careers.fortmatic.com
@@ -3068,10 +3068,10 @@ pabets.tvg.com
 promos.tvg.com
 service.tvg.com
 us.tvg.com
-*.fanduel.com
-www.4njbets.com
 tvg.com
 fanduel.design
+*.fanduel.com
+www.4njbets.com
 fdbox.net
 *.fanduel.com
 *racing.fanduel.com
@@ -3166,8 +3166,8 @@ m.chaturbate.com
 billingsupport.chaturbate.com
 *.mmcdn.com
 *.mmwebc.dev
-*.cb.dev
 chaturbate.com
+*.cb.dev
 *.highwebmedia.com
 *.securegatewayaccess.com
 *.mmcdn.com
@@ -3292,8 +3292,8 @@ partner.steampowered.com
 www.valvesoftware.com
 partner.steamgames.com
 playartifact.com
-help.steampowered.com
 www.teamfortress.com
+help.steampowered.com
 www.counter-strike.net
 steamcommunity.com
 api.steampowered.com
@@ -3315,10 +3315,10 @@ www.crypto.com
 auth.crypto.com
 pay.crypto.com
 app.mona.co
-*.mona.co
 *.crypto.com
 js.crypto.com
 tax.crypto.com
+*.mona.co
 merchant.crypto.com
 *.crypto.com
 *.mona.co
@@ -3571,7 +3571,6 @@ gutenberg.run
  *.svn.wordpress.org
  *.git.wordpress.org
  github.com/WordPress
-socialclub.rockstargames.com
 lifeinvader.com
 rockstarnorth.com
 support.rockstargames.com
@@ -3579,6 +3578,7 @@ circolocorecords.com/
 store.rockstargames.com
 *.rockstargames.com
 prod.ros.rockstargames.com
+socialclub.rockstargames.com
 socialclub.rockstargames.com
 prod.ros.rockstargames.com
 support.rockstargames.com
@@ -3697,8 +3697,8 @@ classroom.github.com
 education.github.com
 npmjs.com
 npmjs.org
-*.githubusercontent.com
 api.github.com
+*.githubusercontent.com
 github.com
 github.com
 api.github.com
@@ -3798,8 +3798,8 @@ preprod.nl
 qatest.nl
 rudderplatform.com
 werkenbijdnb.nl
-werkenbijderet.nl
 www.werkenbijbakertilly.nl
+werkenbijderet.nl
 werkenbijdefensie.nl
 werkenbijderet.nl
 www.werkenbijbakertilly.nl
@@ -3850,10 +3850,10 @@ arrive-server.shopifycloud.com
 shopifyinbox.com
 your-store.myshopify.com
 partners.shopify.com
-admin.shopify.com
-*.shopify.com
 *.shopifycloud.com
 accounts.shopify.com
+admin.shopify.com
+*.shopify.com
 *.shopifycs.com
 *.shopify.io
 *.shopify.com
@@ -3981,8 +3981,8 @@ www.hoteltonight.com
 *.airbnbcitizen.com
 *.withairbnb.com
 www.airbnb.com
-*.airbnb.com
 api.airbnb.com
+*.airbnb.com
 www.airbnb.com
 next.airbnb.com
 api.airbnb.com
@@ -4215,17 +4215,17 @@ profile-photos.hackerone-user-content.com
 profile-photos-us-east-2.hackerone-user-content.com
 cover-photos-us-east-2.hackerone-user-content.com
 reviewer.pullrequest.com
-ctf.hacker101.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 www.wearehackerone.com
-cover-photos.hackerone-user-content.com
-app.pullrequest.com
 hackathon-photos.hackerone-user-content.com
+app.pullrequest.com
+cover-photos.hackerone-user-content.com
 hackerone-user-content.com
 hackerone.live
 api.hackerone.com
 www.hackerone.com
 hackerone-ext-content.com
+ctf.hacker101.com
 hackerone.com
 hackerone.com
 api.hackerone.com
@@ -4398,9 +4398,9 @@ u.magento.com
 imagine.magento.com
 magentolive.com
 account.magento.com
-magento.com
 repo.magento.com
 accounts.magento.cloud
+magento.com
 marketplace.magento.com
 magentocommerce.com
 repo.magento.com
