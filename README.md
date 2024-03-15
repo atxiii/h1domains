@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Mar 15 08:16:42 UTC 2024)
+## Domains with Bounties (Last Updated Fri Mar 15 09:14:18 UTC 2024)
 ```
 www.dyson.co.uk
 www.dysoncanada.ca
@@ -35,8 +35,6 @@ api.dyson.ie
 www.dyson.com.mx
 www.dyson.com.sg
 www.dyson.co.kr
-www.dyson.co.nz
-www.dyson.hk
 www.sa.dyson.com
 www.dyson.com.ro
 *.cp.dyson.com
@@ -393,8 +391,8 @@ sso-sprint.dynatracelabs.com
 university-staging.dynatracelabs.com
 myaccount-hardening.dynatracelabs.com
 *.sprint.dynatracelabs.com
-*.sprint.apps.dynatracelabs.com
 account-sprint.dynatracelabs.com
+*.sprint.apps.dynatracelabs.com
 *.sprint.dynatracelabs.com
 *.sprint.apps.dynatracelabs.com
 account-sprint.dynatracelabs.com
@@ -413,8 +411,8 @@ editor.zyro.com
 logo.zyro.com
 payments.hostinger.com
 www.niagahoster.co.id
-hpanel.hostinger.com
 cpanel.hostinger.com
+hpanel.hostinger.com
 *.000webhost.com
 www.hostinger.com
 *.000webhost.com
@@ -459,11 +457,11 @@ www.mercadolibre.com.uy
 www.mercadolibre.cl
 www.mercadopago.cl
 www.mercadolibre.com.ar
-www.mercadopago.com.ar
-api.mercadolibre.com
 www.mercadopago.com.br
+api.mercadolibre.com
 www.mercadolivre.com.br
 api.mercadopago.com
+www.mercadopago.com.ar
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -633,7 +631,6 @@ www.leather.io
 api.wisdomtreeprimeapp.com
 api.wisdomtreeprimeapp.com
 10x.redoxengine.com
-testapp.redoxengine.com
 testapi.redoxengine.com
 docs.redoxengine.com
 fhir.redoxengine.com
@@ -652,6 +649,7 @@ gamma.redoxstage.com
 launch.gamma.redoxstage.com
 sftp.gamma.redoxstage.com
 webhooks.gamma.redoxstage.com
+testapp.redoxengine.com
 10x.redoxengine.com
 testapp.redoxengine.com
 testapi.redoxengine.com
@@ -783,9 +781,9 @@ http://myvisainfinite.com/suntrust/en_us/home.html
 http://www.myvisacardportal.com/welcome/enbd/product/#
 yourdomain.freshcaller.com
 yourdomain.freshchat.com
+yourdomain.freshservice.com
 yourdomain.freshdesk.com
 yourdomain.myfreshworks.com
-yourdomain.freshservice.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -870,8 +868,8 @@ community-tc.services.mozilla.com
 support.mozilla.org
 hg.mozilla.org
 developer.mozilla.org
-monitor.mozilla.org
 www.mozilla.org
+monitor.mozilla.org
 developer.mozilla.org
 profiler.firefox.com
 vpn.mozilla.org
@@ -899,9 +897,9 @@ hilton.com.tr
 hiltonbusinessonline.com
 hiltonlocalbiz.com
 *.hilton.com.tr
-*.hilton.com
 hilton.com
 hilton.io
+*.hilton.com
 *.hiltonbusinessonline.com
 *.hilton.com
 *.hilton.io
@@ -1010,7 +1008,6 @@ www.malwarebytes.com
 my.malwarebytes.com
 cloud.malwarebytes.com
 oneview.malwarebytes.com
-mobile.s-pankki.fi
 www.s-kaupat.fi
 extranet.s-pankki.fi
 tunnistus.s-ryhma.fi
@@ -1021,6 +1018,7 @@ cfapi.voikukka.fi
 digili.s-cloud.fi
 www.s-pankki.fi
 online.s-pankki.fi
+mobile.s-pankki.fi
 online.s-pankki.fi
 www.s-pankki.fi
 https://crosskey.io/stores/s-pankki/apis
@@ -1120,10 +1118,10 @@ admin.8x8.com
 *.napoleonsports.be
 *.superbet.pl
 moonpay.com
-*.moonpaycloud.com
 hypermint.com
 *.moonpay.com
 *.hypermint.com
+*.moonpaycloud.com
 *.moonpaycloud.com
 *.hypermint.com
 *.moonpay.com
@@ -1178,12 +1176,12 @@ www.fewo-direkt.de
 www.stayz.com.au
 www.expediagroup.com
 www.flights.com
-*.expediapartnercentral.com
 *.travelocity.ca
+*.expediapartnercentral.com
 www.expedia.com
+*.travelocity.com
 *.vrbo.com
 *.carrentals.com
-*.travelocity.com
 *.expediacruises.com
 *.vrbo.com
 *.hotwire.com
@@ -1213,8 +1211,8 @@ www.expediagroup.com
 www.flights.com
 *.magiceden.io
 magiceden.io
-*.magiceden.dev
 *.magiceden.workers.dev
+*.magiceden.dev
 magiceden.io
 *.magiceden.io
 *.magiceden.dev
@@ -1317,8 +1315,8 @@ www.trendyol-milla.com
 *.sidefx.com
 *.sidefx.com
 portfolio.metamask.io
-snaps.metamask.io
 metamask.io
+snaps.metamask.io
 metamask.io
 snaps.metamask.io
 portfolio.metamask.io
@@ -1489,8 +1487,8 @@ community.databricks.com
 customer-academy.databricks.com
 labs.databricks.com
 marketplace.databricks.com
-accounts.cloud.databricks.com
 databricks.com
+accounts.cloud.databricks.com
 databricks.com
 academy.databricks.com
 accounts.cloud.databricks.com
@@ -1814,11 +1812,11 @@ redditforbusiness.com
 app.spiketrap.io
 www.spiketrap.io
 old.reddit.com
-matrix.redditspace.com
+*.reddit.com
 www.reddit.com
 ads.reddit.com
-*.reddit.com
 *.reddithelp.com
+matrix.redditspace.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1978,8 +1976,8 @@ internal-docs.netlify.com
 *.services-prod.nsvcs.net
 internal.netlify.com
 *.ops.netlify.com
-*.infra-prod.nsvcs.net
 api.netlify.com
+*.infra-prod.nsvcs.net
 app.netlify.com
 *.services.netlify.com
 *.services-prod.nsvcs.net
@@ -2062,11 +2060,10 @@ api.adm.cloud.com
 (yoursubdomain).eu.iws.cloud.com
 (youriwssubdomain).cloud.com
 live-backstage.tiktok.com
-academy-outbound-ads.tiktok.com
-creatormarketplace.tiktok.com
-developers.tiktok.com
 effecthouse.tiktok.com
 careers.tiktok.com
+creatormarketplace.tiktok.com
+developers.tiktok.com
 shop.tiktok.com
 tiktok.com
 partner.tiktokshop.com
@@ -2075,6 +2072,7 @@ business.tiktok.com
 ads.tiktok.com
 fp-sg.tiktokv.com
 *.tiktokv.com
+academy-outbound-ads.tiktok.com
 *.tiktok.com
 *.tiktok.com
 business.tiktok.com
@@ -2141,8 +2139,8 @@ api.faraday.ai
 *-api-*.acronis.com
 *.devicelock.com
 *.acronis.work
-*.acronis.com
 account.acronis.com
+*.acronis.com
 beta-cloud.acronis.com
 *.5nine.com
 *-api-*.acronis.com
@@ -2318,7 +2316,6 @@ api.direct.playstation.com
 ca.account.sony.com
 my.account.sony.com
 portal.polygon.technology
-wallet.polygon.technology
 staking-api.polygon.technology
 bridge-explorer.polygon.technology
 bridge-api.matic.network
@@ -2327,6 +2324,7 @@ mapper.polygon.technology
 watchgod.polygon.technology
 open-api.polygon.technology
 faucet.polygon.technology
+wallet.polygon.technology
 wallet.polygon.technology
 staking-api.polygon.technology
 bridge-explorer.polygon.technology
@@ -2340,8 +2338,8 @@ portal.polygon.technology
 *.miui.com
 *.xiaomiyoupin.com
 *.miwifi.com
-*.mi.com
 *.xiaomi.com
+*.mi.com
 *.mi.com
 *.xiaomi.com
 *.miui.com
@@ -2555,10 +2553,10 @@ www.alibabagroup.com
 *.aliexpress.ru
 *.Daraz.com
 *.aliyun.com
-*.taobao.com
 *.alibaba.com
-*.alibabacloud.com
+*.taobao.com
 *.aliexpress.com
+*.alibabacloud.com
 *.tmall.com
 *.alibaba.com
 *.aliexpress.com
@@ -2591,8 +2589,8 @@ api.fortmatic.com
 x2.fortmatic.com
 careers.fortmatic.com
 dashboard.fortmatic.com
-dashboard.magic.link
 auth.magic.link
+dashboard.magic.link
 api.fortmatic.com
 x2.fortmatic.com
 careers.fortmatic.com
@@ -2614,8 +2612,8 @@ maria.casino
 www.32red.com
 *.kes.kindredext.net
 *.highrolling.nu
-*.bingo.com
 *.unibet.com
+*.bingo.com
 *.unibet.com
 *.unibet.fr
 *.storspiller.com
@@ -2655,8 +2653,8 @@ moments.marriottbonvoy.com
 help.marriott.com
 mipartnerprivileges.marriott.com
 travelagents.marriott.com/
-traveler.marriott.com
 www.marriott.com
+traveler.marriott.com
 homes-and-villas.marriott.com
 careers.marriott.com
 sso.marriott.com
@@ -2690,8 +2688,8 @@ www.goodrx.com
 www.goodrx.com
 *.rbx.com
 *.ra.roblox.com
-*.roblox.com
 *.guilded.gg
+*.roblox.com
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -2944,7 +2942,6 @@ res.vacations.seaworld.com
 vacations.universalstudioshollywood.com
 vacations.us.palladiumhotelgroup.com
 vacations.vallarta.grandvelas.com
-www.universalorlandovacations.com
 www.beachbound.com
 book.booktandl.com
 login.fr.travelbrandsagent.com
@@ -2960,6 +2957,7 @@ vacations.rivieramaya.grandvelas.com
 www.triseptapi.com
 www.triseptdemo.com
 www.applevacations.com
+book.cheapcaribbean.com
 hyatt.com
 www.hyatt.com
 world.hyatt.com
@@ -3105,6 +3103,13 @@ https://github.com/matomo-org/docker
 *.paydiant.com
 paypal.me
 py.pl
+*.braintree-api.com
+*.braintree.tools
+prequal.swiftfinancial.com
+partner.swiftfinancial.com
+decision.swiftfinancial.com
+pigeon.swiftfinancial.com
+scrutiny.swiftfinancial.com
 www.swiftcapital.com
 www.swiftfinancial.com
 api.swiftfinancial.com
@@ -3113,22 +3118,15 @@ my.loanbuilder.com
 loanbuilder.com
 swiftfinancial.com
 swiftcapital.com
-*.braintree-api.com
-*.braintree.tools
-prequal.swiftfinancial.com
-partner.swiftfinancial.com
-decision.swiftfinancial.com
-pigeon.swiftfinancial.com
-scrutiny.swiftfinancial.com
 *.hyperwallet.com
 *.paylution.com
 www.loanbuilder.com
 my.swiftfinancial.com
 *.paypalcorp.com
-*.venmo.com
-*.braintreegateway.com
-*.braintreepayments.com
 paypalobjects.com
+*.venmo.com
+*.braintreepayments.com
+*.braintreegateway.com
 *.paypal.com
 www.paypal-*.com
 *.xoom.com
@@ -3297,8 +3295,8 @@ help.steampowered.com
 www.counter-strike.net
 steamcommunity.com
 api.steampowered.com
-store.steampowered.com
 www.dota2.com
+store.steampowered.com
 www.dota2.com
 support.steampowered.com
 partner.steampowered.com
@@ -3313,14 +3311,14 @@ playartifact.com
 help.steampowered.com
 developer.valvesoftware.com
 www.crypto.com
+auth.crypto.com
 *.mona.co
 tax.crypto.com
-auth.crypto.com
 app.mona.co
 js.crypto.com
-*.crypto.com
 merchant.crypto.com
 pay.crypto.com
+*.crypto.com
 *.crypto.com
 *.mona.co
 www.crypto.com
@@ -3823,9 +3821,9 @@ apps.zendesk.com
 zopim.com
 app.futuresimple.com
 api.getbase.com
-smooch.io
 www.zendesk.com
 h1-your-domain.zendesk.com
+smooch.io
 www.zendesk.com
 developer.zendesk.com
 h1-your-domain.zendesk.com
@@ -3896,10 +3894,10 @@ store.playcanvas.com
 playcanv.as
 *.sc-corp.net
 web.snapchat.com
-login.playcanvas.com
 ads.snapchat.com
-playcanvas.com
+login.playcanvas.com
 app.snapchat.com
+playcanvas.com
 accounts.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
@@ -3982,8 +3980,8 @@ www.hoteltonight.com
 *.withairbnb.com
 api.airbnb.com
 www.airbnb.com
-next.airbnb.com
 *.airbnb.com
+next.airbnb.com
 www.airbnb.com
 next.airbnb.com
 api.airbnb.com
@@ -4145,12 +4143,12 @@ team-irc.irccloud.com
 blog.irccloud.com
 *.cbhq.net
 api.custody.coinbase.com
+api.coinbase.com
 pro.coinbase.com
 custody.coinbase.com
 commerce.coinbase.com
 prime.coinbase.com
 institutional.coinbase.com
-api.coinbase.com
 *.base.org
 international.coinbase.com
 cloud.coinbase.com
@@ -4399,9 +4397,9 @@ u.magento.com
 imagine.magento.com
 magentolive.com
 account.magento.com
-magento.com
-repo.magento.com
 accounts.magento.cloud
+repo.magento.com
+magento.com
 marketplace.magento.com
 magentocommerce.com
 repo.magento.com
