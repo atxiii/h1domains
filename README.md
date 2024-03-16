@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Mar 16 11:13:15 UTC 2024)
+## Domains with Bounties (Last Updated Sat Mar 16 12:22:21 UTC 2024)
 ```
 www.dyson.co.uk
 www.dysoncanada.ca
@@ -330,9 +330,9 @@ getworldcoin.com
 *.worldcoin-distributors.com
 bioid-management.app
 *.worldcoin.dev
+*.consumer.worldcoin.org
 worldcoin.org
 *.toolsforhumanity.com
-*.consumer.worldcoin.org
 *.worldcoin.org
 *.worldcoin.org
 *.consumer.worldcoin.org
@@ -388,9 +388,9 @@ http://sb-console-api.fireblocks.io
 http://sandbox-api.fireblocks.io
 sso-sprint.dynatracelabs.com
 university-staging.dynatracelabs.com
+*.sprint.apps.dynatracelabs.com
 *.sprint.dynatracelabs.com
 myaccount-hardening.dynatracelabs.com
-*.sprint.apps.dynatracelabs.com
 account-sprint.dynatracelabs.com
 *.sprint.dynatracelabs.com
 *.sprint.apps.dynatracelabs.com
@@ -432,9 +432,9 @@ education.23andme.com
 mediacenter.23andme.com
 medical.23andme.com
 research.23andme.com
-store.23andme.com
 therapeutics.23andme.com
 you.23andme.com
+store.23andme.com
 api.23andme.com
 auth.23andme.com
 blog.23andme.com
@@ -455,12 +455,12 @@ www.mercadolibre.com.pe
 www.mercadolibre.com.uy
 www.mercadolibre.cl
 www.mercadopago.cl
-www.mercadolibre.com.ar
 api.mercadolibre.com
 www.mercadolivre.com.br
 www.mercadopago.com.ar
 api.mercadopago.com
 www.mercadopago.com.br
+www.mercadolibre.com.ar
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -500,16 +500,16 @@ secure-supply-xml.booking.com
 taxi.booking.com
 cars.booking.com
 kyc-onboarding.booking.com
-booking.com
 widget.rentalcars.com
+booking.com
 secure.booking.com
 account.booking.com
 spark.fareharbor.com
 www.fareharbor.com
 admin.booking.com
 *.rentalcars.com
-*.booking.com
 careers.booking.com
+*.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -781,8 +781,8 @@ http://www.myvisacardportal.com/welcome/enbd/product/#
 yourdomain.freshcaller.com
 yourdomain.freshchat.com
 yourdomain.freshservice.com
-yourdomain.myfreshworks.com
 yourdomain.freshdesk.com
+yourdomain.myfreshworks.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -833,13 +833,13 @@ merino.services.mozilla.com
 mozilla-pontoon-staging.herokuapp.com
 shavar.services.mozilla.com
 lando.services.mozilla.com
+firefox-ci-tc.services.mozilla.com
 aus5.mozilla.org
 sync.services.mozilla.com
-firefox-ci-tc.services.mozilla.com
 firefox.settings.services.mozilla.com
-accounts.firefox.com
 addons.allizom.org
 phabricator.allizom.org
+accounts.firefox.com
 addons.allizom.org
 accounts.firefox.com
 bugzilla.mozilla.org
@@ -897,9 +897,9 @@ hiltonlocalbiz.com
 hilton.io
 hilton.com
 *.hiltonbusinessonline.com
-hiltonhotels.jp
-*.hilton.com
 *.hilton.io
+*.hilton.com
+hiltonhotels.jp
 *.hilton.com
 *.hilton.io
 *.hilton.com.tr
@@ -964,8 +964,8 @@ debug.clairvoyance.indrive.tech
 ingest.clairvoyance.indrive.tech
 *.grindr.io
 *.grindr.mobi
-*.grindr.com
 web.grindr.com
+*.grindr.com
 *.grindr.io
 *.grindr.com
 *.grindr.mobi
@@ -1118,8 +1118,8 @@ admin.8x8.com
 moonpay.com
 hypermint.com
 *.moonpay.com
-*.hypermint.com
 *.moonpaycloud.com
+*.hypermint.com
 *.moonpaycloud.com
 *.hypermint.com
 *.moonpay.com
@@ -1162,7 +1162,6 @@ www.ebookers.com
 www.ebookers.fi
 www.mrjet.se
 www.expediaagents.com
-*.hotwire.com
 *.wotif.com
 *.cheaptickets.com
 *.lastminute.co.nz
@@ -1173,13 +1172,14 @@ www.stayz.com.au
 www.expediagroup.com
 www.flights.com
 *.expediapartnercentral.com
-www.expedia.com
 *.travelocity.com
 *.carrentals.com
+www.expedia.com
 *.travelocity.ca
-*.vrbo.com
 www.expediapartnersolutions.com
 *.expediacruises.com
+*.vrbo.com
+*.hotwire.com
 www.fewo-direkt.de
 *.vrbo.com
 *.hotwire.com
@@ -1209,8 +1209,8 @@ www.expediagroup.com
 www.flights.com
 *.magiceden.io
 magiceden.io
-*.magiceden.dev
 *.magiceden.workers.dev
+*.magiceden.dev
 magiceden.io
 *.magiceden.io
 *.magiceden.dev
@@ -1799,9 +1799,9 @@ redditforbusiness.com
 app.spiketrap.io
 www.spiketrap.io
 old.reddit.com
-matrix.redditspace.com
-www.reddit.com
 *.reddit.com
+www.reddit.com
+matrix.redditspace.com
 ads.reddit.com
 *.reddithelp.com
 *.snooguts.net
@@ -1963,8 +1963,8 @@ internal-docs.netlify.com
 *.services-prod.nsvcs.net
 internal.netlify.com
 *.ops.netlify.com
-api.netlify.com
 *.infra-prod.nsvcs.net
+api.netlify.com
 app.netlify.com
 *.services.netlify.com
 *.services-prod.nsvcs.net
@@ -2013,9 +2013,9 @@ api.adm.cloud.com
 (yoursubdomain).sharefile.com
 www.cloud.com
 (yoursubdomain).sharefile.eu
-secure.sharefile.com
 adm.cloud.com
 citrix.cloud.com
+secure.sharefile.com
 citrix.cloud.com
 www.cloud.com
 ap-s.cloud.com
@@ -2599,8 +2599,8 @@ maria.casino
 www.32red.com
 *.kes.kindredext.net
 *.highrolling.nu
-*.unibet.com
 *.bingo.com
+*.unibet.com
 *.unibet.com
 *.unibet.fr
 *.storspiller.com
@@ -2701,8 +2701,8 @@ www.datastax.com
 downloads.datastax.com
 docs.datastax.com
 astra.datastax.com
-*.nordvpn.com
 app.nordpass.com
+*.nordvpn.com
 *.nordvpn.com
 app.nordpass.com
 *.line.me
@@ -2831,7 +2831,6 @@ api.rezserver.com
 admin.rezserver.com
 reservations.rezserver.com
 cruises.priceline.com
-secure.rezserver.com
 priceline.com
 www.getaroom.com
 www.priceline.com
@@ -3049,14 +3048,14 @@ pabets.tvg.com
 promos.tvg.com
 service.tvg.com
 fanduel.design
-us.tvg.com
 ia.tvg.com
-www.4njbets.com
 tvg.com
-mobile-prod.tvg.com
 login.tvg.com
-*racing.fanduel.com
 www.tvg.com
+mobile-prod.tvg.com
+*racing.fanduel.com
+www.4njbets.com
+us.tvg.com
 *.fanduel.com
 fdbox.net
 *.fanduel.com
@@ -3296,15 +3295,15 @@ www.counter-strike.net
 playartifact.com
 help.steampowered.com
 developer.valvesoftware.com
+merchant.crypto.com
+pay.crypto.com
 *.mona.co
 tax.crypto.com
 auth.crypto.com
 app.mona.co
 js.crypto.com
-merchant.crypto.com
-pay.crypto.com
-*.crypto.com
 www.crypto.com
+*.crypto.com
 *.crypto.com
 *.mona.co
 www.crypto.com
@@ -3757,8 +3756,8 @@ derivws.com
 *.deriv.cloud
 *.deriv.com
 *.binary.com
-api.deriv.com
 smarttrader.deriv.com
+api.deriv.com
 *.deriv.com
 *.deriv.cloud
 *.derivws.com
@@ -3878,11 +3877,11 @@ rt.playcanvas.com
 store.playcanvas.com
 playcanv.as
 *.sc-corp.net
-ads.snapchat.com
 login.playcanvas.com
-app.snapchat.com
+ads.snapchat.com
 playcanvas.com
 accounts.snapchat.com
+app.snapchat.com
 business.snapchat.com
 web.snapchat.com
 accounts.snapchat.com
@@ -4129,12 +4128,12 @@ team-irc.irccloud.com
 blog.irccloud.com
 *.cbhq.net
 api.custody.coinbase.com
+api.coinbase.com
 pro.coinbase.com
 custody.coinbase.com
 commerce.coinbase.com
 prime.coinbase.com
 institutional.coinbase.com
-api.coinbase.com
 *.base.org
 international.coinbase.com
 cloud.coinbase.com
@@ -4200,8 +4199,8 @@ profile-photos-us-east-2.hackerone-user-content.com
 cover-photos-us-east-2.hackerone-user-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 www.wearehackerone.com
-hackathon-photos.hackerone-user-content.com
 app.pullrequest.com
+hackathon-photos.hackerone-user-content.com
 hackerone-ext-content.com
 hackerone.live
 reviewer.pullrequest.com
@@ -4209,8 +4208,8 @@ api.hackerone.com
 errors.hackerone.net
 ctf.hacker101.com
 hackerone-user-content.com
-www.hackerone.com
 hackerone.com
+www.hackerone.com
 cover-photos.hackerone-user-content.com
 hackerone.com
 api.hackerone.com
