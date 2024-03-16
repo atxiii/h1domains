@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Mar 16 22:14:34 UTC 2024)
+## Domains with Bounties (Last Updated Sat Mar 16 23:15:48 UTC 2024)
 ```
 www.dyson.co.uk
 www.dysoncanada.ca
@@ -331,8 +331,8 @@ getworldcoin.com
 bioid-management.app
 *.worldcoin.dev
 worldcoin.org
-*.toolsforhumanity.com
 *.consumer.worldcoin.org
+*.toolsforhumanity.com
 *.worldcoin.org
 *.worldcoin.org
 *.consumer.worldcoin.org
@@ -388,9 +388,9 @@ http://sb-console-api.fireblocks.io
 http://sandbox-api.fireblocks.io
 sso-sprint.dynatracelabs.com
 university-staging.dynatracelabs.com
+*.sprint.apps.dynatracelabs.com
 *.sprint.dynatracelabs.com
 myaccount-hardening.dynatracelabs.com
-*.sprint.apps.dynatracelabs.com
 account-sprint.dynatracelabs.com
 *.sprint.dynatracelabs.com
 *.sprint.apps.dynatracelabs.com
@@ -399,8 +399,8 @@ sso-sprint.dynatracelabs.com
 university-staging.dynatracelabs.com
 myaccount-hardening.dynatracelabs.com
 demo.dynamic.xyz
-app.dynamic-preprod.xyz
 app.dynamic.xyz
+app.dynamic-preprod.xyz
 app.dynamic-preprod.xyz
 demo.dynamic.xyz
 app.dynamic.xyz
@@ -410,8 +410,8 @@ editor.zyro.com
 logo.zyro.com
 payments.hostinger.com
 www.niagahoster.co.id
-hpanel.hostinger.com
 cpanel.hostinger.com
+hpanel.hostinger.com
 www.hostinger.com
 *.000webhost.com
 *.000webhost.com
@@ -432,8 +432,8 @@ education.23andme.com
 mediacenter.23andme.com
 medical.23andme.com
 research.23andme.com
-store.23andme.com
 therapeutics.23andme.com
+store.23andme.com
 you.23andme.com
 api.23andme.com
 auth.23andme.com
@@ -457,8 +457,8 @@ www.mercadolibre.cl
 www.mercadopago.cl
 www.mercadopago.com.br
 api.mercadopago.com
-www.mercadopago.com.ar
 api.mercadolibre.com
+www.mercadopago.com.ar
 www.mercadolivre.com.br
 www.mercadolibre.com.ar
 api.mercadopago.com
@@ -781,8 +781,8 @@ http://www.myvisacardportal.com/welcome/enbd/product/#
 yourdomain.freshcaller.com
 yourdomain.freshchat.com
 yourdomain.freshservice.com
-yourdomain.freshdesk.com
 yourdomain.myfreshworks.com
+yourdomain.freshdesk.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -833,11 +833,11 @@ merino.services.mozilla.com
 mozilla-pontoon-staging.herokuapp.com
 shavar.services.mozilla.com
 lando.services.mozilla.com
+firefox-ci-tc.services.mozilla.com
 aus5.mozilla.org
 sync.services.mozilla.com
-firefox-ci-tc.services.mozilla.com
-firefox.settings.services.mozilla.com
 addons.allizom.org
+firefox.settings.services.mozilla.com
 phabricator.allizom.org
 accounts.firefox.com
 addons.allizom.org
@@ -897,8 +897,8 @@ hiltonlocalbiz.com
 hilton.io
 hilton.com
 *.hiltonbusinessonline.com
-hiltonhotels.jp
 *.hilton.io
+hiltonhotels.jp
 *.hilton.com
 *.hilton.com
 *.hilton.io
@@ -1045,7 +1045,6 @@ http://www.kiwi.com/stories
 jobs.kiwi.com
 *.8x8.vc
 *.jit.si
-*.jitsi.net
 sms.8x8.com
 user-profile.8x8.com
 voapi.8x8.com
@@ -1065,6 +1064,7 @@ work-staging.8x8.com
 user-profile-staging.8x8.com
 *.8x8staging.com
 admin.8x8.com
+sso.8x8.com
 *.8x8.vc
 *.jit.si
 *.jitsi.net
@@ -1209,8 +1209,8 @@ www.expediagroup.com
 www.flights.com
 *.magiceden.io
 magiceden.io
-*.magiceden.workers.dev
 *.magiceden.dev
+*.magiceden.workers.dev
 magiceden.io
 *.magiceden.io
 *.magiceden.dev
@@ -1736,12 +1736,12 @@ gold.xnxx.com
 https://www.xvideos.net/app/
 *.found.io
 www.elastic.co
-*.elstc.co
 *.elasticnet.co
 *.eops.nl
 *.swiftype.com
 cloud.elastic.co
 *.elastic.co
+*.elstc.co
 *.elastic.co
 *.found.io
 *.swiftype.com
@@ -1772,8 +1772,8 @@ app.taxjar.com
 *.link.co
 hackerone-m1rtuq8orz.hbstaging.website
 hackerone-m1rtuq8orz.hbstaging.website
-www.urbanclap.com
 www.urbancompany.com
+www.urbanclap.com
 www.urbancompany.com
 www.urbanclap.com
 meta-api.reddit.com
@@ -1799,9 +1799,9 @@ redditforbusiness.com
 app.spiketrap.io
 www.spiketrap.io
 old.reddit.com
-matrix.redditspace.com
-www.reddit.com
 *.reddit.com
+www.reddit.com
+matrix.redditspace.com
 ads.reddit.com
 *.reddithelp.com
 *.snooguts.net
@@ -2010,8 +2010,8 @@ api.adm.cloud.com
 (yoursubdomain).ap.iws.cloud.com
 (yoursubdomain).eu.iws.cloud.com
 (youriwssubdomain).cloud.com
-(yoursubdomain).sharefile.com
 www.cloud.com
+(yoursubdomain).sharefile.com
 (yoursubdomain).sharefile.eu
 adm.cloud.com
 citrix.cloud.com
@@ -2599,8 +2599,8 @@ maria.casino
 www.32red.com
 *.kes.kindredext.net
 *.highrolling.nu
-*.unibet.com
 *.bingo.com
+*.unibet.com
 *.unibet.com
 *.unibet.fr
 *.storspiller.com
@@ -2701,8 +2701,8 @@ www.datastax.com
 downloads.datastax.com
 docs.datastax.com
 astra.datastax.com
-app.nordpass.com
 *.nordvpn.com
+app.nordpass.com
 *.nordvpn.com
 app.nordpass.com
 *.line.me
@@ -2831,8 +2831,8 @@ api.rezserver.com
 admin.rezserver.com
 reservations.rezserver.com
 cruises.priceline.com
-www.getaroom.com
 priceline.com
+www.getaroom.com
 www.priceline.com
 secure.rezserver.com
 reservations.rezserver.com
@@ -3029,9 +3029,9 @@ res.hyattinclusivecollection.com
 www.hyattinclusivecollection.com
 booking.applevacations.com
 grammarly.ai
-*.grammarlyaws.com
 *.grammarly.io
 *.grammarly.com
+*.grammarlyaws.com
 *.grammarly.io
 *.grammarlyaws.com
 *.grammarly.com
@@ -3048,14 +3048,14 @@ pabets.tvg.com
 promos.tvg.com
 service.tvg.com
 fanduel.design
-us.tvg.com
 ia.tvg.com
-www.4njbets.com
 tvg.com
-mobile-prod.tvg.com
 login.tvg.com
-*racing.fanduel.com
 www.tvg.com
+mobile-prod.tvg.com
+*racing.fanduel.com
+www.4njbets.com
+us.tvg.com
 *.fanduel.com
 fdbox.net
 *.fanduel.com
@@ -3089,6 +3089,13 @@ https://github.com/matomo-org/docker
 *.paydiant.com
 paypal.me
 py.pl
+*.braintree-api.com
+*.braintree.tools
+prequal.swiftfinancial.com
+partner.swiftfinancial.com
+decision.swiftfinancial.com
+pigeon.swiftfinancial.com
+scrutiny.swiftfinancial.com
 www.swiftcapital.com
 www.swiftfinancial.com
 api.swiftfinancial.com
@@ -3097,13 +3104,6 @@ my.loanbuilder.com
 loanbuilder.com
 swiftfinancial.com
 swiftcapital.com
-*.braintree-api.com
-*.braintree.tools
-prequal.swiftfinancial.com
-partner.swiftfinancial.com
-decision.swiftfinancial.com
-pigeon.swiftfinancial.com
-scrutiny.swiftfinancial.com
 *.hyperwallet.com
 *.paylution.com
 www.loanbuilder.com
@@ -3111,8 +3111,8 @@ my.swiftfinancial.com
 *.paypalcorp.com
 *.venmo.com
 *.braintreepayments.com
-*.braintreegateway.com
 paypalobjects.com
+*.braintreegateway.com
 *.paypal.com
 www.paypal-*.com
 *.xoom.com
@@ -3295,14 +3295,14 @@ www.counter-strike.net
 playartifact.com
 help.steampowered.com
 developer.valvesoftware.com
+pay.crypto.com
 *.mona.co
 tax.crypto.com
 auth.crypto.com
 app.mona.co
 js.crypto.com
-pay.crypto.com
-*.crypto.com
 www.crypto.com
+*.crypto.com
 merchant.crypto.com
 *.crypto.com
 *.mona.co
@@ -3438,8 +3438,8 @@ kartaview.org
 wiki.grab.com
 grab.careers
 *.myteksi.com
-*.grab.com
 jira.grab.com
+*.grab.com
 *.ovo.id
 gifts.grab.com
 *.myteksi.com
@@ -3749,15 +3749,15 @@ www.algolia.com
 www.algolia.com
 cashier.deriv.com
 secure-dfadmin.deriv.com
-*.derivws.com
 oauth.deriv.com
-app.deriv.com
 derivws.com
 *.deriv.cloud
 smarttrader.deriv.com
-*.deriv.com
 *.binary.com
 api.deriv.com
+app.deriv.com
+*.derivws.com
+*.deriv.com
 *.deriv.com
 *.deriv.cloud
 *.derivws.com
@@ -3782,8 +3782,8 @@ preprod.nl
 qatest.nl
 rudderplatform.com
 werkenbijdnb.nl
-www.werkenbijbakertilly.nl
 werkenbijderet.nl
+www.werkenbijbakertilly.nl
 werkenbijdefensie.nl
 werkenbijderet.nl
 www.werkenbijbakertilly.nl
@@ -3820,8 +3820,8 @@ zopim.com
 app.futuresimple.com
 api.getbase.com
 http://h1-your-domain.zendesk.com/sell
-yourcompany.udemy.com
 www.udemy.com
+yourcompany.udemy.com
 www.udemy.com
 yourcompany.udemy.com
 *.shopifykloud.com
@@ -3830,11 +3830,11 @@ shopify.plus
 arrive-server.shopifycloud.com
 *.shopifycs.com
 shopifyinbox.com
-accounts.shopify.com
 *.shopifycloud.com
+accounts.shopify.com
 partners.shopify.com
-*.shopify.com
 shop.app
+*.shopify.com
 *.shopify.io
 your-store.myshopify.com
 admin.shopify.com
@@ -3879,9 +3879,9 @@ playcanv.as
 *.sc-corp.net
 login.playcanvas.com
 ads.snapchat.com
-app.snapchat.com
 playcanvas.com
 accounts.snapchat.com
+app.snapchat.com
 web.snapchat.com
 business.snapchat.com
 accounts.snapchat.com
@@ -3962,8 +3962,8 @@ callbacks.airbnb.com
 *.hoteltonight-test.com
 www.hoteltonight.com
 *.airbnbcitizen.com
-api.airbnb.com
 *.withairbnb.com
+api.airbnb.com
 next.airbnb.com
 www.airbnb.com
 *.airbnb.com
@@ -4206,11 +4206,11 @@ reviewer.pullrequest.com
 api.hackerone.com
 errors.hackerone.net
 ctf.hacker101.com
-hackerone-user-content.com
 www.hackerone.com
 cover-photos.hackerone-user-content.com
 www.wearehackerone.com
 hackerone.com
+hackerone-user-content.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
@@ -4392,8 +4392,8 @@ u.magento.com
 imagine.magento.com
 magentolive.com
 account.magento.com
-accounts.magento.cloud
 repo.magento.com
+accounts.magento.cloud
 magento.com
 marketplace.magento.com
 magentocommerce.com
