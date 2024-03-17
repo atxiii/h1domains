@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Mar 17 08:15:48 UTC 2024)
+## Domains with Bounties (Last Updated Sun Mar 17 09:13:19 UTC 2024)
 ```
 www.dyson.co.uk
 www.dysoncanada.ca
@@ -315,8 +315,8 @@ webdirectory-eu.truecaller.com
 webonboarding-eu.truecaller.com
 cards.remitly.io
 api.remitly.io
-remitly.com
 rewire.com
+remitly.com
 rates.rewire.com
 app.rewire.to
 remitly.com
@@ -457,10 +457,10 @@ www.mercadolibre.cl
 www.mercadopago.cl
 www.mercadopago.com.br
 api.mercadopago.com
-api.mercadolibre.com
 www.mercadolivre.com.br
 www.mercadolibre.com.ar
 www.mercadopago.com.ar
+api.mercadolibre.com
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -836,8 +836,8 @@ lando.services.mozilla.com
 firefox-ci-tc.services.mozilla.com
 aus5.mozilla.org
 sync.services.mozilla.com
-firefox.settings.services.mozilla.com
 addons.allizom.org
+firefox.settings.services.mozilla.com
 phabricator.allizom.org
 accounts.firefox.com
 addons.allizom.org
@@ -964,8 +964,8 @@ debug.clairvoyance.indrive.tech
 ingest.clairvoyance.indrive.tech
 *.grindr.io
 *.grindr.mobi
-web.grindr.com
 *.grindr.com
+web.grindr.com
 *.grindr.io
 *.grindr.com
 *.grindr.mobi
@@ -1032,8 +1032,8 @@ api.sokos.fi
 cfapi.voikukka.fi
 auth.skypicker.com
 jobs.kiwi.com
-*.skypicker.com
 tequila.kiwi.com
+*.skypicker.com
 www.kiwi.com
 *.kiwi.com
 *.kiwi.com
@@ -1177,8 +1177,8 @@ www.expedia.com
 *.carrentals.com
 *.travelocity.ca
 www.expediapartnersolutions.com
-*.vrbo.com
 www.fewo-direkt.de
+*.vrbo.com
 *.expediacruises.com
 *.hotwire.com
 *.vrbo.com
@@ -1475,8 +1475,8 @@ community.databricks.com
 customer-academy.databricks.com
 labs.databricks.com
 marketplace.databricks.com
-accounts.cloud.databricks.com
 databricks.com
+accounts.cloud.databricks.com
 databricks.com
 academy.databricks.com
 accounts.cloud.databricks.com
@@ -1943,8 +1943,8 @@ api.yoti.com
 ccloud.yoti.com
 code.yoti.com
 identity.yoti.com
-hub.yoti.com
 www.yotisign.com
+hub.yoti.com
 core.yoti.com
 api.yoti.com
 ccloud.yoti.com
@@ -1963,8 +1963,8 @@ internal-docs.netlify.com
 *.services-prod.nsvcs.net
 internal.netlify.com
 *.ops.netlify.com
-api.netlify.com
 *.infra-prod.nsvcs.net
+api.netlify.com
 app.netlify.com
 *.services.netlify.com
 *.services-prod.nsvcs.net
@@ -2009,8 +2009,8 @@ api.adm.cloud.com
 (yoursubdomain).ap.iws.cloud.com
 (yoursubdomain).eu.iws.cloud.com
 (youriwssubdomain).cloud.com
-www.cloud.com
 (yoursubdomain).sharefile.com
+www.cloud.com
 (yoursubdomain).sharefile.eu
 adm.cloud.com
 citrix.cloud.com
@@ -2048,12 +2048,12 @@ api.adm.cloud.com
 (youriwssubdomain).cloud.com
 live-backstage.tiktok.com
 effecthouse.tiktok.com
-academy-outbound-ads.tiktok.com
-developers.tiktok.com
 shop.tiktok.com
 business.tiktok.com
 fp-sg.tiktokv.com
 *.tiktokv.com
+academy-outbound-ads.tiktok.com
+developers.tiktok.com
 careers.tiktok.com
 www.pangleglobal.com
 ads.tiktok.com
@@ -2126,8 +2126,8 @@ api.faraday.ai
 *-api-*.acronis.com
 *.devicelock.com
 *.acronis.work
-account.acronis.com
 beta-cloud.acronis.com
+account.acronis.com
 *.5nine.com
 *.acronis.com
 *-api-*.acronis.com
@@ -2599,8 +2599,8 @@ maria.casino
 www.32red.com
 *.kes.kindredext.net
 *.highrolling.nu
-*.unibet.com
 *.bingo.com
+*.unibet.com
 *.unibet.com
 *.unibet.fr
 *.storspiller.com
@@ -2831,8 +2831,9 @@ api.rezserver.com
 admin.rezserver.com
 reservations.rezserver.com
 cruises.priceline.com
-www.getaroom.com
+secure.rezserver.com
 priceline.com
+www.getaroom.com
 www.priceline.com
 secure.rezserver.com
 reservations.rezserver.com
@@ -3049,13 +3050,13 @@ promos.tvg.com
 service.tvg.com
 fanduel.design
 ia.tvg.com
-tvg.com
-mobile-prod.tvg.com
-login.tvg.com
-*racing.fanduel.com
-www.tvg.com
-us.tvg.com
 www.4njbets.com
+us.tvg.com
+tvg.com
+login.tvg.com
+www.tvg.com
+mobile-prod.tvg.com
+*racing.fanduel.com
 *.fanduel.com
 fdbox.net
 *.fanduel.com
@@ -3089,6 +3090,13 @@ https://github.com/matomo-org/docker
 *.paydiant.com
 paypal.me
 py.pl
+*.braintree-api.com
+*.braintree.tools
+prequal.swiftfinancial.com
+partner.swiftfinancial.com
+decision.swiftfinancial.com
+pigeon.swiftfinancial.com
+scrutiny.swiftfinancial.com
 www.swiftcapital.com
 www.swiftfinancial.com
 api.swiftfinancial.com
@@ -3097,22 +3105,15 @@ my.loanbuilder.com
 loanbuilder.com
 swiftfinancial.com
 swiftcapital.com
-*.braintree-api.com
-*.braintree.tools
-prequal.swiftfinancial.com
-partner.swiftfinancial.com
-decision.swiftfinancial.com
-pigeon.swiftfinancial.com
-scrutiny.swiftfinancial.com
 *.hyperwallet.com
 *.paylution.com
 www.loanbuilder.com
 my.swiftfinancial.com
 *.paypalcorp.com
-*.braintreepayments.com
 *.venmo.com
-*.braintreegateway.com
+*.braintreepayments.com
 paypalobjects.com
+*.braintreegateway.com
 *.paypal.com
 www.paypal-*.com
 *.xoom.com
@@ -3274,14 +3275,14 @@ support.steampowered.com
 partner.steampowered.com
 partner.steamgames.com
 playartifact.com
-www.teamfortress.com
 help.steampowered.com
+www.teamfortress.com
 www.counter-strike.net
-api.steampowered.com
-store.steampowered.com
 www.dota2.com
 steamcommunity.com
+api.steampowered.com
 www.valvesoftware.com
+store.steampowered.com
 www.dota2.com
 support.steampowered.com
 partner.steampowered.com
@@ -3436,12 +3437,12 @@ xtramile.grabpay.com
 wiki.grab.com
 grab.careers
 *.myteksi.com
-*.grab.com
 jira.grab.com
+*.grab.com
 *.ovo.id
 gifts.grab.com
-api.grabpay.com
 kartaview.org
+api.grabpay.com
 *.myteksi.com
 *.myteksi.net
 *.grab.com
@@ -3876,10 +3877,10 @@ rt.playcanvas.com
 store.playcanvas.com
 playcanv.as
 *.sc-corp.net
-ads.snapchat.com
 login.playcanvas.com
-app.snapchat.com
+ads.snapchat.com
 accounts.snapchat.com
+app.snapchat.com
 web.snapchat.com
 business.snapchat.com
 geofilters.snapchat.com
@@ -4128,12 +4129,12 @@ team-irc.irccloud.com
 blog.irccloud.com
 *.cbhq.net
 api.custody.coinbase.com
+api.coinbase.com
 pro.coinbase.com
 custody.coinbase.com
 commerce.coinbase.com
 prime.coinbase.com
 institutional.coinbase.com
-api.coinbase.com
 *.base.org
 international.coinbase.com
 cloud.coinbase.com
@@ -4198,8 +4199,8 @@ profile-photos.hackerone-user-content.com
 profile-photos-us-east-2.hackerone-user-content.com
 cover-photos-us-east-2.hackerone-user-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
-app.pullrequest.com
 hackathon-photos.hackerone-user-content.com
+app.pullrequest.com
 hackerone-ext-content.com
 hackerone.live
 reviewer.pullrequest.com
@@ -4207,10 +4208,10 @@ api.hackerone.com
 errors.hackerone.net
 ctf.hacker101.com
 www.hackerone.com
-cover-photos.hackerone-user-content.com
 www.wearehackerone.com
 hackerone.com
 hackerone-user-content.com
+cover-photos.hackerone-user-content.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
