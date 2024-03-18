@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Mar 18 09:17:31 UTC 2024)
+## Domains with Bounties (Last Updated Mon Mar 18 10:17:23 UTC 2024)
 ```
 www.dysoncanada.ca
 www.dyson.ie
@@ -312,11 +312,11 @@ video-callerid-eu.truecaller.com
 webdirectory-eu.truecaller.com
 webonboarding-eu.truecaller.com
 cards.remitly.io
-app.rewire.to
 rewire.com
 api.remitly.io
 remitly.com
 rates.rewire.com
+app.rewire.to
 remitly.com
 api.remitly.io
 cards.remitly.io
@@ -372,9 +372,9 @@ www.sheer.com
 www.sheer.com
 my.sheer.com
 www.analvids.com
-www.ddfcontent.com
 www.pornworld.com
 www.pornbox.com
+www.ddfcontent.com
 www.pornbox.com
 www.analvids.com
 www.ddfcontent.com
@@ -387,9 +387,9 @@ http://sandbox-api.fireblocks.io
 sso-sprint.dynatracelabs.com
 university-staging.dynatracelabs.com
 *.sprint.apps.dynatracelabs.com
-account-sprint.dynatracelabs.com
 myaccount-hardening.dynatracelabs.com
 *.sprint.dynatracelabs.com
+account-sprint.dynatracelabs.com
 *.sprint.dynatracelabs.com
 *.sprint.apps.dynatracelabs.com
 account-sprint.dynatracelabs.com
@@ -410,8 +410,8 @@ payments.hostinger.com
 www.niagahoster.co.id
 cpanel.hostinger.com
 hpanel.hostinger.com
-www.hostinger.com
 *.000webhost.com
+www.hostinger.com
 *.000webhost.com
 www.hostinger.com
 cpanel.hostinger.com
@@ -778,8 +778,8 @@ http://www.myvisacardportal.com/welcome/enbd/product/#
 yourdomain.freshcaller.com
 yourdomain.freshchat.com
 yourdomain.freshdesk.com
-yourdomain.myfreshworks.com
 yourdomain.freshservice.com
+yourdomain.myfreshworks.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -833,8 +833,8 @@ lando.services.mozilla.com
 firefox-ci-tc.services.mozilla.com
 aus5.mozilla.org
 sync.services.mozilla.com
-firefox.settings.services.mozilla.com
 addons.allizom.org
+firefox.settings.services.mozilla.com
 phabricator.allizom.org
 accounts.firefox.com
 addons.allizom.org
@@ -864,8 +864,8 @@ community-tc.services.mozilla.com
 hg.mozilla.org
 developer.mozilla.org
 support.mozilla.org
-monitor.mozilla.org
 www.mozilla.org
+monitor.mozilla.org
 developer.mozilla.org
 profiler.firefox.com
 vpn.mozilla.org
@@ -894,9 +894,9 @@ hiltonlocalbiz.com
 hilton.io
 *.hiltonbusinessonline.com
 hiltonhotels.jp
-*.hilton.io
 hilton.com
 *.hilton.com
+*.hilton.io
 *.hilton.com
 *.hilton.io
 *.hilton.com.tr
@@ -961,8 +961,8 @@ debug.clairvoyance.indrive.tech
 ingest.clairvoyance.indrive.tech
 *.grindr.io
 *.grindr.mobi
-*.grindr.com
 web.grindr.com
+*.grindr.com
 *.grindr.io
 *.grindr.com
 *.grindr.mobi
@@ -1114,8 +1114,8 @@ admin.8x8.com
 *.superbet.pl
 moonpay.com
 hypermint.com
-*.moonpaycloud.com
 *.hypermint.com
+*.moonpaycloud.com
 *.moonpay.com
 *.moonpaycloud.com
 *.hypermint.com
@@ -1172,12 +1172,12 @@ www.flights.com
 www.expediapartnersolutions.com
 www.fewo-direkt.de
 *.vrbo.com
-*.hotwire.com
-*.travelocity.com
-www.expedia.com
-*.expediacruises.com
 *.carrentals.com
 *.travelocity.ca
+www.expedia.com
+*.expediacruises.com
+*.travelocity.com
+*.hotwire.com
 *.vrbo.com
 *.hotwire.com
 *.carrentals.com
@@ -1327,7 +1327,6 @@ business.linkedin.com
 *.wealthsimple.com
 *.wealthsimple.com
 *.simpletax.ca
-www.swoodoo.com
 business.kayak.com
 www.cheapflights.com
 www.kayak.com
@@ -1335,6 +1334,7 @@ www.checkfelix.com
 www.hotelscombined.com
 www.mundi.com.br
 www.momondo.com
+www.swoodoo.com
 www.kayak.com
 www.swoodoo.com
 www.checkfelix.com
@@ -1451,9 +1451,9 @@ bullsheet.me
 api.instacart.com
 shoppers.instacart.com
 admin.instacart.com
-www.instacart.com
-*.instacart.com
 *.instacart.tools
+*.instacart.com
+www.instacart.com
 *.instacart.com
 *.instacart.tools
 api.instacart.com
@@ -1472,8 +1472,8 @@ community.databricks.com
 customer-academy.databricks.com
 labs.databricks.com
 marketplace.databricks.com
-databricks.com
 accounts.cloud.databricks.com
+databricks.com
 databricks.com
 academy.databricks.com
 accounts.cloud.databricks.com
@@ -2009,9 +2009,9 @@ api.adm.cloud.com
 (yoursubdomain).sharefile.com
 www.cloud.com
 (yoursubdomain).sharefile.eu
+secure.sharefile.com
 adm.cloud.com
 citrix.cloud.com
-secure.sharefile.com
 secure.sharefile.eu
 citrix.cloud.com
 www.cloud.com
@@ -2045,18 +2045,18 @@ api.adm.cloud.com
 (youriwssubdomain).cloud.com
 live-backstage.tiktok.com
 effecthouse.tiktok.com
+shop.tiktok.com
 academy-outbound-ads.tiktok.com
 developers.tiktok.com
-shop.tiktok.com
 careers.tiktok.com
-tiktok.com
-*.tiktok.com
 business.tiktok.com
 fp-sg.tiktokv.com
+*.tiktok.com
 creatormarketplace.tiktok.com
-www.pangleglobal.com
 *.tiktokv.com
+www.pangleglobal.com
 partner.tiktokshop.com
+tiktok.com
 ads.tiktok.com
 *.tiktok.com
 business.tiktok.com
@@ -2319,11 +2319,11 @@ watchgod.polygon.technology
 open-api.polygon.technology
 faucet.polygon.technology
 portal.polygon.technology
-*.miui.com
 *.xiaomiyoupin.com
 *.miwifi.com
 *.xiaomi.com
 *.mi.com
+*.miui.com
 *.mi.com
 *.xiaomi.com
 *.miui.com
@@ -2636,8 +2636,8 @@ moments.marriottbonvoy.com
 help.marriott.com
 mipartnerprivileges.marriott.com
 travelagents.marriott.com/
-activities.marriott.com
 www.marriott.com
+activities.marriott.com
 traveler.marriott.com
 homes-and-villas.marriott.com
 careers.marriott.com
@@ -2698,8 +2698,8 @@ www.datastax.com
 downloads.datastax.com
 docs.datastax.com
 astra.datastax.com
-*.nordvpn.com
 app.nordpass.com
+*.nordvpn.com
 *.nordvpn.com
 app.nordpass.com
 *.line.me
@@ -3045,14 +3045,14 @@ pabets.tvg.com
 promos.tvg.com
 service.tvg.com
 fanduel.design
-ia.tvg.com
-tvg.com
-login.tvg.com
-www.tvg.com
-mobile-prod.tvg.com
-*racing.fanduel.com
-www.4njbets.com
 us.tvg.com
+ia.tvg.com
+www.4njbets.com
+tvg.com
+mobile-prod.tvg.com
+login.tvg.com
+*racing.fanduel.com
+www.tvg.com
 fdbox.net
 *.fanduel.com
 *.fanduel.com
@@ -3109,8 +3109,8 @@ my.swiftfinancial.com
 *.braintreegateway.com
 paypalobjects.com
 *.braintreepayments.com
-*.paypal.com
 *.xoom.com
+*.paypal.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -3270,12 +3270,12 @@ support.steampowered.com
 partner.steampowered.com
 partner.steamgames.com
 playartifact.com
-www.teamfortress.com
 help.steampowered.com
+www.teamfortress.com
 www.counter-strike.net
-api.steampowered.com
 www.dota2.com
 steamcommunity.com
+api.steampowered.com
 www.valvesoftware.com
 store.steampowered.com
 www.dota2.com
@@ -3291,9 +3291,9 @@ www.counter-strike.net
 playartifact.com
 help.steampowered.com
 developer.valvesoftware.com
-auth.crypto.com
 *.mona.co
 tax.crypto.com
+auth.crypto.com
 js.crypto.com
 pay.crypto.com
 www.crypto.com
@@ -3420,7 +3420,6 @@ privatetarget-1-www.zigzag
 *.myinsights.io
 *.sellzone.com
 *.grabtaxi.com
-*.myteksi.net
 *.grab.co
 p.grabtaxi.com
 gamma.grab.co
@@ -3434,10 +3433,11 @@ grab.careers
 *.myteksi.com
 jira.grab.com
 gifts.grab.com
-*.grab.com
-kartaview.org
 *.ovo.id
+kartaview.org
 api.grabpay.com
+*.myteksi.net
+*.grab.com
 *.myteksi.com
 *.myteksi.net
 *.grab.com
@@ -3608,8 +3608,8 @@ cart.starbucks.co.jp
 www.starbucks.co.kr
 gift.starbucks.co.jp
 app.starbucks.com
-www.starbucks.com.cn
 www.starbucks.com
+www.starbucks.com.cn
 www.starbucksreserve.com
 gift.starbucks.co.jp
 login.starbucks.co.jp
@@ -3748,9 +3748,9 @@ secure-dfadmin.deriv.com
 *.binary.com
 app.deriv.com
 *.deriv.cloud
+oauth.deriv.com
 derivws.com
 api.deriv.com
-oauth.deriv.com
 *.derivws.com
 *.deriv.com
 smarttrader.deriv.com
@@ -3802,9 +3802,9 @@ zopim.com
 app.futuresimple.com
 api.getbase.com
 www.zendesk.com
-h1-your-domain.zendesk.com
 apps.zendesk.com
 smooch.io
+h1-your-domain.zendesk.com
 www.zendesk.com
 developer.zendesk.com
 h1-your-domain.zendesk.com
@@ -3874,8 +3874,8 @@ playcanv.as
 *.sc-corp.net
 login.playcanvas.com
 ads.snapchat.com
-accounts.snapchat.com
 app.snapchat.com
+accounts.snapchat.com
 web.snapchat.com
 business.snapchat.com
 geofilters.snapchat.com
@@ -4158,10 +4158,10 @@ slack-redir.net
 spaces.pm
 www.quip.com
 slack-imgs.com
-slack.com
 *.quip.com
-app.slack.com
 api.slack.com
+slack.com
+app.slack.com
 slack.com
 api.slack.com
 status.slack.com
@@ -4198,7 +4198,6 @@ hackerone.live
 reviewer.pullrequest.com
 errors.hackerone.net
 ctf.hacker101.com
-www.wearehackerone.com
 cover-photos.hackerone-user-content.com
 app.pullrequest.com
 a5s.hackerone-ext-content.com
@@ -4206,6 +4205,7 @@ api.hackerone.com
 hackerone-user-content.com
 www.hackerone.com
 hackerone.com
+www.wearehackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
