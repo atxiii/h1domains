@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Mar 18 00:46:47 UTC 2024)
+## Domains with Bounties (Last Updated Mon Mar 18 01:48:29 UTC 2024)
 ```
 www.dysoncanada.ca
 www.dyson.ie
@@ -315,9 +315,9 @@ webonboarding-eu.truecaller.com
 cards.remitly.io
 rates.rewire.com
 app.rewire.to
-remitly.com
 rewire.com
 api.remitly.io
+remitly.com
 remitly.com
 api.remitly.io
 cards.remitly.io
@@ -410,8 +410,8 @@ logo.zyro.com
 payments.hostinger.com
 www.niagahoster.co.id
 cpanel.hostinger.com
-*.000webhost.com
 www.hostinger.com
+*.000webhost.com
 hpanel.hostinger.com
 *.000webhost.com
 www.hostinger.com
@@ -499,8 +499,8 @@ secure-supply-xml.booking.com
 taxi.booking.com
 cars.booking.com
 kyc-onboarding.booking.com
-widget.rentalcars.com
 booking.com
+widget.rentalcars.com
 secure.booking.com
 spark.fareharbor.com
 www.fareharbor.com
@@ -1116,8 +1116,8 @@ admin.8x8.com
 *.superbet.pl
 moonpay.com
 hypermint.com
-*.moonpaycloud.com
 *.hypermint.com
+*.moonpaycloud.com
 *.moonpay.com
 *.moonpaycloud.com
 *.hypermint.com
@@ -1625,8 +1625,8 @@ securitytrails.com
 geminiadvisory.io
 hatching.io
 tria.ge
-www.recordedfuture.com
 app.recordedfuture.com
+www.recordedfuture.com
 www.recordedfuture.com
 api.recordedfuture.com
 app.recordedfuture.com
@@ -1753,9 +1753,9 @@ api.taxjar.com
 *.reckoproduction.com
 *.link.co
 *.reckostaging.com
+*.touchtechpayments.com
 *.recko.io
 js.stripe.com
-*.touchtechpayments.com
 *.stripe.com
 api.stripe.com
 app.taxjar.com
@@ -2011,9 +2011,9 @@ api.adm.cloud.com
 (yoursubdomain).sharefile.com
 www.cloud.com
 (yoursubdomain).sharefile.eu
+secure.sharefile.com
 adm.cloud.com
 citrix.cloud.com
-secure.sharefile.com
 secure.sharefile.eu
 citrix.cloud.com
 www.cloud.com
@@ -3049,12 +3049,12 @@ service.tvg.com
 fanduel.design
 ia.tvg.com
 tvg.com
-login.tvg.com
-www.tvg.com
 mobile-prod.tvg.com
+login.tvg.com
 *racing.fanduel.com
-www.4njbets.com
+www.tvg.com
 us.tvg.com
+www.4njbets.com
 *.fanduel.com
 fdbox.net
 *.fanduel.com
@@ -3105,12 +3105,12 @@ pigeon.swiftfinancial.com
 scrutiny.swiftfinancial.com
 *.hyperwallet.com
 *.paylution.com
-*.paypalcorp.com
 www.loanbuilder.com
 my.swiftfinancial.com
+*.paypalcorp.com
+*.venmo.com
 *.braintreegateway.com
 paypalobjects.com
-*.venmo.com
 *.braintreepayments.com
 *.paypal.com
 www.paypal-*.com
@@ -3294,14 +3294,14 @@ www.counter-strike.net
 playartifact.com
 help.steampowered.com
 developer.valvesoftware.com
-auth.crypto.com
 *.mona.co
 tax.crypto.com
+auth.crypto.com
 app.mona.co
 js.crypto.com
 pay.crypto.com
-www.crypto.com
 *.crypto.com
+www.crypto.com
 merchant.crypto.com
 *.crypto.com
 *.mona.co
@@ -3437,10 +3437,10 @@ grab.careers
 *.myteksi.com
 *.grab.com
 jira.grab.com
-*.ovo.id
 gifts.grab.com
-api.grabpay.com
+*.ovo.id
 kartaview.org
+api.grabpay.com
 *.myteksi.com
 *.myteksi.net
 *.grab.com
@@ -3781,8 +3781,8 @@ preprod.nl
 qatest.nl
 rudderplatform.com
 werkenbijdnb.nl
-werkenbijderet.nl
 www.werkenbijbakertilly.nl
+werkenbijderet.nl
 werkenbijdefensie.nl
 werkenbijderet.nl
 www.werkenbijbakertilly.nl
@@ -3875,8 +3875,8 @@ rt.playcanvas.com
 store.playcanvas.com
 playcanv.as
 *.sc-corp.net
-ads.snapchat.com
 login.playcanvas.com
+ads.snapchat.com
 app.snapchat.com
 accounts.snapchat.com
 web.snapchat.com
@@ -4130,8 +4130,8 @@ pro.coinbase.com
 custody.coinbase.com
 commerce.coinbase.com
 prime.coinbase.com
-institutional.coinbase.com
 api.coinbase.com
+institutional.coinbase.com
 *.base.org
 international.coinbase.com
 cloud.coinbase.com
@@ -4390,8 +4390,8 @@ u.magento.com
 imagine.magento.com
 magentolive.com
 account.magento.com
-accounts.magento.cloud
 repo.magento.com
+accounts.magento.cloud
 magento.com
 marketplace.magento.com
 magentocommerce.com
