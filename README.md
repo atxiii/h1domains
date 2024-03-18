@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Mar 18 17:31:47 UTC 2024)
+## Domains with Bounties (Last Updated Mon Mar 18 18:27:01 UTC 2024)
 ```
 www.dysoncanada.ca
 www.dyson.ie
@@ -455,10 +455,10 @@ www.mercadolibre.cl
 www.mercadopago.cl
 www.mercadopago.com.br
 www.mercadolivre.com.br
-api.mercadopago.com
-www.mercadopago.com.ar
-www.mercadolibre.com.ar
 api.mercadolibre.com
+www.mercadopago.com.ar
+api.mercadopago.com
+www.mercadolibre.com.ar
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -506,8 +506,8 @@ careers.booking.com
 account.booking.com
 flights.booking.com
 *.rentalcars.com
-www.fareharbor.com
 *.booking.com
+www.fareharbor.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -776,8 +776,8 @@ http://myvisainfinite.com/suntrust/en_us/home.html
 http://www.myvisacardportal.com/welcome/enbd/product/#
 yourdomain.freshcaller.com
 yourdomain.freshchat.com
-yourdomain.myfreshworks.com
 yourdomain.freshdesk.com
+yourdomain.myfreshworks.com
 yourdomain.freshservice.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
@@ -958,8 +958,8 @@ debug.clairvoyance.indrive.tech
 ingest.clairvoyance.indrive.tech
 *.grindr.io
 *.grindr.mobi
-*.grindr.com
 web.grindr.com
+*.grindr.com
 *.grindr.io
 *.grindr.com
 *.grindr.mobi
@@ -1171,8 +1171,8 @@ www.expediapartnersolutions.com
 *.travelocity.ca
 *.expediacruises.com
 www.expedia.com
-www.fewo-direkt.de
 *.vrbo.com
+www.fewo-direkt.de
 *.hotwire.com
 *.travelocity.com
 *.vrbo.com
@@ -1732,8 +1732,8 @@ https://www.xvideos.net/app/
 www.elastic.co
 *.elasticnet.co
 *.eops.nl
-*.swiftype.com
 *.elastic.co
+*.swiftype.com
 *.elstc.co
 cloud.elastic.co
 *.elastic.co
@@ -1748,9 +1748,9 @@ api.taxjar.com
 *.reckoproduction.com
 *.link.co
 *.reckostaging.com
-*.touchtechpayments.com
 *.recko.io
 js.stripe.com
+*.touchtechpayments.com
 *.stripe.com
 api.stripe.com
 app.taxjar.com
@@ -1794,9 +1794,9 @@ app.spiketrap.io
 www.spiketrap.io
 old.reddit.com
 *.reddit.com
-ads.reddit.com
 matrix.redditspace.com
 *.reddithelp.com
+ads.reddit.com
 www.reddit.com
 *.snooguts.net
 *.redditmedia.com
@@ -1908,11 +1908,11 @@ status.larksuite.com
 passport.larksuite.com
 internal-api.larksuite.com
 internal-api-drive-stream.larksuite.com
-open.larksuite.com
 app.larksuite.com
+open.larksuite.com
 hackers_chosendomain.larksuite.com
-larksuite.com
 internal-api-lark-api.larksuite.com
+larksuite.com
 larksuite.com
 lark-frontier.byteoversea.com
 file.larksuite.com
@@ -2006,9 +2006,9 @@ api.adm.cloud.com
 (yoursubdomain).sharefile.com
 www.cloud.com
 (yoursubdomain).sharefile.eu
-secure.sharefile.com
 adm.cloud.com
 citrix.cloud.com
+secure.sharefile.com
 secure.sharefile.eu
 citrix.cloud.com
 www.cloud.com
@@ -2042,19 +2042,19 @@ api.adm.cloud.com
 (youriwssubdomain).cloud.com
 live-backstage.tiktok.com
 effecthouse.tiktok.com
-shop.tiktok.com
 academy-outbound-ads.tiktok.com
 developers.tiktok.com
+shop.tiktok.com
 careers.tiktok.com
 fp-sg.tiktokv.com
-*.tiktok.com
 creatormarketplace.tiktok.com
 www.pangleglobal.com
 tiktok.com
-business.tiktok.com
 *.tiktokv.com
-partner.tiktokshop.com
+business.tiktok.com
 ads.tiktok.com
+partner.tiktokshop.com
+*.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2122,8 +2122,8 @@ api.faraday.ai
 *.acronis.work
 beta-cloud.acronis.com
 *.5nine.com
-account.acronis.com
 *.acronis.com
+account.acronis.com
 *-api-*.acronis.com
 *.acronis.com
 *.5nine.com
@@ -2280,10 +2280,10 @@ transact.playstation.com
 wallets.api.playstation.com
 ca.account.sony.com
 *.sonyentertainmentnetwork.com
-my.playstation.com
-*.api.playstation.com
 my.account.sony.com
 *.playstation.net
+my.playstation.com
+*.api.playstation.com
 *.playstation.net
 *.sonyentertainmentnetwork.com
 *.api.playstation.com
@@ -2416,6 +2416,7 @@ prod-dp-discovery-us-east-1.amazon.com
 rabbitinstruction-na.amazon.com
 relay.amazon.com
 sellercentral.amazon.com
+spapi-na.amazon.com
 *.amazon.cl
 *.amazon.co.za
 *.amazon.com.au
@@ -2525,8 +2526,8 @@ www.alibabagroup.com
 *.Daraz.com
 *.1688.com
 *.tmall.com
-*.taobao.com
 *.aliexpress.com
+*.taobao.com
 *.alibaba.com
 *.aliyun.com
 *.alibaba.com
@@ -2685,8 +2686,8 @@ www.datastax.com
 downloads.datastax.com
 docs.datastax.com
 astra.datastax.com
-app.nordpass.com
 *.nordvpn.com
+app.nordpass.com
 *.nordvpn.com
 app.nordpass.com
 *.line.me
@@ -3032,16 +3033,16 @@ pabets.tvg.com
 promos.tvg.com
 service.tvg.com
 fanduel.design
+us.tvg.com
 ia.tvg.com
+www.4njbets.com
 tvg.com
 mobile-prod.tvg.com
 login.tvg.com
 *racing.fanduel.com
 www.tvg.com
-us.tvg.com
-www.4njbets.com
-*.fanduel.com
 fdbox.net
+*.fanduel.com
 *.fanduel.com
 *racing.fanduel.com
 fdbox.net
@@ -3094,8 +3095,8 @@ my.swiftfinancial.com
 *.paypalcorp.com
 *.venmo.com
 *.braintreegateway.com
-*.braintreepayments.com
 *.xoom.com
+*.braintreepayments.com
 paypalobjects.com
 *.paypal.com
 www.paypal-*.com
@@ -3278,11 +3279,11 @@ www.counter-strike.net
 playartifact.com
 help.steampowered.com
 developer.valvesoftware.com
-pay.crypto.com
 *.mona.co
 tax.crypto.com
 auth.crypto.com
 js.crypto.com
+pay.crypto.com
 www.crypto.com
 app.mona.co
 *.crypto.com
@@ -3479,8 +3480,8 @@ ccardsus1.badoo.com
 chatdate.app
 getofficial.co
 backstage.io
-api.spotify.com
 assets.spotify.com
+api.spotify.com
 assets.spotify.com
 api.spotify.com
 backstage.io
@@ -3734,11 +3735,11 @@ cashier.deriv.com
 secure-dfadmin.deriv.com
 *.binary.com
 *.deriv.cloud
-*.derivws.com
-*.deriv.com
 oauth.deriv.com
 derivws.com
 api.deriv.com
+*.derivws.com
+*.deriv.com
 smarttrader.deriv.com
 app.deriv.com
 *.deriv.com
@@ -3816,11 +3817,11 @@ arrive-server.shopifycloud.com
 partners.shopify.com
 *.shopify.io
 shopifyinbox.com
-shop.app
 accounts.shopify.com
 your-store.myshopify.com
-*.shopify.com
 admin.shopify.com
+shop.app
+*.shopify.com
 *.shopifycs.com
 *.shopify.io
 *.shopify.com
@@ -3861,12 +3862,12 @@ playcanv.as
 *.sc-corp.net
 login.playcanvas.com
 ads.snapchat.com
-app.snapchat.com
 accounts.snapchat.com
 web.snapchat.com
 geofilters.snapchat.com
 playcanvas.com
 business.snapchat.com
+app.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
@@ -4032,8 +4033,8 @@ api.x.ai
 ide.x.ai
 grok.x.ai
 x.com
-*.twitter.com
 *.twimg.com
+*.twitter.com
 *.twitter.com
 *.vine.co
 *.twimg.com
@@ -4188,9 +4189,9 @@ cover-photos.hackerone-user-content.com
 a5s.hackerone-ext-content.com
 hackerone-user-content.com
 api.hackerone.com
+hackerone-ext-content.com
 www.wearehackerone.com
 www.hackerone.com
-hackerone-ext-content.com
 app.pullrequest.com
 hackerone.com
 hackerone.com
@@ -4384,8 +4385,8 @@ u.magento.com
 imagine.magento.com
 magentolive.com
 account.magento.com
-accounts.magento.cloud
 repo.magento.com
+accounts.magento.cloud
 magento.com
 marketplace.magento.com
 magentocommerce.com
