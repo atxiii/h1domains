@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Mar 19 12:23:01 UTC 2024)
+## Domains with Bounties (Last Updated Tue Mar 19 13:19:41 UTC 2024)
 ```
 www.dysoncanada.ca
 www.dyson.ie
@@ -458,9 +458,9 @@ www.mercadopago.cl
 www.mercadolivre.com.br
 www.mercadopago.com.br
 api.mercadopago.com
-www.mercadopago.com.ar
-www.mercadolibre.com.ar
 api.mercadolibre.com
+www.mercadolibre.com.ar
+www.mercadopago.com.ar
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -508,8 +508,8 @@ account.booking.com
 flights.booking.com
 www.fareharbor.com
 widget.rentalcars.com
-*.rentalcars.com
 *.booking.com
+*.rentalcars.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -574,8 +574,8 @@ cdn.moderntreasury.com
 app.moderntreasury.com
 app.moderntreasury.com
 cdn.moderntreasury.com
-test.nicex.com
 test.nicehash.com
+test.nicex.com
 test.nicehash.com
 https://test.nicehash.com/shop/
 https://test.nicex.com
@@ -777,10 +777,10 @@ www.visainfinite.ca
 http://myvisainfinite.com/suntrust/en_us/home.html
 http://www.myvisacardportal.com/welcome/enbd/product/#
 yourdomain.freshcaller.com
-yourdomain.freshservice.com
 yourdomain.myfreshworks.com
 yourdomain.freshchat.com
 yourdomain.freshdesk.com
+yourdomain.freshservice.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -832,11 +832,11 @@ lando.services.mozilla.com
 firefox-ci-tc.services.mozilla.com
 aus5.mozilla.org
 sync.services.mozilla.com
-firefox.settings.services.mozilla.com
 addons.allizom.org
+firefox.settings.services.mozilla.com
+phabricator.allizom.org
 bugzilla.mozilla.org
 accounts.firefox.com
-phabricator.allizom.org
 addons.allizom.org
 accounts.firefox.com
 bugzilla.mozilla.org
@@ -863,8 +863,8 @@ community-tc.services.mozilla.com
 hg.mozilla.org
 developer.mozilla.org
 support.mozilla.org
-www.mozilla.org
 monitor.mozilla.org
+www.mozilla.org
 developer.mozilla.org
 profiler.firefox.com
 vpn.mozilla.org
@@ -1175,8 +1175,8 @@ www.fewo-direkt.de
 *.vrbo.com
 www.expedia.com
 *.travelocity.com
-*.hotwire.com
 *.expediacruises.com
+*.hotwire.com
 *.vrbo.com
 *.hotwire.com
 *.carrentals.com
@@ -2526,12 +2526,12 @@ www.alibabagroup.com
 *.aliexpress.ru
 *.alibabacloud.com
 *.1688.com
-*.aliexpress.com
 *.tmall.com
 *.alibaba.com
 *.aliyun.com
 *.taobao.com
 *.Daraz.com
+*.aliexpress.com
 *.alibaba.com
 *.aliexpress.com
 *.taobao.com
@@ -2820,7 +2820,7 @@ reservations.rezserver.com
 cruises.priceline.com
 www.getaroom.com
 press.priceline.com
-secure.rezserver.com
+www.bookingholdings.com
 www.priceline.com
 secure.rezserver.com
 reservations.rezserver.com
@@ -3037,13 +3037,13 @@ promos.tvg.com
 service.tvg.com
 fanduel.design
 ia.tvg.com
-tvg.com
-mobile-prod.tvg.com
-login.tvg.com
-*racing.fanduel.com
-www.tvg.com
-us.tvg.com
 www.4njbets.com
+us.tvg.com
+tvg.com
+login.tvg.com
+www.tvg.com
+mobile-prod.tvg.com
+*racing.fanduel.com
 fdbox.net
 *.fanduel.com
 *.fanduel.com
@@ -3076,13 +3076,6 @@ https://github.com/matomo-org/docker
 *.paydiant.com
 paypal.me
 py.pl
-*.braintree-api.com
-*.braintree.tools
-prequal.swiftfinancial.com
-partner.swiftfinancial.com
-decision.swiftfinancial.com
-pigeon.swiftfinancial.com
-scrutiny.swiftfinancial.com
 www.swiftcapital.com
 www.swiftfinancial.com
 api.swiftfinancial.com
@@ -3091,6 +3084,13 @@ my.loanbuilder.com
 loanbuilder.com
 swiftfinancial.com
 swiftcapital.com
+*.braintree-api.com
+*.braintree.tools
+prequal.swiftfinancial.com
+partner.swiftfinancial.com
+decision.swiftfinancial.com
+pigeon.swiftfinancial.com
+scrutiny.swiftfinancial.com
 *.hyperwallet.com
 *.paylution.com
 www.loanbuilder.com
@@ -3261,12 +3261,12 @@ support.steampowered.com
 partner.steampowered.com
 partner.steamgames.com
 playartifact.com
-help.steampowered.com
 www.teamfortress.com
+help.steampowered.com
 www.counter-strike.net
+api.steampowered.com
 www.dota2.com
 steamcommunity.com
-api.steampowered.com
 www.valvesoftware.com
 store.steampowered.com
 www.dota2.com
@@ -3282,9 +3282,9 @@ www.counter-strike.net
 playartifact.com
 help.steampowered.com
 developer.valvesoftware.com
+auth.crypto.com
 *.mona.co
 tax.crypto.com
-auth.crypto.com
 js.crypto.com
 pay.crypto.com
 www.crypto.com
@@ -3742,8 +3742,8 @@ derivws.com
 *.derivws.com
 smarttrader.deriv.com
 api.deriv.com
-oauth.deriv.com
 *.deriv.com
+oauth.deriv.com
 app.deriv.com
 *.deriv.com
 *.deriv.cloud
@@ -3794,8 +3794,8 @@ app.futuresimple.com
 api.getbase.com
 www.zendesk.com
 smooch.io
-h1-your-domain.zendesk.com
 apps.zendesk.com
+h1-your-domain.zendesk.com
 www.zendesk.com
 developer.zendesk.com
 h1-your-domain.zendesk.com
@@ -3819,11 +3819,11 @@ arrive-server.shopifycloud.com
 *.shopifycloud.com
 shopifyinbox.com
 *.shopify.io
-accounts.shopify.com
 partners.shopify.com
 admin.shopify.com
-your-store.myshopify.com
 shop.app
+your-store.myshopify.com
+accounts.shopify.com
 *.shopify.com
 *.shopifycs.com
 *.shopify.io
@@ -4114,11 +4114,11 @@ team-irc.irccloud.com
 blog.irccloud.com
 *.cbhq.net
 api.custody.coinbase.com
-api.coinbase.com
 pro.coinbase.com
 custody.coinbase.com
 commerce.coinbase.com
 prime.coinbase.com
+api.coinbase.com
 institutional.coinbase.com
 *.base.org
 international.coinbase.com
@@ -4387,8 +4387,8 @@ u.magento.com
 imagine.magento.com
 magentolive.com
 account.magento.com
-repo.magento.com
 accounts.magento.cloud
+repo.magento.com
 magento.com
 marketplace.magento.com
 magentocommerce.com
