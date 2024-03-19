@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Mar 19 11:16:43 UTC 2024)
+## Domains with Bounties (Last Updated Tue Mar 19 12:23:01 UTC 2024)
 ```
 www.dysoncanada.ca
 www.dyson.ie
@@ -457,10 +457,10 @@ www.mercadolibre.cl
 www.mercadopago.cl
 www.mercadolivre.com.br
 www.mercadopago.com.br
-api.mercadolibre.com
 api.mercadopago.com
-www.mercadolibre.com.ar
 www.mercadopago.com.ar
+www.mercadolibre.com.ar
+api.mercadolibre.com
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -508,8 +508,8 @@ account.booking.com
 flights.booking.com
 www.fareharbor.com
 widget.rentalcars.com
-*.booking.com
 *.rentalcars.com
+*.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -574,8 +574,8 @@ cdn.moderntreasury.com
 app.moderntreasury.com
 app.moderntreasury.com
 cdn.moderntreasury.com
-test.nicehash.com
 test.nicex.com
+test.nicehash.com
 test.nicehash.com
 https://test.nicehash.com/shop/
 https://test.nicex.com
@@ -777,10 +777,10 @@ www.visainfinite.ca
 http://myvisainfinite.com/suntrust/en_us/home.html
 http://www.myvisacardportal.com/welcome/enbd/product/#
 yourdomain.freshcaller.com
-yourdomain.freshchat.com
-yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.myfreshworks.com
+yourdomain.freshchat.com
+yourdomain.freshdesk.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -829,14 +829,14 @@ merino.services.mozilla.com
 mozilla-pontoon-staging.herokuapp.com
 shavar.services.mozilla.com
 lando.services.mozilla.com
+firefox-ci-tc.services.mozilla.com
 aus5.mozilla.org
 sync.services.mozilla.com
-firefox-ci-tc.services.mozilla.com
 firefox.settings.services.mozilla.com
 addons.allizom.org
-phabricator.allizom.org
 bugzilla.mozilla.org
 accounts.firefox.com
+phabricator.allizom.org
 addons.allizom.org
 accounts.firefox.com
 bugzilla.mozilla.org
@@ -960,8 +960,8 @@ debug.clairvoyance.indrive.tech
 ingest.clairvoyance.indrive.tech
 *.grindr.io
 *.grindr.mobi
-web.grindr.com
 *.grindr.com
+web.grindr.com
 *.grindr.io
 *.grindr.com
 *.grindr.mobi
@@ -1171,12 +1171,12 @@ www.flights.com
 www.expediapartnersolutions.com
 *.carrentals.com
 *.travelocity.ca
-*.vrbo.com
 www.fewo-direkt.de
-*.travelocity.com
+*.vrbo.com
 www.expedia.com
-*.expediacruises.com
+*.travelocity.com
 *.hotwire.com
+*.expediacruises.com
 *.vrbo.com
 *.hotwire.com
 *.carrentals.com
@@ -1298,9 +1298,9 @@ www.dolap.com
 www.trendyol-milla.com
 *.sidefx.com
 *.sidefx.com
-snaps.metamask.io
 portfolio.metamask.io
 metamask.io
+snaps.metamask.io
 metamask.io
 snaps.metamask.io
 portfolio.metamask.io
@@ -1750,9 +1750,9 @@ api.taxjar.com
 *.reckoproduction.com
 *.link.co
 *.reckostaging.com
-*.touchtechpayments.com
 *.recko.io
 js.stripe.com
+*.touchtechpayments.com
 *.stripe.com
 app.taxjar.com
 api.stripe.com
@@ -2005,8 +2005,8 @@ api.adm.cloud.com
 (yoursubdomain).ap.iws.cloud.com
 (yoursubdomain).eu.iws.cloud.com
 (youriwssubdomain).cloud.com
-www.cloud.com
 (yoursubdomain).sharefile.com
+www.cloud.com
 (yoursubdomain).sharefile.eu
 adm.cloud.com
 citrix.cloud.com
@@ -2055,8 +2055,8 @@ academy-outbound-ads.tiktok.com
 partner.tiktokshop.com
 ads.tiktok.com
 tiktok.com
-*.tiktokv.com
 *.tiktok.com
+*.tiktokv.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2527,11 +2527,11 @@ www.alibabagroup.com
 *.alibabacloud.com
 *.1688.com
 *.aliexpress.com
-*.Daraz.com
 *.tmall.com
-*.taobao.com
 *.alibaba.com
 *.aliyun.com
+*.taobao.com
+*.Daraz.com
 *.alibaba.com
 *.aliexpress.com
 *.taobao.com
@@ -2662,8 +2662,8 @@ www.goodrx.com
 www.goodrx.com
 *.rbx.com
 *.ra.roblox.com
-*.guilded.gg
 *.roblox.com
+*.guilded.gg
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -2820,7 +2820,7 @@ reservations.rezserver.com
 cruises.priceline.com
 www.getaroom.com
 press.priceline.com
-www.bookingholdings.com
+secure.rezserver.com
 www.priceline.com
 secure.rezserver.com
 reservations.rezserver.com
@@ -3037,13 +3037,13 @@ promos.tvg.com
 service.tvg.com
 fanduel.design
 ia.tvg.com
-www.4njbets.com
-us.tvg.com
 tvg.com
-login.tvg.com
-www.tvg.com
 mobile-prod.tvg.com
+login.tvg.com
 *racing.fanduel.com
+www.tvg.com
+us.tvg.com
+www.4njbets.com
 fdbox.net
 *.fanduel.com
 *.fanduel.com
@@ -3076,6 +3076,13 @@ https://github.com/matomo-org/docker
 *.paydiant.com
 paypal.me
 py.pl
+*.braintree-api.com
+*.braintree.tools
+prequal.swiftfinancial.com
+partner.swiftfinancial.com
+decision.swiftfinancial.com
+pigeon.swiftfinancial.com
+scrutiny.swiftfinancial.com
 www.swiftcapital.com
 www.swiftfinancial.com
 api.swiftfinancial.com
@@ -3084,13 +3091,6 @@ my.loanbuilder.com
 loanbuilder.com
 swiftfinancial.com
 swiftcapital.com
-*.braintree-api.com
-*.braintree.tools
-prequal.swiftfinancial.com
-partner.swiftfinancial.com
-decision.swiftfinancial.com
-pigeon.swiftfinancial.com
-scrutiny.swiftfinancial.com
 *.hyperwallet.com
 *.paylution.com
 www.loanbuilder.com
@@ -3822,9 +3822,9 @@ shopifyinbox.com
 accounts.shopify.com
 partners.shopify.com
 admin.shopify.com
+your-store.myshopify.com
 shop.app
 *.shopify.com
-your-store.myshopify.com
 *.shopifycs.com
 *.shopify.io
 *.shopify.com
@@ -4114,12 +4114,12 @@ team-irc.irccloud.com
 blog.irccloud.com
 *.cbhq.net
 api.custody.coinbase.com
+api.coinbase.com
 pro.coinbase.com
 custody.coinbase.com
 commerce.coinbase.com
 prime.coinbase.com
 institutional.coinbase.com
-api.coinbase.com
 *.base.org
 international.coinbase.com
 cloud.coinbase.com
@@ -4151,8 +4151,8 @@ www.quip.com
 slack-imgs.com
 slack.com
 *.quip.com
-api.slack.com
 app.slack.com
+api.slack.com
 slack.com
 api.slack.com
 status.slack.com
@@ -4369,9 +4369,9 @@ aivencloud.com
 help.aiven.io
 *.xiaomiyoupin.com
 *.miwifi.com
-*.xiaomi.com
 *.mi.com
 *.miui.com
+*.xiaomi.com
 *.mi.com
 *.xiaomi.com
 *.miui.com
@@ -4426,7 +4426,7 @@ alerts.eu.newrelic.com
 login.newrelic.com
 developer.newrelic.com
 *.nr-ops.net
-rpm.newrelic.com
+one.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
 *.infrastructure-data.newrelic.com
