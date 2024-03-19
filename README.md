@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Mar 19 00:46:50 UTC 2024)
+## Domains with Bounties (Last Updated Tue Mar 19 01:48:03 UTC 2024)
 ```
 www.dysoncanada.ca
 www.dyson.ie
@@ -312,12 +312,12 @@ video-callerid-eu.truecaller.com
 webdirectory-eu.truecaller.com
 webonboarding-eu.truecaller.com
 cards.remitly.io
-api.remitly.io
-rewire.com
 rates.rewire.com
 app.rewire.to
 remitly.com
 app3.rewire.to
+api.remitly.io
+rewire.com
 remitly.com
 api.remitly.io
 cards.remitly.io
@@ -506,10 +506,10 @@ admin.booking.com
 careers.booking.com
 account.booking.com
 flights.booking.com
+www.fareharbor.com
+widget.rentalcars.com
 *.booking.com
 *.rentalcars.com
-widget.rentalcars.com
-www.fareharbor.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -1010,9 +1010,9 @@ www.sokos.fi
 api.sokos.fi
 cfapi.voikukka.fi
 digili.s-cloud.fi
+mobile.s-pankki.fi
 www.s-pankki.fi
 www.prisma.fi
-mobile.s-pankki.fi
 online.s-pankki.fi
 online.s-pankki.fi
 www.s-pankki.fi
@@ -1060,7 +1060,6 @@ work-staging.8x8.com
 user-profile-staging.8x8.com
 *.8x8staging.com
 connect.8x8.com
-*.jitsi.net
 *.8x8.vc
 *.jit.si
 *.jitsi.net
@@ -1172,8 +1171,8 @@ www.expediapartnersolutions.com
 *.carrentals.com
 *.travelocity.ca
 www.expedia.com
-www.fewo-direkt.de
 *.vrbo.com
+www.fewo-direkt.de
 *.hotwire.com
 *.travelocity.com
 *.expediacruises.com
@@ -1471,8 +1470,8 @@ community.databricks.com
 customer-academy.databricks.com
 labs.databricks.com
 marketplace.databricks.com
-databricks.com
 accounts.cloud.databricks.com
+databricks.com
 databricks.com
 academy.databricks.com
 accounts.cloud.databricks.com
@@ -2005,8 +2004,8 @@ api.adm.cloud.com
 (yoursubdomain).ap.iws.cloud.com
 (yoursubdomain).eu.iws.cloud.com
 (youriwssubdomain).cloud.com
-(yoursubdomain).sharefile.com
 www.cloud.com
+(yoursubdomain).sharefile.com
 (yoursubdomain).sharefile.eu
 adm.cloud.com
 citrix.cloud.com
@@ -2044,16 +2043,16 @@ api.adm.cloud.com
 (youriwssubdomain).cloud.com
 live-backstage.tiktok.com
 effecthouse.tiktok.com
-developers.tiktok.com
 shop.tiktok.com
+developers.tiktok.com
 careers.tiktok.com
 fp-sg.tiktokv.com
 www.pangleglobal.com
-*.tiktokv.com
 business.tiktok.com
+*.tiktokv.com
+creatormarketplace.tiktok.com
 academy-outbound-ads.tiktok.com
 tiktok.com
-creatormarketplace.tiktok.com
 *.tiktok.com
 partner.tiktokshop.com
 ads.tiktok.com
@@ -2124,8 +2123,8 @@ api.faraday.ai
 *.acronis.work
 beta-cloud.acronis.com
 *.5nine.com
-*.acronis.com
 account.acronis.com
+*.acronis.com
 *-api-*.acronis.com
 *.acronis.com
 *.5nine.com
@@ -3075,6 +3074,13 @@ https://github.com/matomo-org/docker
 *.paydiant.com
 paypal.me
 py.pl
+*.braintree-api.com
+*.braintree.tools
+prequal.swiftfinancial.com
+partner.swiftfinancial.com
+decision.swiftfinancial.com
+pigeon.swiftfinancial.com
+scrutiny.swiftfinancial.com
 www.swiftcapital.com
 www.swiftfinancial.com
 api.swiftfinancial.com
@@ -3083,13 +3089,6 @@ my.loanbuilder.com
 loanbuilder.com
 swiftfinancial.com
 swiftcapital.com
-*.braintree-api.com
-*.braintree.tools
-prequal.swiftfinancial.com
-partner.swiftfinancial.com
-decision.swiftfinancial.com
-pigeon.swiftfinancial.com
-scrutiny.swiftfinancial.com
 *.hyperwallet.com
 *.paylution.com
 www.loanbuilder.com
@@ -3281,11 +3280,11 @@ www.counter-strike.net
 playartifact.com
 help.steampowered.com
 developer.valvesoftware.com
-auth.crypto.com
+pay.crypto.com
 *.mona.co
 tax.crypto.com
+auth.crypto.com
 js.crypto.com
-pay.crypto.com
 www.crypto.com
 app.mona.co
 *.crypto.com
@@ -3421,13 +3420,13 @@ xtramile.grabpay.com
 wiki.grab.com
 grab.careers
 *.myteksi.com
-*.ovo.id
 kartaview.org
 api.grabpay.com
 *.myteksi.net
 *.grab.com
 gifts.grab.com
 jira.grab.com
+*.ovo.id
 *.myteksi.com
 *.myteksi.net
 *.grab.com
@@ -3737,9 +3736,9 @@ cashier.deriv.com
 secure-dfadmin.deriv.com
 *.binary.com
 *.deriv.cloud
+oauth.deriv.com
 derivws.com
 api.deriv.com
-oauth.deriv.com
 *.derivws.com
 smarttrader.deriv.com
 app.deriv.com
@@ -3820,10 +3819,10 @@ partners.shopify.com
 shopifyinbox.com
 *.shopify.io
 admin.shopify.com
-accounts.shopify.com
-*.shopify.com
 your-store.myshopify.com
 shop.app
+accounts.shopify.com
+*.shopify.com
 *.shopifycs.com
 *.shopify.io
 *.shopify.com
@@ -3946,8 +3945,8 @@ callbacks.airbnb.com
 *.luxuryretreats.com
 www.hoteltonight.com
 *.airbnbcitizen.com
-api.airbnb.com
 *.withairbnb.com
+api.airbnb.com
 next.airbnb.com
 *.hoteltonight-test.com
 www.airbnb.com
