@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Mar 19 03:17:07 UTC 2024)
+## Domains with Bounties (Last Updated Tue Mar 19 04:17:48 UTC 2024)
 ```
 www.dysoncanada.ca
 www.dyson.ie
@@ -411,9 +411,9 @@ logo.zyro.com
 payments.hostinger.com
 www.niagahoster.co.id
 cpanel.hostinger.com
-hpanel.hostinger.com
 *.000webhost.com
 www.hostinger.com
+hpanel.hostinger.com
 *.000webhost.com
 www.hostinger.com
 cpanel.hostinger.com
@@ -506,9 +506,9 @@ admin.booking.com
 careers.booking.com
 account.booking.com
 flights.booking.com
-widget.rentalcars.com
 www.fareharbor.com
 *.rentalcars.com
+widget.rentalcars.com
 *.booking.com
 *.booking.com
 *.rentalcars.com
@@ -779,8 +779,8 @@ http://www.myvisacardportal.com/welcome/enbd/product/#
 yourdomain.freshcaller.com
 yourdomain.freshchat.com
 yourdomain.freshdesk.com
-yourdomain.myfreshworks.com
 yourdomain.freshservice.com
+yourdomain.myfreshworks.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -798,8 +798,8 @@ app.avtoelon.uz
 id.avtoelon.uz
 m.kolesa.kz
 api.krisha.kz
-kolesa.kz
 avtoelon.uz
+kolesa.kz
 kolesa.kz
 m.kolesa.kz
 krisha.kz
@@ -830,9 +830,9 @@ merino.services.mozilla.com
 mozilla-pontoon-staging.herokuapp.com
 shavar.services.mozilla.com
 lando.services.mozilla.com
-firefox-ci-tc.services.mozilla.com
 aus5.mozilla.org
 sync.services.mozilla.com
+firefox-ci-tc.services.mozilla.com
 firefox.settings.services.mozilla.com
 addons.allizom.org
 phabricator.allizom.org
@@ -1113,8 +1113,8 @@ admin.8x8.com
 *.superbet.pl
 moonpay.com
 hypermint.com
-*.hypermint.com
 *.moonpaycloud.com
+*.hypermint.com
 *.moonpay.com
 *.moonpaycloud.com
 *.hypermint.com
@@ -1172,8 +1172,8 @@ www.expediapartnersolutions.com
 *.carrentals.com
 *.travelocity.ca
 www.expedia.com
-*.vrbo.com
 www.fewo-direkt.de
+*.vrbo.com
 *.travelocity.com
 *.expediacruises.com
 *.hotwire.com
@@ -1750,9 +1750,9 @@ api.taxjar.com
 *.reckoproduction.com
 *.link.co
 *.reckostaging.com
-*.touchtechpayments.com
 *.recko.io
 js.stripe.com
+*.touchtechpayments.com
 *.stripe.com
 app.taxjar.com
 api.stripe.com
@@ -1910,8 +1910,8 @@ status.larksuite.com
 passport.larksuite.com
 internal-api.larksuite.com
 internal-api-drive-stream.larksuite.com
-app.larksuite.com
 open.larksuite.com
+app.larksuite.com
 hackers_chosendomain.larksuite.com
 larksuite.com
 internal-api-lark-api.larksuite.com
@@ -2123,8 +2123,8 @@ api.faraday.ai
 *.devicelock.com
 *.acronis.work
 beta-cloud.acronis.com
-account.acronis.com
 *.5nine.com
+account.acronis.com
 *.acronis.com
 *-api-*.acronis.com
 *.acronis.com
@@ -2281,11 +2281,11 @@ social.playstation.com
 transact.playstation.com
 wallets.api.playstation.com
 ca.account.sony.com
-*.sonyentertainmentnetwork.com
 *.playstation.net
 *.api.playstation.com
 my.playstation.com
 my.account.sony.com
+*.sonyentertainmentnetwork.com
 *.playstation.net
 *.sonyentertainmentnetwork.com
 *.api.playstation.com
@@ -2525,13 +2525,13 @@ www.alibabagroup.com
 *.alimama.com
 *.aliexpress.ru
 *.alibabacloud.com
-*.Daraz.com
 *.1688.com
 *.tmall.com
 *.aliexpress.com
 *.alibaba.com
 *.aliyun.com
 *.taobao.com
+*.Daraz.com
 *.alibaba.com
 *.aliexpress.com
 *.taobao.com
@@ -3036,13 +3036,13 @@ promos.tvg.com
 service.tvg.com
 fanduel.design
 ia.tvg.com
+www.4njbets.com
+us.tvg.com
 tvg.com
 login.tvg.com
 www.tvg.com
 mobile-prod.tvg.com
 *racing.fanduel.com
-www.4njbets.com
-us.tvg.com
 fdbox.net
 *.fanduel.com
 *.fanduel.com
@@ -3075,6 +3075,13 @@ https://github.com/matomo-org/docker
 *.paydiant.com
 paypal.me
 py.pl
+*.braintree-api.com
+*.braintree.tools
+prequal.swiftfinancial.com
+partner.swiftfinancial.com
+decision.swiftfinancial.com
+pigeon.swiftfinancial.com
+scrutiny.swiftfinancial.com
 www.swiftcapital.com
 www.swiftfinancial.com
 api.swiftfinancial.com
@@ -3083,13 +3090,6 @@ my.loanbuilder.com
 loanbuilder.com
 swiftfinancial.com
 swiftcapital.com
-*.braintree-api.com
-*.braintree.tools
-prequal.swiftfinancial.com
-partner.swiftfinancial.com
-decision.swiftfinancial.com
-pigeon.swiftfinancial.com
-scrutiny.swiftfinancial.com
 *.hyperwallet.com
 *.paylution.com
 www.loanbuilder.com
@@ -3737,10 +3737,10 @@ cashier.deriv.com
 secure-dfadmin.deriv.com
 *.binary.com
 *.deriv.cloud
-*.derivws.com
 oauth.deriv.com
 derivws.com
 api.deriv.com
+*.derivws.com
 smarttrader.deriv.com
 app.deriv.com
 *.deriv.com
@@ -3862,7 +3862,6 @@ rt.playcanvas.com
 store.playcanvas.com
 playcanv.as
 *.sc-corp.net
-ads.snapchat.com
 login.playcanvas.com
 accounts.snapchat.com
 web.snapchat.com
@@ -3870,6 +3869,7 @@ geofilters.snapchat.com
 playcanvas.com
 business.snapchat.com
 app.snapchat.com
+ads.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
@@ -4034,9 +4034,9 @@ gnip.com
 api.x.ai
 ide.x.ai
 grok.x.ai
-x.com
 *.twimg.com
 *.twitter.com
+x.com
 *.twitter.com
 *.vine.co
 *.twimg.com
@@ -4113,11 +4113,11 @@ team-irc.irccloud.com
 blog.irccloud.com
 *.cbhq.net
 api.custody.coinbase.com
+api.coinbase.com
 pro.coinbase.com
 custody.coinbase.com
 commerce.coinbase.com
 prime.coinbase.com
-api.coinbase.com
 institutional.coinbase.com
 *.base.org
 international.coinbase.com
@@ -4187,9 +4187,9 @@ ctf.hacker101.com
 cover-photos.hackerone-user-content.com
 a5s.hackerone-ext-content.com
 api.hackerone.com
-hackerone-ext-content.com
 www.wearehackerone.com
 www.hackerone.com
+hackerone-ext-content.com
 app.pullrequest.com
 errors.hackerone.net
 hackerone-user-content.com
@@ -4425,7 +4425,7 @@ alerts.eu.newrelic.com
 login.newrelic.com
 developer.newrelic.com
 *.nr-ops.net
-one.newrelic.com
+rpm.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
 *.infrastructure-data.newrelic.com
