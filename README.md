@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Mar 20 07:17:52 UTC 2024)
+## Domains with Bounties (Last Updated Wed Mar 20 08:17:01 UTC 2024)
 ```
 www.dyson.ie
 www.dyson.ch
@@ -330,8 +330,8 @@ getworldcoin.com
 *.worldcoin.dev
 *.consumer.worldcoin.org
 bioid-management.app
-*.worldcoin.org
 worldcoin.org
+*.worldcoin.org
 *.toolsforhumanity.com
 *.worldcoin.org
 *.consumer.worldcoin.org
@@ -432,8 +432,8 @@ mediacenter.23andme.com
 research.23andme.com
 therapeutics.23andme.com
 store.23andme.com
-medical.23andme.com
 you.23andme.com
+medical.23andme.com
 api.23andme.com
 auth.23andme.com
 blog.23andme.com
@@ -454,12 +454,12 @@ www.mercadolibre.com.uy
 www.mercadopago.cl
 www.mercadolibre.com.co
 api.mercadopago.com
-api.mercadolibre.com
 www.mercadopago.com.br
 www.mercadolivre.com.br
 www.mercadopago.com.ar
 www.mercadolibre.cl
 www.mercadolibre.com.ar
+api.mercadolibre.com
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -779,9 +779,9 @@ http://myvisainfinite.com/suntrust/en_us/home.html
 http://www.myvisacardportal.com/welcome/enbd/product/#
 yourdomain.freshcaller.com
 yourdomain.freshchat.com
-yourdomain.freshservice.com
-yourdomain.freshdesk.com
 yourdomain.myfreshworks.com
+yourdomain.freshdesk.com
+yourdomain.freshservice.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -821,14 +821,14 @@ api.tideplatform.in
 *.tide.co
 *.tide.co
 api.tideplatform.in
-aus5.mozilla.org
-shavar.services.mozilla.com
-push.services.mozilla.com
-firefox.settings.services.mozilla.com
 firefox-ci-tc.services.mozilla.com
+phabricator.allizom.org
 addons.allizom.org
 crash-stats.allizom.org
-phabricator.allizom.org
+aus5.mozilla.org
+shavar.services.mozilla.com
+firefox.settings.services.mozilla.com
+push.services.mozilla.com
 lando.services.mozilla.com
 sync.services.mozilla.com
 hg.mozilla.org
@@ -855,13 +855,13 @@ firefox-ci-tc.services.mozilla.com
 mozilla-pontoon-staging.herokuapp.com
 shavar.services.mozilla.com
 phabricator.allizom.org
-stage.taskcluster.nonprod.cloudops.mozgcp.net
 community-tc.services.mozilla.com
+stage.taskcluster.nonprod.cloudops.mozgcp.net
 www.mozilla.org
-developer.mozilla.org
-profiler.firefox.com
 api.profiler.firefox.com
 vpn.mozilla.org
+developer.mozilla.org
+profiler.firefox.com
 support.mozilla.org
 hg.mozilla.org
 relay.firefox.com
@@ -939,8 +939,8 @@ new-order.eu-east-1.indriverapp.com
 *.indriver.com
 *.indrive.com
 truck-api.eu-east-1.indriverapp.com
-*.indriverapp.com
 auth.indrive.tech
+*.indriverapp.com
 *.indriverapp.com
 *.indrive.com
 *.indriver.com
@@ -1017,8 +1017,8 @@ www.sokos.fi
 api.sokos.fi
 cfapi.voikukka.fi
 digili.s-cloud.fi
-www.prisma.fi
 mobile.s-pankki.fi
+www.prisma.fi
 online.s-pankki.fi
 www.s-pankki.fi
 online.s-pankki.fi
@@ -1180,11 +1180,11 @@ www.expediapartnersolutions.com
 *.carrentals.com
 *.travelocity.ca
 www.fewo-direkt.de
-www.expedia.com
 *.travelocity.com
+www.expedia.com
 *.expediacruises.com
-www.flights.com
 *.hotwire.com
+www.flights.com
 *.vrbo.com
 *.vrbo.com
 *.hotwire.com
@@ -1368,8 +1368,8 @@ pwapi.ex2b.com
 exness.com
 api.excalls.mobi
 my.exness.com
-exnessaffiliates.com
 social-trading.exness.com
+exnessaffiliates.com
 my.exness.com
 pay.ibex.exchange
 https://my.exness.com/webtrading/
@@ -1758,9 +1758,9 @@ api.taxjar.com
 *.reckoproduction.com
 *.link.co
 *.reckostaging.com
+*.touchtechpayments.com
 *.recko.io
 js.stripe.com
-*.touchtechpayments.com
 *.stripe.com
 app.taxjar.com
 api.stripe.com
@@ -2056,7 +2056,6 @@ shop.tiktok.com
 developers.tiktok.com
 fp-sg.tiktokv.com
 www.pangleglobal.com
-creatormarketplace.tiktok.com
 academy-outbound-ads.tiktok.com
 *.tiktokv.com
 business.tiktok.com
@@ -2065,6 +2064,7 @@ tiktok.com
 partner.tiktokshop.com
 *.tiktok.com
 ads.tiktok.com
+creatormarketplace.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2129,8 +2129,8 @@ api.faraday.ai
 *-api-*.acronis.com
 *.devicelock.com
 *.acronis.work
-account.acronis.com
 *.5nine.com
+account.acronis.com
 beta-cloud.acronis.com
 *.acronis.com
 *-api-*.acronis.com
@@ -2534,11 +2534,11 @@ www.alibabagroup.com
 *.alibabacloud.com
 *.1688.com
 *.tmall.com
-*.aliyun.com
 *.aliexpress.com
 *.Daraz.com
 *.taobao.com
 *.alibaba.com
+*.aliyun.com
 *.alibaba.com
 *.aliexpress.com
 *.taobao.com
@@ -2632,8 +2632,8 @@ help.marriott.com
 mipartnerprivileges.marriott.com
 travelagents.marriott.com/
 activities.marriott.com
-traveler.marriott.com
 homes-and-villas.marriott.com
+traveler.marriott.com
 www.marriott.com
 all-inclusive.marriott.com
 homes-and-villas.marriott.com
@@ -3042,14 +3042,14 @@ pabets.tvg.com
 promos.tvg.com
 service.tvg.com
 fanduel.design
-us.tvg.com
 ia.tvg.com
-www.4njbets.com
 tvg.com
 mobile-prod.tvg.com
 login.tvg.com
 *racing.fanduel.com
 www.tvg.com
+us.tvg.com
+www.4njbets.com
 fdbox.net
 *.fanduel.com
 sportsbook.fanduel.com
@@ -3289,9 +3289,9 @@ www.counter-strike.net
 playartifact.com
 help.steampowered.com
 developer.valvesoftware.com
-auth.crypto.com
 *.mona.co
 tax.crypto.com
+auth.crypto.com
 js.crypto.com
 pay.crypto.com
 www.crypto.com
@@ -3433,9 +3433,9 @@ kartaview.org
 gifts.grab.com
 *.myteksi.net
 *.grab.com
-*.ovo.id
 api.grabpay.com
 jira.grab.com
+*.ovo.id
 *.myteksi.com
 *.myteksi.net
 *.grab.com
@@ -3585,8 +3585,8 @@ try.discourse.org
 try.discourse.org
 *.quora.com
 *.quora.com
-portswigger.net
 forum.portswigger.net
+portswigger.net
 portswigger.net
 forum.portswigger.net
 https://enterprise-demo.portswigger.net/
@@ -3749,9 +3749,9 @@ smarttrader.deriv.com
 *.deriv.cloud
 *.binary.com
 *.deriv.com
+oauth.deriv.com
 api.deriv.com
 app.deriv.com
-oauth.deriv.com
 *.deriv.com
 *.deriv.cloud
 *.derivws.com
@@ -3953,8 +3953,8 @@ callbacks.airbnb.com
 *.luxuryretreats.com
 www.hoteltonight.com
 *.airbnbcitizen.com
-*.withairbnb.com
 api.airbnb.com
+*.withairbnb.com
 next.airbnb.com
 *.hoteltonight-test.com
 www.airbnb.com
@@ -3981,7 +3981,6 @@ callbacks.airbnb.com
 www.hoteltonight.com
 checkout.vimeo.com
 player.vimeo.com
-api.vimeo.com
 *.cloud.vimeo.com
 vimeopro.com
 vimeo.magisto.com
@@ -3994,6 +3993,7 @@ www.magisto.com
 staging.magisto.com
 applause1.magisto.com
 www.livestream.com
+donations.livestream.com
 *.cloud.vimeo.com
 *.vimeo.com
 *.vhx.tv
@@ -4392,8 +4392,8 @@ u.magento.com
 imagine.magento.com
 magentolive.com
 account.magento.com
-accounts.magento.cloud
 repo.magento.com
+accounts.magento.cloud
 magento.com
 marketplace.magento.com
 magentocommerce.com
