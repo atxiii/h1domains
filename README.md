@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Mar 20 03:16:51 UTC 2024)
+## Domains with Bounties (Last Updated Wed Mar 20 04:18:20 UTC 2024)
 ```
 www.dyson.ie
 www.dyson.ch
@@ -311,12 +311,12 @@ video-callerid-eu.truecaller.com
 webdirectory-eu.truecaller.com
 webonboarding-eu.truecaller.com
 cards.remitly.io
-api.remitly.io
 app.rewire.to
 rewire.com
 remitly.com
 rates.rewire.com
 app3.rewire.to
+api.remitly.io
 remitly.com
 api.remitly.io
 cards.remitly.io
@@ -432,8 +432,8 @@ mediacenter.23andme.com
 research.23andme.com
 therapeutics.23andme.com
 store.23andme.com
-you.23andme.com
 medical.23andme.com
+you.23andme.com
 api.23andme.com
 auth.23andme.com
 blog.23andme.com
@@ -506,10 +506,10 @@ www.fareharbor.com
 widget.rentalcars.com
 teleport.fareharbor.engineering
 booking.com
-*.rentalcars.com
 careers.booking.com
 account.booking.com
 *.booking.com
+*.rentalcars.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -575,8 +575,8 @@ cdn.moderntreasury.com
 app.moderntreasury.com
 app.moderntreasury.com
 cdn.moderntreasury.com
-test.nicehash.com
 test.nicex.com
+test.nicehash.com
 test.nicehash.com
 https://test.nicehash.com/shop/
 https://test.nicex.com
@@ -821,17 +821,17 @@ api.tideplatform.in
 *.tide.co
 *.tide.co
 api.tideplatform.in
-firefox.settings.services.mozilla.com
+aus5.mozilla.org
+shavar.services.mozilla.com
 push.services.mozilla.com
-phabricator.allizom.org
+firefox.settings.services.mozilla.com
 firefox-ci-tc.services.mozilla.com
 addons.allizom.org
 crash-stats.allizom.org
 bugzilla.mozilla.org
-aus5.mozilla.org
-shavar.services.mozilla.com
-sync.services.mozilla.com
+phabricator.allizom.org
 lando.services.mozilla.com
+sync.services.mozilla.com
 hg.mozilla.org
 mozilla-pontoon-staging.herokuapp.com
 merino.services.mozilla.com
@@ -911,8 +911,8 @@ hiltonlocalbiz.com
 hiltonhotels.jp
 *.okx.com
 *.okcoin.com
-*.okg.com
 *.oklink.com
+*.okg.com
 *.okx.com
 *.okcoin.com
 *.oklink.com
@@ -1018,9 +1018,9 @@ api.sokos.fi
 cfapi.voikukka.fi
 digili.s-cloud.fi
 mobile.s-pankki.fi
-www.s-pankki.fi
 www.prisma.fi
 online.s-pankki.fi
+www.s-pankki.fi
 online.s-pankki.fi
 www.s-pankki.fi
 https://crosskey.io/stores/s-pankki/apis
@@ -1037,8 +1037,8 @@ auth.skypicker.com
 jobs.kiwi.com
 tequila.kiwi.com
 *.kiwi.com
-www.kiwi.com
 *.skypicker.com
+www.kiwi.com
 *.kiwi.com
 *.skypicker.com
 www.kiwi.com
@@ -1178,9 +1178,9 @@ www.expediagroup.com
 www.expediapartnersolutions.com
 *.carrentals.com
 *.travelocity.ca
-*.travelocity.com
 www.fewo-direkt.de
 www.expedia.com
+*.travelocity.com
 *.vrbo.com
 *.expediacruises.com
 *.hotwire.com
@@ -1351,8 +1351,8 @@ www.hotelscombined.com
 www.mundi.com.br
 business.kayak.com
 ws.sorare.com
-sorare.com
 api.sorare.com
+sorare.com
 sorare.com
 api.sorare.com
 ws.sorare.com
@@ -2060,8 +2060,8 @@ academy-outbound-ads.tiktok.com
 *.tiktokv.com
 business.tiktok.com
 careers.tiktok.com
-tiktok.com
 *.tiktok.com
+tiktok.com
 ads.tiktok.com
 partner.tiktokshop.com
 *.tiktok.com
@@ -2535,8 +2535,8 @@ www.alibabagroup.com
 *.tmall.com
 *.aliyun.com
 *.aliexpress.com
-*.alibaba.com
 *.taobao.com
+*.alibaba.com
 *.Daraz.com
 *.alibaba.com
 *.aliexpress.com
@@ -2609,7 +2609,6 @@ www.32red.com
 unibet.me
 maria.casino
 www.32red.com
-all-inclusive.marriott.com
 reservations.all-inclusive.marriott.com
 marrtool.com
 cpp.marriott.com
@@ -2632,9 +2631,10 @@ help.marriott.com
 mipartnerprivileges.marriott.com
 travelagents.marriott.com/
 activities.marriott.com
-homes-and-villas.marriott.com
 traveler.marriott.com
+homes-and-villas.marriott.com
 www.marriott.com
+all-inclusive.marriott.com
 homes-and-villas.marriott.com
 careers.marriott.com
 sso.marriott.com
@@ -3042,13 +3042,13 @@ promos.tvg.com
 service.tvg.com
 fanduel.design
 ia.tvg.com
-www.4njbets.com
-us.tvg.com
 tvg.com
 login.tvg.com
 www.tvg.com
 mobile-prod.tvg.com
 *racing.fanduel.com
+www.4njbets.com
+us.tvg.com
 fdbox.net
 *.fanduel.com
 sportsbook.fanduel.com
@@ -3097,7 +3097,6 @@ partner.swiftfinancial.com
 decision.swiftfinancial.com
 pigeon.swiftfinancial.com
 scrutiny.swiftfinancial.com
-*.hyperwallet.com
 *.paylution.com
 www.loanbuilder.com
 my.swiftfinancial.com
@@ -3108,6 +3107,7 @@ paypalobjects.com
 *.paypalcorp.com
 *.braintreepayments.com
 *.paypal.com
+*.hyperwallet.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -3145,8 +3145,8 @@ m.chaturbate.com
 billingsupport.chaturbate.com
 *.mmcdn.com
 *.mmwebc.dev
-chaturbate.com
 *.cb.dev
+chaturbate.com
 *.highwebmedia.com
 *.securegatewayaccess.com
 *.mmcdn.com
@@ -3649,8 +3649,8 @@ rubygems.org
 rubygems.org
 *.yelpwifi.com
 yelptop100.com
-*.yelp.com
 *.yelp-support.com
+*.yelp.com
 *.yelp.com
 *.yelp-support.com
 *.yelpwifi.com
@@ -3742,15 +3742,15 @@ www.algolia.com
 www.algolia.com
 cashier.deriv.com
 secure-dfadmin.deriv.com
-derivws.com
 *.derivws.com
+derivws.com
 smarttrader.deriv.com
-app.deriv.com
 oauth.deriv.com
 *.deriv.cloud
 *.binary.com
 *.deriv.com
 api.deriv.com
+app.deriv.com
 *.deriv.com
 *.deriv.cloud
 *.derivws.com
@@ -3828,9 +3828,9 @@ shopifyinbox.com
 partners.shopify.com
 accounts.shopify.com
 your-store.myshopify.com
-*.shopify.com
 shop.app
 admin.shopify.com
+*.shopify.com
 *.shopifycs.com
 *.shopify.io
 *.shopify.com
@@ -3956,8 +3956,8 @@ www.hoteltonight.com
 api.airbnb.com
 next.airbnb.com
 *.hoteltonight-test.com
-*.airbnb.com
 www.airbnb.com
+*.airbnb.com
 www.airbnb.com
 next.airbnb.com
 api.airbnb.com
@@ -4056,7 +4056,6 @@ cloudflareworkers.com
 api.cloudflare.com
 waf.cumulusfire.net
 one.dash.cloudflare.com
-*.cloudflare.com
 dash.cloudflare.com
 cloudflareworkers.com
 *.teams.cloudflare.com
@@ -4123,8 +4122,8 @@ pro.coinbase.com
 custody.coinbase.com
 commerce.coinbase.com
 prime.coinbase.com
-api.coinbase.com
 institutional.coinbase.com
+api.coinbase.com
 *.base.org
 international.coinbase.com
 cloud.coinbase.com
@@ -4429,8 +4428,8 @@ alerts.eu.newrelic.com
 login.newrelic.com
 developer.newrelic.com
 *.nr-ops.net
-synthetics.newrelic.com
 rpm.newrelic.com
+synthetics.newrelic.com
 insights.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
