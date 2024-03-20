@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Mar 20 21:17:23 UTC 2024)
+## Domains with Bounties (Last Updated Wed Mar 20 22:13:40 UTC 2024)
 ```
 www.dyson.ie
 www.dyson.ch
@@ -454,9 +454,9 @@ www.mercadolibre.com.co
 www.mercadolibre.cl
 api.mercadopago.com
 www.mercadopago.com.br
-www.mercadolivre.com.br
-www.mercadopago.com.ar
 api.mercadolibre.com
+www.mercadopago.com.ar
+www.mercadolivre.com.br
 www.mercadolibre.com.ar
 api.mercadopago.com
 www.mercadopago.com.ar
@@ -573,8 +573,8 @@ cdn.moderntreasury.com
 app.moderntreasury.com
 app.moderntreasury.com
 cdn.moderntreasury.com
-test.nicex.com
 test.nicehash.com
+test.nicex.com
 test.nicehash.com
 https://test.nicehash.com/shop/
 https://test.nicex.com
@@ -778,8 +778,8 @@ http://www.myvisacardportal.com/welcome/enbd/product/#
 yourdomain.freshcaller.com
 yourdomain.myfreshworks.com
 yourdomain.freshchat.com
-yourdomain.freshdesk.com
 yourdomain.freshservice.com
+yourdomain.freshdesk.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -819,13 +819,13 @@ api.tideplatform.in
 *.tide.co
 *.tide.co
 api.tideplatform.in
-aus5.mozilla.org
-shavar.services.mozilla.com
-push.services.mozilla.com
-firefox.settings.services.mozilla.com
+phabricator.allizom.org
 addons.allizom.org
 crash-stats.allizom.org
-phabricator.allizom.org
+aus5.mozilla.org
+shavar.services.mozilla.com
+firefox.settings.services.mozilla.com
+push.services.mozilla.com
 lando.services.mozilla.com
 sync.services.mozilla.com
 hg.mozilla.org
@@ -834,8 +834,8 @@ merino.services.mozilla.com
 contile.services.mozilla.com
 crash-reports.allizom.org
 bugzilla.mozilla.org
-accounts.firefox.com
 firefox-ci-tc.services.mozilla.com
+accounts.firefox.com
 addons.allizom.org
 accounts.firefox.com
 bugzilla.mozilla.org
@@ -1120,9 +1120,9 @@ admin.8x8.com
 *.superbet.pl
 moonpay.com
 hypermint.com
-*.moonpaycloud.com
 *.moonpay.com
 *.hypermint.com
+*.moonpaycloud.com
 *.moonpaycloud.com
 *.hypermint.com
 *.moonpay.com
@@ -1177,13 +1177,13 @@ www.expediagroup.com
 www.expediapartnersolutions.com
 *.carrentals.com
 *.travelocity.ca
+*.travelocity.com
 www.fewo-direkt.de
 www.expedia.com
-*.travelocity.com
 *.vrbo.com
+www.flights.com
 *.expediacruises.com
 *.hotwire.com
-www.flights.com
 *.vrbo.com
 *.hotwire.com
 *.carrentals.com
@@ -1212,8 +1212,8 @@ www.expediagroup.com
 www.flights.com
 *.magiceden.dev
 *.magiceden.workers.dev
-*.magiceden.io
 magiceden.io
+*.magiceden.io
 magiceden.io
 *.magiceden.io
 *.magiceden.dev
@@ -1756,9 +1756,9 @@ api.taxjar.com
 *.reckoproduction.com
 *.link.co
 *.reckostaging.com
-*.touchtechpayments.com
 *.recko.io
 js.stripe.com
+*.touchtechpayments.com
 *.stripe.com
 app.taxjar.com
 api.stripe.com
@@ -1942,11 +1942,11 @@ hackers_chosendomain.larksuite.com
 *.exodus.com
 ccloud.yoti.com
 core.yoti.com
-www.yotisign.com
 api.yoti.com
+www.yotisign.com
 code.yoti.com
-hub.yoti.com
 identity.yoti.com
+hub.yoti.com
 core.yoti.com
 api.yoti.com
 ccloud.yoti.com
@@ -2010,8 +2010,8 @@ api.adm.cloud.com
 (yoursubdomain).ap.iws.cloud.com
 (yoursubdomain).eu.iws.cloud.com
 (youriwssubdomain).cloud.com
-(yoursubdomain).sharefile.com
 www.cloud.com
+(yoursubdomain).sharefile.com
 (yoursubdomain).sharefile.eu
 adm.cloud.com
 citrix.cloud.com
@@ -2050,7 +2050,6 @@ api.adm.cloud.com
 (youriwssubdomain).cloud.com
 live-backstage.tiktok.com
 effecthouse.tiktok.com
-shop.tiktok.com
 developers.tiktok.com
 www.pangleglobal.com
 academy-outbound-ads.tiktok.com
@@ -2058,11 +2057,12 @@ academy-outbound-ads.tiktok.com
 careers.tiktok.com
 tiktok.com
 creatormarketplace.tiktok.com
-*.tiktok.com
 business.tiktok.com
-ads.tiktok.com
+*.tiktok.com
 partner.tiktokshop.com
+ads.tiktok.com
 fp-sg.tiktokv.com
+shop.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2128,8 +2128,8 @@ api.faraday.ai
 *.devicelock.com
 account.acronis.com
 beta-cloud.acronis.com
-*.acronis.com
 *.5nine.com
+*.acronis.com
 *.acronis.work
 *-api-*.acronis.com
 *.acronis.com
@@ -2532,9 +2532,9 @@ www.alibabagroup.com
 *.aliexpress.com
 *.taobao.com
 *.Daraz.com
+*.1688.com
 *.alibaba.com
 *.aliyun.com
-*.1688.com
 *.alibaba.com
 *.aliexpress.com
 *.taobao.com
@@ -2552,8 +2552,8 @@ konfigurator.bmw-motorrad.de
 configure.mini.de
 www.bmw-motorrad.de
 www.mini.de
-configure.bmw.de
 www.bmw.de
+configure.bmw.de
 www.bmw.de
 www.mini.de
 www.bmw-motorrad.de
@@ -2566,8 +2566,8 @@ api.fortmatic.com
 x2.fortmatic.com
 careers.fortmatic.com
 dashboard.fortmatic.com
-auth.magic.link
 dashboard.magic.link
+auth.magic.link
 api.fortmatic.com
 x2.fortmatic.com
 careers.fortmatic.com
@@ -3039,14 +3039,14 @@ pabets.tvg.com
 promos.tvg.com
 service.tvg.com
 fanduel.design
-us.tvg.com
 ia.tvg.com
-www.4njbets.com
 tvg.com
-mobile-prod.tvg.com
 login.tvg.com
-*racing.fanduel.com
 www.tvg.com
+mobile-prod.tvg.com
+*racing.fanduel.com
+www.4njbets.com
+us.tvg.com
 fdbox.net
 sportsbook.fanduel.com
 *.fanduel.com
@@ -3267,11 +3267,11 @@ partner.steamgames.com
 playartifact.com
 help.steampowered.com
 www.counter-strike.net
-www.dota2.com
 api.steampowered.com
+www.dota2.com
 www.teamfortress.com
-www.valvesoftware.com
 steamcommunity.com
+www.valvesoftware.com
 store.steampowered.com
 www.dota2.com
 support.steampowered.com
@@ -3428,11 +3428,11 @@ grab.careers
 kartaview.org
 gifts.grab.com
 *.myteksi.net
-*.myteksi.com
 jira.grab.com
+*.myteksi.com
 api.grabpay.com
-*.ovo.id
 *.grab.com
+*.ovo.id
 *.myteksi.com
 *.myteksi.net
 *.grab.com
@@ -3671,9 +3671,9 @@ classroom.github.com
 education.github.com
 npmjs.org
 gist.github.com
-npmjs.com
 api.github.com
 *.githubusercontent.com
+npmjs.com
 github.com
 github.com
 api.github.com
@@ -3824,11 +3824,11 @@ arrive-server.shopifycloud.com
 *.shopify.io
 accounts.shopify.com
 partners.shopify.com
-shop.app
 *.shopify.com
 your-store.myshopify.com
 admin.shopify.com
 shopifyinbox.com
+shop.app
 *.shopifycs.com
 *.shopify.io
 *.shopify.com
@@ -3950,8 +3950,8 @@ callbacks.airbnb.com
 *.luxuryretreats.com
 www.hoteltonight.com
 *.airbnbcitizen.com
-*.withairbnb.com
 api.airbnb.com
+*.withairbnb.com
 next.airbnb.com
 *.hoteltonight-test.com
 *.airbnb.com
@@ -3981,7 +3981,6 @@ player.vimeo.com
 *.cloud.vimeo.com
 vimeopro.com
 vimeo.magisto.com
-vhx.tv
 embed.vhx.tv
 api.vhx.tv
 magisto.com
@@ -4136,8 +4135,8 @@ www.quip.com
 slack-imgs.com
 *.quip.com
 api.slack.com
-app.slack.com
 slack.com
+app.slack.com
 slack.com
 api.slack.com
 status.slack.com
@@ -4175,12 +4174,12 @@ hackerone.live
 errors.hackerone.net
 ctf.hacker101.com
 api.hackerone.com
-app.pullrequest.com
 cover-photos.hackerone-user-content.com
+app.pullrequest.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
-www.hackerone.com
-profile-photos.hackerone-user-content.com
 hackerone.com
+profile-photos.hackerone-user-content.com
+www.hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
@@ -4372,8 +4371,8 @@ u.magento.com
 imagine.magento.com
 magentolive.com
 account.magento.com
-repo.magento.com
 accounts.magento.cloud
+repo.magento.com
 magento.com
 marketplace.magento.com
 magentocommerce.com
@@ -4409,8 +4408,8 @@ alerts.eu.newrelic.com
 login.newrelic.com
 developer.newrelic.com
 synthetics.newrelic.com
-insights.newrelic.com
 rpm.newrelic.com
+insights.newrelic.com
 one.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
