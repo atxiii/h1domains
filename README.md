@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Mar 20 23:16:55 UTC 2024)
+## Domains with Bounties (Last Updated Thu Mar 21 00:47:28 UTC 2024)
 ```
 www.dyson.ie
 www.dyson.ch
@@ -371,9 +371,9 @@ www.sheer.com
 www.sheer.com
 my.sheer.com
 www.pornworld.com
+www.ddfcontent.com
 www.pornbox.com
 www.analvids.com
-www.ddfcontent.com
 www.pornbox.com
 www.analvids.com
 www.ddfcontent.com
@@ -423,7 +423,6 @@ logo.zyro.com
 www.niagahoster.co.id
 https://passport.eufy.com/?app=eufy-us
 api.23andme.com
-auth.23andme.com
 blog.23andme.com
 education.23andme.com
 mediacenter.23andme.com
@@ -432,6 +431,7 @@ therapeutics.23andme.com
 store.23andme.com
 medical.23andme.com
 you.23andme.com
+auth.23andme.com
 api.23andme.com
 auth.23andme.com
 blog.23andme.com
@@ -454,8 +454,8 @@ www.mercadolibre.com.co
 www.mercadolibre.cl
 api.mercadopago.com
 www.mercadopago.com.br
-api.mercadolibre.com
 www.mercadolivre.com.br
+api.mercadolibre.com
 www.mercadolibre.com.ar
 www.mercadopago.com.ar
 api.mercadopago.com
@@ -503,8 +503,8 @@ www.fareharbor.com
 widget.rentalcars.com
 teleport.fareharbor.engineering
 booking.com
-*.rentalcars.com
 careers.booking.com
+*.rentalcars.com
 account.booking.com
 *.booking.com
 flights.booking.com
@@ -573,8 +573,8 @@ cdn.moderntreasury.com
 app.moderntreasury.com
 app.moderntreasury.com
 cdn.moderntreasury.com
-test.nicex.com
 test.nicehash.com
+test.nicex.com
 test.nicehash.com
 https://test.nicehash.com/shop/
 https://test.nicex.com
@@ -646,8 +646,8 @@ launch.gamma.redoxstage.com
 sftp.gamma.redoxstage.com
 webhooks.gamma.redoxstage.com
 10x.redoxengine.com
-www.redoxengine.com
 testapp.redoxengine.com
+www.redoxengine.com
 10x.redoxengine.com
 testapp.redoxengine.com
 testapi.redoxengine.com
@@ -777,8 +777,8 @@ http://myvisainfinite.com/suntrust/en_us/home.html
 http://www.myvisacardportal.com/welcome/enbd/product/#
 yourdomain.freshcaller.com
 yourdomain.myfreshworks.com
-yourdomain.freshchat.com
 yourdomain.freshservice.com
+yourdomain.freshchat.com
 yourdomain.freshdesk.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
@@ -819,23 +819,23 @@ api.tideplatform.in
 *.tide.co
 *.tide.co
 api.tideplatform.in
+aus5.mozilla.org
+shavar.services.mozilla.com
+push.services.mozilla.com
+firefox.settings.services.mozilla.com
 addons.allizom.org
 crash-stats.allizom.org
 phabricator.allizom.org
-aus5.mozilla.org
-shavar.services.mozilla.com
-firefox.settings.services.mozilla.com
-push.services.mozilla.com
 lando.services.mozilla.com
 sync.services.mozilla.com
 hg.mozilla.org
 mozilla-pontoon-staging.herokuapp.com
 merino.services.mozilla.com
-crash-reports.allizom.org
 contile.services.mozilla.com
+crash-reports.allizom.org
 bugzilla.mozilla.org
-firefox-ci-tc.services.mozilla.com
 accounts.firefox.com
+firefox-ci-tc.services.mozilla.com
 addons.allizom.org
 accounts.firefox.com
 bugzilla.mozilla.org
@@ -893,8 +893,8 @@ hiltonlocalbiz.com
 hiltonhotels.jp
 *.hilton.io
 hilton.com
-*.hilton.com
 hilton.io
+*.hilton.com
 *.hilton.com
 *.hilton.io
 *.hilton.com.tr
@@ -936,9 +936,9 @@ new-order.eu-east-1.indriverapp.com
 *.indrive.com
 auth.indrive.tech
 *.indriverapp.com
+ci.indrive.dev
 *.indriver.com
 truck-api.eu-east-1.indriverapp.com
-ci.indrive.dev
 *.indriverapp.com
 *.indrive.com
 *.indriver.com
@@ -1034,9 +1034,9 @@ cfapi.voikukka.fi
 auth.skypicker.com
 jobs.kiwi.com
 tequila.kiwi.com
-*.skypicker.com
 www.kiwi.com
 *.kiwi.com
+*.skypicker.com
 *.kiwi.com
 *.skypicker.com
 www.kiwi.com
@@ -1180,8 +1180,8 @@ www.expediapartnersolutions.com
 www.fewo-direkt.de
 www.expedia.com
 *.travelocity.com
-*.expediacruises.com
 *.vrbo.com
+*.expediacruises.com
 *.hotwire.com
 www.flights.com
 *.vrbo.com
@@ -1759,9 +1759,9 @@ api.taxjar.com
 *.recko.io
 js.stripe.com
 *.touchtechpayments.com
-*.stripe.com
 app.taxjar.com
 api.stripe.com
+*.stripe.com
 api.stripe.com
 *.stripe.com
 *.touchtechpayments.com
@@ -1940,12 +1940,12 @@ hackers_chosendomain.larksuite.com
 *.exodus.io
 *.a.exodus.io
 *.exodus.com
+ccloud.yoti.com
 core.yoti.com
 www.yotisign.com
-ccloud.yoti.com
 code.yoti.com
-identity.yoti.com
 hub.yoti.com
+identity.yoti.com
 api.yoti.com
 core.yoti.com
 api.yoti.com
@@ -1965,9 +1965,9 @@ internal.netlify.com
 *.ops.netlify.com
 *.infra-prod.nsvcs.net
 api.netlify.com
-*.services.netlify.com
 app.netlify.com
 netlify-rum.netlify.app
+*.services.netlify.com
 *.services.netlify.com
 *.services-prod.nsvcs.net
 *.infra-prod.nsvcs.net
@@ -2049,7 +2049,6 @@ api.adm.cloud.com
 (yoursubdomain).eu.iws.cloud.com
 (youriwssubdomain).cloud.com
 live-backstage.tiktok.com
-effecthouse.tiktok.com
 developers.tiktok.com
 www.pangleglobal.com
 academy-outbound-ads.tiktok.com
@@ -2059,10 +2058,11 @@ tiktok.com
 creatormarketplace.tiktok.com
 shop.tiktok.com
 ads.tiktok.com
-*.tiktok.com
 business.tiktok.com
 partner.tiktokshop.com
 fp-sg.tiktokv.com
+*.tiktok.com
+effecthouse.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2129,8 +2129,8 @@ api.faraday.ai
 account.acronis.com
 beta-cloud.acronis.com
 *.5nine.com
-*.acronis.com
 *.acronis.work
+*.acronis.com
 *-api-*.acronis.com
 *.acronis.com
 *.5nine.com
@@ -2552,8 +2552,8 @@ konfigurator.bmw-motorrad.de
 configure.mini.de
 www.bmw-motorrad.de
 www.mini.de
-configure.bmw.de
 www.bmw.de
+configure.bmw.de
 www.bmw.de
 www.mini.de
 www.bmw-motorrad.de
@@ -2566,8 +2566,8 @@ api.fortmatic.com
 x2.fortmatic.com
 careers.fortmatic.com
 dashboard.fortmatic.com
-auth.magic.link
 dashboard.magic.link
+auth.magic.link
 api.fortmatic.com
 x2.fortmatic.com
 careers.fortmatic.com
@@ -3039,14 +3039,14 @@ pabets.tvg.com
 promos.tvg.com
 service.tvg.com
 fanduel.design
-us.tvg.com
 ia.tvg.com
-www.4njbets.com
 tvg.com
 mobile-prod.tvg.com
 login.tvg.com
 *racing.fanduel.com
 www.tvg.com
+us.tvg.com
+www.4njbets.com
 fdbox.net
 sportsbook.fanduel.com
 *.fanduel.com
@@ -3080,6 +3080,13 @@ https://github.com/matomo-org/docker
 *.paydiant.com
 paypal.me
 py.pl
+*.braintree-api.com
+*.braintree.tools
+prequal.swiftfinancial.com
+partner.swiftfinancial.com
+decision.swiftfinancial.com
+pigeon.swiftfinancial.com
+scrutiny.swiftfinancial.com
 www.swiftcapital.com
 www.swiftfinancial.com
 api.swiftfinancial.com
@@ -3088,13 +3095,6 @@ my.loanbuilder.com
 loanbuilder.com
 swiftfinancial.com
 swiftcapital.com
-*.braintree-api.com
-*.braintree.tools
-prequal.swiftfinancial.com
-partner.swiftfinancial.com
-decision.swiftfinancial.com
-pigeon.swiftfinancial.com
-scrutiny.swiftfinancial.com
 *.paylution.com
 www.loanbuilder.com
 my.swiftfinancial.com
@@ -3104,8 +3104,8 @@ my.swiftfinancial.com
 paypalobjects.com
 *.paypalcorp.com
 *.braintreegateway.com
-*.paypal.com
 *.hyperwallet.com
+*.paypal.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -3270,9 +3270,9 @@ www.counter-strike.net
 api.steampowered.com
 www.dota2.com
 www.teamfortress.com
+store.steampowered.com
 steamcommunity.com
 www.valvesoftware.com
-store.steampowered.com
 www.dota2.com
 support.steampowered.com
 partner.steampowered.com
@@ -3430,9 +3430,9 @@ gifts.grab.com
 *.myteksi.net
 jira.grab.com
 *.myteksi.com
-api.grabpay.com
 *.ovo.id
 *.grab.com
+api.grabpay.com
 *.myteksi.com
 *.myteksi.net
 *.grab.com
@@ -3487,8 +3487,8 @@ ccardsus1.badoo.com
 chatdate.app
 getofficial.co
 backstage.io
-api.spotify.com
 assets.spotify.com
+api.spotify.com
 assets.spotify.com
 api.spotify.com
 backstage.io
@@ -3673,8 +3673,8 @@ npmjs.org
 gist.github.com
 *.githubusercontent.com
 npmjs.com
-github.com
 api.github.com
+github.com
 github.com
 api.github.com
 gist.github.com
@@ -3740,15 +3740,15 @@ www.algolia.com
 www.algolia.com
 cashier.deriv.com
 secure-dfadmin.deriv.com
-derivws.com
 *.derivws.com
+derivws.com
 smarttrader.deriv.com
 *.deriv.cloud
 api.deriv.com
-oauth.deriv.com
 *.deriv.com
-*.binary.com
+oauth.deriv.com
 app.deriv.com
+*.binary.com
 *.deriv.com
 *.deriv.cloud
 *.derivws.com
@@ -3870,11 +3870,11 @@ login.playcanvas.com
 geofilters.snapchat.com
 playcanvas.com
 app.snapchat.com
-accounts.snapchat.com
 business.snapchat.com
 web.snapchat.com
 ads.snapchat.com
 www.bitmoji.com
+accounts.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
@@ -4059,9 +4059,9 @@ simplenote.com
 simperium.com
 akismet.com
 gravatar.com
-*.tumblr.com
 mailpoet.com
 wordpress.com
+*.tumblr.com
 *.tumblr.com
 *.srvcs.tumblr.com
 api.tumblr.com
@@ -4175,10 +4175,10 @@ errors.hackerone.net
 ctf.hacker101.com
 api.hackerone.com
 cover-photos.hackerone-user-content.com
+profile-photos.hackerone-user-content.com
 app.pullrequest.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 hackerone.com
-profile-photos.hackerone-user-content.com
 www.hackerone.com
 hackerone.com
 api.hackerone.com
@@ -4408,8 +4408,8 @@ alerts.eu.newrelic.com
 login.newrelic.com
 developer.newrelic.com
 synthetics.newrelic.com
-rpm.newrelic.com
 insights.newrelic.com
+rpm.newrelic.com
 one.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
