@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Mar 22 21:15:27 UTC 2024)
+## Domains with Bounties (Last Updated Fri Mar 22 22:14:38 UTC 2024)
 ```
 www.dyson.ch
 www.dyson.se
@@ -311,8 +311,8 @@ rewire.com
 app.rewire.to
 app3.rewire.to
 api.remitly.io
-remitly.com
 rates.rewire.com
+remitly.com
 remitly.com
 api.remitly.io
 cards.remitly.io
@@ -450,8 +450,8 @@ www.mercadolibre.com.uy
 www.mercadolibre.com.co
 www.mercadolibre.cl
 api.mercadopago.com
-api.mercadolibre.com
 www.mercadopago.com.br
+api.mercadolibre.com
 www.mercadopago.cl
 www.mercadolivre.com.br
 www.mercadopago.com.ar
@@ -500,8 +500,8 @@ admin.booking.com
 www.fareharbor.com
 widget.rentalcars.com
 teleport.fareharbor.engineering
-careers.booking.com
 *.rentalcars.com
+careers.booking.com
 flights.booking.com
 booking.com
 account.booking.com
@@ -563,8 +563,8 @@ api.mergify.com
 dashboard.mergify.com
 www.compass.com
 www.compass.com
-*.hypr.com
 *.gethypr.com
+*.hypr.com
 *.hypr.com
 *.gethypr.com
 cdn.moderntreasury.com
@@ -591,7 +591,6 @@ prisma-ai.com
 appapi.neuralprisma.com
 https://simple-life-app.com/
 *.gocardless-cicd.io
-manage-sandbox.gocardless.com
 api-sandbox.gocardless.com
 connect-sandbox.gocardless.com
 *.gocardless.io
@@ -602,6 +601,7 @@ xero-sandbox.gocardless.com
 *.gocardless-staging.io
 pay-sandbox.gocardless.com
 www.gocardless.com
+manage-sandbox.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
 *.gocardless-cicd.io
@@ -817,20 +817,20 @@ api.tideplatform.in
 *.tide.co
 *.tide.co
 api.tideplatform.in
+aus5.mozilla.org
+shavar.services.mozilla.com
+push.services.mozilla.com
+firefox.settings.services.mozilla.com
 addons.allizom.org
 crash-stats.allizom.org
 phabricator.allizom.org
-aus5.mozilla.org
-shavar.services.mozilla.com
-firefox.settings.services.mozilla.com
-push.services.mozilla.com
 lando.services.mozilla.com
 sync.services.mozilla.com
 hg.mozilla.org
 mozilla-pontoon-staging.herokuapp.com
 merino.services.mozilla.com
-crash-reports.allizom.org
 contile.services.mozilla.com
+crash-reports.allizom.org
 firefox-ci-tc.services.mozilla.com
 accounts.firefox.com
 bugzilla.mozilla.org
@@ -859,8 +859,8 @@ profiler.firefox.com
 support.mozilla.org
 hg.mozilla.org
 monitor.mozilla.org
-developer.mozilla.org
 relay.firefox.com
+developer.mozilla.org
 www.mozilla.org
 developer.mozilla.org
 profiler.firefox.com
@@ -931,8 +931,8 @@ injob.indriver.com
 watchdocs.indriverapp.com
 new-order.eu-east-1.indriverapp.com
 auth.indrive.tech
-truck-api.eu-east-1.indriverapp.com
 *.indriver.com
+truck-api.eu-east-1.indriverapp.com
 ci.indrive.dev
 cargo.indrive.com
 *.indriverapp.com
@@ -1964,8 +1964,8 @@ internal-docs.netlify.com
 internal.netlify.com
 *.ops.netlify.com
 *.infra-prod.nsvcs.net
-*.services.netlify.com
 netlify-rum.netlify.app
+*.services.netlify.com
 api.netlify.com
 app.netlify.com
 *.services.netlify.com
@@ -2009,8 +2009,8 @@ api.adm.cloud.com
 (yoursubdomain).ap.iws.cloud.com
 (yoursubdomain).eu.iws.cloud.com
 (youriwssubdomain).cloud.com
-(yoursubdomain).sharefile.com
 www.cloud.com
+(yoursubdomain).sharefile.com
 (yoursubdomain).sharefile.eu
 secure.sharefile.com
 secure.sharefile.eu
@@ -2051,7 +2051,6 @@ api.adm.cloud.com
 live-backstage.tiktok.com
 developers.tiktok.com
 academy-outbound-ads.tiktok.com
-fp-sg.tiktokv.com
 effecthouse.tiktok.com
 creatormarketplace.tiktok.com
 careers.tiktok.com
@@ -2061,8 +2060,9 @@ ads.tiktok.com
 *.tiktok.com
 tiktok.com
 www.pangleglobal.com
-partner.tiktokshop.com
 business.tiktok.com
+partner.tiktokshop.com
+fp-sg.tiktokv.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -3027,11 +3027,11 @@ promos.tvg.com
 service.tvg.com
 fanduel.design
 ia.tvg.com
-mobile-prod.tvg.com
 login.tvg.com
+mobile-prod.tvg.com
 *racing.fanduel.com
-us.tvg.com
 www.4njbets.com
+us.tvg.com
 tvg.com
 sportsbook.fanduel.com
 fdbox.net
@@ -3272,9 +3272,9 @@ www.counter-strike.net
 playartifact.com
 help.steampowered.com
 developer.valvesoftware.com
+auth.crypto.com
 *.mona.co
 tax.crypto.com
-auth.crypto.com
 js.crypto.com
 app.mona.co
 pay.crypto.com
@@ -3413,8 +3413,8 @@ wiki.grab.com
 grab.careers
 gifts.grab.com
 *.myteksi.net
-*.ovo.id
 api.grabpay.com
+*.ovo.id
 kartaview.org
 *.myteksi.com
 jira.grab.com
@@ -3633,8 +3633,8 @@ rubygems.org
 rubygems.org
 *.yelpwifi.com
 yelptop100.com
-*.yelp.com
 *.yelp-support.com
+*.yelp.com
 *.yelp.com
 *.yelp-support.com
 *.yelpwifi.com
@@ -3658,8 +3658,8 @@ education.github.com
 npmjs.org
 gist.github.com
 *.githubusercontent.com
-api.github.com
 npmjs.com
+api.github.com
 github.com
 github.com
 api.github.com
@@ -3719,8 +3719,8 @@ api.grofers.com
 api2.grofers.com
 blinkit.com
 *.algolia.net
-www.algolia.com
 *.algolianet.com
+www.algolia.com
 *.algolia.net
 *.algolianet.com
 www.algolia.com
@@ -3934,13 +3934,13 @@ callbacks.airbnb.com
 *.luxuryretreats.com
 www.hoteltonight.com
 *.airbnbcitizen.com
-api.airbnb.com
 *.withairbnb.com
+api.airbnb.com
 *.hoteltonight-test.com
 next.airbnb.com
-www.airbnb.com
 *.muscache.com
 *.airbnb.com
+www.airbnb.com
 www.airbnb.com
 next.airbnb.com
 api.airbnb.com
@@ -4174,14 +4174,14 @@ profile-photos.hackerone-user-content.com
 cover-photos.hackerone-user-content.com
 hackerone-user-content.com
 www.wearehackerone.com
-a5s.hackerone-ext-content.com
 hackathon-photos.hackerone-user-content.com
+a5s.hackerone-ext-content.com
 errors.hackerone.net
 ctf.hacker101.com
 www.hackerone.com
 app.pullrequest.com
-hackerone.com
 api.hackerone.com
+hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
