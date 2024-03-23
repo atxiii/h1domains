@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Mar 23 13:13:36 UTC 2024)
+## Domains with Bounties (Last Updated Sat Mar 23 14:14:09 UTC 2024)
 ```
 www.dyson.ch
 www.dyson.se
@@ -449,11 +449,11 @@ www.mercadolibre.com.uy
 www.mercadolibre.com.co
 www.mercadolibre.cl
 api.mercadopago.com
-www.mercadopago.com.br
 www.mercadopago.cl
 www.mercadolivre.com.br
-www.mercadolibre.com.ar
+www.mercadopago.com.br
 www.mercadopago.com.ar
+www.mercadolibre.com.ar
 api.mercadolibre.com
 api.mercadopago.com
 www.mercadopago.com.ar
@@ -503,8 +503,8 @@ careers.booking.com
 *.rentalcars.com
 flights.booking.com
 booking.com
-*.booking.com
 account.booking.com
+*.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -775,8 +775,8 @@ http://www.myvisacardportal.com/welcome/enbd/product/#
 yourdomain.freshdesk.com
 yourdomain.freshcaller.com
 yourdomain.freshchat.com
-yourdomain.freshservice.com
 yourdomain.myfreshworks.com
+yourdomain.freshservice.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -930,8 +930,8 @@ injob.indriver.com
 watchdocs.indriverapp.com
 new-order.eu-east-1.indriverapp.com
 auth.indrive.tech
-*.indriver.com
 truck-api.eu-east-1.indriverapp.com
+*.indriver.com
 ci.indrive.dev
 cargo.indrive.com
 *.indriverapp.com
@@ -1177,9 +1177,9 @@ www.flights.com
 *.wotif.com
 *.hotwire.com
 *.carrentals.com
-*.expediacruises.com
-www.expedia.com
 www.hotels.com
+www.expedia.com
+*.expediacruises.com
 *.vrbo.com
 *.hotwire.com
 *.carrentals.com
@@ -1302,8 +1302,8 @@ www.trendyol-milla.com
 *.sidefx.com
 *.sidefx.com
 portfolio.metamask.io
-metamask.io
 snaps.metamask.io
+metamask.io
 metamask.io
 snaps.metamask.io
 portfolio.metamask.io
@@ -1941,10 +1941,10 @@ hackers_chosendomain.larksuite.com
 ccloud.yoti.com
 core.yoti.com
 api.yoti.com
-code.yoti.com
 www.yotisign.com
 identity.yoti.com
 hub.yoti.com
+code.yoti.com
 core.yoti.com
 api.yoti.com
 ccloud.yoti.com
@@ -1962,8 +1962,8 @@ internal-docs.netlify.com
 internal.netlify.com
 *.ops.netlify.com
 *.infra-prod.nsvcs.net
-netlify-rum.netlify.app
 *.services.netlify.com
+netlify-rum.netlify.app
 api.netlify.com
 app.netlify.com
 *.services.netlify.com
@@ -2526,8 +2526,8 @@ updates.amazon.com
 *.aliexpress.com
 *.alibaba.com
 *.1688.com
-www.alibabagroup.com
 *.alimama.com
+www.alibabagroup.com
 *.alibabacloud.com
 *.aliyun-inc.com
 *.taobao.com
@@ -3025,12 +3025,12 @@ pabets.tvg.com
 promos.tvg.com
 service.tvg.com
 fanduel.design
+us.tvg.com
 ia.tvg.com
+www.4njbets.com
 mobile-prod.tvg.com
 login.tvg.com
 *racing.fanduel.com
-us.tvg.com
-www.4njbets.com
 tvg.com
 sportsbook.fanduel.com
 fdbox.net
@@ -3066,12 +3066,6 @@ https://github.com/matomo-org/docker
 *.paydiant.com
 paypal.me
 py.pl
-*.braintree.tools
-prequal.swiftfinancial.com
-partner.swiftfinancial.com
-decision.swiftfinancial.com
-pigeon.swiftfinancial.com
-scrutiny.swiftfinancial.com
 www.swiftcapital.com
 www.swiftfinancial.com
 api.swiftfinancial.com
@@ -3080,6 +3074,12 @@ my.loanbuilder.com
 loanbuilder.com
 swiftfinancial.com
 swiftcapital.com
+*.braintree.tools
+prequal.swiftfinancial.com
+partner.swiftfinancial.com
+decision.swiftfinancial.com
+pigeon.swiftfinancial.com
+scrutiny.swiftfinancial.com
 *.paylution.com
 my.swiftfinancial.com
 *.venmo.com
@@ -3090,8 +3090,8 @@ www.loanbuilder.com
 *.hyperwallet.com
 *.braintree-api.com
 paypalobjects.com
-*.paypal.com
 *.xoom.com
+*.paypal.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -3657,8 +3657,8 @@ education.github.com
 npmjs.org
 gist.github.com
 *.githubusercontent.com
-npmjs.com
 api.github.com
+npmjs.com
 github.com
 github.com
 api.github.com
@@ -3806,7 +3806,6 @@ shopify.plus
 *.shopifycs.com
 *.shopifycloud.com
 *.shopify.io
-shop.app
 arrive-server.shopifycloud.com
 shopifyinbox.com
 *.shopify.com
@@ -3814,6 +3813,7 @@ accounts.shopify.com
 partners.shopify.com
 admin.shopify.com
 your-store.myshopify.com
+shop.app
 *.shopifycs.com
 *.shopify.io
 *.shopify.com
@@ -3933,8 +3933,8 @@ callbacks.airbnb.com
 *.luxuryretreats.com
 www.hoteltonight.com
 *.airbnbcitizen.com
-api.airbnb.com
 *.withairbnb.com
+api.airbnb.com
 *.hoteltonight-test.com
 next.airbnb.com
 *.muscache.com
@@ -4099,12 +4099,12 @@ team-irc.irccloud.com
 blog.irccloud.com
 *.cbhq.net
 api.custody.coinbase.com
+api.coinbase.com
 pro.coinbase.com
 custody.coinbase.com
 commerce.coinbase.com
 prime.coinbase.com
 institutional.coinbase.com
-api.coinbase.com
 international.coinbase.com
 cloud.coinbase.com
 *.coinbase.com
@@ -4167,8 +4167,8 @@ cover-photos-us-east-2.hackerone-user-content.com
 reviewer.pullrequest.com
 hackerone-ext-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
-profile-photos.hackerone-user-content.com
 cover-photos.hackerone-user-content.com
+profile-photos.hackerone-user-content.com
 www.wearehackerone.com
 hackathon-photos.hackerone-user-content.com
 a5s.hackerone-ext-content.com
@@ -4419,8 +4419,8 @@ alerts.eu.newrelic.com
 *.eu.newrelic.com
 login.newrelic.com
 developer.newrelic.com
-synthetics.newrelic.com
 rpm.newrelic.com
+synthetics.newrelic.com
 insights.newrelic.com
 one.newrelic.com
 *.newrelic.com
