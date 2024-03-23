@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Mar 23 06:20:08 UTC 2024)
+## Domains with Bounties (Last Updated Sat Mar 23 07:16:28 UTC 2024)
 ```
 www.dyson.ch
 www.dyson.se
@@ -338,10 +338,10 @@ getworldcoin.com
 bioid-management.app
 worldcoin.org
 textexplore.tari.com
-www.tarilabs.com
 explore.tari.com
 rfc.tari.com
 www.tari.com
+www.tarilabs.com
 explore.tari.com
 rfc.tari.com
 textexplore.tari.com
@@ -449,9 +449,9 @@ www.mercadolibre.com.uy
 www.mercadolibre.com.co
 www.mercadolibre.cl
 api.mercadopago.com
+www.mercadopago.com.br
 www.mercadopago.cl
 www.mercadolivre.com.br
-www.mercadopago.com.br
 www.mercadopago.com.ar
 www.mercadolibre.com.ar
 api.mercadolibre.com
@@ -816,23 +816,23 @@ api.tideplatform.in
 *.tide.co
 *.tide.co
 api.tideplatform.in
-addons.allizom.org
-crash-stats.allizom.org
-phabricator.allizom.org
-aus5.mozilla.org
-shavar.services.mozilla.com
 firefox.settings.services.mozilla.com
 push.services.mozilla.com
-lando.services.mozilla.com
+phabricator.allizom.org
+addons.allizom.org
+crash-stats.allizom.org
+aus5.mozilla.org
+shavar.services.mozilla.com
 sync.services.mozilla.com
+lando.services.mozilla.com
 hg.mozilla.org
 mozilla-pontoon-staging.herokuapp.com
 merino.services.mozilla.com
-crash-reports.allizom.org
 contile.services.mozilla.com
+crash-reports.allizom.org
 firefox-ci-tc.services.mozilla.com
-accounts.firefox.com
 bugzilla.mozilla.org
+accounts.firefox.com
 addons.allizom.org
 accounts.firefox.com
 bugzilla.mozilla.org
@@ -1012,8 +1012,8 @@ www.sokos.fi
 api.sokos.fi
 cfapi.voikukka.fi
 digili.s-cloud.fi
-www.prisma.fi
 mobile.s-pankki.fi
+www.prisma.fi
 online.s-pankki.fi
 www.s-pankki.fi
 online.s-pankki.fi
@@ -1755,9 +1755,9 @@ api.taxjar.com
 *.reckoproduction.com
 *.link.co
 *.reckostaging.com
-*.touchtechpayments.com
 *.recko.io
 js.stripe.com
+*.touchtechpayments.com
 app.taxjar.com
 api.stripe.com
 *.stripe.com
@@ -2056,10 +2056,10 @@ shop.tiktok.com
 *.tiktokv.com
 tiktok.com
 www.pangleglobal.com
-business.tiktok.com
 partner.tiktokshop.com
-ads.tiktok.com
+business.tiktok.com
 academy-outbound-ads.tiktok.com
+ads.tiktok.com
 *.tiktok.com
 fp-sg.tiktokv.com
 *.tiktok.com
@@ -3066,6 +3066,12 @@ https://github.com/matomo-org/docker
 *.paydiant.com
 paypal.me
 py.pl
+*.braintree.tools
+prequal.swiftfinancial.com
+partner.swiftfinancial.com
+decision.swiftfinancial.com
+pigeon.swiftfinancial.com
+scrutiny.swiftfinancial.com
 www.swiftcapital.com
 www.swiftfinancial.com
 api.swiftfinancial.com
@@ -3074,12 +3080,6 @@ my.loanbuilder.com
 loanbuilder.com
 swiftfinancial.com
 swiftcapital.com
-*.braintree.tools
-prequal.swiftfinancial.com
-partner.swiftfinancial.com
-decision.swiftfinancial.com
-pigeon.swiftfinancial.com
-scrutiny.swiftfinancial.com
 *.paylution.com
 my.swiftfinancial.com
 *.venmo.com
@@ -3087,8 +3087,8 @@ my.swiftfinancial.com
 *.paypalcorp.com
 *.braintreegateway.com
 www.loanbuilder.com
-*.xoom.com
 *.hyperwallet.com
+*.xoom.com
 *.braintree-api.com
 paypalobjects.com
 *.paypal.com
@@ -3271,9 +3271,9 @@ www.counter-strike.net
 playartifact.com
 help.steampowered.com
 developer.valvesoftware.com
+auth.crypto.com
 *.mona.co
 tax.crypto.com
-auth.crypto.com
 js.crypto.com
 app.mona.co
 pay.crypto.com
@@ -3416,8 +3416,8 @@ api.grabpay.com
 kartaview.org
 *.myteksi.com
 jira.grab.com
-*.ovo.id
 *.grab.com
+*.ovo.id
 *.myteksi.com
 *.myteksi.net
 *.grab.com
@@ -3657,8 +3657,8 @@ education.github.com
 npmjs.org
 gist.github.com
 *.githubusercontent.com
-npmjs.com
 api.github.com
+npmjs.com
 github.com
 github.com
 api.github.com
@@ -3731,9 +3731,9 @@ smarttrader.deriv.com
 *.deriv.cloud
 api.deriv.com
 *.binary.com
-oauth.deriv.com
 app.deriv.com
 *.deriv.com
+oauth.deriv.com
 *.deriv.com
 *.deriv.cloud
 *.derivws.com
@@ -3855,8 +3855,8 @@ login.playcanvas.com
 geofilters.snapchat.com
 playcanvas.com
 app.snapchat.com
-business.snapchat.com
 web.snapchat.com
+business.snapchat.com
 www.bitmoji.com
 ads.snapchat.com
 accounts.snapchat.com
@@ -4022,8 +4022,8 @@ api.x.ai
 ide.x.ai
 grok.x.ai
 *.twimg.com
-*.twitter.com
 x.com
+*.twitter.com
 *.twitter.com
 *.vine.co
 *.twimg.com
@@ -4136,8 +4136,8 @@ www.quip.com
 slack-imgs.com
 *.quip.com
 slack.com
-api.slack.com
 app.slack.com
+api.slack.com
 slack.com
 api.slack.com
 status.slack.com
@@ -4167,8 +4167,8 @@ cover-photos-us-east-2.hackerone-user-content.com
 reviewer.pullrequest.com
 hackerone-ext-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
-profile-photos.hackerone-user-content.com
 cover-photos.hackerone-user-content.com
+profile-photos.hackerone-user-content.com
 www.wearehackerone.com
 hackathon-photos.hackerone-user-content.com
 a5s.hackerone-ext-content.com
@@ -4383,8 +4383,8 @@ u.magento.com
 imagine.magento.com
 magentolive.com
 account.magento.com
-repo.magento.com
 accounts.magento.cloud
+repo.magento.com
 magento.com
 marketplace.magento.com
 magentocommerce.com
