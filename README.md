@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Mar 23 10:14:15 UTC 2024)
+## Domains with Bounties (Last Updated Sat Mar 23 11:12:56 UTC 2024)
 ```
 www.dyson.ch
 www.dyson.se
@@ -816,20 +816,20 @@ api.tideplatform.in
 *.tide.co
 *.tide.co
 api.tideplatform.in
+aus5.mozilla.org
+shavar.services.mozilla.com
+push.services.mozilla.com
+firefox.settings.services.mozilla.com
 addons.allizom.org
 crash-stats.allizom.org
 phabricator.allizom.org
-aus5.mozilla.org
-shavar.services.mozilla.com
-firefox.settings.services.mozilla.com
-push.services.mozilla.com
 lando.services.mozilla.com
 sync.services.mozilla.com
 hg.mozilla.org
 mozilla-pontoon-staging.herokuapp.com
 merino.services.mozilla.com
-crash-reports.allizom.org
 contile.services.mozilla.com
+crash-reports.allizom.org
 firefox-ci-tc.services.mozilla.com
 accounts.firefox.com
 bugzilla.mozilla.org
@@ -850,16 +850,16 @@ firefox-ci-tc.services.mozilla.com
 mozilla-pontoon-staging.herokuapp.com
 shavar.services.mozilla.com
 phabricator.allizom.org
-stage.taskcluster.nonprod.cloudops.mozgcp.net
 community-tc.services.mozilla.com
-profiler.firefox.com
+stage.taskcluster.nonprod.cloudops.mozgcp.net
 api.profiler.firefox.com
 vpn.mozilla.org
+profiler.firefox.com
 support.mozilla.org
 hg.mozilla.org
 monitor.mozilla.org
-relay.firefox.com
 developer.mozilla.org
+relay.firefox.com
 www.mozilla.org
 developer.mozilla.org
 profiler.firefox.com
@@ -930,9 +930,9 @@ injob.indriver.com
 watchdocs.indriverapp.com
 new-order.eu-east-1.indriverapp.com
 auth.indrive.tech
-ci.indrive.dev
-*.indriver.com
 truck-api.eu-east-1.indriverapp.com
+*.indriver.com
+ci.indrive.dev
 cargo.indrive.com
 *.indriverapp.com
 *.indrive.com
@@ -1061,9 +1061,9 @@ work-staging.8x8.com
 user-profile-staging.8x8.com
 connect.8x8.com
 *.jitsi.net
-sso.8x8.com
 admin.8x8.com
 *.wavecell.com
+cloud8.8x8.com
 *.8x8.vc
 *.jit.si
 *.jitsi.net
@@ -1170,8 +1170,8 @@ www.expediagroup.com
 *.expediapartnercentral.com
 www.expediapartnersolutions.com
 *.travelocity.ca
-www.fewo-direkt.de
 *.travelocity.com
+www.fewo-direkt.de
 www.flights.com
 *.vrbo.com
 *.wotif.com
@@ -1454,8 +1454,8 @@ shoppers.instacart.com
 admin.instacart.com
 *.instacart.tools
 *.instacart.com
-www.instacart.com
 api.instacart.com
+www.instacart.com
 *.instacart.com
 *.instacart.tools
 api.instacart.com
@@ -1740,8 +1740,8 @@ www.elastic.co
 *.eops.nl
 *.elstc.co
 *.swiftype.com
-cloud.elastic.co
 *.elastic.co
+cloud.elastic.co
 *.elastic.co
 *.found.io
 *.swiftype.com
@@ -1962,8 +1962,8 @@ internal-docs.netlify.com
 internal.netlify.com
 *.ops.netlify.com
 *.infra-prod.nsvcs.net
-*.services.netlify.com
 netlify-rum.netlify.app
+*.services.netlify.com
 api.netlify.com
 app.netlify.com
 *.services.netlify.com
@@ -3066,12 +3066,6 @@ https://github.com/matomo-org/docker
 *.paydiant.com
 paypal.me
 py.pl
-*.braintree.tools
-prequal.swiftfinancial.com
-partner.swiftfinancial.com
-decision.swiftfinancial.com
-pigeon.swiftfinancial.com
-scrutiny.swiftfinancial.com
 www.swiftcapital.com
 www.swiftfinancial.com
 api.swiftfinancial.com
@@ -3080,6 +3074,12 @@ my.loanbuilder.com
 loanbuilder.com
 swiftfinancial.com
 swiftcapital.com
+*.braintree.tools
+prequal.swiftfinancial.com
+partner.swiftfinancial.com
+decision.swiftfinancial.com
+pigeon.swiftfinancial.com
+scrutiny.swiftfinancial.com
 *.paylution.com
 my.swiftfinancial.com
 *.venmo.com
@@ -3087,8 +3087,8 @@ my.swiftfinancial.com
 *.paypalcorp.com
 *.braintreegateway.com
 www.loanbuilder.com
-*.hyperwallet.com
 *.xoom.com
+*.hyperwallet.com
 *.braintree-api.com
 paypalobjects.com
 *.paypal.com
@@ -3414,10 +3414,10 @@ gifts.grab.com
 *.myteksi.net
 api.grabpay.com
 kartaview.org
-*.myteksi.com
 jira.grab.com
 *.ovo.id
 *.grab.com
+*.myteksi.com
 *.myteksi.com
 *.myteksi.net
 *.grab.com
@@ -3810,10 +3810,10 @@ shop.app
 arrive-server.shopifycloud.com
 shopifyinbox.com
 *.shopify.com
-your-store.myshopify.com
 accounts.shopify.com
 partners.shopify.com
 admin.shopify.com
+your-store.myshopify.com
 *.shopifycs.com
 *.shopify.io
 *.shopify.com
@@ -3933,8 +3933,8 @@ callbacks.airbnb.com
 *.luxuryretreats.com
 www.hoteltonight.com
 *.airbnbcitizen.com
-api.airbnb.com
 *.withairbnb.com
+api.airbnb.com
 *.hoteltonight-test.com
 next.airbnb.com
 *.muscache.com
@@ -4419,8 +4419,8 @@ alerts.eu.newrelic.com
 *.eu.newrelic.com
 login.newrelic.com
 developer.newrelic.com
-synthetics.newrelic.com
 rpm.newrelic.com
+synthetics.newrelic.com
 insights.newrelic.com
 one.newrelic.com
 *.newrelic.com
