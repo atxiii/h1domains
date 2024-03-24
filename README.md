@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Mar 24 03:13:19 UTC 2024)
+## Domains with Bounties (Last Updated Sun Mar 24 04:16:53 UTC 2024)
 ```
 www.dyson.ch
 www.dyson.se
@@ -448,13 +448,13 @@ www.mercadolibre.com.pe
 www.mercadolibre.com.uy
 www.mercadolibre.com.co
 www.mercadolibre.cl
-www.mercadopago.com.br
 www.mercadopago.cl
-www.mercadolivre.com.br
+www.mercadopago.com.br
 api.mercadopago.com
+www.mercadolivre.com.br
 api.mercadolibre.com
-www.mercadopago.com.ar
 www.mercadolibre.com.ar
+www.mercadopago.com.ar
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -816,19 +816,19 @@ api.tideplatform.in
 *.tide.co
 *.tide.co
 api.tideplatform.in
-crash-stats.allizom.org
-phabricator.allizom.org
-aus5.mozilla.org
-shavar.services.mozilla.com
 firefox.settings.services.mozilla.com
 push.services.mozilla.com
-lando.services.mozilla.com
+phabricator.allizom.org
+crash-stats.allizom.org
+aus5.mozilla.org
+shavar.services.mozilla.com
 sync.services.mozilla.com
+lando.services.mozilla.com
 hg.mozilla.org
 mozilla-pontoon-staging.herokuapp.com
 merino.services.mozilla.com
-crash-reports.allizom.org
 contile.services.mozilla.com
+crash-reports.allizom.org
 firefox-ci-tc.services.mozilla.com
 bugzilla.mozilla.org
 addons.allizom.org
@@ -930,9 +930,9 @@ injob.indriver.com
 watchdocs.indriverapp.com
 new-order.eu-east-1.indriverapp.com
 auth.indrive.tech
-truck-api.eu-east-1.indriverapp.com
-*.indriver.com
 ci.indrive.dev
+*.indriver.com
+truck-api.eu-east-1.indriverapp.com
 cargo.indrive.com
 *.indriverapp.com
 *.indrive.com
@@ -1938,8 +1938,8 @@ hackers_chosendomain.larksuite.com
 *.exodus.io
 *.a.exodus.io
 *.exodus.com
-ccloud.yoti.com
 core.yoti.com
+ccloud.yoti.com
 api.yoti.com
 www.yotisign.com
 identity.yoti.com
@@ -1962,8 +1962,8 @@ internal-docs.netlify.com
 internal.netlify.com
 *.ops.netlify.com
 *.infra-prod.nsvcs.net
-netlify-rum.netlify.app
 *.services.netlify.com
+netlify-rum.netlify.app
 api.netlify.com
 app.netlify.com
 *.services.netlify.com
@@ -2529,9 +2529,9 @@ updates.amazon.com
 *.taobao.com
 *.aliyun.com
 *.Daraz.com
-www.alibabagroup.com
-*.alibabacloud.com
 *.aliexpress.com
+*.alibabacloud.com
+www.alibabagroup.com
 *.alibaba.com
 *.alibaba.com
 *.aliexpress.com
@@ -3026,11 +3026,11 @@ promos.tvg.com
 service.tvg.com
 fanduel.design
 ia.tvg.com
-www.4njbets.com
-us.tvg.com
-login.tvg.com
 mobile-prod.tvg.com
+login.tvg.com
 *racing.fanduel.com
+us.tvg.com
+www.4njbets.com
 tvg.com
 sportsbook.fanduel.com
 fdbox.net
@@ -3384,13 +3384,13 @@ asiointi.lahitapiola.fi
 api.lahitapiola.fi
 privatetarget-2-secure.zigzag
 privatetarget-1-www.zigzag
-*.semrush.net
 *.seoquake.com
 *.seoab.io
 *.scatec.io
 *.sellzone.com
 *.myinsights.io
 *.semrush.com
+*.semrush.net
 *.semrush.com
 *.semrush.net
 *.seoquake.com
@@ -3930,15 +3930,15 @@ callbacks.airbnb.com
 *.byairbnb.com
 *.airbnb-aws.com
 *.luxuryretreats.com
-www.hoteltonight.com
 *.airbnbcitizen.com
-api.airbnb.com
 *.withairbnb.com
+api.airbnb.com
 *.hoteltonight-test.com
 next.airbnb.com
 *.muscache.com
 www.airbnb.com
 *.airbnb.com
+www.hoteltonight.com
 www.airbnb.com
 next.airbnb.com
 api.airbnb.com
@@ -4098,11 +4098,11 @@ team-irc.irccloud.com
 blog.irccloud.com
 *.cbhq.net
 api.custody.coinbase.com
-api.coinbase.com
 pro.coinbase.com
 custody.coinbase.com
 prime.coinbase.com
 institutional.coinbase.com
+api.coinbase.com
 international.coinbase.com
 cloud.coinbase.com
 coinbase.com
@@ -4418,8 +4418,8 @@ alerts.eu.newrelic.com
 *.eu.newrelic.com
 login.newrelic.com
 developer.newrelic.com
-synthetics.newrelic.com
 rpm.newrelic.com
+synthetics.newrelic.com
 insights.newrelic.com
 one.newrelic.com
 *.newrelic.com
