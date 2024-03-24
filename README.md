@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Mar 24 09:16:48 UTC 2024)
+## Domains with Bounties (Last Updated Sun Mar 24 10:15:52 UTC 2024)
 ```
 www.dyson.ch
 www.dyson.se
@@ -307,10 +307,10 @@ webonboarding-eu.truecaller.com
 cards.remitly.io
 rewire.com
 app3.rewire.to
-remitly.com
 app.rewire.to
 api.remitly.io
 rates.rewire.com
+remitly.com
 remitly.com
 api.remitly.io
 cards.remitly.io
@@ -452,8 +452,8 @@ www.mercadopago.cl
 www.mercadolivre.com.br
 api.mercadopago.com
 api.mercadolibre.com
-www.mercadolibre.com.ar
 www.mercadopago.com.ar
+www.mercadolibre.com.ar
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -497,8 +497,8 @@ admin.booking.com
 www.fareharbor.com
 widget.rentalcars.com
 teleport.fareharbor.engineering
-*.rentalcars.com
 careers.booking.com
+*.rentalcars.com
 flights.booking.com
 booking.com
 *.booking.com
@@ -815,19 +815,19 @@ api.tideplatform.in
 *.tide.co
 *.tide.co
 api.tideplatform.in
-crash-stats.allizom.org
-phabricator.allizom.org
-aus5.mozilla.org
-shavar.services.mozilla.com
 firefox.settings.services.mozilla.com
 push.services.mozilla.com
-lando.services.mozilla.com
+phabricator.allizom.org
+crash-stats.allizom.org
+aus5.mozilla.org
+shavar.services.mozilla.com
 sync.services.mozilla.com
+lando.services.mozilla.com
 hg.mozilla.org
 mozilla-pontoon-staging.herokuapp.com
 merino.services.mozilla.com
-crash-reports.allizom.org
 contile.services.mozilla.com
+crash-reports.allizom.org
 firefox-ci-tc.services.mozilla.com
 bugzilla.mozilla.org
 addons.allizom.org
@@ -849,15 +849,15 @@ firefox-ci-tc.services.mozilla.com
 mozilla-pontoon-staging.herokuapp.com
 shavar.services.mozilla.com
 phabricator.allizom.org
-stage.taskcluster.nonprod.cloudops.mozgcp.net
 community-tc.services.mozilla.com
-profiler.firefox.com
+stage.taskcluster.nonprod.cloudops.mozgcp.net
 api.profiler.firefox.com
 vpn.mozilla.org
+profiler.firefox.com
 support.mozilla.org
 hg.mozilla.org
-relay.firefox.com
 developer.mozilla.org
+relay.firefox.com
 www.mozilla.org
 monitor.mozilla.org
 developer.mozilla.org
@@ -888,8 +888,8 @@ hiltonlocalbiz.com
 *.hiltonbusinessonline.com
 hiltonhotels.jp
 *.hilton.io
-hilton.com
 hilton.io
+hilton.com
 *.hilton.com
 *.hilton.com
 *.hilton.io
@@ -929,9 +929,9 @@ injob.indriver.com
 watchdocs.indriverapp.com
 new-order.eu-east-1.indriverapp.com
 auth.indrive.tech
-ci.indrive.dev
-*.indriver.com
 truck-api.eu-east-1.indriverapp.com
+*.indriver.com
+ci.indrive.dev
 cargo.indrive.com
 *.indriverapp.com
 *.indrive.com
@@ -1169,15 +1169,15 @@ www.expediagroup.com
 *.expediapartnercentral.com
 www.expediapartnersolutions.com
 *.travelocity.ca
-www.fewo-direkt.de
 *.travelocity.com
+www.fewo-direkt.de
 www.flights.com
 *.vrbo.com
 *.wotif.com
 *.carrentals.com
+www.hotels.com
 *.expediacruises.com
 www.expedia.com
-www.hotels.com
 *.hotwire.com
 *.vrbo.com
 *.hotwire.com
@@ -1310,8 +1310,8 @@ checkout.razorpay.com
 payroll.razorpay.com
 invoices.razorpay.com
 dashboard.razorpay.com
-api.razorpay.com
 x.razorpay.com
+api.razorpay.com
 dashboard.razorpay.com
 api.razorpay.com
 checkout.razorpay.com
@@ -1452,9 +1452,9 @@ bullsheet.me
 shoppers.instacart.com
 admin.instacart.com
 *.instacart.tools
-*.instacart.com
 api.instacart.com
 www.instacart.com
+*.instacart.com
 *.instacart.com
 *.instacart.tools
 api.instacart.com
@@ -2527,11 +2527,11 @@ updates.amazon.com
 *.aliyun-inc.com
 *.taobao.com
 *.aliyun.com
+*.alibaba.com
 *.aliexpress.com
 *.alibabacloud.com
-www.alibabagroup.com
-*.alibaba.com
 *.Daraz.com
+www.alibabagroup.com
 *.alibaba.com
 *.aliexpress.com
 *.taobao.com
@@ -2627,8 +2627,8 @@ activities.marriott.com
 homes-and-villas.marriott.com
 all-inclusive.marriott.com
 traveler.marriott.com
-careers.marriott.com
 www.marriott.com
+careers.marriott.com
 homes-and-villas.marriott.com
 careers.marriott.com
 sso.marriott.com
@@ -2682,8 +2682,8 @@ k8s.io
 kubernetes-csi.github.io
 downloads.datastax.com
 docs.datastax.com
-astra.datastax.com
 www.datastax.com
+astra.datastax.com
 www.datastax.com
 downloads.datastax.com
 docs.datastax.com
@@ -3065,6 +3065,12 @@ https://github.com/matomo-org/docker
 *.paydiant.com
 paypal.me
 py.pl
+*.braintree.tools
+prequal.swiftfinancial.com
+partner.swiftfinancial.com
+decision.swiftfinancial.com
+pigeon.swiftfinancial.com
+scrutiny.swiftfinancial.com
 www.swiftcapital.com
 www.swiftfinancial.com
 api.swiftfinancial.com
@@ -3073,12 +3079,6 @@ my.loanbuilder.com
 loanbuilder.com
 swiftfinancial.com
 swiftcapital.com
-*.braintree.tools
-prequal.swiftfinancial.com
-partner.swiftfinancial.com
-decision.swiftfinancial.com
-pigeon.swiftfinancial.com
-scrutiny.swiftfinancial.com
 *.paylution.com
 my.swiftfinancial.com
 *.venmo.com
@@ -3334,8 +3334,8 @@ hybrid-analysis.com
 *.preempt.com
 *.preemptsecurity.com
 *.humio.com
-www.crowdstrike.com
 *.crowdstrike.com
+www.crowdstrike.com
 *.crowdstrike.com
 *.humio.com
 *.securecircle.com
@@ -3450,8 +3450,8 @@ ccardsus1.badoo.com
 chatdate.app
 bma.bumble.com
 getofficial.co
-www.bumble.com
 eu1.badoo.com
+www.bumble.com
 www.bumble.com
 bma.bumble.com
 badoo.com
@@ -3723,8 +3723,8 @@ www.algolia.com
 www.algolia.com
 cashier.deriv.com
 secure-dfadmin.deriv.com
-*.derivws.com
 derivws.com
+*.derivws.com
 *.deriv.cloud
 *.binary.com
 app.deriv.com
@@ -3807,11 +3807,11 @@ shopify.plus
 arrive-server.shopifycloud.com
 shopifyinbox.com
 *.shopify.com
-accounts.shopify.com
 partners.shopify.com
+accounts.shopify.com
 shop.app
-your-store.myshopify.com
 admin.shopify.com
+your-store.myshopify.com
 *.shopifycs.com
 *.shopify.io
 *.shopify.com
@@ -3929,8 +3929,8 @@ callbacks.airbnb.com
 *.airbnb-aws.com
 *.luxuryretreats.com
 *.airbnbcitizen.com
-*.withairbnb.com
 api.airbnb.com
+*.withairbnb.com
 *.hoteltonight-test.com
 next.airbnb.com
 *.muscache.com
@@ -4165,8 +4165,8 @@ cover-photos-us-east-2.hackerone-user-content.com
 reviewer.pullrequest.com
 hackerone-ext-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
-cover-photos.hackerone-user-content.com
 profile-photos.hackerone-user-content.com
+cover-photos.hackerone-user-content.com
 www.wearehackerone.com
 hackathon-photos.hackerone-user-content.com
 a5s.hackerone-ext-content.com
@@ -4381,8 +4381,8 @@ u.magento.com
 imagine.magento.com
 magentolive.com
 account.magento.com
-repo.magento.com
 accounts.magento.cloud
+repo.magento.com
 magento.com
 marketplace.magento.com
 magentocommerce.com
@@ -4417,8 +4417,8 @@ alerts.eu.newrelic.com
 *.eu.newrelic.com
 login.newrelic.com
 developer.newrelic.com
-rpm.newrelic.com
 synthetics.newrelic.com
+rpm.newrelic.com
 insights.newrelic.com
 one.newrelic.com
 *.newrelic.com
