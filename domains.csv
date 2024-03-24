@@ -572,9 +572,9 @@ bookingcom,careers.booking.com,True
 bookingcom,*.rentalcars.com,True
 bookingcom,flights.booking.com,True
 bookingcom,booking.com,True
+bookingcom,admin.booking.com,True
 bookingcom,account.booking.com,True
 bookingcom,paymentcomponent.booking.com,True
-bookingcom,admin.booking.com,True
 bookingcom,*.booking.com,True
 bookingcom,*.booking.com,True
 bookingcom,*.rentalcars.com,True
@@ -2194,8 +2194,8 @@ daimler_truck,*fleetboard.de,False
 daimler_truck,*fleetboard.com,False
 daimler_truck,*.westernstar.com,False
 daimler_truck,*.setra.de,False
-daimler_truck,*detroitconnect.com,False
 daimler_truck,*exceleratorparts.com,False
+daimler_truck,*detroitconnect.com,False
 daimler_truck,*.freightliner.com,False
 daimler_truck,*.mercedes-benz-trucks.com,False
 daimler_truck,*omniplus.com,False
@@ -3207,12 +3207,12 @@ oyo_rooms,preprod.oyorooms.ms,False
 oyo_rooms,traum-ferienwohnungen.de,False
 oyo_rooms,preprod.oyorooms.ms,False
 oyo_rooms,http://patron.oyo.com/blog/in,False
+mozilla_critical_services,phabricator.allizom.org,True
+mozilla_critical_services,crash-stats.allizom.org,True
 mozilla_critical_services,aus5.mozilla.org,True
 mozilla_critical_services,shavar.services.mozilla.com,True
-mozilla_critical_services,push.services.mozilla.com,True
 mozilla_critical_services,firefox.settings.services.mozilla.com,True
-mozilla_critical_services,crash-stats.allizom.org,True
-mozilla_critical_services,phabricator.allizom.org,True
+mozilla_critical_services,push.services.mozilla.com,True
 mozilla_critical_services,lando.services.mozilla.com,True
 mozilla_critical_services,sync.services.mozilla.com,True
 mozilla_critical_services,hg.mozilla.org,True
@@ -3318,8 +3318,8 @@ shutterfly_vdp,wgwebservices.snapfish.com,False
 shutterfly_vdp,https://www.cvs.com/photo/,False
 six-group,www.six-group.com,True
 six-group,www.six-group.com,True
-msd,*.msd.com,False
 msd,*.merck.com,False
+msd,*.msd.com,False
 msd,*.merck.com,False
 msd,*.msd.com,False
 prolinx-vdp,www.prolinx.co.uk,False
@@ -3343,8 +3343,8 @@ hilton,*.hilton.com.tr,True
 hilton,*.hiltonbusinessonline.com,True
 hilton,hiltonhotels.jp,True
 hilton,*.hilton.io,True
-hilton,hilton.io,True
 hilton,hilton.com,True
+hilton,hilton.io,True
 hilton,*.hilton.com,True
 hilton,*.hilton.com,True
 hilton,*.hilton.io,True
@@ -3410,8 +3410,8 @@ apnic,* IPv4 addresses,False
 apnic,* IPv6 addresses,False
 okg,*.okcoin.com,True
 okg,*.oklink.com,True
-okg,*.okx.com,True
 okg,*.okg.com,True
+okg,*.okx.com,True
 okg,*.okx.com,True
 okg,*.okcoin.com,True
 okg,*.oklink.com,True
@@ -4019,7 +4019,6 @@ avalara,*.papercrane.io,False
 avalara,*.inposia.com,False
 avalara,*.netleglobal.com,False
 avalara,*.crowdreason.com,False
-avalara,*.3ce.com,False
 avalara,*.davosalestax.com,False
 avalara,*.ttrus.com,False
 avalara,*.impendulo.com,False
@@ -4027,6 +4026,7 @@ avalara,*.avalara.net,False
 avalara,*.avalara.io,False
 avalara,*.avalara.com,False
 avalara,*.track1099.com,False
+avalara,*.3ce.com,False
 avalara,*.avalara.com,False
 avalara,*.avalara.net,False
 avalara,*.avalara.io,False
@@ -4095,8 +4095,8 @@ resmed,resmed.ch,False
 resmed,resmed.la,False
 resmed,onlinestore.resmed.com,False
 resmed,myair.resmed.com,False
-resmed,www.citushealth.com,False
 resmed,shop.resmed.com,False
+resmed,www.citushealth.com,False
 resmed,careers.resmed.com,False
 resmed,resmed.co.in,False
 resmed,resmed.com,False
@@ -4841,7 +4841,7 @@ mars,*.royalcanin.sk,False
 mars,*.banfield.com,False
 mars,*.royalcanin.es,False
 mars,practice.securevetsource.com,False
-mars,*.findroyalcanin.com,False
+mars,*.royalcanin.be,False
 mars,*.mars.com,False
 mars,*.marschocolate.com,False
 mars,*.mms.com,False
@@ -5213,9 +5213,9 @@ etoro_bbp,bullsheet.me,True
 instacart,shoppers.instacart.com,True
 instacart,admin.instacart.com,True
 instacart,*.instacart.tools,True
-instacart,*.instacart.com,True
-instacart,api.instacart.com,True
 instacart,www.instacart.com,True
+instacart,api.instacart.com,True
+instacart,*.instacart.com,True
 instacart,*.instacart.com,True
 instacart,*.instacart.tools,True
 instacart,api.instacart.com,True
@@ -5465,8 +5465,8 @@ judgeme,bigcommerce-adapter.judge.me,True
 judgeme,cache.judge.me,True
 mtb,*.wilmingtontrust.com,False
 mtb,*.leafnow.com,False
-mtb,*.mtb.com,False
 mtb,*.trustnota.com,False
+mtb,*.mtb.com,False
 mtb,*.mtb.com,False
 mtb,*.wilmingtontrust.com,False
 mtb,*.trustnota.com,False
@@ -6215,10 +6215,10 @@ stripe,api.taxjar.com,True
 stripe,*.reckoproduction.com,True
 stripe,*.link.co,True
 stripe,*.reckostaging.com,True
+stripe,*.touchtechpayments.com,True
 stripe,www.stripe.partners,False
 stripe,*.recko.io,True
 stripe,js.stripe.com,True
-stripe,*.touchtechpayments.com,True
 stripe,api.stripe.com,True
 stripe,*.stripe.com,True
 stripe,app.taxjar.com,True
@@ -7271,8 +7271,8 @@ exodus,*.exodus.com,True
 exodus,*.exodus.io,True
 exodus,*.a.exodus.io,True
 exodus,*.exodus.com,True
-yoti,core.yoti.com,True
 yoti,ccloud.yoti.com,True
+yoti,core.yoti.com,True
 yoti,api.yoti.com,True
 yoti,www.yotisign.com,True
 yoti,identity.yoti.com,True
@@ -7295,8 +7295,8 @@ netlify,*.services-prod.nsvcs.net,True
 netlify,internal.netlify.com,True
 netlify,*.ops.netlify.com,True
 netlify,*.infra-prod.nsvcs.net,True
-netlify,netlify-rum.netlify.app,True
 netlify,*.services.netlify.com,True
+netlify,netlify-rum.netlify.app,True
 netlify,api.netlify.com,True
 netlify,app.netlify.com,True
 netlify,*.services.netlify.com,True
@@ -7559,7 +7559,6 @@ watson_group,www.superdrug.com,True
 watson_group,www.kruidvat.nl,True
 watson_group,www.kruidvat.be,True
 watson_group,www.iciparisxl.nl,True
-watson_group,www.iciparisxl.be,True
 watson_group,www.iciparisxl.lu,True
 watson_group,app.kruidvat.nl,True
 watson_group,app.kruidvat.be,True
@@ -9438,11 +9437,11 @@ fanduel,promos.tvg.com,True
 fanduel,service.tvg.com,True
 fanduel,fanduel.design,True
 fanduel,ia.tvg.com,True
-fanduel,mobile-prod.tvg.com,True
-fanduel,login.tvg.com,True
-fanduel,*racing.fanduel.com,True
-fanduel,us.tvg.com,True
 fanduel,www.4njbets.com,True
+fanduel,us.tvg.com,True
+fanduel,login.tvg.com,True
+fanduel,mobile-prod.tvg.com,True
+fanduel,*racing.fanduel.com,True
 fanduel,tvg.com,True
 fanduel,sportsbook.fanduel.com,True
 fanduel,fdbox.net,True
@@ -9805,8 +9804,8 @@ crowdstrike,*.bionic.ai,True
 crowdstrike,*.preempt.com,True
 crowdstrike,*.preemptsecurity.com,True
 crowdstrike,*.humio.com,True
-crowdstrike,*.crowdstrike.com,True
 crowdstrike,www.crowdstrike.com,True
+crowdstrike,*.crowdstrike.com,True
 crowdstrike,*.crowdstrike.com,True
 crowdstrike,*.humio.com,True
 crowdstrike,*.securecircle.com,True
@@ -10221,8 +10220,8 @@ github,education.github.com,True
 github,npmjs.org,True
 github,gist.github.com,True
 github,*.githubusercontent.com,True
-github,api.github.com,True
 github,npmjs.com,True
+github,api.github.com,True
 github,github.com,True
 github,github.com,True
 github,api.github.com,True
@@ -10376,10 +10375,10 @@ shopify,arrive-server.shopifycloud.com,True
 shopify,shopifyinbox.com,True
 shopify,*.shopify.com,True
 shopify,partners.shopify.com,True
-shopify,accounts.shopify.com,True
 shopify,shop.app,True
 shopify,your-store.myshopify.com,True
 shopify,admin.shopify.com,True
+shopify,accounts.shopify.com,True
 shopify,*.shopifycs.com,True
 shopify,*.shopify.io,True
 shopify,*.shopify.com,True
@@ -11386,8 +11385,8 @@ newrelic,*.eu.newrelic.com,True
 newrelic,login.newrelic.com,True
 newrelic,developer.newrelic.com,True
 newrelic,synthetics.newrelic.com,True
-newrelic,rpm.newrelic.com,True
 newrelic,insights.newrelic.com,True
+newrelic,rpm.newrelic.com,True
 newrelic,one.newrelic.com,True
 newrelic,*.newrelic.com,True
 newrelic,*.infrastructure.newrelic.com,True
