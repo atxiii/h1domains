@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Mar 24 22:12:31 UTC 2024)
+## Domains with Bounties (Last Updated Sun Mar 24 23:16:48 UTC 2024)
 ```
 www.dyson.ch
 www.dyson.se
@@ -446,12 +446,12 @@ www.mercadolibre.com.pe
 www.mercadolibre.com.uy
 www.mercadolibre.com.co
 www.mercadolibre.cl
-www.mercadopago.cl
 www.mercadopago.com.br
-api.mercadopago.com
+www.mercadopago.cl
 www.mercadolivre.com.br
-www.mercadopago.com.ar
+api.mercadopago.com
 www.mercadolibre.com.ar
+www.mercadopago.com.ar
 www.mercadolibre.com.mx
 api.mercadolibre.com
 api.mercadopago.com
@@ -497,13 +497,13 @@ widget.rentalcars.com
 teleport.fareharbor.engineering
 *.rentalcars.com
 flights.booking.com
-admin.booking.com
 account.booking.com
 paymentcomponent.booking.com
-*.booking.com
+admin.booking.com
 booking.com
 careers.booking.com
 www.fareharbor.com
+*.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -815,19 +815,19 @@ api.tideplatform.in
 *.tide.co
 *.tide.co
 api.tideplatform.in
-firefox.settings.services.mozilla.com
-push.services.mozilla.com
-phabricator.allizom.org
 crash-stats.allizom.org
+phabricator.allizom.org
 aus5.mozilla.org
 shavar.services.mozilla.com
-sync.services.mozilla.com
+firefox.settings.services.mozilla.com
+push.services.mozilla.com
 lando.services.mozilla.com
+sync.services.mozilla.com
 hg.mozilla.org
 mozilla-pontoon-staging.herokuapp.com
 merino.services.mozilla.com
-contile.services.mozilla.com
 crash-reports.allizom.org
+contile.services.mozilla.com
 firefox-ci-tc.services.mozilla.com
 bugzilla.mozilla.org
 addons.allizom.org
@@ -1011,8 +1011,8 @@ www.sokos.fi
 api.sokos.fi
 cfapi.voikukka.fi
 digili.s-cloud.fi
-www.prisma.fi
 mobile.s-pankki.fi
+www.prisma.fi
 online.s-pankki.fi
 www.s-pankki.fi
 online.s-pankki.fi
@@ -1061,7 +1061,6 @@ user-profile-staging.8x8.com
 connect.8x8.com
 *.jitsi.net
 admin.8x8.com
-*.wavecell.com
 cloud8.8x8.com
 *.8x8.vc
 *.jit.si
@@ -1169,8 +1168,8 @@ www.expediagroup.com
 *.expediapartnercentral.com
 www.expediapartnersolutions.com
 *.travelocity.ca
-*.travelocity.com
 www.fewo-direkt.de
+*.travelocity.com
 www.flights.com
 *.vrbo.com
 *.wotif.com
@@ -1753,9 +1752,9 @@ api.taxjar.com
 *.reckoproduction.com
 *.link.co
 *.reckostaging.com
+*.touchtechpayments.com
 *.recko.io
 js.stripe.com
-*.touchtechpayments.com
 api.stripe.com
 *.stripe.com
 app.taxjar.com
@@ -1961,8 +1960,8 @@ internal-docs.netlify.com
 internal.netlify.com
 *.ops.netlify.com
 *.infra-prod.nsvcs.net
-*.services.netlify.com
 netlify-rum.netlify.app
+*.services.netlify.com
 api.netlify.com
 app.netlify.com
 *.services.netlify.com
@@ -3064,12 +3063,6 @@ https://github.com/matomo-org/docker
 *.paydiant.com
 paypal.me
 py.pl
-*.braintree.tools
-prequal.swiftfinancial.com
-partner.swiftfinancial.com
-decision.swiftfinancial.com
-pigeon.swiftfinancial.com
-scrutiny.swiftfinancial.com
 www.swiftcapital.com
 www.swiftfinancial.com
 api.swiftfinancial.com
@@ -3078,6 +3071,12 @@ my.loanbuilder.com
 loanbuilder.com
 swiftfinancial.com
 swiftcapital.com
+*.braintree.tools
+prequal.swiftfinancial.com
+partner.swiftfinancial.com
+decision.swiftfinancial.com
+pigeon.swiftfinancial.com
+scrutiny.swiftfinancial.com
 *.paylution.com
 my.swiftfinancial.com
 *.venmo.com
@@ -3353,7 +3352,6 @@ secure.lahitapiola.fi
 *.lahitapiolarahoitus.fi
 *.tapiola.fi
 asiointi.lahitapiola.fi
-api.lahitapiola.fi
 tunnistus.lahitapiola.fi
 ext-gw.lahitapiola.fi
 lisasijoitus.lahitapiola.fi
@@ -3364,6 +3362,7 @@ privatetarget-2-secure.zigzag
 *.beta.lahitapiola.fi
 www.lahitapiola.fi
 *.lahitapiola.fi
+api.lahitapiola.fi
 *.lahitapiolarahoitus.fi
 *.lahitapiola.fi
 *.tapiola.fi
@@ -3722,8 +3721,8 @@ www.algolia.com
 www.algolia.com
 cashier.deriv.com
 secure-dfadmin.deriv.com
-derivws.com
 *.derivws.com
+derivws.com
 *.deriv.cloud
 *.binary.com
 app.deriv.com
@@ -3780,8 +3779,8 @@ app.futuresimple.com
 api.getbase.com
 smooch.io
 apps.zendesk.com
-h1-your-domain.zendesk.com
 www.zendesk.com
+h1-your-domain.zendesk.com
 www.zendesk.com
 developer.zendesk.com
 h1-your-domain.zendesk.com
@@ -4175,8 +4174,8 @@ errors.hackerone.net
 ctf.hacker101.com
 hackerone-user-content.com
 www.hackerone.com
-hackerone.com
 cover-photos.hackerone-user-content.com
+hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
@@ -4416,8 +4415,8 @@ alerts.eu.newrelic.com
 *.eu.newrelic.com
 login.newrelic.com
 developer.newrelic.com
-rpm.newrelic.com
 synthetics.newrelic.com
+rpm.newrelic.com
 insights.newrelic.com
 one.newrelic.com
 *.newrelic.com
