@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Mar 24 23:16:48 UTC 2024)
+## Domains with Bounties (Last Updated Mon Mar 25 00:48:01 UTC 2024)
 ```
 www.dyson.ch
 www.dyson.se
@@ -325,8 +325,8 @@ worldcoin.org
 bioid-management.app
 *.worldcoin.dev
 *.worldcoin-distributors.com
-*.worldcoin.org
 *.consumer.worldcoin.org
+*.worldcoin.org
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -497,13 +497,13 @@ widget.rentalcars.com
 teleport.fareharbor.engineering
 *.rentalcars.com
 flights.booking.com
+admin.booking.com
 account.booking.com
 paymentcomponent.booking.com
-admin.booking.com
+*.booking.com
 booking.com
 careers.booking.com
 www.fareharbor.com
-*.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -815,8 +815,8 @@ api.tideplatform.in
 *.tide.co
 *.tide.co
 api.tideplatform.in
-crash-stats.allizom.org
 phabricator.allizom.org
+crash-stats.allizom.org
 aus5.mozilla.org
 shavar.services.mozilla.com
 firefox.settings.services.mozilla.com
@@ -826,8 +826,8 @@ sync.services.mozilla.com
 hg.mozilla.org
 mozilla-pontoon-staging.herokuapp.com
 merino.services.mozilla.com
-crash-reports.allizom.org
 contile.services.mozilla.com
+crash-reports.allizom.org
 firefox-ci-tc.services.mozilla.com
 bugzilla.mozilla.org
 addons.allizom.org
@@ -1011,8 +1011,8 @@ www.sokos.fi
 api.sokos.fi
 cfapi.voikukka.fi
 digili.s-cloud.fi
-mobile.s-pankki.fi
 www.prisma.fi
+mobile.s-pankki.fi
 online.s-pankki.fi
 www.s-pankki.fi
 online.s-pankki.fi
@@ -1360,8 +1360,8 @@ pwapi.ex2b.com
 api.excalls.mobi
 social-trading.exness.com
 my.exness.com
-exnessaffiliates.com
 exness.com
+exnessaffiliates.com
 my.exness.com
 pay.ibex.exchange
 https://my.exness.com/webtrading/
@@ -1752,9 +1752,9 @@ api.taxjar.com
 *.reckoproduction.com
 *.link.co
 *.reckostaging.com
-*.touchtechpayments.com
 *.recko.io
 js.stripe.com
+*.touchtechpayments.com
 api.stripe.com
 *.stripe.com
 app.taxjar.com
@@ -1936,13 +1936,13 @@ hackers_chosendomain.larksuite.com
 *.exodus.io
 *.a.exodus.io
 *.exodus.com
-core.yoti.com
 ccloud.yoti.com
-hub.yoti.com
-code.yoti.com
+core.yoti.com
+api.yoti.com
 www.yotisign.com
 identity.yoti.com
-api.yoti.com
+hub.yoti.com
+code.yoti.com
 core.yoti.com
 api.yoti.com
 ccloud.yoti.com
@@ -3022,11 +3022,11 @@ pabets.tvg.com
 promos.tvg.com
 service.tvg.com
 fanduel.design
+us.tvg.com
 ia.tvg.com
 www.4njbets.com
-us.tvg.com
-login.tvg.com
 mobile-prod.tvg.com
+login.tvg.com
 *racing.fanduel.com
 tvg.com
 sportsbook.fanduel.com
@@ -3267,9 +3267,9 @@ www.counter-strike.net
 playartifact.com
 help.steampowered.com
 developer.valvesoftware.com
+auth.crypto.com
 *.mona.co
 tax.crypto.com
-auth.crypto.com
 js.crypto.com
 app.mona.co
 pay.crypto.com
@@ -3433,7 +3433,6 @@ xtramile.grabpay.com
 gifts.grab.com
 grab.careers
 kartaview.org
-badoo.com
 us1.badoo.com
 corp.badoo.com
 m.badoo.com
@@ -3450,6 +3449,7 @@ bma.bumble.com
 getofficial.co
 eu1.badoo.com
 www.bumble.com
+badoo.com
 www.bumble.com
 bma.bumble.com
 badoo.com
@@ -3721,8 +3721,8 @@ www.algolia.com
 www.algolia.com
 cashier.deriv.com
 secure-dfadmin.deriv.com
-*.derivws.com
 derivws.com
+*.derivws.com
 *.deriv.cloud
 *.binary.com
 app.deriv.com
@@ -4165,8 +4165,8 @@ hackerone-ext-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 profile-photos.hackerone-user-content.com
 www.wearehackerone.com
-hackathon-photos.hackerone-user-content.com
 a5s.hackerone-ext-content.com
+hackathon-photos.hackerone-user-content.com
 app.pullrequest.com
 hackerone.live
 api.hackerone.com
