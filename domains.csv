@@ -325,7 +325,6 @@ interco_vdp,*.bancointer.com.br,False
 interco_vdp,*.inter.co,False
 interco_vdp,*.bancointer.com.br,False
 toolsforhumanity,toolsforhumanity.com,True
-toolsforhumanity,getworldcoin.com,True
 toolsforhumanity,worldcoin.org,True
 toolsforhumanity,*.toolsforhumanity.com,True
 toolsforhumanity,bioid-management.app,True
@@ -333,6 +332,7 @@ toolsforhumanity,*.worldcoin.dev,True
 toolsforhumanity,*.worldcoin-distributors.com,True
 toolsforhumanity,*.worldcoin.org,True
 toolsforhumanity,*.consumer.worldcoin.org,True
+toolsforhumanity,getworldcoin.com,True
 toolsforhumanity,*.worldcoin.org,True
 toolsforhumanity,*.consumer.worldcoin.org,True
 toolsforhumanity,*.worldcoin-distributors.com,True
@@ -449,8 +449,8 @@ dynatrace,sso-sprint.dynatracelabs.com,True
 dynatrace,university-staging.dynatracelabs.com,True
 dynatrace,myaccount-hardening.dynatracelabs.com,True
 dynamic_labs,demo.dynamic.xyz,True
-dynamic_labs,app.dynamic-preprod.xyz,True
 dynamic_labs,app.dynamic.xyz,True
+dynamic_labs,app.dynamic-preprod.xyz,True
 dynamic_labs,app.dynamic-preprod.xyz,True
 dynamic_labs,demo.dynamic.xyz,True
 dynamic_labs,app.dynamic.xyz,True
@@ -1545,8 +1545,8 @@ fronthq,api2.frontapp.com,True
 fronthq,app.frontapp.com,True
 fronthq,app.frontapp.com,True
 fronthq,api2.frontapp.com,True
-boozt,*.booztlet.com,True
 boozt,*.boozt.com,True
+boozt,*.booztlet.com,True
 boozt,*.boozt.com,True
 boozt,*.booztlet.com,True
 trip_com,*.trip.com,True
@@ -3240,11 +3240,11 @@ mozilla_critical_services,firefox-ci-tc.services.mozilla.com,True
 mozilla_critical_services,mozilla-pontoon-staging.herokuapp.com,True
 mozilla_critical_services,shavar.services.mozilla.com,True
 mozilla_critical_services,phabricator.allizom.org,True
-mozilla_core_services,stage.taskcluster.nonprod.cloudops.mozgcp.net,True
 mozilla_core_services,community-tc.services.mozilla.com,True
-mozilla_core_services,profiler.firefox.com,True
+mozilla_core_services,stage.taskcluster.nonprod.cloudops.mozgcp.net,True
 mozilla_core_services,api.profiler.firefox.com,True
 mozilla_core_services,vpn.mozilla.org,True
+mozilla_core_services,profiler.firefox.com,True
 mozilla_core_services,support.mozilla.org,True
 mozilla_core_services,hg.mozilla.org,True
 mozilla_core_services,relay.firefox.com,True
@@ -3317,8 +3317,8 @@ shutterfly_vdp,wgwebservices.snapfish.com,False
 shutterfly_vdp,https://www.cvs.com/photo/,False
 six-group,www.six-group.com,True
 six-group,www.six-group.com,True
-msd,*.msd.com,False
 msd,*.merck.com,False
+msd,*.msd.com,False
 msd,*.merck.com,False
 msd,*.msd.com,False
 prolinx-vdp,www.prolinx.co.uk,False
@@ -3342,8 +3342,8 @@ hilton,*.hilton.com.tr,True
 hilton,*.hiltonbusinessonline.com,True
 hilton,hiltonhotels.jp,True
 hilton,*.hilton.io,True
-hilton,hilton.io,True
 hilton,hilton.com,True
+hilton,hilton.io,True
 hilton,*.hilton.com,True
 hilton,*.hilton.com,True
 hilton,*.hilton.io,True
@@ -3408,9 +3408,9 @@ apnic,submission.apnic.net,False
 apnic,* IPv4 addresses,False
 apnic,* IPv6 addresses,False
 okg,*.okcoin.com,True
-okg,*.okg.com,True
 okg,*.oklink.com,True
 okg,*.okx.com,True
+okg,*.okg.com,True
 okg,*.okx.com,True
 okg,*.okcoin.com,True
 okg,*.oklink.com,True
@@ -3442,6 +3442,8 @@ indrive,auth2.indrive.tech,True
 indrive,aws.indrive.tech,True
 indrive,debug.clairvoyance.indrive.tech,True
 indrive,ingest.clairvoyance.indrive.tech,True
+indrive,*.indrive.com,True
+indrive,*.indriverapp.com,True
 indrive,injob.indriver.com,True
 indrive,new-order.eu-east-1.indriverapp.com,True
 indrive,auth.indrive.tech,True
@@ -3449,10 +3451,8 @@ indrive,truck-api.eu-east-1.indriverapp.com,True
 indrive,*.indriver.com,True
 indrive,ci.indrive.dev,True
 indrive,cargo.indrive.com,True
-indrive,*.indrive.com,True
 indrive,profile-api.eu-east-1.indriverapp.com,True
 indrive,watchdocs.indriverapp.com,True
-indrive,*.indriverapp.com,True
 indrive,*.indriverapp.com,True
 indrive,*.indrive.com,True
 indrive,*.indriver.com,True
@@ -5207,8 +5207,8 @@ etoro_bbp,rankings.etoro.com,True
 etoro_bbp,delta.app,True
 etoro_bbp,bullsheet.me,True
 instacart,shoppers.instacart.com,True
-instacart,admin.instacart.com,True
 instacart,*.instacart.tools,True
+instacart,admin.instacart.com,True
 instacart,api.instacart.com,True
 instacart,www.instacart.com,True
 instacart,*.instacart.com,True
@@ -6211,10 +6211,10 @@ stripe,api.taxjar.com,True
 stripe,*.reckoproduction.com,True
 stripe,*.link.co,True
 stripe,*.reckostaging.com,True
-stripe,*.touchtechpayments.com,True
 stripe,www.stripe.partners,False
 stripe,*.recko.io,True
 stripe,js.stripe.com,True
+stripe,*.touchtechpayments.com,True
 stripe,api.stripe.com,True
 stripe,*.stripe.com,True
 stripe,app.taxjar.com,True
@@ -6647,8 +6647,8 @@ chime,wp-dev5.chime.com,True
 chime,wp-integ.chime.com,True
 chime,app.chime.com,True
 chime,wp-qa.chime.com,True
-chime,*.chime.com,True
 chime,*.chimebank.com,True
+chime,*.chime.com,True
 chime,*.1debit.com,True
 chime,*.chimebank.com,True
 chime,*.chimecard.com,True
@@ -7267,12 +7267,12 @@ exodus,*.exodus.com,True
 exodus,*.exodus.io,True
 exodus,*.a.exodus.io,True
 exodus,*.exodus.com,True
+yoti,www.yotisign.com,True
 yoti,core.yoti.com,True
+yoti,api.yoti.com,True
 yoti,hub.yoti.com,True
 yoti,code.yoti.com,True
-yoti,api.yoti.com,True
 yoti,ccloud.yoti.com,True
-yoti,www.yotisign.com,True
 yoti,identity.yoti.com,True
 yoti,core.yoti.com,True
 yoti,api.yoti.com,True
@@ -8016,13 +8016,13 @@ alibaba,*.tmall.com,True
 alibaba,*.1688.com,True
 alibaba,*.alimama.com,True
 alibaba,*.aliyun-inc.com,True
-alibaba,*.Daraz.com,True
 alibaba,*.taobao.com,True
 alibaba,*.alibaba.com,True
 alibaba,*.aliexpress.com,True
 alibaba,www.alibabagroup.com,True
 alibaba,*.alibabacloud.com,True
 alibaba,*.aliyun.com,True
+alibaba,*.Daraz.com,True
 alibaba,*.alibaba.com,True
 alibaba,*.aliexpress.com,True
 alibaba,*.taobao.com,True
@@ -8385,9 +8385,9 @@ kubernetes,kubernetes-csi.github.io,True
 8x8,*.contactnow.8x8.com,False
 8x8,get8x8.com,False
 8x8,*.mycontactual.com,False
-8x8,*.8x8.vc,False
 8x8,*.jitsi.org,False
 8x8,*.jit.si,False
+8x8,*.8x8.vc,False
 8x8,*.8x8.id,False
 8x8,*.8x8.uk,False
 8x8,*.fuze.com,False
@@ -9434,11 +9434,11 @@ fanduel,promos.tvg.com,True
 fanduel,service.tvg.com,True
 fanduel,fanduel.design,True
 fanduel,ia.tvg.com,True
-fanduel,login.tvg.com,True
 fanduel,mobile-prod.tvg.com,True
+fanduel,login.tvg.com,True
 fanduel,*racing.fanduel.com,True
-fanduel,www.4njbets.com,True
 fanduel,us.tvg.com,True
+fanduel,www.4njbets.com,True
 fanduel,tvg.com,True
 fanduel,sportsbook.fanduel.com,True
 fanduel,fdbox.net,True
@@ -9500,8 +9500,8 @@ paypal,*.hyperwallet.com,True
 paypal,*.braintree-api.com,True
 paypal,paypalobjects.com,True
 paypal,*.xoom.com,True
-paypal,www.loanbuilder.com,True
 paypal,*.paypal.com,True
+paypal,www.loanbuilder.com,True
 paypal,www.paypal-*.com,True
 paypal,*.xoom.com,True
 paypal,*.paypal.com,True
@@ -9766,8 +9766,8 @@ toyota,www.trdusa.com,False
 toyota,www.toyotacertificados.com,False
 toyota,www.toyotacertified.com,False
 toyota,www.login.gac.toyota.com,False
-toyota,www.toyotafinancial.com,False
 toyota,www.lexusfinancial.com,False
+toyota,www.toyotafinancial.com,False
 toyota,www.global.toyota,False
 toyota,www.lexus.com,False
 toyota,www.dashboard.gatekeepers.co.in,False
@@ -9956,9 +9956,9 @@ bumble,ccardsus1.badoo.com,True
 bumble,chatdate.app,True
 bumble,bma.bumble.com,True
 bumble,getofficial.co,True
+bumble,www.bumble.com,True
 bumble,eu1.badoo.com,True
 bumble,badoo.com,True
-bumble,www.bumble.com,True
 bumble,www.bumble.com,True
 bumble,bma.bumble.com,True
 bumble,badoo.com,True
@@ -10411,6 +10411,8 @@ snapchat,relay.playcanvas.com,True
 snapchat,rt.playcanvas.com,True
 snapchat,store.playcanvas.com,True
 snapchat,playcanv.as,True
+snapchat,accounts.snapchat.com,True
+snapchat,businesshelp.snapchat.com,True
 snapchat,login.playcanvas.com,True
 snapchat,geofilters.snapchat.com,True
 snapchat,playcanvas.com,True
@@ -10420,8 +10422,6 @@ snapchat,www.bitmoji.com,True
 snapchat,ads.snapchat.com,True
 snapchat,web.snapchat.com,True
 snapchat,*.sc-corp.net,True
-snapchat,businesshelp.snapchat.com,True
-snapchat,accounts.snapchat.com,True
 snapchat,accounts.snapchat.com,True
 snapchat,app.snapchat.com,True
 snapchat,*.sc-core.net,True
@@ -10626,15 +10626,15 @@ airbnb,*.byairbnb.com,True
 airbnb,*.airbnb-aws.com,True
 airbnb,*.luxuryretreats.com,True
 airbnb,*.airbnbcitizen.com,True
+airbnb,*.airbnb.com,True
+airbnb,support-api.airbnb.com,True
 airbnb,*.withairbnb.com,True
 airbnb,api.airbnb.com,True
 airbnb,*.hoteltonight-test.com,True
 airbnb,next.airbnb.com,True
 airbnb,*.muscache.com,True
 airbnb,www.airbnb.com,True
-airbnb,*.airbnb.com,True
 airbnb,www.hoteltonight.com,True
-airbnb,support-api.airbnb.com,True
 airbnb,www.airbnb.com,True
 airbnb,next.airbnb.com,True
 airbnb,api.airbnb.com,True
@@ -10723,8 +10723,8 @@ x,api.x.ai,True
 x,ide.x.ai,True
 x,grok.x.ai,True
 x,*.twimg.com,True
-x,*.twitter.com,True
 x,x.com,True
+x,*.twitter.com,True
 x,*.twitter.com,True
 x,*.vine.co,True
 x,*.twimg.com,True
@@ -10804,10 +10804,10 @@ irccloud,team-irc.irccloud.com,True
 irccloud,blog.irccloud.com,True
 coinbase,*.cbhq.net,True
 coinbase,api.custody.coinbase.com,True
-coinbase,api.coinbase.com,True
 coinbase,pro.coinbase.com,True
 coinbase,custody.coinbase.com,True
 coinbase,prime.coinbase.com,True
+coinbase,api.coinbase.com,True
 coinbase,international.coinbase.com,True
 coinbase,coinbase.com,True
 coinbase,*.base.org,True
@@ -10841,8 +10841,8 @@ slack,www.quip.com,True
 slack,slack-imgs.com,True
 slack,*.quip.com,True
 slack,slack.com,True
-slack,app.slack.com,True
 slack,api.slack.com,True
+slack,app.slack.com,True
 slack,slack.com,True
 slack,api.slack.com,True
 slack,status.slack.com,True
@@ -10883,8 +10883,8 @@ security,hackerone-user-content.com,True
 security,cover-photos.hackerone-user-content.com,True
 security,api.hackerone.com,True
 security,hackathon-photos.hackerone-user-content.com,True
-security,www.hackerone.com,True
 security,hackerone.com,True
+security,www.hackerone.com,True
 security,hackerone.com,True
 security,api.hackerone.com,True
 security,www.hackerone.com,True
@@ -11380,8 +11380,8 @@ newrelic,*.eu.newrelic.com,True
 newrelic,login.newrelic.com,True
 newrelic,developer.newrelic.com,True
 newrelic,synthetics.newrelic.com,True
-newrelic,rpm.newrelic.com,True
 newrelic,insights.newrelic.com,True
+newrelic,rpm.newrelic.com,True
 newrelic,one.newrelic.com,True
 newrelic,*.newrelic.com,True
 newrelic,*.infrastructure.newrelic.com,True
