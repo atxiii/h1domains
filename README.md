@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Mar 25 19:16:29 UTC 2024)
+## Domains with Bounties (Last Updated Mon Mar 25 20:17:02 UTC 2024)
 ```
 www.dyson.ch
 www.dyson.se
@@ -306,10 +306,10 @@ webonboarding-eu.truecaller.com
 cards.remitly.io
 app.rewire.to
 rates.rewire.com
-api.remitly.io
 rewire.com
-remitly.com
 app3.rewire.to
+remitly.com
+api.remitly.io
 remitly.com
 api.remitly.io
 cards.remitly.io
@@ -391,8 +391,8 @@ sso-sprint.dynatracelabs.com
 university-staging.dynatracelabs.com
 myaccount-hardening.dynatracelabs.com
 demo.dynamic.xyz
-app.dynamic-preprod.xyz
 app.dynamic.xyz
+app.dynamic-preprod.xyz
 app.dynamic-preprod.xyz
 demo.dynamic.xyz
 app.dynamic.xyz
@@ -425,8 +425,8 @@ auth.23andme.com
 mediacenter.23andme.com
 research.23andme.com
 blog.23andme.com
-you.23andme.com
 medical.23andme.com
+you.23andme.com
 api.23andme.com
 auth.23andme.com
 blog.23andme.com
@@ -568,8 +568,8 @@ cdn.moderntreasury.com
 app.moderntreasury.com
 app.moderntreasury.com
 cdn.moderntreasury.com
-test.nicehash.com
 test.nicex.com
+test.nicehash.com
 test.nicehash.com
 https://test.nicehash.com/shop/
 https://test.nicex.com
@@ -814,19 +814,19 @@ api.tideplatform.in
 *.tide.co
 *.tide.co
 api.tideplatform.in
-firefox.settings.services.mozilla.com
-push.services.mozilla.com
-phabricator.allizom.org
 crash-stats.allizom.org
+phabricator.allizom.org
 aus5.mozilla.org
 shavar.services.mozilla.com
-sync.services.mozilla.com
+firefox.settings.services.mozilla.com
+push.services.mozilla.com
 lando.services.mozilla.com
+sync.services.mozilla.com
 hg.mozilla.org
 mozilla-pontoon-staging.herokuapp.com
 merino.services.mozilla.com
-contile.services.mozilla.com
 crash-reports.allizom.org
+contile.services.mozilla.com
 addons.allizom.org
 bugzilla.mozilla.org
 firefox-ci-tc.services.mozilla.com
@@ -855,8 +855,8 @@ vpn.mozilla.org
 profiler.firefox.com
 support.mozilla.org
 hg.mozilla.org
-relay.firefox.com
 developer.mozilla.org
+relay.firefox.com
 www.mozilla.org
 monitor.mozilla.org
 developer.mozilla.org
@@ -926,12 +926,12 @@ ingest.clairvoyance.indrive.tech
 injob.indriver.com
 new-order.eu-east-1.indriverapp.com
 auth.indrive.tech
-ci.indrive.dev
-*.indriver.com
 truck-api.eu-east-1.indriverapp.com
+*.indriver.com
+ci.indrive.dev
 cargo.indrive.com
-watchdocs.indriverapp.com
 profile-api.eu-east-1.indriverapp.com
+watchdocs.indriverapp.com
 *.indrive.com
 *.indriverapp.com
 *.indriverapp.com
@@ -1060,6 +1060,7 @@ connect.8x8.com
 admin.8x8.com
 cloud8.8x8.com
 *.wavecell.com
+sso.8x8.com
 *.8x8.vc
 *.jit.si
 *.jitsi.net
@@ -1112,8 +1113,8 @@ admin.8x8.com
 *.superbet.pl
 moonpay.com
 hypermint.com
-*.moonpaycloud.com
 *.hypermint.com
+*.moonpaycloud.com
 *.moonpay.com
 *.moonpaycloud.com
 *.hypermint.com
@@ -1795,11 +1796,11 @@ www.reddit.com
 *.reddit.com
 ads.reddit.com
 matrix.redditspace.com
-*.redditmedia.com
-*.redditinc.com
-gql.reddit.com
 *.reddithelp.com
 api.reddit.com
+gql.reddit.com
+*.redditmedia.com
+*.redditinc.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1895,8 +1896,8 @@ fetlife.com
 fetlife.com
 api.bitso.com
 nvio.ar
-nvio.mx
 bitso.com
+nvio.mx
 bitso.com
 api.bitso.com
 http://bitso.com/alpha
@@ -1935,12 +1936,12 @@ hackers_chosendomain.larksuite.com
 *.a.exodus.io
 *.exodus.com
 core.yoti.com
-hub.yoti.com
 code.yoti.com
 ccloud.yoti.com
 identity.yoti.com
 www.yotisign.com
 api.yoti.com
+hub.yoti.com
 core.yoti.com
 api.yoti.com
 ccloud.yoti.com
@@ -1958,8 +1959,8 @@ internal-docs.netlify.com
 internal.netlify.com
 *.ops.netlify.com
 *.infra-prod.nsvcs.net
-netlify-rum.netlify.app
 *.services.netlify.com
+netlify-rum.netlify.app
 api.netlify.com
 app.netlify.com
 *.services.netlify.com
@@ -2051,12 +2052,12 @@ academy-outbound-ads.tiktok.com
 creatormarketplace.tiktok.com
 developers.tiktok.com
 fp-sg.tiktokv.com
-tiktok.com
 *.tiktokv.com
 partner.tiktokshop.com
-*.tiktok.com
 effecthouse.tiktok.com
+tiktok.com
 ads.tiktok.com
+*.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2527,8 +2528,8 @@ updates.amazon.com
 www.alibabagroup.com
 *.alibabacloud.com
 *.alibaba.com
-*.aliexpress.com
 *.aliyun.com
+*.aliexpress.com
 *.alibaba.com
 *.aliexpress.com
 *.taobao.com
@@ -2622,10 +2623,10 @@ mipartnerprivileges.marriott.com
 travelagents.marriott.com/
 activities.marriott.com
 homes-and-villas.marriott.com
-all-inclusive.marriott.com
 traveler.marriott.com
 careers.marriott.com
 www.marriott.com
+all-inclusive.marriott.com
 homes-and-villas.marriott.com
 careers.marriott.com
 sso.marriott.com
@@ -3631,8 +3632,8 @@ gist.github.com
 *.githubusercontent.com
 api.github.com
 npmjs.com
-github.com
 classroom.github.com
+github.com
 github.com
 api.github.com
 gist.github.com
@@ -3782,10 +3783,10 @@ shopify.plus
 arrive-server.shopifycloud.com
 shop.app
 your-store.myshopify.com
-shopifyinbox.com
-partners.shopify.com
 admin.shopify.com
 *.shopify.com
+shopifyinbox.com
+partners.shopify.com
 accounts.shopify.com
 *.shopifycs.com
 *.shopify.io
@@ -3903,15 +3904,15 @@ callbacks.airbnb.com
 *.byairbnb.com
 *.airbnb-aws.com
 *.luxuryretreats.com
-support-api.airbnb.com
 *.airbnbcitizen.com
+support-api.airbnb.com
 *.withairbnb.com
 *.hoteltonight-test.com
 next.airbnb.com
 *.muscache.com
 www.hoteltonight.com
-www.airbnb.com
 *.airbnb.com
+www.airbnb.com
 api.airbnb.com
 www.airbnb.com
 next.airbnb.com
@@ -3995,8 +3996,8 @@ api.x.ai
 ide.x.ai
 grok.x.ai
 *.twimg.com
-*.twitter.com
 x.com
+*.twitter.com
 *.twitter.com
 *.vine.co
 *.twimg.com
@@ -4072,10 +4073,10 @@ team-irc.irccloud.com
 blog.irccloud.com
 *.cbhq.net
 api.custody.coinbase.com
-api.coinbase.com
 pro.coinbase.com
 custody.coinbase.com
 prime.coinbase.com
+api.coinbase.com
 international.coinbase.com
 coinbase.com
 *.base.org
@@ -4151,8 +4152,8 @@ hackerone-user-content.com
 cover-photos.hackerone-user-content.com
 hackathon-photos.hackerone-user-content.com
 api.hackerone.com
-www.hackerone.com
 hackerone.com
+www.hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
@@ -4414,9 +4415,9 @@ alerts.eu.newrelic.com
 *.eu.newrelic.com
 login.newrelic.com
 developer.newrelic.com
-rpm.newrelic.com
 synthetics.newrelic.com
 insights.newrelic.com
+rpm.newrelic.com
 one.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
