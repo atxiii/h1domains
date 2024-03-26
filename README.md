@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Mar 26 00:43:58 UTC 2024)
+## Domains with Bounties (Last Updated Tue Mar 26 01:47:23 UTC 2024)
 ```
 www.dyson.ch
 www.dyson.se
@@ -25,7 +25,6 @@ api.dyson.de
 api.dyson.ch
 api.dyson.fr
 api.dyson.ie
-www.dyson.com.sg
 www.sa.dyson.com
 shop.dyson.ru
 *.dyson.com
@@ -305,11 +304,11 @@ webdirectory-eu.truecaller.com
 webonboarding-eu.truecaller.com
 cards.remitly.io
 app.rewire.to
-rewire.com
 app3.rewire.to
+rates.rewire.com
 api.remitly.io
 remitly.com
-rates.rewire.com
+rewire.com
 remitly.com
 api.remitly.io
 cards.remitly.io
@@ -323,9 +322,9 @@ bioid-management.app
 *.worldcoin.dev
 *.worldcoin-distributors.com
 *.consumer.worldcoin.org
-getworldcoin.com
 *.worldcoin.org
 worldcoin.org
+getworldcoin.com
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -391,8 +390,8 @@ sso-sprint.dynatracelabs.com
 university-staging.dynatracelabs.com
 myaccount-hardening.dynatracelabs.com
 demo.dynamic.xyz
-app.dynamic.xyz
 app.dynamic-preprod.xyz
+app.dynamic.xyz
 app.dynamic-preprod.xyz
 demo.dynamic.xyz
 app.dynamic.xyz
@@ -450,9 +449,9 @@ www.mercadopago.cl
 www.mercadolivre.com.br
 www.mercadolibre.com.ar
 www.mercadolibre.com.mx
-www.mercadopago.com.ar
 api.mercadolibre.com
 api.mercadopago.com
+www.mercadopago.com.ar
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -500,9 +499,9 @@ paymentcomponent.booking.com
 booking.com
 careers.booking.com
 www.fareharbor.com
-admin.booking.com
 *.rentalcars.com
 *.booking.com
+admin.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -814,23 +813,23 @@ api.tideplatform.in
 *.tide.co
 *.tide.co
 api.tideplatform.in
-firefox.settings.services.mozilla.com
-push.services.mozilla.com
-phabricator.allizom.org
 crash-stats.allizom.org
+phabricator.allizom.org
 aus5.mozilla.org
 shavar.services.mozilla.com
-sync.services.mozilla.com
+firefox.settings.services.mozilla.com
+push.services.mozilla.com
 lando.services.mozilla.com
+sync.services.mozilla.com
 hg.mozilla.org
 mozilla-pontoon-staging.herokuapp.com
 merino.services.mozilla.com
-contile.services.mozilla.com
 crash-reports.allizom.org
+contile.services.mozilla.com
 addons.allizom.org
 bugzilla.mozilla.org
-firefox-ci-tc.services.mozilla.com
 accounts.firefox.com
+firefox-ci-tc.services.mozilla.com
 addons.allizom.org
 accounts.firefox.com
 bugzilla.mozilla.org
@@ -848,11 +847,11 @@ firefox-ci-tc.services.mozilla.com
 mozilla-pontoon-staging.herokuapp.com
 shavar.services.mozilla.com
 phabricator.allizom.org
-community-tc.services.mozilla.com
 stage.taskcluster.nonprod.cloudops.mozgcp.net
+community-tc.services.mozilla.com
+profiler.firefox.com
 api.profiler.firefox.com
 vpn.mozilla.org
-profiler.firefox.com
 support.mozilla.org
 hg.mozilla.org
 relay.firefox.com
@@ -887,8 +886,8 @@ hiltonlocalbiz.com
 *.hiltonbusinessonline.com
 hiltonhotels.jp
 *.hilton.io
-hilton.com
 hilton.io
+hilton.com
 *.hilton.com
 *.hilton.com
 *.hilton.io
@@ -1010,8 +1009,8 @@ www.sokos.fi
 api.sokos.fi
 cfapi.voikukka.fi
 digili.s-cloud.fi
-mobile.s-pankki.fi
 www.prisma.fi
+mobile.s-pankki.fi
 online.s-pankki.fi
 www.s-pankki.fi
 online.s-pankki.fi
@@ -1168,8 +1167,8 @@ www.expediagroup.com
 *.expediapartnercentral.com
 www.expediapartnersolutions.com
 *.travelocity.ca
-*.travelocity.com
 www.fewo-direkt.de
+*.travelocity.com
 www.flights.com
 *.vrbo.com
 *.wotif.com
@@ -1800,8 +1799,8 @@ matrix.redditspace.com
 gql.reddit.com
 *.redditmedia.com
 *.redditinc.com
-api.reddit.com
 *.reddithelp.com
+api.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1862,8 +1861,8 @@ wp-dev5.chime.com
 wp-integ.chime.com
 app.chime.com
 wp-qa.chime.com
-*.chime.com
 *.chimebank.com
+*.chime.com
 *.1debit.com
 *.chimebank.com
 *.chimecard.com
@@ -1940,9 +1939,9 @@ core.yoti.com
 code.yoti.com
 ccloud.yoti.com
 identity.yoti.com
+api.yoti.com
 hub.yoti.com
 www.yotisign.com
-api.yoti.com
 core.yoti.com
 api.yoti.com
 ccloud.yoti.com
@@ -2051,14 +2050,14 @@ www.pangleglobal.com
 business.tiktok.com
 academy-outbound-ads.tiktok.com
 developers.tiktok.com
-partner.tiktokshop.com
 effecthouse.tiktok.com
+*.tiktok.com
+*.tiktokv.com
+creatormarketplace.tiktok.com
+partner.tiktokshop.com
+tiktok.com
 fp-sg.tiktokv.com
 ads.tiktok.com
-*.tiktokv.com
-*.tiktok.com
-tiktok.com
-creatormarketplace.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2529,8 +2528,8 @@ updates.amazon.com
 www.alibabagroup.com
 *.alibabacloud.com
 *.aliyun.com
-*.alibaba.com
 *.aliexpress.com
+*.alibaba.com
 *.alibaba.com
 *.aliexpress.com
 *.taobao.com
@@ -2626,8 +2625,8 @@ activities.marriott.com
 homes-and-villas.marriott.com
 traveler.marriott.com
 careers.marriott.com
-all-inclusive.marriott.com
 www.marriott.com
+all-inclusive.marriott.com
 homes-and-villas.marriott.com
 careers.marriott.com
 sso.marriott.com
@@ -3002,16 +3001,16 @@ promos.tvg.com
 service.tvg.com
 fanduel.design
 ia.tvg.com
-www.4njbets.com
-login.tvg.com
 mobile-prod.tvg.com
+login.tvg.com
 *racing.fanduel.com
+www.4njbets.com
 tvg.com
 sportsbook.fanduel.com
 fdbox.net
 www.tvg.com
-us.tvg.com
 *.fanduel.com
+us.tvg.com
 *.fanduel.com
 *racing.fanduel.com
 fdbox.net
@@ -3251,10 +3250,10 @@ tax.crypto.com
 auth.crypto.com
 js.crypto.com
 app.mona.co
-www.crypto.com
 pay.crypto.com
-merchant.crypto.com
 *.crypto.com
+merchant.crypto.com
+www.crypto.com
 *.crypto.com
 *.mona.co
 www.crypto.com
@@ -3365,8 +3364,8 @@ privatetarget-1-www.zigzag
 *.scatec.io
 *.sellzone.com
 *.myinsights.io
-*.semrush.com
 *.semrush.net
+*.semrush.com
 *.semrush.com
 *.semrush.net
 *.seoquake.com
@@ -3426,8 +3425,8 @@ ccardsus1.badoo.com
 chatdate.app
 bma.bumble.com
 getofficial.co
-www.bumble.com
 eu1.badoo.com
+www.bumble.com
 badoo.com
 www.bumble.com
 bma.bumble.com
@@ -3632,9 +3631,9 @@ npmjs.org
 gist.github.com
 *.githubusercontent.com
 npmjs.com
-api.github.com
-github.com
 classroom.github.com
+github.com
+api.github.com
 github.com
 api.github.com
 gist.github.com
@@ -3785,10 +3784,10 @@ arrive-server.shopifycloud.com
 shop.app
 your-store.myshopify.com
 partners.shopify.com
-shopifyinbox.com
 accounts.shopify.com
 admin.shopify.com
 *.shopify.com
+shopifyinbox.com
 *.shopifycs.com
 *.shopify.io
 *.shopify.com
@@ -3832,8 +3831,8 @@ app.snapchat.com
 www.bitmoji.com
 ads.snapchat.com
 *.sc-corp.net
-web.snapchat.com
 accounts.snapchat.com
+web.snapchat.com
 business.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
@@ -3997,8 +3996,8 @@ api.x.ai
 ide.x.ai
 grok.x.ai
 *.twimg.com
-*.twitter.com
 x.com
+*.twitter.com
 *.twitter.com
 *.vine.co
 *.twimg.com
@@ -4084,8 +4083,8 @@ coinbase.com
 nft.coinbase.com
 cloud.coinbase.com
 institutional.coinbase.com
-*.coinbase.com
 commerce.coinbase.com
+*.coinbase.com
 *.coinbase.com
 *.cbhq.net
 pro.coinbase.com
@@ -4416,8 +4415,8 @@ alerts.eu.newrelic.com
 *.eu.newrelic.com
 login.newrelic.com
 developer.newrelic.com
-synthetics.newrelic.com
 rpm.newrelic.com
+synthetics.newrelic.com
 insights.newrelic.com
 one.newrelic.com
 *.newrelic.com
