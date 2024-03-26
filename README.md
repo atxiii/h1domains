@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Mar 26 09:18:06 UTC 2024)
+## Domains with Bounties (Last Updated Tue Mar 26 10:17:15 UTC 2024)
 ```
 www.dyson.ch
 www.dyson.se
@@ -304,11 +304,11 @@ webdirectory-eu.truecaller.com
 webonboarding-eu.truecaller.com
 cards.remitly.io
 app.rewire.to
-rewire.com
 app3.rewire.to
+rewire.com
 remitly.com
-rates.rewire.com
 api.remitly.io
+rates.rewire.com
 remitly.com
 api.remitly.io
 cards.remitly.io
@@ -321,8 +321,8 @@ toolsforhumanity.com
 bioid-management.app
 *.worldcoin-distributors.com
 *.consumer.worldcoin.org
-getworldcoin.com
 worldcoin.org
+getworldcoin.com
 *.worldcoin.dev
 *.worldcoin.org
 *.worldcoin.org
@@ -403,8 +403,8 @@ www.niagahoster.co.id
 hpanel.hostinger.com
 *.000webhost.com
 backend.zyro.com
-www.hostinger.com
 cpanel.hostinger.com
+www.hostinger.com
 *.000webhost.com
 www.hostinger.com
 cpanel.hostinger.com
@@ -424,8 +424,8 @@ auth.23andme.com
 mediacenter.23andme.com
 research.23andme.com
 blog.23andme.com
-medical.23andme.com
 you.23andme.com
+medical.23andme.com
 api.23andme.com
 auth.23andme.com
 blog.23andme.com
@@ -444,14 +444,14 @@ www.mercadolibre.com.pe
 www.mercadolibre.com.uy
 www.mercadolibre.com.co
 www.mercadolibre.cl
-www.mercadopago.cl
 www.mercadopago.com.br
+www.mercadopago.cl
 www.mercadolivre.com.br
 www.mercadolibre.com.ar
 www.mercadolibre.com.mx
-www.mercadopago.com.ar
 api.mercadolibre.com
 api.mercadopago.com
+www.mercadopago.com.ar
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -499,9 +499,9 @@ paymentcomponent.booking.com
 booking.com
 careers.booking.com
 www.fareharbor.com
+*.booking.com
 *.rentalcars.com
 admin.booking.com
-*.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -815,7 +815,6 @@ api.tideplatform.in
 api.tideplatform.in
 phabricator.allizom.org
 crash-stats.allizom.org
-aus5.mozilla.org
 shavar.services.mozilla.com
 push.services.mozilla.com
 lando.services.mozilla.com
@@ -827,9 +826,10 @@ contile.services.mozilla.com
 crash-reports.allizom.org
 bugzilla.mozilla.org
 firefox-ci-tc.services.mozilla.com
-accounts.firefox.com
 firefox.settings.services.mozilla.com
 addons.allizom.org
+accounts.firefox.com
+aus5.mozilla.org
 addons.allizom.org
 accounts.firefox.com
 bugzilla.mozilla.org
@@ -922,7 +922,6 @@ aws.indrive.tech
 debug.clairvoyance.indrive.tech
 ingest.clairvoyance.indrive.tech
 injob.indriver.com
-new-order.eu-east-1.indriverapp.com
 auth.indrive.tech
 truck-api.eu-east-1.indriverapp.com
 *.indriver.com
@@ -933,6 +932,7 @@ super-services.indriverapp.com
 ci.indrive.dev
 *.indriverapp.com
 *.indrive.com
+new-order.eu-east-1.indriverapp.com
 *.indriverapp.com
 *.indrive.com
 *.indriver.com
@@ -1167,8 +1167,8 @@ www.expediagroup.com
 *.expediapartnercentral.com
 www.expediapartnersolutions.com
 *.travelocity.ca
-www.fewo-direkt.de
 *.travelocity.com
+www.fewo-direkt.de
 www.flights.com
 *.vrbo.com
 *.wotif.com
@@ -1307,8 +1307,8 @@ portfolio.metamask.io
 checkout.razorpay.com
 payroll.razorpay.com
 invoices.razorpay.com
-x.razorpay.com
 api.razorpay.com
+x.razorpay.com
 dashboard.razorpay.com
 dashboard.razorpay.com
 api.razorpay.com
@@ -1448,11 +1448,11 @@ rankings.etoro.com
 delta.app
 bullsheet.me
 shoppers.instacart.com
-*.instacart.tools
 admin.instacart.com
 api.instacart.com
 www.instacart.com
 *.instacart.com
+*.instacart.tools
 *.instacart.com
 *.instacart.tools
 api.instacart.com
@@ -1959,8 +1959,8 @@ internal-docs.netlify.com
 internal.netlify.com
 *.ops.netlify.com
 *.infra-prod.nsvcs.net
-netlify-rum.netlify.app
 *.services.netlify.com
+netlify-rum.netlify.app
 api.netlify.com
 app.netlify.com
 *.services.netlify.com
@@ -2051,12 +2051,12 @@ academy-outbound-ads.tiktok.com
 developers.tiktok.com
 partner.tiktokshop.com
 effecthouse.tiktok.com
-tiktok.com
 *.tiktokv.com
-fp-sg.tiktokv.com
-live-backstage.tiktok.com
+tiktok.com
 creatormarketplace.tiktok.com
 ads.tiktok.com
+fp-sg.tiktokv.com
+live-backstage.tiktok.com
 *.tiktok.com
 *.tiktok.com
 business.tiktok.com
@@ -2314,6 +2314,7 @@ watchgod.polygon.technology
 open-api.polygon.technology
 faucet.polygon.technology
 portal.polygon.technology
+https://agglayer-test.polygon.technology
 *.betfair.es
 *.betfair.ro
 *.betfair.se
@@ -2528,8 +2529,8 @@ updates.amazon.com
 www.alibabagroup.com
 *.alibaba.com
 *.alibabacloud.com
-*.aliyun.com
 *.aliexpress.com
+*.aliyun.com
 *.alibaba.com
 *.aliexpress.com
 *.taobao.com
@@ -2727,8 +2728,8 @@ novel.pixiv.net
 coban.pixiv.net
 booth.pm
 accounts.pixiv.net
-sketch.pixiv.net
 www.pixiv.net
+sketch.pixiv.net
 *.fanbox.cc
 booth.pm
 comic.pixiv.net
@@ -2832,8 +2833,8 @@ press.priceline.com
 www.bookingholdings.com
 developers.smartsheet.com
 app.smartsheet.com
-admin.smartsheet.com
 www.smartsheet.com
+admin.smartsheet.com
 app.smartsheet.com
 http://api.smartsheet.com/2.0
 admin.smartsheet.com
@@ -3245,9 +3246,9 @@ www.counter-strike.net
 playartifact.com
 help.steampowered.com
 developer.valvesoftware.com
+auth.crypto.com
 *.mona.co
 tax.crypto.com
-auth.crypto.com
 app.mona.co
 pay.crypto.com
 merchant.crypto.com
@@ -3364,8 +3365,8 @@ privatetarget-1-www.zigzag
 *.scatec.io
 *.sellzone.com
 *.myinsights.io
-*.semrush.com
 *.semrush.net
+*.semrush.com
 *.semrush.com
 *.semrush.net
 *.seoquake.com
@@ -3700,7 +3701,6 @@ www.algolia.com
 secure-dfadmin.deriv.com
 derivws.com
 *.derivws.com
-smarttrader.deriv.com
 *.binary.com
 api.deriv.com
 *.deriv.cloud
@@ -3708,6 +3708,7 @@ cashier.deriv.com
 app.deriv.com
 oauth.deriv.com
 *.deriv.com
+smarttrader.deriv.com
 *.deriv.com
 *.deriv.cloud
 *.derivws.com
@@ -3770,8 +3771,8 @@ zopim.com
 app.futuresimple.com
 api.getbase.com
 http://h1-your-domain.zendesk.com/sell
-www.udemy.com
 yourcompany.udemy.com
+www.udemy.com
 www.udemy.com
 yourcompany.udemy.com
 *.shopifykloud.com
@@ -3784,8 +3785,8 @@ arrive-server.shopifycloud.com
 shop.app
 your-store.myshopify.com
 partners.shopify.com
-accounts.shopify.com
 shopifyinbox.com
+accounts.shopify.com
 admin.shopify.com
 *.shopify.com
 *.shopifycs.com
@@ -3830,9 +3831,9 @@ app.snapchat.com
 www.bitmoji.com
 ads.snapchat.com
 *.sc-corp.net
+accounts.snapchat.com
 web.snapchat.com
 business.snapchat.com
-accounts.snapchat.com
 kit.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
@@ -3910,9 +3911,9 @@ support-api.airbnb.com
 *.hoteltonight-test.com
 next.airbnb.com
 *.muscache.com
-*.airbnb.com
 www.airbnb.com
 api.airbnb.com
+*.airbnb.com
 www.hoteltonight.com
 www.airbnb.com
 next.airbnb.com
@@ -4416,8 +4417,8 @@ alerts.eu.newrelic.com
 login.newrelic.com
 developer.newrelic.com
 synthetics.newrelic.com
-insights.newrelic.com
 rpm.newrelic.com
+insights.newrelic.com
 one.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
