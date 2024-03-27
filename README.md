@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Mar 27 00:44:43 UTC 2024)
+## Domains with Bounties (Last Updated Wed Mar 27 01:46:51 UTC 2024)
 ```
 www.dyson.ch
 www.dyson.se
@@ -493,13 +493,13 @@ secure.booking.com
 spark.fareharbor.com
 widget.rentalcars.com
 teleport.fareharbor.engineering
-paymentcomponent.booking.com
-booking.com
-careers.booking.com
 www.fareharbor.com
+paymentcomponent.booking.com
+careers.booking.com
+booking.com
 admin.booking.com
-*.rentalcars.com
 flights.booking.com
+*.rentalcars.com
 account.booking.com
 *.booking.com
 *.booking.com
@@ -813,17 +813,17 @@ api.tideplatform.in
 *.tide.co
 *.tide.co
 api.tideplatform.in
-shavar.services.mozilla.com
-push.services.mozilla.com
 crash-stats.allizom.org
 phabricator.allizom.org
+shavar.services.mozilla.com
+push.services.mozilla.com
 lando.services.mozilla.com
 sync.services.mozilla.com
 hg.mozilla.org
 mozilla-pontoon-staging.herokuapp.com
 merino.services.mozilla.com
-contile.services.mozilla.com
 crash-reports.allizom.org
+contile.services.mozilla.com
 firefox-ci-tc.services.mozilla.com
 firefox.settings.services.mozilla.com
 addons.allizom.org
@@ -854,8 +854,8 @@ vpn.mozilla.org
 profiler.firefox.com
 support.mozilla.org
 hg.mozilla.org
-developer.mozilla.org
 relay.firefox.com
+developer.mozilla.org
 www.mozilla.org
 monitor.mozilla.org
 developer.mozilla.org
@@ -929,10 +929,10 @@ watchdocs.indriverapp.com
 profile-api.eu-east-1.indriverapp.com
 super-services.indriverapp.com
 ci.indrive.dev
-*.indriverapp.com
 wga.volans.tech
 *.indriver.com
 *.indrive.com
+*.indriverapp.com
 *.indriverapp.com
 *.indrive.com
 *.indriver.com
@@ -1009,8 +1009,8 @@ www.sokos.fi
 api.sokos.fi
 cfapi.voikukka.fi
 digili.s-cloud.fi
-www.prisma.fi
 mobile.s-pankki.fi
+www.prisma.fi
 online.s-pankki.fi
 www.s-pankki.fi
 online.s-pankki.fi
@@ -1044,7 +1044,6 @@ sms.8x8.com
 user-profile.8x8.com
 voapi.8x8.com
 *.packet8.net
-*.8x8.id
 *.8x8cloud.net
 *.p8t.us
 pay.8x8.com
@@ -1054,12 +1053,13 @@ uc.8x8pilot.com
 sso.8x8pilot.com
 work-staging.8x8.com
 user-profile-staging.8x8.com
-connect.8x8.com
 *.jitsi.net
 admin.8x8.com
 cloud8.8x8.com
 *.wavecell.com
 sso.8x8.com
+platform.8x8pilot.com
+*.chalet.8x8.com
 *.8x8.vc
 *.jit.si
 *.jitsi.net
@@ -1174,8 +1174,8 @@ www.flights.com
 *.carrentals.com
 www.hotels.com
 *.expediacruises.com
-www.expedia.com
 *.expediapartnercentral.com
+www.expedia.com
 *.vrbo.com
 *.hotwire.com
 *.carrentals.com
@@ -1306,8 +1306,8 @@ portfolio.metamask.io
 checkout.razorpay.com
 payroll.razorpay.com
 invoices.razorpay.com
-x.razorpay.com
 api.razorpay.com
+x.razorpay.com
 dashboard.razorpay.com
 dashboard.razorpay.com
 api.razorpay.com
@@ -1347,9 +1347,9 @@ sorare.com
 sorare.com
 api.sorare.com
 ws.sorare.com
-*.romwe.com
 *.sheingsp.com
 *.shein.com
+*.romwe.com
 *.shein.com
 *.romwe.com
 *.sheingsp.com
@@ -1750,9 +1750,9 @@ api.taxjar.com
 *.reckoproduction.com
 *.link.co
 *.reckostaging.com
-*.touchtechpayments.com
 *.recko.io
 js.stripe.com
+*.touchtechpayments.com
 app.taxjar.com
 *.stripe.com
 api.stripe.com
@@ -1788,14 +1788,14 @@ sh.reddit.com
 redditforbusiness.com
 app.spiketrap.io
 www.spiketrap.io
-mod.reddit.com
 old.reddit.com
+mod.reddit.com
 new.reddit.com
 www.reddit.com
 ads.reddit.com
 matrix.redditspace.com
-api.reddit.com
 *.redditmedia.com
+api.reddit.com
 gql.reddit.com
 *.reddit.com
 *.reddithelp.com
@@ -1860,8 +1860,8 @@ wp-dev5.chime.com
 wp-integ.chime.com
 app.chime.com
 wp-qa.chime.com
-*.chimebank.com
 *.chime.com
+*.chimebank.com
 *.1debit.com
 *.chimebank.com
 *.chimecard.com
@@ -1889,8 +1889,8 @@ app.launchdarkly.com
 events.launchdarkly.com
 stream.launchdarkly.com
 docs.launchdarkly.com
-fetlife.com
 *.fetlife.com
+fetlife.com
 *.fetlife.com
 fetlife.com
 api.bitso.com
@@ -2054,9 +2054,9 @@ fp-sg.tiktokv.com
 *.tiktokv.com
 partner.tiktokshop.com
 live-backstage.tiktok.com
-creatormarketplace.tiktok.com
 ads.tiktok.com
 tiktok.com
+creatormarketplace.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2101,8 +2101,8 @@ nft.io
 platform.enjin.io
 nft.io
 platform.enjin.io
-www.figma.com
 api.figma.com
+www.figma.com
 www.figma.com
 api.figma.com
 support.cs.money
@@ -2815,9 +2815,9 @@ api.rezserver.com
 admin.rezserver.com
 reservations.rezserver.com
 cruises.priceline.com
-www.priceline.com
 www.bookingholdings.com
 flyiin.com
+www.getaroom.com
 www.priceline.com
 secure.rezserver.com
 reservations.rezserver.com
@@ -3040,18 +3040,18 @@ https://github.com/matomo-org/docker
 *.paydiant.com
 paypal.me
 py.pl
-*.braintree.tools
-prequal.swiftfinancial.com
-partner.swiftfinancial.com
-decision.swiftfinancial.com
-pigeon.swiftfinancial.com
-scrutiny.swiftfinancial.com
 www.swiftcapital.com
 www.swiftfinancial.com
 api.swiftfinancial.com
 api.loanbuilder.com
 swiftfinancial.com
 swiftcapital.com
+*.braintree.tools
+prequal.swiftfinancial.com
+partner.swiftfinancial.com
+decision.swiftfinancial.com
+pigeon.swiftfinancial.com
+scrutiny.swiftfinancial.com
 *.paylution.com
 my.swiftfinancial.com
 *.venmo.com
@@ -3628,11 +3628,11 @@ moneybirdstorage.com
 education.github.com
 npmjs.org
 *.githubusercontent.com
+gist.github.com
+github.com
 classroom.github.com
 api.github.com
 npmjs.com
-gist.github.com
-github.com
 github.com
 api.github.com
 gist.github.com
@@ -3679,8 +3679,8 @@ api2.grofers.com
 *.zomans.com
 blinkit.com
 *.runnr.in
-*.hyperpure.com
 *.zomato.com
+*.hyperpure.com
 *.zomato.com
 *.zdev.net
 *.zomans.com
@@ -3691,8 +3691,8 @@ api.grofers.com
 api2.grofers.com
 blinkit.com
 *.algolia.net
-www.algolia.com
 *.algolianet.com
+www.algolia.com
 *.algolia.net
 *.algolianet.com
 www.algolia.com
@@ -3781,9 +3781,9 @@ shopify.plus
 *.shopify.io
 arrive-server.shopifycloud.com
 shop.app
-shopifyinbox.com
 admin.shopify.com
 *.shopify.com
+shopifyinbox.com
 accounts.shopify.com
 partners.shopify.com
 your-store.myshopify.com
@@ -3830,9 +3830,9 @@ app.snapchat.com
 www.bitmoji.com
 *.sc-corp.net
 kit.snapchat.com
+accounts.snapchat.com
 ads.snapchat.com
 web.snapchat.com
-accounts.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
@@ -3994,8 +3994,8 @@ api.x.ai
 ide.x.ai
 grok.x.ai
 *.twimg.com
-x.com
 *.twitter.com
+x.com
 *.twitter.com
 *.vine.co
 *.twimg.com
@@ -4079,10 +4079,10 @@ international.coinbase.com
 coinbase.com
 nft.coinbase.com
 cloud.coinbase.com
-commerce.coinbase.com
-institutional.coinbase.com
 *.base.org
+institutional.coinbase.com
 *.coinbase.com
+commerce.coinbase.com
 *.coinbase.com
 *.cbhq.net
 pro.coinbase.com
@@ -4108,8 +4108,8 @@ www.quip.com
 slack-imgs.com
 *.quip.com
 slack.com
-app.slack.com
 api.slack.com
+app.slack.com
 slack.com
 api.slack.com
 status.slack.com
@@ -4367,8 +4367,8 @@ u.magento.com
 imagine.magento.com
 magentolive.com
 account.magento.com
-accounts.magento.cloud
 repo.magento.com
+accounts.magento.cloud
 magento.com
 marketplace.magento.com
 magentocommerce.com
