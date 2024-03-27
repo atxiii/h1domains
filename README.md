@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Mar 27 08:19:42 UTC 2024)
+## Domains with Bounties (Last Updated Wed Mar 27 09:17:28 UTC 2024)
 ```
 www.dyson.ch
 www.dyson.se
@@ -539,8 +539,8 @@ www.fareharbor.com
 teleport.fareharbor.engineering
 *.bybit.com
 *.bybit.com
-api.au.frontegg.com
 portal.au.frontegg.com
+api.au.frontegg.com
 api.au.frontegg.com
 portal.au.frontegg.com
 api2.frontapp.com
@@ -703,13 +703,13 @@ visa.co.za
 www.cybersource.com
 www.yellowpepper.com
 www.fraedom.com
-www.practicalmoneyskills.com
 www.practicalbusinessskills.org
 www.practicalmoneyskills.org
 www.currencycloud.com
 www.visa.com.ph
 www.authorize.net
 www.visa.com.mx
+www.visa.co.id
 aw.visa.com
 bb.visa.com
 bd.visa.com
@@ -813,17 +813,17 @@ api.tideplatform.in
 *.tide.co
 *.tide.co
 api.tideplatform.in
-shavar.services.mozilla.com
-push.services.mozilla.com
 crash-stats.allizom.org
 phabricator.allizom.org
+shavar.services.mozilla.com
+push.services.mozilla.com
 lando.services.mozilla.com
 sync.services.mozilla.com
 hg.mozilla.org
 mozilla-pontoon-staging.herokuapp.com
 merino.services.mozilla.com
-contile.services.mozilla.com
 crash-reports.allizom.org
+contile.services.mozilla.com
 firefox-ci-tc.services.mozilla.com
 firefox.settings.services.mozilla.com
 addons.allizom.org
@@ -847,11 +847,11 @@ firefox-ci-tc.services.mozilla.com
 mozilla-pontoon-staging.herokuapp.com
 shavar.services.mozilla.com
 phabricator.allizom.org
-stage.taskcluster.nonprod.cloudops.mozgcp.net
 community-tc.services.mozilla.com
-profiler.firefox.com
+stage.taskcluster.nonprod.cloudops.mozgcp.net
 api.profiler.firefox.com
 vpn.mozilla.org
+profiler.firefox.com
 support.mozilla.org
 hg.mozilla.org
 relay.firefox.com
@@ -1055,10 +1055,10 @@ work-staging.8x8.com
 user-profile-staging.8x8.com
 *.jitsi.net
 admin.8x8.com
-cloud8.8x8.com
 *.wavecell.com
 platform.8x8pilot.com
 *.chalet.8x8.com
+*.8x8.id
 *.8x8.vc
 *.jit.si
 *.jitsi.net
@@ -1238,8 +1238,8 @@ askpam.ai
 pb.deribit.com
 tools.deribit.com
 metrics.deribit.com
-insights.deribit.com
 test.deribit.com
+insights.deribit.com
 *.deribit.com
 *.deribit.com
 test.deribit.com
@@ -1888,8 +1888,8 @@ app.launchdarkly.com
 events.launchdarkly.com
 stream.launchdarkly.com
 docs.launchdarkly.com
-*.fetlife.com
 fetlife.com
+*.fetlife.com
 *.fetlife.com
 fetlife.com
 api.bitso.com
@@ -1957,8 +1957,8 @@ internal-docs.netlify.com
 internal.netlify.com
 *.ops.netlify.com
 *.infra-prod.nsvcs.net
-netlify-rum.netlify.app
 *.services.netlify.com
+netlify-rum.netlify.app
 api.netlify.com
 app.netlify.com
 *.services.netlify.com
@@ -2054,8 +2054,8 @@ academy-outbound-ads.tiktok.com
 creatormarketplace.tiktok.com
 tiktok.com
 fp-sg.tiktokv.com
-*.tiktok.com
 ads.tiktok.com
+*.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2525,8 +2525,8 @@ www.alibabagroup.com
 *.alibabacloud.com
 *.aliyun.com
 *.tmall.com
-*.taobao.com
 *.Daraz.com
+*.taobao.com
 *.aliexpress.com
 *.alibaba.com
 *.aliexpress.com
@@ -2559,8 +2559,8 @@ api.fortmatic.com
 x2.fortmatic.com
 careers.fortmatic.com
 dashboard.fortmatic.com
-auth.magic.link
 dashboard.magic.link
+auth.magic.link
 api.fortmatic.com
 x2.fortmatic.com
 careers.fortmatic.com
@@ -2684,8 +2684,8 @@ www.datastax.com
 downloads.datastax.com
 docs.datastax.com
 astra.datastax.com
-app.nordpass.com
 *.nordvpn.com
+app.nordpass.com
 *.nordvpn.com
 app.nordpass.com
 *.line-apps.com
@@ -2999,10 +2999,10 @@ promos.tvg.com
 service.tvg.com
 fanduel.design
 ia.tvg.com
+www.4njbets.com
 mobile-prod.tvg.com
 login.tvg.com
 *racing.fanduel.com
-www.4njbets.com
 tvg.com
 sportsbook.fanduel.com
 fdbox.net
@@ -3245,11 +3245,11 @@ developer.valvesoftware.com
 app.mona.co
 js.crypto.com
 merchant.crypto.com
-www.crypto.com
-tax.crypto.com
 auth.crypto.com
 *.crypto.com
 pay.crypto.com
+tax.crypto.com
+www.crypto.com
 *.crypto.com
 *.mona.co
 www.crypto.com
@@ -3306,8 +3306,8 @@ hybrid-analysis.com
 *.preemptsecurity.com
 *.humio.com
 *.reposify.com
-*.crowdstrike.com
 www.crowdstrike.com
+*.crowdstrike.com
 *.crowdstrike.com
 *.humio.com
 *.securecircle.com
@@ -3335,8 +3335,8 @@ privatetarget-1-www.zigzag
 privatetarget-2-secure.zigzag
 *.beta.lahitapiola.fi
 www.lahitapiola.fi
-api.lahitapiola.fi
 *.lahitapiola.fi
+api.lahitapiola.fi
 *.lahitapiolarahoitus.fi
 *.lahitapiola.fi
 *.tapiola.fi
@@ -3557,9 +3557,9 @@ cart.starbucks.co.jp
 www.starbucks.co.kr
 app.starbucks.com
 www.starbucks.co.uk
-www.starbucks.com.cn
 gift.starbucks.co.jp
 www.starbucks.com
+www.starbucks.com.cn
 www.starbucksreserve.com
 gift.starbucks.co.jp
 login.starbucks.co.jp
@@ -3625,10 +3625,10 @@ moneybirdstorage.com
 education.github.com
 npmjs.org
 *.githubusercontent.com
+gist.github.com
 classroom.github.com
 api.github.com
 npmjs.com
-gist.github.com
 github.com
 github.com
 api.github.com
@@ -3701,9 +3701,9 @@ derivws.com
 cashier.deriv.com
 oauth.deriv.com
 smarttrader.deriv.com
+*.deriv.com
 api.deriv.com
 app.deriv.com
-*.deriv.com
 *.deriv.com
 *.deriv.cloud
 *.derivws.com
@@ -3826,9 +3826,9 @@ playcanvas.com
 app.snapchat.com
 www.bitmoji.com
 *.sc-corp.net
+accounts.snapchat.com
 ads.snapchat.com
 web.snapchat.com
-accounts.snapchat.com
 kit.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
@@ -3991,8 +3991,8 @@ api.x.ai
 ide.x.ai
 grok.x.ai
 *.twimg.com
-*.twitter.com
 x.com
+*.twitter.com
 *.twitter.com
 *.vine.co
 *.twimg.com
@@ -4030,8 +4030,8 @@ akismet.com
 mailpoet.com
 www.tumblr.com
 *.tumblr.com
-wordpress.com
 gravatar.com
+wordpress.com
 *.tumblr.com
 *.srvcs.tumblr.com
 api.tumblr.com
