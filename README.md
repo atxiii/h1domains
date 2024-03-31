@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Mar 31 10:14:33 UTC 2024)
+## Domains with Bounties (Last Updated Sun Mar 31 11:08:53 UTC 2024)
 ```
 www.dyson.se
 www.dyson.be
