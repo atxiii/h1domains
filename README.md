@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Apr  5 12:21:10 UTC 2024)
+## Domains with Bounties (Last Updated Fri Apr  5 13:15:54 UTC 2024)
 ```
 www.dyson.be
 www.dyson.pt
@@ -301,12 +301,12 @@ webonboarding-eu.truecaller.com
 cards.remitly.io
 *.dev.remitly.com
 rates.rewire.com
-rewire.com
 app.rewire.to
+api.remitly.io
 *.int.remitly.com
 app3.rewire.to
-api.remitly.io
 remitly.com
+rewire.com
 *.int.remitly.com
 *.dev.remitly.com
 remitly.com
@@ -489,10 +489,10 @@ secure-supply-xml.booking.com
 taxi.booking.com
 cars.booking.com
 kyc-onboarding.booking.com
-spark.fareharbor.com
 teleport.fareharbor.engineering
-www.fareharbor.com
 paymentcomponent.booking.com
+www.fareharbor.com
+spark.fareharbor.com
 widget.rentalcars.com
 admin.booking.com
 careers.booking.com
@@ -500,8 +500,8 @@ account.booking.com
 booking.com
 flights.booking.com
 *.rentalcars.com
-secure.booking.com
 *.booking.com
+secure.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -769,6 +769,8 @@ sandbox.secure.checkout.visa.com
 www.visainfinite.ca
 http://myvisainfinite.com/suntrust/en_us/home.html
 http://www.myvisacardportal.com/welcome/enbd/product/#
+ebctest.cybersource.com
+developer.cybersource.com
 yourdomain.freshcaller.com
 yourdomain.freshdesk.com
 yourdomain.freshchat.com
@@ -916,8 +918,8 @@ auth.indrive.tech
 profile-api.eu-east-1.indriverapp.com
 super-services.indriverapp.com
 wga.volans.tech
-injob.indriver.com
 truck-api.eu-east-1.indriverapp.com
+injob.indriver.com
 ab-platform-api.eu-east-1.indriverapp.com
 auth2.indrive.tech
 watchdocs.indriverapp.com
@@ -952,8 +954,8 @@ aws.indrive.tech
 debug.clairvoyance.indrive.tech
 ingest.clairvoyance.indrive.tech
 *.grindr.mobi
-*.grindr.io
 web.grindr.com
+*.grindr.io
 *.grindr.com
 *.grindr.io
 *.grindr.com
@@ -1087,8 +1089,8 @@ admin.8x8.com
 *.superbet.ro
 *.luckydays.ca
 *.superbet.pl
-*.superbet.rs
 *.luckydays.com
+*.superbet.rs
 *.superbet.com
 *.superbet.ro
 *.superbet.rs
@@ -1105,8 +1107,8 @@ admin.8x8.com
 moonpay.com
 hypermint.com
 *.moonpaycloud.com
-*.hypermint.com
 *.moonpay.com
+*.hypermint.com
 *.moonpaycloud.com
 *.hypermint.com
 *.moonpay.com
@@ -1245,8 +1247,8 @@ blueprints.amazon.com
 creator.amazon.com
 alexa.amazon.com
 skills-store.amazon.com
-read.amazon.com
 a4k.amazon.com
+read.amazon.com
 read.amazon.com
 alexaanswers.amazon.com
 blueprints.amazon.com
@@ -1289,9 +1291,9 @@ www.dolap.com
 www.trendyol-milla.com
 *.sidefx.com
 *.sidefx.com
+snaps.metamask.io
 portfolio.metamask.io
 metamask.io
-snaps.metamask.io
 metamask.io
 snaps.metamask.io
 portfolio.metamask.io
@@ -1346,10 +1348,10 @@ ws.sorare.com
 *.romwe.com
 *.sheingsp.com
 pwapi.ex2b.com
-api.excalls.mobi
 social-trading.exness.com
 exnessaffiliates.com
 exness.com
+api.excalls.mobi
 my.exness.com
 pay.ibex.exchange
 my.exness.com
@@ -1738,10 +1740,10 @@ cloud.elastic.co
 api.taxjar.com
 *.reckoproduction.com
 *.link.co
+app.taxjar.com
 *.reckostaging.com
 *.recko.io
 js.stripe.com
-app.taxjar.com
 api.stripe.com
 *.touchtechpayments.com
 *.stripe.com
@@ -1775,17 +1777,17 @@ sh.reddit.com
 redditforbusiness.com
 app.spiketrap.io
 www.spiketrap.io
+new.reddit.com
+mod.reddit.com
 old.reddit.com
 api.reddit.com
 *.redditmedia.com
-mod.reddit.com
 gql.reddit.com
-new.reddit.com
 ads-api.reddit.com
 *.reddithelp.com
-ads.reddit.com
 *.redditinc.com
 *.snooguts.net
+ads.reddit.com
 matrix.redditspace.com
 *.reddit.com
 www.reddit.com
@@ -2100,10 +2102,10 @@ api.figma.com
 www.figma.com
 www.figma.com
 api.figma.com
-cs.money
-3d.cs.money
 support.cs.money
+cs.money
 wiki.cs.money
+3d.cs.money
 blog.cs.money
 cs.money
 support.cs.money
@@ -2268,7 +2270,6 @@ direct.playstation.com
 api.direct.playstation.com
 social.playstation.com
 wallets.api.playstation.com
-*.api.playstation.com
 my.playstation.com
 transact.playstation.com
 my.account.sony.com
@@ -2276,6 +2277,7 @@ store.playstation.com
 *.playstation.net
 ca.account.sony.com
 *.sonyentertainmentnetwork.com
+*.api.playstation.com
 *.playstation.net
 *.sonyentertainmentnetwork.com
 *.api.playstation.com
@@ -2288,7 +2290,6 @@ direct.playstation.com
 api.direct.playstation.com
 ca.account.sony.com
 my.account.sony.com
-watchgod.polygon.technology
 open-api.polygon.technology
 wallet.polygon.technology
 burn.polygon.technology
@@ -2298,6 +2299,7 @@ bridge-api.matic.network
 mapper.polygon.technology
 faucet.polygon.technology
 portal.polygon.technology
+watchgod.polygon.technology
 wallet.polygon.technology
 staking-api.polygon.technology
 bridge-explorer.polygon.technology
@@ -2675,10 +2677,10 @@ app.nordpass.com
 *.nordvpn.com
 *.nordvpn.com
 app.nordpass.com
-*.line.me
 *.line-apps.com
 *.line.naver.jp
 *.line.biz
+*.line.me
 *.linecorp.com
 *.line.me
 *.line-apps.com
@@ -2801,8 +2803,8 @@ api.rezserver.com
 admin.rezserver.com
 reservations.rezserver.com
 cruises.priceline.com
-flyiin.com
 press.priceline.com
+flyiin.com
 www.priceline.com
 secure.rezserver.com
 reservations.rezserver.com
@@ -2814,8 +2816,8 @@ flyiin.com
 priceline.com
 press.priceline.com
 www.bookingholdings.com
-app.smartsheet.com
 admin.smartsheet.com
+app.smartsheet.com
 www.smartsheet.com
 developers.smartsheet.com
 app.smartsheet.com
@@ -3059,17 +3061,17 @@ https://github.com/matomo-org/docker
 *.paydiant.com
 paypal.me
 py.pl
+www.swiftfinancial.com
+api.swiftfinancial.com
+api.loanbuilder.com
+swiftfinancial.com
+swiftcapital.com
 *.braintree.tools
 prequal.swiftfinancial.com
 partner.swiftfinancial.com
 decision.swiftfinancial.com
 pigeon.swiftfinancial.com
 scrutiny.swiftfinancial.com
-www.swiftfinancial.com
-api.swiftfinancial.com
-api.loanbuilder.com
-swiftfinancial.com
-swiftcapital.com
 *.paylution.com
 my.swiftfinancial.com
 *.braintreepayments.com
@@ -3122,8 +3124,8 @@ m.chaturbate.com
 billingsupport.chaturbate.com
 *.mmcdn.com
 *.mmwebc.dev
-chaturbate.com
 *.cb.dev
+chaturbate.com
 *.highwebmedia.com
 *.securegatewayaccess.com
 *.mmcdn.com
@@ -3454,11 +3456,11 @@ getofficial.co
 backstage.io
 assets.spotify.com
 api.spotify.com
-*.atspotify.com
 *.avecspotify.com
+*.atspotify.com
 *.enspotify.com
-*.forspotify.com
 *.fromspotify.com
+*.forspotify.com
 *.tospotify.com
 *.withspotify.com
 *.byspotify.com
@@ -3566,10 +3568,10 @@ openapi.starbucks.com
 secureui.starbucks.com
 card.starbucks.com.sg
 cart.starbucks.co.jp
-gift.starbucks.co.jp
+app.starbucks.com
 www.starbucks.co.uk
 www.starbucks.com.sg
-app.starbucks.com
+gift.starbucks.co.jp
 www.starbucks.com.cn
 www.starbucks.co.jp
 www.starbucks.co.kr
@@ -3638,8 +3640,8 @@ moneybirdstorage.com
 *.github.net
 education.github.com
 npmjs.org
-*.githubusercontent.com
 classroom.github.com
+*.githubusercontent.com
 gist.github.com
 npmjs.com
 github.com
@@ -3687,8 +3689,8 @@ winecellar.zomato.com
 *.zdev.net
 api.grofers.com
 api2.grofers.com
-*.runnr.in
 *.zomans.com
+*.runnr.in
 blinkit.com
 *.zomato.com
 *.hyperpure.com
@@ -3767,8 +3769,8 @@ developer.zendesk.com
 zopim.com
 app.futuresimple.com
 api.getbase.com
-apps.zendesk.com
 www.zendesk.com
+apps.zendesk.com
 smooch.io
 h1-your-domain.zendesk.com
 www.zendesk.com
@@ -3797,8 +3799,8 @@ accounts.shopify.com
 partners.shopify.com
 your-store.myshopify.com
 shop.app
-*.shopifycloud.com
 admin.shopify.com
+*.shopifycloud.com
 *.shopify.com
 *.shopifycs.com
 *.shopify.io
@@ -4067,9 +4069,9 @@ pro.coinbase.com
 custody.coinbase.com
 prime.coinbase.com
 international.coinbase.com
-*.base.org
 institutional.coinbase.com
 nft.coinbase.com
+*.base.org
 api.custody.coinbase.com
 commerce.coinbase.com
 cloud.coinbase.com
@@ -4117,8 +4119,8 @@ www.quip.com
 *.quip.com
 onepush.query.yahoo.com
 proddata.xobni.yahoo.com
-apis.mail.yahoo.com
-le.yahooapis.com
+yimg.com
+data.mail.yahoo.com
 data.mail.yahoo.com
 le.yahooapis.com
 onepush.query.yahoo.com
@@ -4145,8 +4147,8 @@ hackerone.live
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 a5s.hackerone-ext-content.com
 api.hackerone.com
-hackerone.com
 www.hackerone.com
+hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
@@ -4310,8 +4312,8 @@ aivencloud.com
 help.aiven.io
 *.xiaomiyoupin.com
 *.miwifi.com
-*.miui.com
 *.xiaomi.com
+*.miui.com
 *.mi.com
 *.mi.com
 *.xiaomi.com
