@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Apr  5 13:15:54 UTC 2024)
+## Domains with Bounties (Last Updated Fri Apr  5 14:16:13 UTC 2024)
 ```
 www.dyson.be
 www.dyson.pt
@@ -22,7 +22,7 @@ api.dyson.fr
 api.dyson.ie
 www.sa.dyson.com
 shop.dyson.ru
-www.dyson.fr
+www.dyson.com.au
 *.dyson.com
 www.dyson.co.uk
 www.dyson.com
@@ -364,8 +364,8 @@ my.sheer.com
 www.sheer.com
 www.sheer.com
 my.sheer.com
-www.pornworld.com
 www.analvids.com
+www.pornworld.com
 www.ddfcontent.com
 www.pornbox.com
 www.pornbox.com
@@ -402,8 +402,8 @@ backend.zyro.com
 cpanel.hostinger.com
 *.000webhost.com
 editor.zyro.com
-www.hostinger.com
 www.zyro.com
+www.hostinger.com
 hpanel.hostinger.com
 *.000webhost.com
 www.hostinger.com
@@ -448,10 +448,10 @@ www.mercadopago.com.ar
 www.mercadolibre.com.ar
 www.mercadolivre.com.br
 api.mercadolibre.com
-api.mercadopago.com
 www.mercadopago.com.mx
 www.mercadopago.com.co
 www.mercadopago.com.br
+api.mercadopago.com
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -500,8 +500,8 @@ account.booking.com
 booking.com
 flights.booking.com
 *.rentalcars.com
-*.booking.com
 secure.booking.com
+*.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -771,6 +771,9 @@ http://myvisainfinite.com/suntrust/en_us/home.html
 http://www.myvisacardportal.com/welcome/enbd/product/#
 ebctest.cybersource.com
 developer.cybersource.com
+sandbox.authorize.net
+developer.authorize.net
+developer.visa.com
 yourdomain.freshcaller.com
 yourdomain.freshdesk.com
 yourdomain.freshchat.com
@@ -898,8 +901,8 @@ hiltonbusinessonline.com
 hiltonlocalbiz.com
 hiltonhotels.jp
 *.okg.com
-*.okcoin.com
 *.oklink.com
+*.okcoin.com
 *.okx.com
 *.okx.com
 *.okcoin.com
@@ -918,8 +921,8 @@ auth.indrive.tech
 profile-api.eu-east-1.indriverapp.com
 super-services.indriverapp.com
 wga.volans.tech
-truck-api.eu-east-1.indriverapp.com
 injob.indriver.com
+truck-api.eu-east-1.indriverapp.com
 ab-platform-api.eu-east-1.indriverapp.com
 auth2.indrive.tech
 watchdocs.indriverapp.com
@@ -927,8 +930,8 @@ ci.indrive.dev
 argocd.indrive.dev
 *.indriver.com
 *.indrive.com
-cargo.indrive.com
 *.indriverapp.com
+cargo.indrive.com
 *.indriverapp.com
 *.indrive.com
 *.indriver.com
@@ -982,10 +985,10 @@ oneview.malwarebytes.com
 *.mwb-threatintel.com
 *.threatdown.com
 *.cyrus-security.com
-*.malwarebytes.com
 www.malwarebytes.com
 cloud.malwarebytes.com
 my.malwarebytes.com
+*.malwarebytes.com
 *.mwbsys.com
 *.mb-cosmos.com
 *.mbamupdates.com
@@ -1046,9 +1049,9 @@ work-staging.8x8.com
 platform.8x8pilot.com
 *.chalet.8x8.com
 *.8x8.id
-voapi.8x8.com
-user-profile.8x8.com
 admin.8x8.com
+user-profile.8x8.com
+voapi.8x8.com
 cloud8.8x8.com
 user-profile-staging.8x8.com
 connect.8x8.com
@@ -1107,8 +1110,8 @@ admin.8x8.com
 moonpay.com
 hypermint.com
 *.moonpaycloud.com
-*.moonpay.com
 *.hypermint.com
+*.moonpay.com
 *.moonpaycloud.com
 *.hypermint.com
 *.moonpay.com
@@ -1164,9 +1167,9 @@ www.ebookers.com
 *.cheaptickets.com
 *.expediapartnercentral.com
 *.expediacruises.com
+www.expediagroup.com
 www.bookabach.co.nz
 www.abritel.fr
-www.expediagroup.com
 *.vrbo.com
 *.hotwire.com
 *.travelocity.com
@@ -1291,9 +1294,9 @@ www.dolap.com
 www.trendyol-milla.com
 *.sidefx.com
 *.sidefx.com
-snaps.metamask.io
 portfolio.metamask.io
 metamask.io
+snaps.metamask.io
 metamask.io
 snaps.metamask.io
 portfolio.metamask.io
@@ -1309,8 +1312,8 @@ checkout.razorpay.com
 invoices.razorpay.com
 payroll.razorpay.com
 x.razorpay.com
-business.linkedin.com
 api.linkedin.com
+business.linkedin.com
 www.linkedin.com
 www.linkedin.com
 api.linkedin.com
@@ -1320,9 +1323,9 @@ business.linkedin.com
 *.wealthsimple.com
 *.simpletax.ca
 www.cheapflights.com
+www.swoodoo.com
 www.mundi.com.br
 www.checkfelix.com
-www.swoodoo.com
 www.momondo.com
 www.kayak.com
 business.kayak.com
@@ -1740,10 +1743,10 @@ cloud.elastic.co
 api.taxjar.com
 *.reckoproduction.com
 *.link.co
-app.taxjar.com
 *.reckostaging.com
 *.recko.io
 js.stripe.com
+app.taxjar.com
 api.stripe.com
 *.touchtechpayments.com
 *.stripe.com
@@ -2046,12 +2049,12 @@ developers.tiktok.com
 business.tiktok.com
 partner.tiktokshop.com
 www.pangleglobal.com
-ads.tiktok.com
 seller-id.tokopedia.com
 *.tiktokv.com
 tiktok.com
 creatormarketplace.tiktok.com
 *.tiktok.com
+ads.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2102,10 +2105,10 @@ api.figma.com
 www.figma.com
 www.figma.com
 api.figma.com
+3d.cs.money
 support.cs.money
 cs.money
 wiki.cs.money
-3d.cs.money
 blog.cs.money
 cs.money
 support.cs.money
@@ -2527,8 +2530,8 @@ www.alibabagroup.com
 *.aliexpress.com
 *.tmall.com
 *.alibaba.com
-*.alibaba-inc.com
 *.aliyun.com
+*.alibaba-inc.com
 *.alibaba.com
 *.aliexpress.com
 *.taobao.com
@@ -2816,8 +2819,8 @@ flyiin.com
 priceline.com
 press.priceline.com
 www.bookingholdings.com
-admin.smartsheet.com
 app.smartsheet.com
+admin.smartsheet.com
 www.smartsheet.com
 developers.smartsheet.com
 app.smartsheet.com
@@ -2990,7 +2993,6 @@ grammarly.ai
 *.prd.fndlsb.net
 *.prod.fdbox.net
 *inf.fndlsb.net
-fdbox.net
 com.fanduel.android.live
 *racing.fanduel.com
 sportsbook.fanduel.com
@@ -3019,6 +3021,7 @@ us.tvg.com
 tvg.com
 ia.tvg.com
 *.numberfire.com
+fdbox.net
 *racing.fanduel.com
 *.east.fdbox.net
 *.prod.fdbox.net
@@ -3061,17 +3064,17 @@ https://github.com/matomo-org/docker
 *.paydiant.com
 paypal.me
 py.pl
-www.swiftfinancial.com
-api.swiftfinancial.com
-api.loanbuilder.com
-swiftfinancial.com
-swiftcapital.com
 *.braintree.tools
 prequal.swiftfinancial.com
 partner.swiftfinancial.com
 decision.swiftfinancial.com
 pigeon.swiftfinancial.com
 scrutiny.swiftfinancial.com
+www.swiftfinancial.com
+api.swiftfinancial.com
+api.loanbuilder.com
+swiftfinancial.com
+swiftcapital.com
 *.paylution.com
 my.swiftfinancial.com
 *.braintreepayments.com
@@ -3232,10 +3235,10 @@ support.steampowered.com
 partner.steampowered.com
 partner.steamgames.com
 playartifact.com
-help.steampowered.com
-www.dota2.com
 www.teamfortress.com
 api.steampowered.com
+help.steampowered.com
+www.dota2.com
 store.steampowered.com
 steamcommunity.com
 www.counter-strike.net
@@ -3393,9 +3396,9 @@ gifts.grab.com
 *.grab.co
 *.ovo.id
 api.grabpay.com
+*.grabpay.com
 kartaview.org
 *.myteksi.com
-*.grabpay.com
 xtramile.grabpay.com
 grab.careers
 jira.grab.com
@@ -3456,11 +3459,11 @@ getofficial.co
 backstage.io
 assets.spotify.com
 api.spotify.com
-*.avecspotify.com
 *.atspotify.com
+*.avecspotify.com
 *.enspotify.com
-*.fromspotify.com
 *.forspotify.com
+*.fromspotify.com
 *.tospotify.com
 *.withspotify.com
 *.byspotify.com
@@ -3475,7 +3478,6 @@ api.spotify.com
 assets.spotify.com
 api.spotify.com
 backstage.io
-*.wordcamp.org
 codex.wordpress.org
 codex.bbpress.org
 codex.buddypress.org
@@ -3496,6 +3498,7 @@ bbpress.org
 profiles.wordpress.org
 *.wordpress.org
 *.wordpress.net
+*.wordcamp.org
 *.wordpress.org
 *.buddypress.org
 bbpress.org
@@ -3640,12 +3643,12 @@ moneybirdstorage.com
 *.github.net
 education.github.com
 npmjs.org
-classroom.github.com
 *.githubusercontent.com
+classroom.github.com
 gist.github.com
-npmjs.com
-github.com
 api.github.com
+github.com
+npmjs.com
 github.com
 api.github.com
 gist.github.com
@@ -3692,8 +3695,8 @@ api2.grofers.com
 *.zomans.com
 *.runnr.in
 blinkit.com
-*.zomato.com
 *.hyperpure.com
+*.zomato.com
 *.zomato.com
 *.zdev.net
 *.zomans.com
@@ -3718,8 +3721,8 @@ api.deriv.com
 *.deriv.cloud
 derivws.com
 smarttrader.deriv.com
-oauth.deriv.com
 *.deriv.com
+oauth.deriv.com
 cashier.deriv.com
 app.deriv.com
 *.deriv.com
@@ -3769,8 +3772,8 @@ developer.zendesk.com
 zopim.com
 app.futuresimple.com
 api.getbase.com
-www.zendesk.com
 apps.zendesk.com
+www.zendesk.com
 smooch.io
 h1-your-domain.zendesk.com
 www.zendesk.com
@@ -3799,9 +3802,9 @@ accounts.shopify.com
 partners.shopify.com
 your-store.myshopify.com
 shop.app
-admin.shopify.com
 *.shopifycloud.com
 *.shopify.com
+admin.shopify.com
 *.shopifycs.com
 *.shopify.io
 *.shopify.com
@@ -3917,10 +3920,10 @@ callbacks.airbnb.com
 *.airbnb-aws.com
 *.luxuryretreats.com
 *.airbnbcitizen.com
-www.hoteltonight.com
 support-api.airbnb.com
 next.airbnb.com
 api.airbnb.com
+www.hoteltonight.com
 *.muscache.com
 *.hoteltonight-test.com
 *.withairbnb.com
@@ -4119,8 +4122,8 @@ www.quip.com
 *.quip.com
 onepush.query.yahoo.com
 proddata.xobni.yahoo.com
-yimg.com
-data.mail.yahoo.com
+apis.mail.yahoo.com
+le.yahooapis.com
 data.mail.yahoo.com
 le.yahooapis.com
 onepush.query.yahoo.com
