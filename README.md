@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Apr 14 06:01:19 UTC 2024)
+## Domains with Bounties (Last Updated Sun Apr 14 07:57:14 UTC 2024)
 ```
 www.dyson.pt
 www.dyson.no
@@ -307,8 +307,8 @@ app3.rewire.to
 *.int.remitly.com
 rewire.com
 app.rewire.to
-remitly.com
 rates.rewire.com
+remitly.com
 *.int.remitly.com
 *.dev.remitly.com
 remitly.com
@@ -322,11 +322,11 @@ app3.rewire.to
 *.worldcoin.dev
 *.toolsforhumanity.com
 toolsforhumanity.com
-*.consumer.worldcoin.org
 getworldcoin.com
 bioid-management.app
-worldcoin.org
 *.worldcoin.org
+*.consumer.worldcoin.org
+worldcoin.org
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -426,8 +426,8 @@ mediacenter.23andme.com
 therapeutics.23andme.com
 auth.23andme.com
 medical.23andme.com
-you.23andme.com
 api.23andme.com
+you.23andme.com
 api.23andme.com
 auth.23andme.com
 blog.23andme.com
@@ -493,17 +493,17 @@ teleport.fareharbor.engineering
 paymentcomponent.booking.com
 spark.fareharbor.com
 flights.booking.com
-account.booking.com
 secure.booking.com
+account.booking.com
 indicative-pricing.taxi.booking.com
 taxi.booking.com
 careers.booking.com
 www.fareharbor.com
 widget.rentalcars.com
 *.rentalcars.com
+booking.com
 admin.booking.com
 *.booking.com
-booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -779,8 +779,8 @@ developer.visa.com
 yourdomain.freshcaller.com
 yourdomain.freshdesk.com
 yourdomain.freshchat.com
-yourdomain.freshservice.com
 yourdomain.myfreshworks.com
+yourdomain.freshservice.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -789,8 +789,8 @@ yourdomain.myfreshworks.com
 app.kolesa.kz
 app.krisha.kz
 m.kolesa.kz
-kolesa.kz
 api.kolesa.kz
+kolesa.kz
 id.kolesa.kz
 api.krisha.kz
 m.krisha.kz
@@ -922,8 +922,8 @@ new-order.eu-east-1.indriverapp.com
 watchdocs.indriverapp.com
 wga.volans.tech
 cargo.indrive.com
-*.indriverapp.com
 *.indrive.com
+*.indriverapp.com
 *.indriverapp.com
 *.indrive.com
 *.indriver.com
@@ -1044,8 +1044,8 @@ user-profile.8x8.com
 cloud8.8x8.com
 user-profile-staging.8x8.com
 *.8x8staging.com
-platform.8x8.com
 sso.8x8pilot.com
+platform.8x8.com
 *.8x8cloud.net
 admin.8x8.com
 *.wavecell.com
@@ -1343,9 +1343,9 @@ ws.sorare.com
 *.romwe.com
 *.sheingsp.com
 pwapi.ex2b.com
-api.excalls.mobi
 social-trading.exness.com
 exnessaffiliates.com
+api.excalls.mobi
 pay.ibex.exchange
 exness.com
 my.exness.com
@@ -1645,10 +1645,9 @@ marketplace.fedramp.gov
 *.search.gov
 federalist.18f.gov
 federalist-docs.18f.gov
+cloud.gov
 dashboard.fr.cloud.gov
 api.data.gov
-ssh.fr.cloud.gov
-cloud.gov
 federalist-proxy.app.cloud.gov
 account.fr.cloud.gov
 ci.fr.cloud.gov
@@ -1769,9 +1768,9 @@ sh.reddit.com
 redditforbusiness.com
 app.spiketrap.io
 www.spiketrap.io
+new.reddit.com
 old.reddit.com
 *.redditmedia.com
-new.reddit.com
 *.reddithelp.com
 matrix.redditspace.com
 mod.reddit.com
@@ -1779,8 +1778,8 @@ mod.reddit.com
 api.reddit.com
 *.redditinc.com
 ads-api.reddit.com
-oauth.reddit.com
 gql.reddit.com
+oauth.reddit.com
 www.reddit.com
 *.reddit.com
 accounts.reddit.com
@@ -1841,8 +1840,8 @@ wp-dev4.chime.com
 wp-dev5.chime.com
 wp-integ.chime.com
 app.chime.com
-www.chime.com
 wp-qa.chime.com
+www.chime.com
 *.chimebank.com
 *.chime.com
 *.1debit.com
@@ -2034,7 +2033,6 @@ academy-outbound-ads.tiktok.com
 live-backstage.tiktok.com
 effecthouse.tiktok.com
 affiliate-id.tokopedia.com
-tiktok.com
 business.tiktok.com
 fp-sg.tiktokv.com
 partner.tiktokshop.com
@@ -2044,6 +2042,7 @@ seller-id.tokopedia.com
 ads.tiktok.com
 shop-id.tokopedia.com
 *.tiktokv.com
+tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2094,8 +2093,8 @@ api.figma.com
 www.figma.com
 www.figma.com
 api.figma.com
-support.cs.money
 3d.cs.money
+support.cs.money
 blog.cs.money
 wiki.cs.money
 cs.money
@@ -2517,14 +2516,14 @@ updates.amazon.com
 *.aliexpress.ru
 *.aliyun-inc.com
 *.tmall.com
-*.alibaba-inc.com
 *.taobao.com
+*.alibaba-inc.com
 *.alibabacloud.com
-*.aliexpress.com
 *.alimama.com
+*.aliexpress.com
 *.1688.com
-www.alibabagroup.com
 *.aliyun.com
+www.alibabagroup.com
 *.Daraz.com
 *.alibaba.com
 *.alibaba.com
@@ -2569,8 +2568,8 @@ maria.casino
 *.mariacasino.com
 *.kes.kindredext.net
 *.unibet.com
-www.32red.com
 *.bingo.com
+www.32red.com
 *.unibet.com
 *.unibet.fr
 *.storspiller.com
@@ -2802,7 +2801,7 @@ admin.rezserver.com
 reservations.rezserver.com
 www.bookingholdings.com
 secure.rezserver.com
-www.priceline.com
+www.getaroom.com
 www.priceline.com
 secure.rezserver.com
 reservations.rezserver.com
@@ -2986,18 +2985,18 @@ service.racing.fanduel.com
 4njbets.tvg.com
 4njbets.com
 4njbets.us.betfair.com
+login-4njbets.us.betfair.com
+login-pabets.tvg.com
 mobile-prod.tvg.com
+login-ia.tvg.com
 m.4njbets.tvg.com
 pabets.tvg.com
 login.tvg.com
-www.4njbets.com
-service.tvg.com
-promos.tvg.com
-login-4njbets.us.betfair.com
-login-pabets.tvg.com
-login-ia.tvg.com
 login-4ngbets.us.betfair.com
 login.pabets.tvg.com
+service.tvg.com
+promos.tvg.com
+www.4njbets.com
 sportsbook.fanduel.com
 com.fanduel.android.live
 www.tvg.com
@@ -3053,20 +3052,20 @@ py.pl
 *.braintree.tools
 *.paylution.com
 *.hyperwallet.com
-api.swiftfinancial.com
-scrutiny.swiftfinancial.com
-www.swiftfinancial.com
+my.swiftfinancial.com
 swiftfinancial.com
+prequal.swiftfinancial.com
 www.swiftcapital.com
 swiftcapital.com
-decision.swiftfinancial.com
 partner.swiftfinancial.com
-my.swiftfinancial.com
 pigeon.swiftfinancial.com
-prequal.swiftfinancial.com
+scrutiny.swiftfinancial.com
+www.swiftfinancial.com
 api.loanbuilder.com
 my.loanbuilder.com
 www.loanbuilder.com
+api.swiftfinancial.com
+decision.swiftfinancial.com
 *.braintree-api.com
 paypalobjects.com
 *.braintreegateway.com
@@ -3074,9 +3073,9 @@ loanbuilder.com
 sandbox.braintreegateway.com
 *.paypalcorp.com
 *.paypal.com
+*.venmo.com
 *.braintreepayments.com
 *.xoom.com
-*.venmo.com
 *.xoom.com
 *.paypal.com
 *.braintreegateway.com
@@ -3378,9 +3377,9 @@ manage.grab.co
 *.myteksi.net
 *.taralite.com
 api.grabpay.com
+*.grabpay.com
 kartaview.org
 *.myteksi.com
-*.grabpay.com
 jira.grab.com
 xtramile.grabpay.com
 gifts.grab.com
@@ -3568,8 +3567,8 @@ www.starbucks.com.br
 openapi.starbucks.com
 card.starbucks.com.sg
 cart.starbucks.co.jp
-gift.starbucks.co.jp
 www.starbucks.com.sg
+gift.starbucks.co.jp
 www.starbucks.co.jp
 secureui.starbucks.com
 www.starbucks.com
@@ -3608,8 +3607,8 @@ ws.blockchain.info
 basicattentiontoken.org
 creators.basicattentiontoken.org
 account.brave.com
-talk.brave.com
 search.brave.com
+talk.brave.com
 brave.com
 brave.com
 basicattentiontoken.org
@@ -3774,8 +3773,8 @@ app.futuresimple.com
 api.getbase.com
 apps.zendesk.com
 smooch.io
-www.zendesk.com
 h1-your-domain.zendesk.com
+www.zendesk.com
 www.zendesk.com
 developer.zendesk.com
 h1-your-domain.zendesk.com
@@ -3797,11 +3796,11 @@ shopifyinbox.com
 *.shopifycloud.com
 linkpop.com
 accounts.shopify.com
-your-store.myshopify.com
 shop.app
+your-store.myshopify.com
+*.shopify.io
 *.shopifykloud.com
 *.shopifycs.com
-*.shopify.io
 partners.shopify.com
 *.shopify.com
 admin.shopify.com
@@ -4031,8 +4030,8 @@ akismet.com
 intensedebate.com
 www.tumblr.com
 wordpress.com
-*.tumblr.com
 mailpoet.com
+*.tumblr.com
 *.tumblr.com
 *.srvcs.tumblr.com
 api.tumblr.com
@@ -4572,8 +4571,8 @@ api.greenhouse.io
 onboarding.greenhouse.io
 jss.greenhouse.io
 app.interseller.io
-interseller.io
 www.greenhouse.io
+interseller.io
 support.greenhouse.io
 app.greenhouse.io
 app.greenhouse.io
