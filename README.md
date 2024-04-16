@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Apr 16 13:16:49 UTC 2024)
+## Domains with Bounties (Last Updated Tue Apr 16 14:17:12 UTC 2024)
 ```
 www.dyson.pt
 www.dyson.no
@@ -17,12 +17,12 @@ api.dyson.de
 api.dyson.ch
 api.dyson.ie
 shop.dyson.ru
+www.dyson.my
 www.dyson.fr
 api.fi.dyson.com
 www.dyson.co.th
 www.dyson.it
 www.dyson.de
-www.dyson.cz
 *.dyson.com
 www.dyson.co.uk
 www.dyson.com
@@ -305,9 +305,9 @@ cards.remitly.io
 api.remitly.io
 app3.rewire.to
 rates.rewire.com
+app.rewire.to
 *.int.remitly.com
 rewire.com
-app.rewire.to
 remitly.com
 *.int.remitly.com
 *.dev.remitly.com
@@ -425,8 +425,8 @@ store.23andme.com
 mediacenter.23andme.com
 therapeutics.23andme.com
 api.23andme.com
-you.23andme.com
 medical.23andme.com
+you.23andme.com
 auth.23andme.com
 api.23andme.com
 auth.23andme.com
@@ -445,15 +445,15 @@ www.mercadolibre.com.uy
 www.mercadolibre.com.co
 www.mercadolibre.com.mx
 www.mercadopago.com.co
-www.mercadopago.cl
 www.mercadopago.com.mx
+www.mercadopago.cl
 www.mercadolibre.cl
 www.mercadopago.com.br
 api.mercadopago.com
 www.mercadolivre.com.br
 api.mercadolibre.com
-www.mercadolibre.com.ar
 www.mercadopago.com.ar
+www.mercadolibre.com.ar
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -479,7 +479,6 @@ webhooks.booking.com
 taxis.booking.com
 paybridge.booking.com
 phone-validation.taxi.booking.com
-chat.booking.com
 autocomplete.booking.com
 distribution-xml.booking.com
 paynotifications.booking.com
@@ -489,9 +488,9 @@ portal.taxi.booking.com
 secure-supply-xml.booking.com
 cars.booking.com
 kyc-onboarding.booking.com
+spark.fareharbor.com
 teleport.fareharbor.engineering
 paymentcomponent.booking.com
-spark.fareharbor.com
 flights.booking.com
 indicative-pricing.taxi.booking.com
 taxi.booking.com
@@ -500,14 +499,15 @@ widget.rentalcars.com
 *.rentalcars.com
 booking.com
 account.booking.com
-*.booking.com
 www.fareharbor.com
 admin.booking.com
-sites.fareharbor.com
 readonly.fareharbor.com
 marketing.fareharbor.com
 secure.booking.com
 demo.fareharbor.com
+chat.booking.com
+*.booking.com
+sites.fareharbor.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -784,10 +784,10 @@ developer.cybersource.com
 sandbox.authorize.net
 developer.authorize.net
 developer.visa.com
-yourdomain.myfreshworks.com
 yourdomain.freshchat.com
 yourdomain.freshcaller.com
 yourdomain.freshdesk.com
+yourdomain.myfreshworks.com
 yourdomain.freshservice.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
@@ -795,8 +795,8 @@ yourdomain.freshchat.com
 yourdomain.freshcaller.com
 yourdomain.myfreshworks.com
 app.kolesa.kz
-kolesa.kz
 api.kolesa.kz
+kolesa.kz
 id.kolesa.kz
 m.krisha.kz
 app.krisha.kz
@@ -832,11 +832,10 @@ addons.allizom.org
 sync.services.mozilla.com
 hg.mozilla.org
 stage.taskcluster.nonprod.cloudops.mozgcp.net
-developer.mozilla.org
 shavar.services.mozilla.com
 community-tc.services.mozilla.com
-bugzilla.mozilla.org
 monitor.mozilla.org
+bugzilla.mozilla.org
 firefox-ci-tc.services.mozilla.com
 accounts.firefox.com
 push.services.mozilla.com
@@ -845,6 +844,7 @@ www.mozilla.org
 mozilla-pontoon-staging.herokuapp.com
 phabricator.allizom.org
 support.mozilla.org
+developer.mozilla.org
 addons.allizom.org
 developer.mozilla.org
 accounts.firefox.com
@@ -928,9 +928,9 @@ ci.indrive.dev
 injob.indriver.com
 *.indriver.com
 cargo.indrive.com
+*.indrive.com
 ab-platform-api.eu-east-1.indriverapp.com
 *.indriverapp.com
-*.indrive.com
 super-services.indriverapp.com
 *.indriverapp.com
 *.indrive.com
@@ -958,8 +958,8 @@ debug.clairvoyance.indrive.tech
 ingest.clairvoyance.indrive.tech
 *.grindr.mobi
 *.grindr.io
-web.grindr.com
 *.grindr.com
+web.grindr.com
 *.grindr.io
 *.grindr.com
 *.grindr.mobi
@@ -1154,8 +1154,8 @@ www.ebookers.fi
 www.mrjet.se
 www.expediaagents.com
 *.lastminute.co.nz
-www.stayz.com.au
 www.fewo-direkt.de
+www.stayz.com.au
 www.bookabach.co.nz
 www.abritel.fr
 www.expediagroup.com
@@ -1325,9 +1325,9 @@ business.linkedin.com
 *.wealthsimple.com
 *.simpletax.ca
 www.cheapflights.com
-www.swoodoo.com
 www.mundi.com.br
 www.checkfelix.com
+www.swoodoo.com
 www.momondo.com
 business.kayak.com
 www.hotelscombined.com
@@ -1353,9 +1353,9 @@ ws.sorare.com
 *.romwe.com
 *.sheingsp.com
 pwapi.ex2b.com
-api.excalls.mobi
 social-trading.exness.com
 exnessaffiliates.com
+api.excalls.mobi
 pay.ibex.exchange
 exness.com
 my.exness.com
@@ -1408,8 +1408,8 @@ watchlistapi.etoro.com
 rankings.etoro.com
 delta.app
 etoropartners.com
-bullsheet.me
 www.etoro.com
+bullsheet.me
 www.etoro.com
 etoropartners.com
 partners.etoro.com
@@ -1461,7 +1461,6 @@ academy.databricks.com
 demo.cloud.databricks.com
 docs.databricks.com
 help.databricks.com
-kb.databricks.com
 partners.databricks.com
 support.databricks.com
 advocates.databricks.com
@@ -1471,6 +1470,7 @@ labs.databricks.com
 marketplace.databricks.com
 accounts.cloud.databricks.com
 databricks.com
+kb.databricks.com
 databricks.com
 academy.databricks.com
 accounts.cloud.databricks.com
@@ -1658,6 +1658,7 @@ federalist-docs.18f.gov
 dashboard.fr.cloud.gov
 api.data.gov
 ssh.fr.cloud.gov
+cloud.gov
 federalist-proxy.app.cloud.gov
 account.fr.cloud.gov
 ci.fr.cloud.gov
@@ -1730,10 +1731,10 @@ https://www.xvideos.net/app/
 *.found.io
 *.elasticnet.co
 *.elstc.co
-cloud.elastic.co
 *.swiftype.com
 *.elastic.co
 www.elastic.co
+cloud.elastic.co
 *.elastic.co
 *.found.io
 *.swiftype.com
@@ -1786,8 +1787,8 @@ mod.reddit.com
 *.snooguts.net
 api.reddit.com
 ads-api.reddit.com
-oauth.reddit.com
 gql.reddit.com
+oauth.reddit.com
 *.reddit.com
 *.redditinc.com
 accounts.reddit.com
@@ -2039,20 +2040,20 @@ pay.tokopediax.com
 www.pangleglobal.com
 affiliate-id.tokopedia.com
 fp-sg.tiktokv.com
-creatormarketplace.tiktok.com
 shop-id.tokopedia.com
-live-backstage.tiktok.com
 effecthouse.tiktok.com
 academy-outbound-ads.tiktok.com
 partner.tiktokshop.com
-*.tiktokv.com
-ads.tiktok.com
 developers.tiktok.com
-tiktok.com
 business.tiktok.com
 careers.tiktok.com
 seller-id.tokopedia.com
+*.tiktokv.com
+live-backstage.tiktok.com
+tiktok.com
 *.tiktok.com
+ads.tiktok.com
+creatormarketplace.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2103,8 +2104,8 @@ api.figma.com
 www.figma.com
 www.figma.com
 api.figma.com
-3d.cs.money
 support.cs.money
+3d.cs.money
 wiki.cs.money
 blog.cs.money
 cs.money
@@ -2391,9 +2392,9 @@ itv7.itv.com
 *.amazon.sa
 *.amazon.se
 *.amazon.sg
+*.amazon.com.tr
 *.amazon.de
 *.amazon.es
-*.amazon.com.tr
 *.amazon.it
 *.amazon.com.be
 *.amazon.com.br
@@ -2439,7 +2440,6 @@ www.amazon.*
 *.tmall.com
 *.alibaba-inc.com
 *.alimama.com
-*.alibaba.com
 *.1688.com
 *.taobao.com
 www.alibabagroup.com
@@ -2447,6 +2447,7 @@ www.alibabagroup.com
 *.aliexpress.com
 *.aliyun.com
 *.alibabacloud.com
+*.alibaba.com
 *.alibaba.com
 *.aliexpress.com
 *.taobao.com
@@ -2530,8 +2531,8 @@ all-inclusive.marriott.com
 careers.marriott.com
 www.ritzcarlton.com
 marrtool.com
-traveler.marriott.com
 www.marriott.com
+traveler.marriott.com
 homes-and-villas.marriott.com
 careers.marriott.com
 sso.marriott.com
@@ -2631,9 +2632,9 @@ neoket.net
 novel.pixiv.net
 coban.pixiv.net
 sketch.pixiv.net
-booth.pm
 accounts.pixiv.net
 www.pixiv.net
+booth.pm
 *.fanbox.cc
 booth.pm
 comic.pixiv.net
@@ -2722,7 +2723,7 @@ admin.rezserver.com
 reservations.rezserver.com
 www.bookingholdings.com
 secure.rezserver.com
-cruises.priceline.com
+priceline.com
 www.priceline.com
 secure.rezserver.com
 reservations.rezserver.com
@@ -3168,8 +3169,8 @@ developer.valvesoftware.com
 js.crypto.com
 app.mona.co
 merchant.crypto.com
-pay.crypto.com
 www.crypto.com
+pay.crypto.com
 auth.crypto.com
 tax.crypto.com
 *.crypto.com
@@ -3297,9 +3298,9 @@ gamma.grab.co
 manage.grab.co
 *.taralite.com
 api.grabpay.com
+*.grabpay.com
 kartaview.org
 *.myteksi.com
-*.grabpay.com
 jira.grab.com
 xtramile.grabpay.com
 gifts.grab.com
@@ -3364,12 +3365,12 @@ ccardseu1.badoo.com
 ccardsus1.badoo.com
 chatdate.app
 getofficial.co
-*.atspotify.com
 *.avecspotify.com
+*.atspotify.com
 *.enspotify.com
-*.forspotify.com
-*.fromspotify.com
 *.tospotify.com
+*.fromspotify.com
+*.forspotify.com
 backstage.io
 *.byspotify.com
 assets.spotify.com
@@ -3684,17 +3685,17 @@ yourcompany.udemy.com
 shopify.plus
 shopifyinbox.com
 *.shopifycloud.com
-accounts.shopify.com
 linkpop.com
 partners.shopify.com
-*.shopifykloud.com
 *.shopify.io
 *.shopifycs.com
+*.shopifykloud.com
 admin.shopify.com
-arrive-server.shopifycloud.com
 your-store.myshopify.com
+arrive-server.shopifycloud.com
 shop.app
 *.shopify.com
+accounts.shopify.com
 *.shopifycs.com
 *.shopify.io
 *.shopify.com
@@ -3779,6 +3780,7 @@ store.ui.com
 careers.ui.com
 uisp.com
 *.ubnt.com
+*.ubnt.com
 *.ui.com
 store.ui.com
 community.ui.com
@@ -3815,10 +3817,10 @@ api.airbnb.com
 www.hoteltonight.com
 *.hoteltonight-test.com
 *.withairbnb.com
-assets.airbnb.com
-www.airbnb.com
 *.airbnb-aws.com
+assets.airbnb.com
 *.airbnb.com
+www.airbnb.com
 www.airbnb.com
 next.airbnb.com
 api.airbnb.com
