@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Apr 17 22:14:07 UTC 2024)
+## Domains with Bounties (Last Updated Wed Apr 17 23:15:33 UTC 2024)
 ```
 www.dyson.no
 www.fi.dyson.com
@@ -324,8 +324,8 @@ app3.rewire.to
 *.toolsforhumanity.com
 getworldcoin.com
 bioid-management.app
-*.consumer.worldcoin.org
 *.worldcoin.org
+*.consumer.worldcoin.org
 toolsforhumanity.com
 worldcoin.org
 *.worldcoin.org
@@ -406,8 +406,8 @@ logo.zyro.com
 www.zyro.com
 backend.zyro.com
 *.000webhost.com
-www.hostinger.com
 hpanel.hostinger.com
+www.hostinger.com
 *.000webhost.com
 www.hostinger.com
 cpanel.hostinger.com
@@ -425,8 +425,8 @@ blog.23andme.com
 store.23andme.com
 mediacenter.23andme.com
 therapeutics.23andme.com
-medical.23andme.com
 you.23andme.com
+medical.23andme.com
 auth.23andme.com
 api.23andme.com
 api.23andme.com
@@ -488,9 +488,9 @@ portal.taxi.booking.com
 secure-supply-xml.booking.com
 cars.booking.com
 kyc-onboarding.booking.com
-spark.fareharbor.com
 teleport.fareharbor.engineering
 paymentcomponent.booking.com
+spark.fareharbor.com
 flights.booking.com
 indicative-pricing.taxi.booking.com
 taxi.booking.com
@@ -504,11 +504,11 @@ readonly.fareharbor.com
 booking.com
 demo.fareharbor.com
 taxis.booking.com
+chat.booking.com
 *.rentalcars.com
 sites.fareharbor.com
-chat.booking.com
-admin.booking.com
 *.booking.com
+admin.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -719,8 +719,8 @@ www.cardinalcommerce.com
 www.visa.com.tw
 www.visa.com.tr
 www.visa.com.hr
-www.yellowpepper.com
 www.tink.com
+www.yellowpepper.com
 aw.visa.com
 bb.visa.com
 bd.visa.com
@@ -796,8 +796,8 @@ yourdomain.freshchat.com
 yourdomain.freshcaller.com
 yourdomain.myfreshworks.com
 app.kolesa.kz
-api.kolesa.kz
 kolesa.kz
+api.kolesa.kz
 id.kolesa.kz
 m.krisha.kz
 app.krisha.kz
@@ -888,8 +888,8 @@ hiltonlocalbiz.com
 hiltonhotels.jp
 *.hilton.io
 *.hiltonbusinessonline.com
-hilton.io
 hilton.com
+hilton.io
 *.hilton.com
 *.hilton.com
 *.hilton.io
@@ -920,8 +920,8 @@ auth2.indrive.tech
 argocd.indrive.dev
 auth.indrive.tech
 volans.tech
-new-order.eu-east-1.indriverapp.com
 truck-api.eu-east-1.indriverapp.com
+new-order.eu-east-1.indriverapp.com
 watchdocs.indriverapp.com
 wga.volans.tech
 ci.indrive.dev
@@ -1155,8 +1155,8 @@ www.ebookers.fi
 www.mrjet.se
 www.expediaagents.com
 *.lastminute.co.nz
-www.stayz.com.au
 www.fewo-direkt.de
+www.stayz.com.au
 www.bookabach.co.nz
 www.abritel.fr
 www.expediagroup.com
@@ -1172,8 +1172,8 @@ www.ebookers.com
 *.travelocity.com
 *.wotif.com
 www.hotels.com
-www.expedia.com
 *.expediapartnercentral.com
+www.expedia.com
 *.vrbo.com
 *.hotwire.com
 *.vrbo.com
@@ -1791,8 +1791,8 @@ mod.reddit.com
 *.snooguts.net
 api.reddit.com
 ads-api.reddit.com
-oauth.reddit.com
 gql.reddit.com
+oauth.reddit.com
 accounts.reddit.com
 www.reddit.com
 *.reddit.com
@@ -1855,8 +1855,8 @@ wp-dev4.chime.com
 wp-dev5.chime.com
 wp-integ.chime.com
 app.chime.com
-wp-qa.chime.com
 www.chime.com
+wp-qa.chime.com
 *.chimebank.com
 *.chime.com
 *.1debit.com
@@ -2045,18 +2045,18 @@ affiliate-id.tokopedia.com
 shop-id.tokopedia.com
 effecthouse.tiktok.com
 developers.tiktok.com
-*.tiktok.com
-partner.tiktokshop.com
 creatormarketplace.tiktok.com
 academy-outbound-ads.tiktok.com
 www.pangleglobal.com
-seller-id.tokopedia.com
-tiktok.com
 careers.tiktok.com
+seller-id.tokopedia.com
 business.tiktok.com
 fp-sg.tiktokv.com
-ads.tiktok.com
 *.tiktokv.com
+*.tiktok.com
+partner.tiktokshop.com
+ads.tiktok.com
+tiktok.com
 live-backstage.tiktok.com
 *.tiktok.com
 business.tiktok.com
@@ -2108,8 +2108,8 @@ api.figma.com
 www.figma.com
 www.figma.com
 api.figma.com
-3d.cs.money
 support.cs.money
+3d.cs.money
 wiki.cs.money
 blog.cs.money
 cs.money
@@ -2396,13 +2396,13 @@ itv7.itv.com
 *.amazon.sa
 *.amazon.se
 *.amazon.sg
-*.amazon.de
 *.amazon.com.tr
+*.amazon.de
 *.amazon.it
 *.amazon.com.be
 *.amazon.com.br
-*.amazon.com.co
 *.amazon.eg
+*.amazon.com.co
 *.amazon.ae
 *.amazon.ca
 *.amazon.com.mx
@@ -2411,9 +2411,9 @@ itv7.itv.com
 *.amazon.fr
 *.amazon.co.uk
 *.amazon.com
-*.amazon.cn
 *.amazon.es
 *.amazon.in
+*.amazon.cn
 *.amazon.cl
 *.amazon.co.za
 *.amazon.com.au
@@ -2976,20 +2976,20 @@ https://github.com/matomo-org/docker
 paypal.me
 *.braintree.tools
 *.paylution.com
+api.swiftfinancial.com
+decision.swiftfinancial.com
+partner.swiftfinancial.com
 my.swiftfinancial.com
+scrutiny.swiftfinancial.com
+pigeon.swiftfinancial.com
+www.swiftfinancial.com
 swiftfinancial.com
 prequal.swiftfinancial.com
-www.swiftcapital.com
-swiftcapital.com
-partner.swiftfinancial.com
-pigeon.swiftfinancial.com
-scrutiny.swiftfinancial.com
-www.swiftfinancial.com
 api.loanbuilder.com
 my.loanbuilder.com
 www.loanbuilder.com
-api.swiftfinancial.com
-decision.swiftfinancial.com
+www.swiftcapital.com
+swiftcapital.com
 *.xoom.com
 *.braintreegateway.com
 *.venmo.com
@@ -3174,10 +3174,10 @@ js.crypto.com
 pay.crypto.com
 merchant.crypto.com
 auth.crypto.com
-tax.crypto.com
 *.crypto.com
-www.crypto.com
 app.mona.co
+www.crypto.com
+tax.crypto.com
 *.crypto.com
 *.mona.co
 www.crypto.com
@@ -3211,9 +3211,9 @@ secure.plaid.com
 plaid.com
 api.blockscore.com
 manage.blockscore.com
+dashboard.plaid.com
 app.quovo.com
 my.plaid.com
-dashboard.plaid.com
 production.plaid.com
 dashboard.plaid.com
 cdn.plaid.com
@@ -3234,8 +3234,8 @@ falcon-sandbox.com
 *.reposify.com
 *.humio.com
 www.crowdstrike.com
-hybrid-analysis.com
 *.crowdstrike.com
+hybrid-analysis.com
 *.crowdstrike.com
 *.humio.com
 *.securecircle.com
@@ -3493,8 +3493,8 @@ www.starbucks.com.br
 openapi.starbucks.com
 card.starbucks.com.sg
 cart.starbucks.co.jp
-gift.starbucks.co.jp
 www.starbucks.com.sg
+gift.starbucks.co.jp
 www.starbucks.co.jp
 secureui.starbucks.com
 www.starbucks.co.uk
@@ -3697,8 +3697,8 @@ accounts.shopify.com
 *.shopify.io
 admin.shopify.com
 shop.app
-*.shopify.com
 your-store.myshopify.com
+*.shopify.com
 arrive-server.shopifycloud.com
 *.shopifycs.com
 *.shopify.io
@@ -3887,8 +3887,8 @@ ide.x.ai
 grok.x.ai
 *.twimg.com
 api.x.ai
-x.com
 *.twitter.com
+x.com
 *.twitter.com
 *.vine.co
 *.twimg.com
@@ -4496,8 +4496,8 @@ api.greenhouse.io
 onboarding.greenhouse.io
 jss.greenhouse.io
 app.interseller.io
-www.greenhouse.io
 interseller.io
+www.greenhouse.io
 support.greenhouse.io
 app.greenhouse.io
 app.greenhouse.io
