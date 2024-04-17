@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Apr 17 15:18:02 UTC 2024)
+## Domains with Bounties (Last Updated Wed Apr 17 16:17:52 UTC 2024)
 ```
 www.dyson.no
 www.fi.dyson.com
@@ -425,8 +425,8 @@ blog.23andme.com
 store.23andme.com
 mediacenter.23andme.com
 therapeutics.23andme.com
-you.23andme.com
 medical.23andme.com
+you.23andme.com
 auth.23andme.com
 api.23andme.com
 api.23andme.com
@@ -446,14 +446,14 @@ www.mercadolibre.com.uy
 www.mercadolibre.com.co
 www.mercadolibre.com.mx
 www.mercadopago.com.co
-www.mercadopago.cl
 www.mercadopago.com.mx
+www.mercadopago.cl
 www.mercadolibre.cl
 www.mercadolivre.com.br
 api.mercadolibre.com
 www.mercadopago.com.ar
-www.mercadolibre.com.ar
 www.mercadopago.com.br
+www.mercadolibre.com.ar
 api.mercadopago.com
 api.mercadopago.com
 www.mercadopago.com.ar
@@ -719,8 +719,8 @@ www.cardinalcommerce.com
 www.visa.com.tw
 www.visa.com.tr
 www.visa.com.hr
-www.tink.com
 www.yellowpepper.com
+www.tink.com
 aw.visa.com
 bb.visa.com
 bd.visa.com
@@ -834,9 +834,8 @@ sync.services.mozilla.com
 hg.mozilla.org
 stage.taskcluster.nonprod.cloudops.mozgcp.net
 shavar.services.mozilla.com
-bugzilla.mozilla.org
 monitor.mozilla.org
-firefox-ci-tc.services.mozilla.com
+bugzilla.mozilla.org
 accounts.firefox.com
 push.services.mozilla.com
 mozilla-pontoon-staging.herokuapp.com
@@ -846,6 +845,7 @@ www.mozilla.org
 firefox.settings.services.mozilla.com
 community-tc.services.mozilla.com
 phabricator.allizom.org
+firefox-ci-tc.services.mozilla.com
 addons.allizom.org
 developer.mozilla.org
 accounts.firefox.com
@@ -1045,10 +1045,10 @@ pay.8x8.com
 work.8x8.com
 uc.8x8pilot.com
 work-staging.8x8.com
+voapi.8x8.com
+*.8x8.id
 platform.8x8pilot.com
 *.chalet.8x8.com
-*.8x8.id
-voapi.8x8.com
 user-profile-staging.8x8.com
 *.8x8staging.com
 platform.8x8.com
@@ -1057,8 +1057,8 @@ sso.8x8pilot.com
 admin.8x8.com
 *.wavecell.com
 *.jit.si
-*.packet8.net
 sso.8x8.com
+*.packet8.net
 user-profile.8x8.com
 *.8x8.vc
 *.jit.si
@@ -1316,8 +1316,8 @@ invoices.razorpay.com
 payroll.razorpay.com
 x.razorpay.com
 api.linkedin.com
-www.linkedin.com
 business.linkedin.com
+www.linkedin.com
 www.linkedin.com
 api.linkedin.com
 business.linkedin.com
@@ -1354,9 +1354,9 @@ ws.sorare.com
 *.romwe.com
 *.sheingsp.com
 pwapi.ex2b.com
+api.excalls.mobi
 social-trading.exness.com
 exnessaffiliates.com
-api.excalls.mobi
 pay.ibex.exchange
 exness.com
 my.exness.com
@@ -1520,8 +1520,8 @@ admin.wickr.com
 shop.judge.me
 woocommerce-adapter.judge.me
 bigcommerce-adapter.judge.me
-cache.judge.me
 judge.me
+cache.judge.me
 judge.me
 https://judge.me/reviews
 shop.judge.me
@@ -1753,8 +1753,8 @@ api.taxjar.com
 js.stripe.com
 *.touchtechpayments.com
 app.taxjar.com
-*.stripe.com
 api.stripe.com
+*.stripe.com
 api.stripe.com
 *.stripe.com
 *.touchtechpayments.com
@@ -1855,8 +1855,8 @@ wp-dev4.chime.com
 wp-dev5.chime.com
 wp-integ.chime.com
 app.chime.com
-wp-qa.chime.com
 www.chime.com
+wp-qa.chime.com
 *.chimebank.com
 *.chime.com
 *.1debit.com
@@ -1999,10 +1999,10 @@ api.adm.cloud.com
 (yoursubdomain).us.iws.cloud.com
 (yoursubdomain).ap.iws.cloud.com
 (yoursubdomain).eu.iws.cloud.com
-adm.cloud.com
+citrix.cloud.com
 secure.sharefile.eu
 api.sharefile.com
-citrix.cloud.com
+adm.cloud.com
 (yoursubdomain).sharefile.com
 (yoursubdomain).sharefile.eu
 secure.sharefile.com
@@ -2045,19 +2045,19 @@ affiliate-id.tokopedia.com
 shop-id.tokopedia.com
 effecthouse.tiktok.com
 academy-outbound-ads.tiktok.com
-partner.tiktokshop.com
 careers.tiktok.com
 www.pangleglobal.com
 seller-id.tokopedia.com
 live-backstage.tiktok.com
 developers.tiktok.com
 *.tiktokv.com
-creatormarketplace.tiktok.com
-tiktok.com
 business.tiktok.com
 fp-sg.tiktokv.com
 *.tiktok.com
 ads.tiktok.com
+creatormarketplace.tiktok.com
+partner.tiktokshop.com
+tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2245,8 +2245,8 @@ api.account.clario.co
 kbill.mackeeper.com
 api-ne.mackeeper.com
 mkapi.mackeeper.com
-updater.clario.co
 account.mackeeper.com
+updater.clario.co
 mackeeper.com
 clario.co
 account.mackeeper.com
@@ -2396,23 +2396,23 @@ itv7.itv.com
 *.amazon.sa
 *.amazon.se
 *.amazon.sg
-*.amazon.com.tr
 *.amazon.de
 *.amazon.es
+*.amazon.com.tr
 *.amazon.it
 *.amazon.com.be
 *.amazon.com.br
-*.amazon.eg
 *.amazon.com.co
+*.amazon.eg
 *.amazon.ae
 *.amazon.ca
 *.amazon.com.mx
 *.amazon.nl
-*.amazon.fr
 *.amazon.co.jp
 *.amazon.co.uk
 *.amazon.cn
 *.amazon.com
+*.amazon.fr
 *.amazon.in
 *.amazon.cl
 *.amazon.co.za
@@ -2729,7 +2729,7 @@ admin.rezserver.com
 reservations.rezserver.com
 www.bookingholdings.com
 secure.rezserver.com
-cruises.priceline.com
+press.priceline.com
 www.priceline.com
 secure.rezserver.com
 reservations.rezserver.com
@@ -3147,8 +3147,8 @@ developer.valvesoftware.com
 support.steampowered.com
 partner.steampowered.com
 playartifact.com
-api.steampowered.com
 help.steampowered.com
+api.steampowered.com
 www.dota2.com
 partner.steamgames.com
 steamcommunity.com
@@ -3171,13 +3171,13 @@ help.steampowered.com
 developer.valvesoftware.com
 *.mona.co
 js.crypto.com
-app.mona.co
 pay.crypto.com
 merchant.crypto.com
 auth.crypto.com
 tax.crypto.com
 *.crypto.com
 www.crypto.com
+app.mona.co
 *.crypto.com
 *.mona.co
 www.crypto.com
@@ -3369,12 +3369,12 @@ ccardseu1.badoo.com
 ccardsus1.badoo.com
 chatdate.app
 getofficial.co
-*.avecspotify.com
 *.atspotify.com
+*.avecspotify.com
 *.enspotify.com
-*.tospotify.com
-*.fromspotify.com
 *.forspotify.com
+*.fromspotify.com
+*.tospotify.com
 *.withspotify.com
 api.spotify.com
 assets.spotify.com
@@ -3493,8 +3493,8 @@ www.starbucks.com.br
 openapi.starbucks.com
 card.starbucks.com.sg
 cart.starbucks.co.jp
-www.starbucks.com.sg
 gift.starbucks.co.jp
+www.starbucks.com.sg
 www.starbucks.co.jp
 secureui.starbucks.com
 www.starbucks.co.uk
@@ -3502,8 +3502,8 @@ app.starbucks.com
 www.starbucks.fr
 www.starbucks.ca
 www.starbucks.com
-www.starbucks.co.kr
 www.starbucks.com.cn
+www.starbucks.co.kr
 www.starbucksreserve.com
 gift.starbucks.co.jp
 login.starbucks.co.jp
@@ -3696,10 +3696,10 @@ partners.shopify.com
 arrive-server.shopifycloud.com
 accounts.shopify.com
 *.shopify.io
-shop.app
 *.shopify.com
-your-store.myshopify.com
 admin.shopify.com
+shop.app
+your-store.myshopify.com
 *.shopifycs.com
 *.shopify.io
 *.shopify.com
@@ -4001,8 +4001,8 @@ www.quip.com
 slack-imgs.com
 status.slack.com
 slack.com
-api.slack.com
 app.slack.com
+api.slack.com
 slack.com
 api.slack.com
 status.slack.com
@@ -4045,8 +4045,8 @@ hackerone-user-content.com
 a5s.hackerone-ext-content.com
 app.pullrequest.com
 www.hackerone.com
-api.hackerone.com
 hackerone.com
+api.hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
@@ -4495,8 +4495,8 @@ api.greenhouse.io
 onboarding.greenhouse.io
 jss.greenhouse.io
 app.interseller.io
-interseller.io
 www.greenhouse.io
+interseller.io
 support.greenhouse.io
 app.greenhouse.io
 app.greenhouse.io
