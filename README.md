@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Apr 18 08:19:33 UTC 2024)
+## Domains with Bounties (Last Updated Thu Apr 18 09:16:04 UTC 2024)
 ```
 www.dyson.no
 www.fi.dyson.com
@@ -306,10 +306,10 @@ api.remitly.io
 rates.rewire.com
 *.int.remitly.com
 cards.remitly.io
-app.rewire.to
 app3.rewire.to
 remitly.com
 rewire.com
+app.rewire.to
 *.int.remitly.com
 *.dev.remitly.com
 remitly.com
@@ -436,8 +436,8 @@ www.mercadolibre.com.uy
 www.mercadolibre.com.co
 www.mercadolibre.com.mx
 www.mercadopago.com.co
-www.mercadopago.com.mx
 www.mercadopago.cl
+www.mercadopago.com.mx
 www.mercadopago.com.ar
 www.mercadolibre.com.ar
 api.mercadopago.com
@@ -492,13 +492,13 @@ secure.booking.com
 marketing.fareharbor.com
 readonly.fareharbor.com
 booking.com
-taxis.booking.com
 demo.fareharbor.com
-sites.fareharbor.com
+taxis.booking.com
 chat.booking.com
-*.booking.com
-*.rentalcars.com
+sites.fareharbor.com
 admin.booking.com
+*.rentalcars.com
+*.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -709,8 +709,8 @@ www.cardinalcommerce.com
 www.visa.com.tw
 www.visa.com.tr
 www.visa.com.hr
-www.yellowpepper.com
 www.tink.com
+www.yellowpepper.com
 aw.visa.com
 bb.visa.com
 bd.visa.com
@@ -910,8 +910,8 @@ auth2.indrive.tech
 argocd.indrive.dev
 auth.indrive.tech
 volans.tech
-truck-api.eu-east-1.indriverapp.com
 new-order.eu-east-1.indriverapp.com
+truck-api.eu-east-1.indriverapp.com
 watchdocs.indriverapp.com
 wga.volans.tech
 ci.indrive.dev
@@ -1041,8 +1041,8 @@ platform.8x8pilot.com
 voapi.8x8.com
 user-profile-staging.8x8.com
 *.8x8staging.com
-platform.8x8.com
 sso.8x8pilot.com
+platform.8x8.com
 *.8x8cloud.net
 admin.8x8.com
 *.wavecell.com
@@ -1145,8 +1145,8 @@ www.ebookers.fi
 www.mrjet.se
 www.expediaagents.com
 *.lastminute.co.nz
-www.fewo-direkt.de
 www.stayz.com.au
+www.fewo-direkt.de
 www.bookabach.co.nz
 www.abritel.fr
 www.expediagroup.com
@@ -1161,8 +1161,8 @@ www.ebookers.com
 *.travelocity.com
 *.wotif.com
 www.hotels.com
-*.expediapartnercentral.com
 www.expedia.com
+*.expediapartnercentral.com
 *.vrbo.com
 *.expediacruises.com
 www.expediataap.com
@@ -1340,8 +1340,8 @@ sorare.com
 api.sorare.com
 ws.sorare.com
 *.sheingsp.com
-*.shein.com
 *.romwe.com
+*.shein.com
 *.shein.com
 *.romwe.com
 *.sheingsp.com
@@ -1462,8 +1462,8 @@ customer-academy.databricks.com
 labs.databricks.com
 marketplace.databricks.com
 accounts.cloud.databricks.com
-databricks.com
 kb.databricks.com
+databricks.com
 databricks.com
 academy.databricks.com
 accounts.cloud.databricks.com
@@ -1745,8 +1745,8 @@ api.taxjar.com
 js.stripe.com
 *.touchtechpayments.com
 app.taxjar.com
-*.stripe.com
 api.stripe.com
+*.stripe.com
 api.stripe.com
 *.stripe.com
 *.touchtechpayments.com
@@ -1759,8 +1759,8 @@ app.taxjar.com
 *.link.co
 hackerone-m1rtuq8orz.hbstaging.website
 hackerone-m1rtuq8orz.hbstaging.website
-www.urbancompany.com
 www.urbanclap.com
+www.urbancompany.com
 www.urbancompany.com
 www.urbanclap.com
 meta-api.reddit.com
@@ -1775,16 +1775,16 @@ sh.reddit.com
 redditforbusiness.com
 app.spiketrap.io
 www.spiketrap.io
-new.reddit.com
 old.reddit.com
+new.reddit.com
 *.reddithelp.com
 matrix.redditspace.com
 mod.reddit.com
 *.snooguts.net
 api.reddit.com
 ads-api.reddit.com
-gql.reddit.com
 oauth.reddit.com
+gql.reddit.com
 accounts.reddit.com
 www.reddit.com
 *.reddit.com
@@ -1847,8 +1847,8 @@ wp-dev4.chime.com
 wp-dev5.chime.com
 wp-integ.chime.com
 app.chime.com
-wp-qa.chime.com
 www.chime.com
+wp-qa.chime.com
 *.chimebank.com
 *.chime.com
 *.1debit.com
@@ -2270,8 +2270,8 @@ store.playstation.com
 *.sonyentertainmentnetwork.com
 ca.account.sony.com
 *.api.playstation.com
-my.account.sony.com
 direct.playstation.com
+my.account.sony.com
 *.playstation.net
 *.sonyentertainmentnetwork.com
 *.api.playstation.com
@@ -2387,13 +2387,13 @@ itv7.itv.com
 *.amazon.sa
 *.amazon.se
 *.amazon.sg
-*.amazon.com.tr
 *.amazon.de
+*.amazon.com.tr
 *.amazon.it
 *.amazon.com.be
 *.amazon.com.br
-*.amazon.eg
 *.amazon.com.co
+*.amazon.eg
 *.amazon.ae
 *.amazon.ca
 *.amazon.com.mx
@@ -2441,10 +2441,10 @@ www.amazon.*
 *.aliexpress.com
 *.alibabacloud.com
 *.alibaba.com
-*.alibaba-inc.com
 *.Daraz.com
 www.alibabagroup.com
 *.aliyun.com
+*.alibaba-inc.com
 *.alibaba.com
 *.aliexpress.com
 *.taobao.com
@@ -3142,11 +3142,11 @@ api.steampowered.com
 help.steampowered.com
 www.dota2.com
 partner.steamgames.com
-steamcommunity.com
 www.valvesoftware.com
 www.teamfortress.com
 store.steampowered.com
 www.counter-strike.net
+steamcommunity.com
 www.dota2.com
 support.steampowered.com
 partner.steampowered.com
@@ -3164,10 +3164,10 @@ developer.valvesoftware.com
 js.crypto.com
 auth.crypto.com
 merchant.crypto.com
-tax.crypto.com
 app.mona.co
 *.crypto.com
 pay.crypto.com
+tax.crypto.com
 www.crypto.com
 *.crypto.com
 *.mona.co
@@ -3251,11 +3251,11 @@ verovelvollisuustiedot.lahitapiola.fi
 sijoitusvakuutus.lahitapiola.fi
 privatetarget-1-www.zigzag
 privatetarget-2-secure.zigzag
-*.beta.lahitapiola.fi
 ext-gw.lahitapiola.fi
-www.lahitapiola.fi
-api.lahitapiola.fi
+*.beta.lahitapiola.fi
 *.lahitapiola.fi
+api.lahitapiola.fi
+www.lahitapiola.fi
 *.lahitapiolarahoitus.fi
 *.lahitapiola.fi
 *.tapiola.fi
@@ -3360,12 +3360,12 @@ ccardseu1.badoo.com
 ccardsus1.badoo.com
 chatdate.app
 getofficial.co
-*.avecspotify.com
 *.atspotify.com
+*.avecspotify.com
 *.enspotify.com
-*.tospotify.com
-*.fromspotify.com
 *.forspotify.com
+*.fromspotify.com
+*.tospotify.com
 *.withspotify.com
 api.spotify.com
 assets.spotify.com
@@ -3592,8 +3592,8 @@ about.gitlab.com
 customers.gitlab.com
 *.gitlab.net
 docs.gitlab.com
-gitlab.com
 *.gitlap.com
+gitlab.com
 *.gitlab.net
 *.gitlab.org
 *.gitlap.com
@@ -3681,16 +3681,16 @@ shopify.plus
 shopifyinbox.com
 *.shopifycloud.com
 linkpop.com
+partners.shopify.com
 *.shopifykloud.com
 *.shopifycs.com
-partners.shopify.com
 *.shopify.io
 admin.shopify.com
 *.shopify.com
-your-store.myshopify.com
 arrive-server.shopifycloud.com
 accounts.shopify.com
 shop.app
+your-store.myshopify.com
 *.shopifycs.com
 *.shopify.io
 *.shopify.com
@@ -3811,8 +3811,8 @@ api.airbnb.com
 www.hoteltonight.com
 *.hoteltonight-test.com
 *.withairbnb.com
-assets.airbnb.com
 *.airbnb-aws.com
+assets.airbnb.com
 www.airbnb.com
 *.airbnb.com
 www.airbnb.com
@@ -3892,7 +3892,7 @@ cloudflareworkers.com
 waf.cumulusfire.net
 one.dash.cloudflare.com
 *.cloudflare.com
-dash.cloudflare.com
+api.cloudflare.com
 dash.cloudflare.com
 cloudflareworkers.com
 *.teams.cloudflare.com
@@ -3957,8 +3957,8 @@ blog.irccloud.com
 custody.coinbase.com
 prime.coinbase.com
 international.coinbase.com
-institutional.coinbase.com
 *.base.org
+institutional.coinbase.com
 api.custody.coinbase.com
 api.coinbase.com
 commerce.coinbase.com
@@ -4036,8 +4036,8 @@ reviewer.pullrequest.com
 ctf.hacker101.com
 hackerone-user-content.com
 www.hackerone.com
-hackerone.com
 api.hackerone.com
+hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
@@ -4239,8 +4239,8 @@ magentocommerce.com
 u.magento.com
 imagine.magento.com
 magentolive.com
-repo.magento.com
 accounts.magento.cloud
+repo.magento.com
 magento.com
 account.magento.com
 marketplace.magento.com
@@ -4486,8 +4486,8 @@ api.greenhouse.io
 onboarding.greenhouse.io
 jss.greenhouse.io
 app.interseller.io
-interseller.io
 www.greenhouse.io
+interseller.io
 support.greenhouse.io
 app.greenhouse.io
 app.greenhouse.io
