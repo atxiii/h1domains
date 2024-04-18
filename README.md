@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Apr 18 01:48:30 UTC 2024)
+## Domains with Bounties (Last Updated Thu Apr 18 02:24:19 UTC 2024)
 ```
 www.dyson.no
 www.fi.dyson.com
@@ -446,8 +446,8 @@ www.mercadolibre.com.uy
 www.mercadolibre.com.co
 www.mercadolibre.com.mx
 www.mercadopago.com.co
-www.mercadopago.com.mx
 www.mercadopago.cl
+www.mercadopago.com.mx
 www.mercadolibre.cl
 www.mercadopago.com.ar
 www.mercadolibre.com.ar
@@ -502,10 +502,10 @@ secure.booking.com
 marketing.fareharbor.com
 readonly.fareharbor.com
 booking.com
-demo.fareharbor.com
 taxis.booking.com
-chat.booking.com
+demo.fareharbor.com
 sites.fareharbor.com
+chat.booking.com
 admin.booking.com
 *.booking.com
 *.rentalcars.com
@@ -703,11 +703,11 @@ visa.co.za
 www.fraedom.com
 www.practicalbusinessskills.org
 www.practicalmoneyskills.org
+bd.visa.com
 www.visa.com.ph
 www.visa.com.mx
 www.visa.co.jp
 bb.visa.com
-bd.visa.com
 visa.co.ni
 www.visa.com.kz
 www.visa.co.nz
@@ -719,8 +719,8 @@ www.cardinalcommerce.com
 www.visa.com.tw
 www.visa.com.tr
 www.visa.com.hr
-www.yellowpepper.com
 www.tink.com
+usa.visa.com
 aw.visa.com
 bb.visa.com
 bd.visa.com
@@ -833,8 +833,8 @@ sync.services.mozilla.com
 hg.mozilla.org
 stage.taskcluster.nonprod.cloudops.mozgcp.net
 shavar.services.mozilla.com
-monitor.mozilla.org
 bugzilla.mozilla.org
+monitor.mozilla.org
 accounts.firefox.com
 push.services.mozilla.com
 mozilla-pontoon-staging.herokuapp.com
@@ -842,9 +842,9 @@ developer.mozilla.org
 support.mozilla.org
 firefox.settings.services.mozilla.com
 community-tc.services.mozilla.com
-phabricator.allizom.org
-firefox-ci-tc.services.mozilla.com
 relay.firefox.com
+firefox-ci-tc.services.mozilla.com
+phabricator.allizom.org
 www.mozilla.org
 addons.allizom.org
 developer.mozilla.org
@@ -888,8 +888,8 @@ hiltonlocalbiz.com
 hiltonhotels.jp
 *.hilton.io
 *.hiltonbusinessonline.com
-hilton.io
 hilton.com
+hilton.io
 *.hilton.com
 *.hilton.com
 *.hilton.io
@@ -920,8 +920,8 @@ auth2.indrive.tech
 argocd.indrive.dev
 auth.indrive.tech
 volans.tech
-truck-api.eu-east-1.indriverapp.com
 new-order.eu-east-1.indriverapp.com
+truck-api.eu-east-1.indriverapp.com
 watchdocs.indriverapp.com
 wga.volans.tech
 ci.indrive.dev
@@ -1092,8 +1092,8 @@ admin.8x8.com
 *.napoleongames.be
 *.napoleonsports.be
 *.luckydays.com
-*.superbet.ro
 *.superbet.rs
+*.superbet.ro
 *.luckydays.ca
 *.superbet.com
 *.superbet.pl
@@ -1326,9 +1326,9 @@ business.linkedin.com
 *.wealthsimple.com
 *.simpletax.ca
 www.cheapflights.com
-www.swoodoo.com
 www.mundi.com.br
 www.checkfelix.com
+www.swoodoo.com
 www.momondo.com
 business.kayak.com
 www.hotelscombined.com
@@ -1657,10 +1657,10 @@ marketplace.fedramp.gov
 *.search.gov
 federalist.18f.gov
 federalist-docs.18f.gov
-cloud.gov
 dashboard.fr.cloud.gov
 api.data.gov
 ssh.fr.cloud.gov
+cloud.gov
 federalist-proxy.app.cloud.gov
 account.fr.cloud.gov
 ci.fr.cloud.gov
@@ -1735,8 +1735,8 @@ https://www.xvideos.net/app/
 *.elstc.co
 www.elastic.co
 *.swiftype.com
-cloud.elastic.co
 *.elastic.co
+cloud.elastic.co
 *.elastic.co
 *.found.io
 *.swiftype.com
@@ -1791,8 +1791,8 @@ mod.reddit.com
 *.snooguts.net
 api.reddit.com
 ads-api.reddit.com
-gql.reddit.com
 oauth.reddit.com
+gql.reddit.com
 accounts.reddit.com
 www.reddit.com
 *.reddit.com
@@ -2052,12 +2052,12 @@ careers.tiktok.com
 seller-id.tokopedia.com
 business.tiktok.com
 fp-sg.tiktokv.com
-partner.tiktokshop.com
-ads.tiktok.com
-tiktok.com
-*.tiktokv.com
-*.tiktok.com
 live-backstage.tiktok.com
+*.tiktokv.com
+ads.tiktok.com
+*.tiktok.com
+tiktok.com
+partner.tiktokshop.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2409,10 +2409,10 @@ itv7.itv.com
 *.amazon.nl
 *.amazon.fr
 *.amazon.co.uk
-*.amazon.cn
 *.amazon.in
 *.amazon.es
 *.amazon.co.jp
+*.amazon.cn
 *.amazon.com
 *.amazon.cl
 *.amazon.co.za
@@ -2913,15 +2913,15 @@ service.racing.fanduel.com
 4njbets.us.betfair.com
 4njbets.tvg.com
 4njbets.com
+mobile-prod.tvg.com
+pabets.tvg.com
+service.tvg.com
+promos.tvg.com
 login-4njbets.us.betfair.com
 login-pabets.tvg.com
 login-ia.tvg.com
 m.4njbets.tvg.com
 login.tvg.com
-mobile-prod.tvg.com
-pabets.tvg.com
-service.tvg.com
-promos.tvg.com
 www.4njbets.com
 login-4ngbets.us.betfair.com
 login.pabets.tvg.com
@@ -3039,9 +3039,9 @@ m.chaturbate.com
 *.securegatewayaccess.com
 billingsupport.chaturbate.com
 *.mmcdn.com
+*.mmwebc.dev
 chaturbate.com
 *.cb.dev
-*.mmwebc.dev
 *.highwebmedia.com
 *.securegatewayaccess.com
 *.mmcdn.com
@@ -3154,8 +3154,8 @@ partner.steamgames.com
 steamcommunity.com
 www.valvesoftware.com
 www.teamfortress.com
-www.counter-strike.net
 store.steampowered.com
+www.counter-strike.net
 www.dota2.com
 support.steampowered.com
 partner.steampowered.com
@@ -3260,11 +3260,11 @@ verovelvollisuustiedot.lahitapiola.fi
 sijoitusvakuutus.lahitapiola.fi
 privatetarget-1-www.zigzag
 privatetarget-2-secure.zigzag
-ext-gw.lahitapiola.fi
 *.beta.lahitapiola.fi
-*.lahitapiola.fi
-api.lahitapiola.fi
+ext-gw.lahitapiola.fi
 www.lahitapiola.fi
+api.lahitapiola.fi
+*.lahitapiola.fi
 *.lahitapiolarahoitus.fi
 *.lahitapiola.fi
 *.tapiola.fi
@@ -3302,12 +3302,12 @@ gamma.grab.co
 manage.grab.co
 *.taralite.com
 api.grabpay.com
-*.grabpay.com
 kartaview.org
 *.myteksi.com
+*.grabpay.com
 jira.grab.com
-xtramile.grabpay.com
 gifts.grab.com
+xtramile.grabpay.com
 grab.careers
 *.grab-sure.com
 *.ovo.id
@@ -3369,12 +3369,12 @@ ccardseu1.badoo.com
 ccardsus1.badoo.com
 chatdate.app
 getofficial.co
-*.avecspotify.com
 *.atspotify.com
+*.avecspotify.com
 *.enspotify.com
-*.tospotify.com
-*.fromspotify.com
 *.forspotify.com
+*.fromspotify.com
+*.tospotify.com
 *.withspotify.com
 api.spotify.com
 assets.spotify.com
@@ -3493,8 +3493,8 @@ www.starbucks.com.br
 openapi.starbucks.com
 card.starbucks.com.sg
 cart.starbucks.co.jp
-gift.starbucks.co.jp
 www.starbucks.com.sg
+gift.starbucks.co.jp
 www.starbucks.co.jp
 secureui.starbucks.com
 www.starbucks.co.uk
@@ -3617,8 +3617,8 @@ api.grofers.com
 api2.grofers.com
 *.zdev.net
 *.runnr.in
-blinkit.com
 winecellar.zomato.com
+blinkit.com
 *.hyperpure.com
 *.zomans.com
 *.zomato.com
@@ -3690,9 +3690,9 @@ shopify.plus
 shopifyinbox.com
 *.shopifycloud.com
 linkpop.com
-partners.shopify.com
 *.shopifykloud.com
 *.shopifycs.com
+partners.shopify.com
 accounts.shopify.com
 *.shopify.io
 admin.shopify.com
@@ -3783,7 +3783,7 @@ ispdesign.ui.com
 store.ui.com
 careers.ui.com
 uisp.com
-*.ui.com
+rma.ui.com
 *.ubnt.com
 *.ui.com
 store.ui.com
@@ -3821,8 +3821,8 @@ api.airbnb.com
 www.hoteltonight.com
 *.hoteltonight-test.com
 *.withairbnb.com
-*.airbnb-aws.com
 assets.airbnb.com
+*.airbnb-aws.com
 *.airbnb.com
 www.airbnb.com
 www.airbnb.com
