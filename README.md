@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Apr 21 23:15:11 UTC 2024)
+## Domains with Bounties (Last Updated Mon Apr 22 00:48:00 UTC 2024)
 ```
 puter.com
 puter.com
@@ -25,7 +25,7 @@ www.dyson.nl
 www.dyson.hu
 shop.dyson.co.za
 www.dyson.at
-www.dyson.ch
+api.dyson.it
 *.dyson.com
 www.dyson.co.uk
 www.dyson.com
@@ -305,11 +305,11 @@ webdirectory-eu.truecaller.com
 webonboarding-eu.truecaller.com
 *.dev.remitly.com
 rates.rewire.com
-*.int.remitly.com
 cards.remitly.io
 app3.rewire.to
 rewire.com
 api.remitly.io
+*.int.remitly.com
 app.rewire.to
 remitly.com
 *.int.remitly.com
@@ -440,13 +440,13 @@ www.mercadolibre.com.mx
 www.mercadopago.com.co
 www.mercadopago.cl
 www.mercadolibre.com.ar
-www.mercadolivre.com.br
 www.mercadolibre.cl
-api.mercadopago.com
-www.mercadopago.com.br
-www.mercadopago.com.ar
 www.mercadopago.com.mx
 api.mercadolibre.com
+api.mercadopago.com
+www.mercadopago.com.br
+www.mercadolivre.com.br
+www.mercadopago.com.ar
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -479,9 +479,9 @@ accommodations.booking.com
 portal.taxi.booking.com
 secure-supply-xml.booking.com
 kyc-onboarding.booking.com
-spark.fareharbor.com
 teleport.fareharbor.engineering
 paymentcomponent.booking.com
+spark.fareharbor.com
 flights.booking.com
 indicative-pricing.taxi.booking.com
 taxi.booking.com
@@ -489,8 +489,8 @@ www.fareharbor.com
 secure.booking.com
 marketing.fareharbor.com
 readonly.fareharbor.com
-demo.fareharbor.com
 taxis.booking.com
+demo.fareharbor.com
 sites.fareharbor.com
 chat.booking.com
 careers.booking.com
@@ -695,6 +695,7 @@ visa.co.za
 www.fraedom.com
 www.practicalbusinessskills.org
 www.practicalmoneyskills.org
+www.visainfinite.ca
 www.visa.com.ph
 www.visa.com.mx
 www.visa.co.jp
@@ -712,7 +713,6 @@ www.visa.com.tw
 www.visa.com.tr
 www.visa.com.hr
 www.yellowpepper.com
-www.tink.com
 aw.visa.com
 bb.visa.com
 bd.visa.com
@@ -876,11 +876,11 @@ api-eu.floqast.app
 *.hiltonlocalbiz.com
 hiltonbusinessonline.com
 hiltonlocalbiz.com
+*.hiltonhotels.jp
 hiltonhotels.jp
 *.hilton.io
 *.hiltonbusinessonline.com
 hilton.io
-*.hiltonhotels.jp
 *.hilton.com
 hilton.com
 *.hilton.com
@@ -950,9 +950,9 @@ aws.indrive.tech
 debug.clairvoyance.indrive.tech
 ingest.clairvoyance.indrive.tech
 *.grindr.mobi
-web.grindr.com
 *.grindr.io
 *.grindr.com
+web.grindr.com
 *.grindr.io
 *.grindr.com
 *.grindr.mobi
@@ -964,8 +964,8 @@ skinport.com
 app.skinport.com
 api.skinport.com
 http://skinport.com/blog/
-api.miro.com
 miro.com
+api.miro.com
 http://miro.com/app
 miro.com
 api.miro.com
@@ -1037,10 +1037,10 @@ pay.8x8.com
 work.8x8.com
 uc.8x8pilot.com
 work-staging.8x8.com
-voapi.8x8.com
-*.8x8.id
 platform.8x8pilot.com
 *.chalet.8x8.com
+*.8x8.id
+voapi.8x8.com
 user-profile-staging.8x8.com
 *.8x8staging.com
 platform.8x8.com
@@ -1143,11 +1143,14 @@ hv-mtl.com
 www.ebookers.fi
 www.mrjet.se
 www.expediaagents.com
+*.expediapartnercentral.com
+*.lastminute.co.nz
+www.hotels.com
 www.fewo-direkt.de
 www.stayz.com.au
+www.expediagroup.com
 www.bookabach.co.nz
 www.abritel.fr
-www.expediagroup.com
 *.travelocity.ca
 www.expediapartnersolutions.com
 *.carrentals.com
@@ -1158,11 +1161,8 @@ www.ebookers.com
 *.vrbo.com
 www.expedia.com
 *.lastminute.com.au
-*.expediapartnercentral.com
-*.lastminute.co.nz
-www.hotels.com
-www.expediataap.com
 *.expediacruises.com
+www.expediataap.com
 www.flights.com
 *.cheaptickets.com
 www.orbitz.com
@@ -1214,10 +1214,10 @@ zerobounce.net
 *.gravitational.io
 cloud.gravitational.io
 askpam.ai
+*.goteleport.com
 *.teleportinfra.sh
 platform.teleport.sh
 h1-your-domain.teleport.sh
-*.goteleport.com
 *.goteleport.com
 *.gravitational.com
 *.teleport.dev
@@ -1279,9 +1279,9 @@ royal.checksw.com
 *.superpal.com/*
 *.cornershop.io/*
 *.superpal.io/*
-m.trendyol.com
 www.dolap.com
 www.trendyol-milla.com
+m.trendyol.com
 www.trendyol.com
 www.trendyol.com
 m.trendyol.com
@@ -1318,9 +1318,9 @@ business.linkedin.com
 *.wealthsimple.com
 *.simpletax.ca
 www.cheapflights.com
-www.swoodoo.com
 www.mundi.com.br
 www.checkfelix.com
+www.swoodoo.com
 www.momondo.com
 business.kayak.com
 www.hotelscombined.com
@@ -1346,9 +1346,9 @@ ws.sorare.com
 *.romwe.com
 *.sheingsp.com
 pwapi.ex2b.com
-api.excalls.mobi
 social-trading.exness.com
 exnessaffiliates.com
+api.excalls.mobi
 pay.ibex.exchange
 my.exness.com
 exness.com
@@ -1459,9 +1459,9 @@ support.databricks.com
 advocates.databricks.com
 customer-academy.databricks.com
 labs.databricks.com
-community.databricks.com
 kb.databricks.com
 marketplace.databricks.com
+community.databricks.com
 accounts.cloud.databricks.com
 databricks.com
 databricks.com
@@ -1782,8 +1782,8 @@ mod.reddit.com
 *.snooguts.net
 api.reddit.com
 ads-api.reddit.com
-gql.reddit.com
 oauth.reddit.com
+gql.reddit.com
 accounts.reddit.com
 *.redditinc.com
 www.reddit.com
@@ -1846,8 +1846,8 @@ wp-dev4.chime.com
 wp-dev5.chime.com
 wp-integ.chime.com
 app.chime.com
-wp-qa.chime.com
 www.chime.com
+wp-qa.chime.com
 *.chimebank.com
 *.chime.com
 *.1debit.com
@@ -1991,7 +1991,6 @@ api.adm.cloud.com
 (yoursubdomain).us.iws.cloud.com
 (yoursubdomain).ap.iws.cloud.com
 (yoursubdomain).eu.iws.cloud.com
-accounts.cloud.com
 citrix.cloud.com
 secure.sharefile.eu
 api.sharefile.com
@@ -2001,6 +2000,7 @@ adm.cloud.com
 (youriwssubdomain).cloud.com
 www.cloud.com
 secure.sharefile.com
+accounts.cloud.com
 citrix.cloud.com
 www.cloud.com
 ap-s.cloud.com
@@ -2039,9 +2039,9 @@ effecthouse.tiktok.com
 careers.tiktok.com
 fp-sg.tiktokv.com
 academy-outbound-ads.tiktok.com
+seller-id.tokopedia.com
 business.tiktok.com
 tiktok.com
-seller-id.tokopedia.com
 www.pangleglobal.com
 partner.tiktokshop.com
 *.tiktokv.com
@@ -2100,8 +2100,8 @@ api.figma.com
 www.figma.com
 www.figma.com
 api.figma.com
-support.cs.money
 3d.cs.money
+support.cs.money
 blog.cs.money
 wiki.cs.money
 cs.money
@@ -2384,19 +2384,19 @@ itv7.itv.com
 *.amazon.com.au
 *.amazon.com.ng
 *.amazon.sa
-*.amazon.de
 *.amazon.com.tr
+*.amazon.de
 *.amazon.it
 *.amazon.com.be
-*.amazon.com.co
 *.amazon.eg
+*.amazon.com.co
 *.amazon.ae
 *.amazon.ca
 *.amazon.com.mx
 *.amazon.fr
 *.amazon.co.uk
-*.amazon.cn
 *.amazon.es
+*.amazon.cn
 *.amazon.sg
 *.amazon.se
 *.amazon.pl
@@ -3137,17 +3137,17 @@ api.foliofn.com
 *.folioinvesting.com
 developer.valvesoftware.com
 playartifact.com
-www.counter-strike.net
-store.steampowered.com
-www.teamfortress.com
-steamcommunity.com
 support.steampowered.com
 partner.steamgames.com
+www.teamfortress.com
+steamcommunity.com
+www.counter-strike.net
 www.dota2.com
 partner.steampowered.com
 api.steampowered.com
 help.steampowered.com
 www.valvesoftware.com
+store.steampowered.com
 www.dota2.com
 support.steampowered.com
 partner.steampowered.com
@@ -3294,9 +3294,9 @@ gamma.grab.co
 manage.grab.co
 *.taralite.com
 api.grabpay.com
+*.grabpay.com
 kartaview.org
 *.myteksi.com
-*.grabpay.com
 jira.grab.com
 xtramile.grabpay.com
 grab.careers
@@ -3443,8 +3443,8 @@ socialclub.rockstargames.com
 support.rockstargames.com
 *.rockstargames.com
 store.rockstargames.com
-prod.ros.rockstargames.com
 lifeinvader.com
+prod.ros.rockstargames.com
 socialclub.rockstargames.com
 prod.ros.rockstargames.com
 support.rockstargames.com
@@ -3494,8 +3494,8 @@ www.starbucks.ca
 www.starbucks.fr
 www.starbucks.com.cn
 login.starbucks.co.jp
-www.starbucks.com
 www.starbucks.co.kr
+www.starbucks.com
 www.starbucksreserve.com
 gift.starbucks.co.jp
 login.starbucks.co.jp
@@ -3525,8 +3525,8 @@ ws.blockchain.info
 basicattentiontoken.org
 creators.basicattentiontoken.org
 account.brave.com
-search.brave.com
 talk.brave.com
+search.brave.com
 brave.com
 brave.com
 basicattentiontoken.org
@@ -3711,8 +3711,8 @@ yourcompany.udemy.com
 shopify.plus
 shopifyinbox.com
 linkpop.com
-*.shopifykloud.com
 *.shopifycs.com
+*.shopifykloud.com
 *.shopify.io
 arrive-server.shopifycloud.com
 partners.shopify.com
@@ -4064,8 +4064,8 @@ hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 profile-photos.hackerone-user-content.com
 app.pullrequest.com
 reviewer.pullrequest.com
-ctf.hacker101.com
 www.hackerone.com
+ctf.hacker101.com
 api.hackerone.com
 hackerone-user-content.com
 a5s.hackerone-ext-content.com
@@ -4488,8 +4488,8 @@ api.greenhouse.io
 onboarding.greenhouse.io
 jss.greenhouse.io
 app.interseller.io
-interseller.io
 www.greenhouse.io
+interseller.io
 support.greenhouse.io
 app.greenhouse.io
 app.greenhouse.io
