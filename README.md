@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Apr 26 16:18:26 UTC 2024)
+## Domains with Bounties (Last Updated Fri Apr 26 17:16:59 UTC 2024)
 ```
 api.dyson.se
 api.dyson.dk
@@ -15,7 +15,6 @@ api.dyson.ch
 api.dyson.ie
 shop.dyson.ru
 www.dyson.fr
-www.dyson.co.jp
 www.dyson.co.th
 www.dyson.it
 www.dyson.de
@@ -23,6 +22,7 @@ www.dyson.cz
 www.dyson.nl
 shop.dyson.co.za
 www.dyson.at
+www.dyson.ch
 api.dyson.it
 *.dyson.com
 www.dyson.co.uk
@@ -305,11 +305,11 @@ webonboarding-eu.truecaller.com
 rates.rewire.com
 cards.remitly.io
 api.remitly.io
-app3.rewire.to
 rewire.com
+app3.rewire.to
 *.int.remitly.com
-remitly.com
 app.rewire.to
+remitly.com
 *.int.remitly.com
 *.dev.remitly.com
 remitly.com
@@ -388,8 +388,8 @@ app.dynamic.xyz
 app.dynamic-preprod.xyz
 demo.dynamic.xyz
 app.dynamic.xyz
-*.000webhost.com
 hpanel.hostinger.com
+*.000webhost.com
 payments.hostinger.com
 cpanel.hostinger.com
 www.hostinger.com
@@ -426,10 +426,10 @@ www.mercadolibre.com.uy
 www.mercadopago.com.co
 www.mercadopago.cl
 www.mercadolibre.cl
-www.mercadolibre.com.ar
 www.mercadopago.com.mx
-www.mercadolibre.com.mx
+www.mercadolibre.com.ar
 api.mercadolibre.com
+www.mercadolibre.com.mx
 api.mercadopago.com
 www.mercadolivre.com.br
 www.mercadopago.com.br
@@ -475,8 +475,8 @@ taxi.booking.com
 secure.booking.com
 marketing.fareharbor.com
 readonly.fareharbor.com
-demo.fareharbor.com
 taxis.booking.com
+demo.fareharbor.com
 sites.fareharbor.com
 chat.booking.com
 widget.rentalcars.com
@@ -799,6 +799,7 @@ api.tideplatform.in
 *.tide.co
 *.tide.co
 api.tideplatform.in
+accounts.firefox.com
 api.profiler.firefox.com
 vpn.mozilla.org
 profiler.firefox.com
@@ -818,7 +819,6 @@ phabricator.allizom.org
 community-tc.services.mozilla.com
 stage.taskcluster.nonprod.cloudops.mozgcp.net
 addons.allizom.org
-accounts.firefox.com
 firefox-ci-tc.services.mozilla.com
 relay.firefox.com
 lando.services.mozilla.com
@@ -864,13 +864,13 @@ api-eu.floqast.app
 *.hiltonlocalbiz.com
 hiltonbusinessonline.com
 hiltonlocalbiz.com
-*.hiltonhotels.jp
 *.hilton.io
 *.hiltonbusinessonline.com
 hilton.io
+*.hiltonhotels.jp
 hiltonhotels.jp
-*.hilton.com
 hilton.com
+*.hilton.com
 *.hilton.com
 *.hilton.io
 *.hiltonbusinessonline.com
@@ -1023,10 +1023,10 @@ sms.8x8.com
 work.8x8.com
 uc.8x8pilot.com
 work-staging.8x8.com
+voapi.8x8.com
+*.8x8.id
 platform.8x8pilot.com
 *.chalet.8x8.com
-*.8x8.id
-voapi.8x8.com
 user-profile-staging.8x8.com
 *.8x8staging.com
 platform.8x8.com
@@ -1034,7 +1034,6 @@ sso.8x8pilot.com
 *.wavecell.com
 user-profile.8x8.com
 *.packet8.net
-sso.8x8.com
 *.8x8.vc
 *.jit.si
 *.jitsi.net
@@ -1409,8 +1408,8 @@ shoppers.instacart.com
 api.instacart.com
 *.instacart.tools
 admin.instacart.com
-*.instacart.com
 www.instacart.com
+*.instacart.com
 *.instacart.com
 *.instacart.tools
 api.instacart.com
@@ -1573,11 +1572,11 @@ playwonderbox.com
 therecord.media
 geminiadvisory.io
 hatching.io
+app.recordedfuture.com
 www.recordedfuture.com
 id.recordedfuture.com
 tria.ge
 api.recordedfuture.com
-app.recordedfuture.com
 securitytrails.com
 www.recordedfuture.com
 api.recordedfuture.com
@@ -1615,10 +1614,10 @@ www.fedramp.gov
 marketplace.fedramp.gov
 federalist.18f.gov
 federalist-docs.18f.gov
+cloud.gov
 dashboard.fr.cloud.gov
 api.data.gov
 ssh.fr.cloud.gov
-cloud.gov
 www.usa.gov
 federalist-proxy.app.cloud.gov
 account.fr.cloud.gov
@@ -1747,8 +1746,8 @@ old.reddit.com
 matrix.redditspace.com
 mod.reddit.com
 *.snooguts.net
-oauth.reddit.com
 gql.reddit.com
+oauth.reddit.com
 accounts.reddit.com
 api.reddit.com
 ads.reddit.com
@@ -1756,8 +1755,8 @@ www.reddit.com
 *.redditmedia.com
 *.redditinc.com
 new.reddit.com
-*.reddit.com
 ads-api.reddit.com
+*.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1894,9 +1893,9 @@ hub.yoti.com
 identity.yoti.com
 ccloud.yoti.com
 api.yoti.com
+code.yoti.com
 core.yoti.com
 www.yotisign.com
-code.yoti.com
 core.yoti.com
 api.yoti.com
 ccloud.yoti.com
@@ -1916,8 +1915,8 @@ internal.netlify.com
 netlify-rum.netlify.app
 screenshot-proxy.netlify.app
 api.netlify.com
-*.services.netlify.com
 app.netlify.com
+*.services.netlify.com
 *.services.netlify.com
 *.services-prod.nsvcs.net
 *.infra-prod.nsvcs.net
@@ -1958,9 +1957,9 @@ api.adm.cloud.com
 (yoursubdomain).us.iws.cloud.com
 (yoursubdomain).ap.iws.cloud.com
 (yoursubdomain).eu.iws.cloud.com
-citrix.cloud.com
-api.sharefile.com
 adm.cloud.com
+api.sharefile.com
+citrix.cloud.com
 (youriwssubdomain).cloud.com
 secure.sharefile.com
 (yoursubdomain).sharefile.com
@@ -2008,11 +2007,11 @@ affiliate-id.tokopedia.com
 developers.tiktok.com
 seller-id.tokopedia.com
 shop.tiktok.com
-www.pangleglobal.com
 tiktok.com
+www.pangleglobal.com
 partner.tiktokshop.com
-*.tiktok.com
 creatormarketplace.tiktok.com
+*.tiktok.com
 shop-id.tokopedia.com
 live-backstage.tiktok.com
 *.tiktokv.com
@@ -2077,8 +2076,8 @@ support.cs.money
 blog.cs.money
 wiki.cs.money
 3d.cs.money
-api.faraday.ai
 app.faraday.ai
+api.faraday.ai
 app.faraday.ai
 api.faraday.ai
 *-api-*.acronis.com
@@ -2360,20 +2359,20 @@ itv7.itv.com
 *.amazon.com.co
 *.amazon.com.mx
 *.amazon.es
+*.amazon.co.jp
 *.amazon.sg
 *.amazon.se
-*.amazon.co.jp
 *.amazon.nl
 *.amazon.ca
 *.amazon.fr
 amazonpayinsurance.in
 *.amazon.co.uk
-*.amazon.ae
 *.amazon.com.br
+*.amazon.ae
 *.amazon.pl
 *.amazon.eg
-*.amazon.com
 *.amazon.cn
+*.amazon.com
 *.amazon.in
 *.amazon.cl
 *.amazon.co.za
@@ -2411,9 +2410,9 @@ amazonpayinsurance.in
 www.alibabagroup.com
 *.alibaba.com
 *.taobao.com
+*.aliyun.com
 *.aliexpress.com
 *.alibabacloud.com
-*.aliyun.com
 *.Daraz.com
 *.alibaba-inc.com
 *.alibaba.com
@@ -2601,8 +2600,8 @@ novel.pixiv.net
 coban.pixiv.net
 accounts.pixiv.net
 booth.pm
-www.pixiv.net
 sketch.pixiv.net
+www.pixiv.net
 *.fanbox.cc
 booth.pm
 comic.pixiv.net
@@ -2689,8 +2688,8 @@ app.command.cysiv.com
 api.rezserver.com
 admin.rezserver.com
 reservations.rezserver.com
-press.priceline.com
 cruises.priceline.com
+press.priceline.com
 flyiin.com
 www.priceline.com
 secure.rezserver.com
@@ -2940,10 +2939,10 @@ paypal.me
 *.paylution.com
 api.swiftfinancial.com
 decision.swiftfinancial.com
-partner.swiftfinancial.com
 my.swiftfinancial.com
-scrutiny.swiftfinancial.com
+partner.swiftfinancial.com
 pigeon.swiftfinancial.com
+scrutiny.swiftfinancial.com
 www.swiftfinancial.com
 swiftfinancial.com
 prequal.swiftfinancial.com
@@ -2959,8 +2958,8 @@ py.pl
 *.paypalcorp.com
 *.braintreegateway.com
 *.venmo.com
-sandbox.braintreegateway.com
 *.hyperwallet.com
+sandbox.braintreegateway.com
 paypalobjects.com
 *.braintreepayments.com
 *.paypal.com
@@ -3035,8 +3034,8 @@ staging-admin.shipt.com
 staging-shoppingcart.shipt.com
 shoppingcart.shipt.com
 api.shipt.com
-www.shipt.com
 *.shipt.com
+www.shipt.com
 *.shipt.com
 app.shipt.com
 api.shipt.com
@@ -3088,7 +3087,6 @@ marquee.gs.com
 www.rocaton.com
 *.gspublishing.com
 *.gs.de
-*.unitedcp.com
 *.goldmanpfm.com
 *.finlife.com
 *.finlifepartners.com
@@ -3107,7 +3105,6 @@ api.foliofn.com
 *.folioinvesting.com
 developer.valvesoftware.com
 playartifact.com
-www.teamfortress.com
 support.steampowered.com
 www.dota2.com
 partner.steampowered.com
@@ -3115,6 +3112,7 @@ help.steampowered.com
 api.steampowered.com
 partner.steamgames.com
 www.counter-strike.net
+www.teamfortress.com
 store.steampowered.com
 www.valvesoftware.com
 steamcommunity.com
@@ -3236,8 +3234,8 @@ sijoitusvakuutus.lahitapiola.fi
 privatetarget-1-www.zigzag
 privatetarget-2-secure.zigzag
 *.beta.lahitapiola.fi
-www.lahitapiola.fi
 api.lahitapiola.fi
+www.lahitapiola.fi
 *.lahitapiola.fi
 ext-gw.lahitapiola.fi
 *.lahitapiolarahoitus.fi
@@ -3318,10 +3316,10 @@ bma.badoo.com
 translate.badoo.com
 ccardsus1.badoo.com
 bma.bumble.com
-ccardseu1.badoo.com
 getofficial.co
 us1.badoo.com
 eu1.badoo.com
+ccardseu1.badoo.com
 chatdate.app
 badoocdn.com
 www.bumble.com
@@ -3344,11 +3342,11 @@ ccardseu1.badoo.com
 ccardsus1.badoo.com
 chatdate.app
 getofficial.co
-*.atspotify.com
 *.avecspotify.com
+*.atspotify.com
 *.enspotify.com
-*.forspotify.com
 *.fromspotify.com
+*.forspotify.com
 *.tospotify.com
 api.spotify.com
 assets.spotify.com
@@ -3467,8 +3465,8 @@ www.starbucks.com.br
 openapi.starbucks.com
 card.starbucks.com.sg
 cart.starbucks.co.jp
-gift.starbucks.co.jp
 www.starbucks.com.sg
+gift.starbucks.co.jp
 www.starbucks.co.jp
 secureui.starbucks.com
 www.starbucks.co.uk
@@ -3476,9 +3474,9 @@ app.starbucks.com
 www.starbucks.ca
 www.starbucks.fr
 login.starbucks.co.jp
-www.starbucks.com.cn
-www.starbucks.co.kr
 www.starbucks.com
+www.starbucks.co.kr
+www.starbucks.com.cn
 www.starbucksreserve.com
 gift.starbucks.co.jp
 login.starbucks.co.jp
@@ -3508,8 +3506,8 @@ ws.blockchain.info
 basicattentiontoken.org
 creators.basicattentiontoken.org
 account.brave.com
-talk.brave.com
 search.brave.com
+talk.brave.com
 brave.com
 brave.com
 basicattentiontoken.org
@@ -3572,11 +3570,11 @@ registry.gitlab.com
 *.gitlab.org
 design.gitlab.com
 advisories.gitlab.com
+*.gitlab.net
 about.gitlab.com
 customers.gitlab.com
 docs.gitlab.com
 *.gitlap.com
-*.gitlab.net
 gitlab.com
 *.gitlab.net
 *.gitlab.org
@@ -3663,17 +3661,17 @@ www.udemy.com
 yourcompany.udemy.com
 shopify.plus
 shopifyinbox.com
-*.shopifycs.com
 *.shopifykloud.com
+*.shopifycs.com
 *.shopify.io
 arrive-server.shopifycloud.com
 linkpop.com
 shop.app
-*.shopifycloud.com
 partners.shopify.com
+*.shopifycloud.com
 *.shopify.com
-accounts.shopify.com
 admin.shopify.com
+accounts.shopify.com
 your-store.myshopify.com
 *.shopifycs.com
 *.shopify.io
@@ -3717,9 +3715,9 @@ code.playcanvas.com
 www.bitmoji.com
 story.snapchat.com
 *.sc-corp.net
+app.snapchat.com
 business.snapchat.com
 web.snapchat.com
-app.snapchat.com
 accounts.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
@@ -3795,10 +3793,10 @@ assets.airbnb.com
 next.airbnb.com
 api.airbnb.com
 support-api.airbnb.com
-*.withairbnb.com
 *.hoteltonight-test.com
-www.airbnb.com
+*.withairbnb.com
 *.airbnb.com
+www.airbnb.com
 www.airbnb.com
 next.airbnb.com
 api.airbnb.com
@@ -3892,11 +3890,11 @@ happy.tools
 my.pressable.com
 simplenote.com
 simperium.com
-mailpoet.com
 gravatar.com
 akismet.com
 intensedebate.com
 safe.tumblr.com
+mailpoet.com
 www.tumblr.com
 *.tumblr.com
 assets.tumblr.com
