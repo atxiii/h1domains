@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Apr 30 19:13:52 UTC 2024)
+## Domains with Bounties (Last Updated Tue Apr 30 20:15:30 UTC 2024)
 ```
 api.dyson.se
 api.dyson.dk
@@ -20,8 +20,8 @@ www.dyson.cz
 www.dyson.nl
 shop.dyson.co.za
 www.dyson.at
-api.dyson.it
 www.dyson.ie
+api.dyson.it
 www.dyson.ch
 www.dyson.es
 *.dyson.com
@@ -428,8 +428,8 @@ www.mercadopago.com.mx
 www.mercadolibre.com.mx
 www.mercadolibre.com.uy
 www.mercadopago.com.ar
-www.mercadolibre.cl
 www.mercadopago.com.br
+www.mercadolibre.cl
 api.mercadolibre.com
 www.mercadolibre.com.co
 www.mercadolibre.com.ar
@@ -466,16 +466,16 @@ supply-xml.booking.com
 portal.taxi.booking.com
 secure-supply-xml.booking.com
 kyc-onboarding.booking.com
-spark.fareharbor.com
 teleport.fareharbor.engineering
 paymentcomponent.booking.com
+spark.fareharbor.com
 flights.booking.com
 indicative-pricing.taxi.booking.com
 taxi.booking.com
 marketing.fareharbor.com
 readonly.fareharbor.com
-demo.fareharbor.com
 taxis.booking.com
+demo.fareharbor.com
 sites.fareharbor.com
 chat.booking.com
 widget.rentalcars.com
@@ -769,9 +769,9 @@ developer.authorize.net
 developer.visa.com
 yourdomain.freshchat.com
 yourdomain.freshcaller.com
-yourdomain.freshdesk.com
 yourdomain.myfreshworks.com
 yourdomain.freshservice.com
+yourdomain.freshdesk.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -801,7 +801,6 @@ api.tideplatform.in
 *.tide.co
 *.tide.co
 api.tideplatform.in
-community-tc.services.mozilla.com
 api.profiler.firefox.com
 vpn.mozilla.org
 profiler.firefox.com
@@ -817,6 +816,7 @@ push.services.mozilla.com
 mozilla-pontoon-staging.herokuapp.com
 firefox.settings.services.mozilla.com
 phabricator.allizom.org
+community-tc.services.mozilla.com
 stage.taskcluster.nonprod.cloudops.mozgcp.net
 addons.allizom.org
 firefox-ci-tc.services.mozilla.com
@@ -871,8 +871,8 @@ hiltonlocalbiz.com
 hilton.io
 *.hiltonhotels.jp
 hiltonhotels.jp
-*.hilton.com
 hilton.com
+*.hilton.com
 *.hilton.com
 *.hilton.io
 *.hiltonbusinessonline.com
@@ -1068,11 +1068,11 @@ admin.8x8.com
 *.napoleondice.be
 *.napoleongames.be
 *.napoleonsports.be
-*.luckydays.com
-*.superbet.rs
 *.luckydays.ca
 *.superbet.pl
 *.magicjackpot.ro
+*.luckydays.com
+*.superbet.rs
 *.superbet.com
 *.superbet.ro
 *.superbet.ro
@@ -1315,9 +1315,9 @@ ws.sorare.com
 *.romwe.com
 *.sheingsp.com
 pwapi.ex2b.com
+api.excalls.mobi
 social-trading.exness.com
 exnessaffiliates.com
-api.excalls.mobi
 pay.ibex.exchange
 exness.com
 my.exness.com
@@ -1816,8 +1816,8 @@ wp-dev4.chime.com
 wp-dev5.chime.com
 wp-integ.chime.com
 app.chime.com
-wp-qa.chime.com
 www.chime.com
+wp-qa.chime.com
 *.chimebank.com
 *.1debit.com
 *.chime.com
@@ -1895,9 +1895,9 @@ hackers_chosendomain.larksuite.com
 *.exodus.com
 identity.yoti.com
 ccloud.yoti.com
+www.yotisign.com
 code.yoti.com
 core.yoti.com
-www.yotisign.com
 api.yoti.com
 hub.yoti.com
 core.yoti.com
@@ -1960,8 +1960,8 @@ api.adm.cloud.com
 (yoursubdomain).us.iws.cloud.com
 (yoursubdomain).ap.iws.cloud.com
 (yoursubdomain).eu.iws.cloud.com
-api.sharefile.com
 adm.cloud.com
+api.sharefile.com
 (youriwssubdomain).cloud.com
 secure.sharefile.com
 (yoursubdomain).sharefile.eu
@@ -1969,8 +1969,8 @@ secure.sharefile.eu
 accounts.cloud.com
 (yoursubdomain).sf-api.com
 citrix.cloud.com
-(yoursubdomain).sharefile.com
 www.cloud.com
+(yoursubdomain).sharefile.com
 citrix.cloud.com
 www.cloud.com
 ap-s.cloud.com
@@ -2409,16 +2409,16 @@ amazonpayinsurance.in
 *.aliexpress.ru
 *.aliyun-inc.com
 www.alibabagroup.com
-*.aliexpress.com
 *.alibabacloud.com
+*.aliexpress.com
 *.alibaba-inc.com
 *.alibaba.com
-*.aliyun.com
 *.taobao.com
+*.aliyun.com
 *.1688.com
 *.tmall.com
-*.alimama.com
 *.Daraz.com
+*.alimama.com
 *.alibaba.com
 *.aliexpress.com
 *.taobao.com
@@ -2437,8 +2437,8 @@ dashboard.fortmatic.com
 auth.magic.link
 x2.fortmatic.com
 dashboard.magic.link
-api.fortmatic.com
 api.magic.link
+api.fortmatic.com
 fortmatic.com
 api.fortmatic.com
 x2.fortmatic.com
@@ -2457,8 +2457,8 @@ maria.casino
 *.casinohuone.com
 *.kindredext.net
 *.highrolling.nu
-*.kes.kindredext.net
 *.unibet.fr
+*.kes.kindredext.net
 www.32red.com
 *.mariacasino.com
 *.bingo.com
@@ -3106,8 +3106,8 @@ api.foliofn.com
 developer.valvesoftware.com
 playartifact.com
 partner.steampowered.com
-support.steampowered.com
 www.dota2.com
+support.steampowered.com
 help.steampowered.com
 api.steampowered.com
 partner.steamgames.com
@@ -3133,8 +3133,8 @@ developer.valvesoftware.com
 js.crypto.com
 merchant.crypto.com
 www.crypto.com
-app.mona.co
 tax.crypto.com
+app.mona.co
 pay.crypto.com
 *.crypto.com
 auth.crypto.com
@@ -3153,7 +3153,6 @@ https://crypto.com/price
 bounty-node.rsk.co
 https://github.com/rsksmart/rsk-powhsm/
 bounty-node.rsk.co
-*.deliveroo.fr
 *.deliveroo.ie
 *.deliveroo.it
 *.deliveroo.be
@@ -3164,6 +3163,7 @@ bounty-node.rsk.co
 *.deliveroo.ae
 *.deliveroo.hk
 *.deliveroo.co.uk
+*.deliveroo.fr
 *.deliveroo.co.uk
 *.deliveroo.fr
 *.deliveroo.be
@@ -3207,8 +3207,8 @@ falcon-sandbox.com
 *.humio.com
 www.crowdstrike.com
 hybrid-analysis.com
-*.crowdstrike.com
 *.preempt.com
+*.crowdstrike.com
 *.crowdstrike.com
 *.humio.com
 *.securecircle.com
@@ -3345,14 +3345,14 @@ getofficial.co
 *.avecspotify.com
 *.atspotify.com
 *.enspotify.com
+*.tospotify.com
 *.fromspotify.com
 *.forspotify.com
-*.tospotify.com
 api.spotify.com
 assets.spotify.com
 backstage.io
-*.withspotify.com
 *.byspotify.com
+*.withspotify.com
 *.withspotify.com
 *.byspotify.com
 *.atspotify.com
@@ -3464,8 +3464,8 @@ www.starbucks.com.br
 openapi.starbucks.com
 card.starbucks.com.sg
 cart.starbucks.co.jp
-gift.starbucks.co.jp
 www.starbucks.com.sg
+gift.starbucks.co.jp
 www.starbucks.co.jp
 secureui.starbucks.com
 www.starbucks.co.uk
@@ -3473,10 +3473,10 @@ app.starbucks.com
 www.starbucks.ca
 www.starbucks.fr
 login.starbucks.co.jp
-www.starbucks.co.kr
 www.starbucks.com.cn
-www.starbucks.com
 www.starbucksreserve.com
+www.starbucks.com
+www.starbucks.co.kr
 www.starbucksreserve.com
 gift.starbucks.co.jp
 login.starbucks.co.jp
@@ -3545,8 +3545,8 @@ gist.github.com
 classroom.github.com
 education.github.com
 npmjs.com
-api.github.com
 github.com
+api.github.com
 github.com
 api.github.com
 gist.github.com
@@ -3661,7 +3661,6 @@ www.udemy.com
 yourcompany.udemy.com
 shopify.plus
 *.shopifycs.com
-*.shopifykloud.com
 *.shopify.io
 partners.shopify.com
 shopifyinbox.com
@@ -3672,6 +3671,7 @@ your-store.myshopify.com
 admin.shopify.com
 linkpop.com
 arrive-server.shopifycloud.com
+*.shopifykloud.com
 accounts.shopify.com
 *.shopifycs.com
 *.shopify.io
@@ -3708,14 +3708,14 @@ developer.playcanvas.com
 rt.playcanvas.com
 store.playcanvas.com
 *.sc-core.net
-code.playcanvas.com
 www.bitmoji.com
+code.playcanvas.com
 story.snapchat.com
 *.sc-corp.net
 login.playcanvas.com
 kit.snapchat.com
-accounts.snapchat.com
 app.snapchat.com
+accounts.snapchat.com
 business.snapchat.com
 web.snapchat.com
 playcanvas.com
@@ -3790,8 +3790,8 @@ callbacks.airbnb.com
 *.airbnbcitizen.com
 *.muscache.com
 www.hoteltonight.com
-*.airbnb-aws.com
 assets.airbnb.com
+*.airbnb-aws.com
 next.airbnb.com
 api.airbnb.com
 support-api.airbnb.com
@@ -3860,8 +3860,8 @@ grok.x.ai
 *.twimg.com
 ide.x.ai
 api.x.ai
-x.com
 gnip.com
+x.com
 *.twitter.com
 *.twitter.com
 *.vine.co
@@ -3898,8 +3898,8 @@ akismet.com
 intensedebate.com
 safe.tumblr.com
 assets.tumblr.com
-mailpoet.com
 wordpress.com
+mailpoet.com
 *.tumblr.com
 gravatar.com
 www.tumblr.com
@@ -3948,9 +3948,9 @@ api.coinbase.com
 api.custody.coinbase.com
 institutional.coinbase.com
 *.base.org
-*.coinbase.com
 coinbase.com
 commerce.coinbase.com
+*.coinbase.com
 *.coinbase.com
 *.cbhq.net
 pro.coinbase.com
@@ -3993,7 +3993,6 @@ www.quip.com
 onepush.query.yahoo.com
 proddata.xobni.yahoo.com
 le.yahooapis.com
-yimg.com
 data.mail.yahoo.com
 le.yahooapis.com
 onepush.query.yahoo.com
@@ -4014,8 +4013,8 @@ hackerone-user-content.com
 www.wearehackerone.com
 app.pullrequest.com
 hackerone.live
-a5s.hackerone-ext-content.com
 reviewer.pullrequest.com
+a5s.hackerone-ext-content.com
 errors.hackerone.net
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 b5s.hackerone-ext-content.com
