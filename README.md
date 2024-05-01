@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed May  1 12:22:47 UTC 2024)
+## Domains with Bounties (Last Updated Wed May  1 13:16:46 UTC 2024)
 ```
 api.dyson.se
 api.dyson.dk
@@ -20,9 +20,9 @@ www.dyson.cz
 www.dyson.nl
 shop.dyson.co.za
 www.dyson.at
-www.dyson.ch
-api.dyson.it
 www.dyson.ie
+api.dyson.it
+www.dyson.ch
 www.dyson.es
 *.dyson.com
 www.dyson.co.uk
@@ -374,8 +374,8 @@ http://sandbox-api.fireblocks.io
 university-staging.dynatracelabs.com
 sso-sprint.dynatracelabs.com
 account-sprint.dynatracelabs.com
-myaccount-hardening.dynatracelabs.com
 *.sprint.apps.dynatracelabs.com
+myaccount-hardening.dynatracelabs.com
 *.sprint.dynatracelabs.com
 *.sprint.apps.dynatracelabs.com
 account-sprint.dynatracelabs.com
@@ -483,11 +483,11 @@ cars.booking.com
 careers.booking.com
 accommodations.booking.com
 www.fareharbor.com
-*.rentalcars.com
 compass.fareharbor.com
 fhdn.fareharbor.com
 secure.booking.com
 account.booking.com
+admin.booking.com
 booking.com
 *.booking.com
 *.rentalcars.com
@@ -682,11 +682,11 @@ visa.co.za
 www.fraedom.com
 www.practicalbusinessskills.org
 www.practicalmoneyskills.org
-bd.visa.com
 www.visa.com.ph
 www.visa.com.mx
 www.visa.co.jp
 bb.visa.com
+bd.visa.com
 visa.co.ni
 www.visa.com.kz
 www.visa.co.nz
@@ -801,6 +801,7 @@ api.tideplatform.in
 *.tide.co
 *.tide.co
 api.tideplatform.in
+community-tc.services.mozilla.com
 api.profiler.firefox.com
 vpn.mozilla.org
 profiler.firefox.com
@@ -816,7 +817,6 @@ push.services.mozilla.com
 mozilla-pontoon-staging.herokuapp.com
 firefox.settings.services.mozilla.com
 phabricator.allizom.org
-community-tc.services.mozilla.com
 stage.taskcluster.nonprod.cloudops.mozgcp.net
 addons.allizom.org
 firefox-ci-tc.services.mozilla.com
@@ -871,8 +871,8 @@ hiltonlocalbiz.com
 hilton.io
 *.hiltonhotels.jp
 hiltonhotels.jp
-hilton.com
 *.hilton.com
+hilton.com
 *.hilton.com
 *.hilton.io
 *.hiltonbusinessonline.com
@@ -940,8 +940,8 @@ aws.indrive.tech
 debug.clairvoyance.indrive.tech
 ingest.clairvoyance.indrive.tech
 *.grindr.mobi
-web.grindr.com
 *.grindr.com
+web.grindr.com
 *.grindr.io
 *.grindr.io
 *.grindr.com
@@ -1025,10 +1025,10 @@ sms.8x8.com
 work.8x8.com
 uc.8x8pilot.com
 work-staging.8x8.com
-voapi.8x8.com
-*.8x8.id
 platform.8x8pilot.com
 *.chalet.8x8.com
+*.8x8.id
+voapi.8x8.com
 user-profile-staging.8x8.com
 *.8x8staging.com
 platform.8x8.com
@@ -1127,6 +1127,7 @@ dookeydash.com
 *.wenewmoments.com
 dookeydash.com
 hv-mtl.com
+*.lastminute.co.nz
 www.stayz.com.au
 www.abritel.fr
 *.travelocity.ca
@@ -1135,7 +1136,6 @@ www.hotwirepartnercentral.com
 www.ebookers.com
 *.wotif.com
 *.lastminute.com.au
-*.lastminute.co.nz
 *.cheaptickets.com
 *.travelocity.com
 www.orbitz.com
@@ -1315,9 +1315,9 @@ ws.sorare.com
 *.romwe.com
 *.sheingsp.com
 pwapi.ex2b.com
-api.excalls.mobi
 social-trading.exness.com
 exnessaffiliates.com
+api.excalls.mobi
 pay.ibex.exchange
 exness.com
 my.exness.com
@@ -1895,9 +1895,9 @@ hackers_chosendomain.larksuite.com
 *.exodus.com
 identity.yoti.com
 ccloud.yoti.com
+core.yoti.com
 www.yotisign.com
 code.yoti.com
-core.yoti.com
 api.yoti.com
 hub.yoti.com
 core.yoti.com
@@ -2013,9 +2013,9 @@ seller-id.tokopedia.com
 affiliate-id.tokopedia.com
 www.pangleglobal.com
 live-backstage.tiktok.com
+ads.tiktok.com
 creatormarketplace.tiktok.com
 business.tiktok.com
-ads.tiktok.com
 partner.tiktokshop.com
 tiktok.com
 *.tiktokv.com
@@ -2361,9 +2361,9 @@ itv7.itv.com
 *.amazon.com.be
 *.amazon.com.co
 *.amazon.com.mx
-*.amazon.co.jp
 *.amazon.sg
 *.amazon.se
+*.amazon.co.jp
 *.amazon.nl
 amazonpayinsurance.in
 *.amazon.com.br
@@ -2457,8 +2457,8 @@ maria.casino
 *.casinohuone.com
 *.kindredext.net
 *.highrolling.nu
-*.kes.kindredext.net
 *.unibet.fr
+*.kes.kindredext.net
 www.32red.com
 *.mariacasino.com
 *.bingo.com
@@ -2501,9 +2501,9 @@ www.ritzcarlton.com
 marrtool.com
 all-inclusive.marriott.com
 homes-and-villas.marriott.com
-traveler.marriott.com
 www.marriott.com
 sso.marriott.com
+traveler.marriott.com
 homes-and-villas.marriott.com
 careers.marriott.com
 sso.marriott.com
@@ -2869,26 +2869,26 @@ grammarly.ai
 grammarly.ai
 *.east.fdbox.net
 *.mgmt.fndlsb.net
-*.prd.fndlsb.net
 *.prod.fdbox.net
+*.prd.fndlsb.net
 *inf.fndlsb.net
 *racing.fanduel.com
 4njbets.tvgnetwork.com
 b2b.tvgnetwork.com
 service.racing.fanduel.com
+4njbets.us.betfair.com
 4njbets.tvg.com
 4njbets.com
-4njbets.us.betfair.com
 mobile-prod.tvg.com
-m.4njbets.tvg.com
 pabets.tvg.com
-login.tvg.com
-www.4njbets.com
 service.tvg.com
 promos.tvg.com
 login-4njbets.us.betfair.com
 login-pabets.tvg.com
 login-ia.tvg.com
+m.4njbets.tvg.com
+login.tvg.com
+www.4njbets.com
 login-4ngbets.us.betfair.com
 login.pabets.tvg.com
 com.fanduel.android.live
@@ -2944,10 +2944,10 @@ paypal.me
 *.paylution.com
 api.swiftfinancial.com
 decision.swiftfinancial.com
-my.swiftfinancial.com
 partner.swiftfinancial.com
-pigeon.swiftfinancial.com
+my.swiftfinancial.com
 scrutiny.swiftfinancial.com
+pigeon.swiftfinancial.com
 www.swiftfinancial.com
 swiftfinancial.com
 prequal.swiftfinancial.com
@@ -2961,8 +2961,8 @@ www.loanbuilder.com
 *.paypalcorp.com
 *.venmo.com
 *.braintreepayments.com
-loanbuilder.com
 *.braintree-api.com
+loanbuilder.com
 *.xoom.com
 *.braintreegateway.com
 sandbox.braintreegateway.com
@@ -3069,6 +3069,7 @@ marquee.gs.com
 *.foliodigitalwealth.com
 *.foliofn.com
 *.nnip.com
+*.marcus.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -3155,12 +3156,12 @@ https://github.com/rsksmart/rsk-powhsm/
 bounty-node.rsk.co
 *.deliveroo.be
 *.deliveroo.ie
-*.deliveroo.com.sg
-*.deliveroo.ae
 *.deliveroo.it
 *.deliveroo.com.hk
 *.deliveroo.com.kw
 *.deliveroo.com.qa
+*.deliveroo.com.sg
+*.deliveroo.ae
 *.deliveroo.hk
 *.deliveroo.co.uk
 *.deliveroo.fr
@@ -3236,8 +3237,8 @@ privatetarget-2-secure.zigzag
 api.lahitapiola.fi
 ext-gw.lahitapiola.fi
 www.lahitapiola.fi
-*.lahitapiola.fi
 yrityspalvelu.tapiola.fi
+*.lahitapiola.fi
 *.lahitapiolarahoitus.fi
 *.lahitapiola.fi
 *.tapiola.fi
@@ -3316,9 +3317,9 @@ bma.badoo.com
 translate.badoo.com
 ccardsus1.badoo.com
 bma.bumble.com
-ccardseu1.badoo.com
 us1.badoo.com
 eu1.badoo.com
+ccardseu1.badoo.com
 badoocdn.com
 www.bumble.com
 hotornot.com
@@ -3342,17 +3343,17 @@ ccardseu1.badoo.com
 ccardsus1.badoo.com
 chatdate.app
 getofficial.co
-*.avecspotify.com
 *.atspotify.com
+*.avecspotify.com
 *.enspotify.com
-*.fromspotify.com
 *.forspotify.com
+*.fromspotify.com
 *.tospotify.com
 api.spotify.com
 assets.spotify.com
 backstage.io
-*.withspotify.com
 *.byspotify.com
+*.withspotify.com
 *.withspotify.com
 *.byspotify.com
 *.atspotify.com
@@ -3464,8 +3465,8 @@ www.starbucks.com.br
 openapi.starbucks.com
 card.starbucks.com.sg
 cart.starbucks.co.jp
-www.starbucks.com.sg
 gift.starbucks.co.jp
+www.starbucks.com.sg
 www.starbucks.co.jp
 secureui.starbucks.com
 www.starbucks.co.uk
@@ -3663,16 +3664,16 @@ shopify.plus
 *.shopifycs.com
 *.shopify.io
 shopifyinbox.com
-*.shopifycloud.com
 shop.app
 *.shopify.com
-your-store.myshopify.com
 admin.shopify.com
 linkpop.com
 arrive-server.shopifycloud.com
 *.shopifykloud.com
 partners.shopify.com
 accounts.shopify.com
+*.shopifycloud.com
+your-store.myshopify.com
 *.shopifycs.com
 *.shopify.io
 *.shopify.com
@@ -3790,8 +3791,8 @@ callbacks.airbnb.com
 *.luxuryretreats.com
 *.airbnbcitizen.com
 www.hoteltonight.com
-assets.airbnb.com
 *.airbnb-aws.com
+assets.airbnb.com
 next.airbnb.com
 api.airbnb.com
 support-api.airbnb.com
@@ -3900,10 +3901,10 @@ intensedebate.com
 safe.tumblr.com
 assets.tumblr.com
 mailpoet.com
-*.tumblr.com
 gravatar.com
 www.tumblr.com
 wordpress.com
+*.tumblr.com
 *.tumblr.com
 *.srvcs.tumblr.com
 api.tumblr.com
@@ -3944,8 +3945,8 @@ prime.coinbase.com
 international.coinbase.com
 nft.coinbase.com
 cloud.coinbase.com
-api.coinbase.com
 pro.coinbase.com
+api.coinbase.com
 api.custody.coinbase.com
 institutional.coinbase.com
 *.base.org
@@ -4013,8 +4014,8 @@ ctf.hacker101.com
 hackerone-user-content.com
 www.wearehackerone.com
 hackerone.live
-errors.hackerone.net
 a5s.hackerone-ext-content.com
+errors.hackerone.net
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 b5s.hackerone-ext-content.com
 api.hackerone.com
