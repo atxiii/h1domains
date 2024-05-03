@@ -2,14 +2,14 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri May  3 20:15:53 UTC 2024)
+## Domains with Bounties (Last Updated Fri May  3 21:14:01 UTC 2024)
 ```
 api.americanwagering.com
 *.us.williamhill.com
 williamhill.us
 sportsbook.caesars.com
-*.williamhill.us
 caesarspalaceonline.com
+*.williamhill.us
 *.us.williamhill.com
 *.williamhill.us
 sportsbook.caesars.com
@@ -24,8 +24,8 @@ williamhill.us
 usercontent.koho.ca
 app.koho.ca
 web.koho.ca
-webgateway.koho.ca
 www.koho.ca
+webgateway.koho.ca
 web.koho.ca
 http://api.koho.ca/1.0
 http://api.koho.ca/partner
@@ -49,9 +49,9 @@ www.dyson.cz
 www.dyson.nl
 shop.dyson.co.za
 www.dyson.at
-www.dyson.ch
-api.dyson.it
 www.dyson.ie
+api.dyson.it
+www.dyson.ch
 www.dyson.es
 *.dyson.com
 www.dyson.co.uk
@@ -334,8 +334,8 @@ webonboarding-eu.truecaller.com
 *.dev.remitly.com
 cards.remitly.io
 api.remitly.io
-app3.rewire.to
 rewire.com
+app3.rewire.to
 app.rewire.to
 *.int.remitly.com
 remitly.com
@@ -434,8 +434,8 @@ store.23andme.com
 auth.23andme.com
 api.23andme.com
 you.23andme.com
-medical.23andme.com
 therapeutics.23andme.com
+medical.23andme.com
 blog.23andme.com
 mediacenter.23andme.com
 research.23andme.com
@@ -459,11 +459,11 @@ www.mercadolibre.cl
 www.mercadolibre.com.co
 www.mercadopago.cl
 api.mercadolibre.com
-api.mercadopago.com
 www.mercadolibre.com.mx
+api.mercadopago.com
 www.mercadolibre.com.ar
-www.mercadopago.com.ar
 www.mercadolivre.com.br
+www.mercadopago.com.ar
 www.mercadopago.com.br
 api.mercadopago.com
 www.mercadopago.com.ar
@@ -502,8 +502,8 @@ indicative-pricing.taxi.booking.com
 taxi.booking.com
 marketing.fareharbor.com
 readonly.fareharbor.com
-demo.fareharbor.com
 taxis.booking.com
+demo.fareharbor.com
 sites.fareharbor.com
 chat.booking.com
 widget.rentalcars.com
@@ -896,9 +896,9 @@ api-eu.floqast.app
 *.hiltonlocalbiz.com
 hiltonbusinessonline.com
 hiltonlocalbiz.com
+*.hiltonhotels.jp
 *.hiltonbusinessonline.com
 hilton.io
-*.hiltonhotels.jp
 hiltonhotels.jp
 *.hilton.io
 *.hilton.com
@@ -970,8 +970,8 @@ aws.indrive.tech
 debug.clairvoyance.indrive.tech
 ingest.clairvoyance.indrive.tech
 *.grindr.mobi
-*.grindr.com
 web.grindr.com
+*.grindr.com
 *.grindr.io
 *.grindr.io
 *.grindr.com
@@ -1104,8 +1104,8 @@ admin.8x8.com
 *.magicjackpot.ro
 *.luckydays.com
 *.superbet.rs
-*.superbet.com
 *.superbet.ro
+*.superbet.com
 *.superbet.ro
 *.superbet.rs
 *.superbet.com
@@ -1647,10 +1647,10 @@ www.fedramp.gov
 marketplace.fedramp.gov
 federalist.18f.gov
 federalist-docs.18f.gov
-cloud.gov
 dashboard.fr.cloud.gov
 api.data.gov
 ssh.fr.cloud.gov
+cloud.gov
 www.usa.gov
 *.login.gov
 federalist-proxy.app.cloud.gov
@@ -1846,8 +1846,8 @@ wp-dev4.chime.com
 wp-dev5.chime.com
 wp-integ.chime.com
 app.chime.com
-wp-qa.chime.com
 www.chime.com
+wp-qa.chime.com
 *.chimebank.com
 *.1debit.com
 *.chime.com
@@ -1923,10 +1923,10 @@ hackers_chosendomain.larksuite.com
 *.exodus.io
 *.a.exodus.io
 *.exodus.com
-ccloud.yoti.com
 identity.yoti.com
-core.yoti.com
+ccloud.yoti.com
 code.yoti.com
+core.yoti.com
 api.yoti.com
 hub.yoti.com
 www.yotisign.com
@@ -1967,8 +1967,8 @@ internal-docs.netlify.com
 supportal.netlify.app
 world.hey.com
 launchpad.37signals.com
-3.basecamp.com
 *.hey.com
+3.basecamp.com
 *.hey.com
 3.basecamp.com
 launchpad.37signals.com
@@ -2042,14 +2042,14 @@ seller-id.tokopedia.com
 affiliate-id.tokopedia.com
 www.pangleglobal.com
 business.tiktok.com
+partner.tiktokshop.com
 live-backstage.tiktok.com
 creatormarketplace.tiktok.com
-partner.tiktokshop.com
 tiktok.com
 *.tiktokv.com
 *.tiktok.com
-ads.tiktok.com
 developers.tiktok.com
+ads.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2101,8 +2101,8 @@ www.figma.com
 api.figma.com
 3d.cs.money
 blog.cs.money
-support.cs.money
 wiki.cs.money
+support.cs.money
 cs.money
 cs.money
 support.cs.money
@@ -2292,8 +2292,8 @@ wallet.polygon.technology
 faucet.polygon.technology
 burn.polygon.technology
 bridge-api.matic.network
-open-api.polygon.technology
 portal.polygon.technology
+open-api.polygon.technology
 wallet.polygon.technology
 staking-api.polygon.technology
 bridge-explorer.polygon.technology
@@ -2401,10 +2401,10 @@ amazonpayinsurance.in
 *.amazon.cn
 *.amazon.co.uk
 *.amazon.com.br
-*.amazon.in
 *.amazon.ca
-*.amazon.co.jp
 *.amazon.com.au
+*.amazon.co.jp
+*.amazon.in
 *.amazon.com
 *.amazon.cl
 *.amazon.co.za
@@ -2804,7 +2804,7 @@ booking.cheapcaribbean.com
 res.hyattinclusivecollection.com
 booking.applevacations.com
 login.www.vaxvacationaccess.com
-new.www.vaxvacationaccess.com
+res.en.travelbrandsagent.com
 hyatt.com
 www.hyatt.com
 world.hyatt.com
@@ -2963,17 +2963,17 @@ paypal.me
 *.braintree.tools
 *.paylution.com
 api.swiftfinancial.com
-scrutiny.swiftfinancial.com
-www.swiftfinancial.com
-swiftfinancial.com
-www.swiftcapital.com
-swiftcapital.com
 decision.swiftfinancial.com
 partner.swiftfinancial.com
+scrutiny.swiftfinancial.com
 pigeon.swiftfinancial.com
+www.swiftfinancial.com
+swiftfinancial.com
 prequal.swiftfinancial.com
 api.loanbuilder.com
 my.loanbuilder.com
+www.swiftcapital.com
+swiftcapital.com
 py.pl
 *.venmo.com
 loanbuilder.com
@@ -3126,9 +3126,9 @@ api.foliofn.com
 *.folioinvesting.com
 developer.valvesoftware.com
 playartifact.com
-support.steampowered.com
-www.dota2.com
 partner.steampowered.com
+www.dota2.com
+support.steampowered.com
 help.steampowered.com
 api.steampowered.com
 partner.steamgames.com
@@ -3174,15 +3174,15 @@ https://crypto.com/price
 bounty-node.rsk.co
 https://github.com/rsksmart/rsk-powhsm/
 bounty-node.rsk.co
-*.deliveroo.hk
-*.deliveroo.be
-*.deliveroo.com.kw
 *.deliveroo.ie
 *.deliveroo.it
+*.deliveroo.be
 *.deliveroo.com.hk
+*.deliveroo.com.kw
 *.deliveroo.com.qa
 *.deliveroo.com.sg
 *.deliveroo.ae
+*.deliveroo.hk
 *.deliveroo.co.uk
 *.deliveroo.fr
 *.deliveroo.co.uk
@@ -3363,11 +3363,11 @@ ccardseu1.badoo.com
 ccardsus1.badoo.com
 chatdate.app
 getofficial.co
-*.avecspotify.com
 *.atspotify.com
+*.avecspotify.com
 *.enspotify.com
-*.fromspotify.com
 *.forspotify.com
+*.fromspotify.com
 *.tospotify.com
 assets.spotify.com
 backstage.io
@@ -3595,8 +3595,8 @@ customers.gitlab.com
 docs.gitlab.com
 *.gitlap.com
 *.gitlab.net
-gitlab.com
 *.gitlab.org
+gitlab.com
 *.gitlab.net
 *.gitlab.org
 *.gitlap.com
@@ -3684,10 +3684,10 @@ shopify.plus
 *.shopifycs.com
 arrive-server.shopifycloud.com
 *.shopifykloud.com
+shopifyinbox.com
 linkpop.com
 accounts.shopify.com
 *.shopifycloud.com
-shopifyinbox.com
 *.shopify.io
 your-store.myshopify.com
 partners.shopify.com
@@ -3897,6 +3897,7 @@ api.cloudflare.com
 cloudflareworkers.com
 dash.cloudflare.com
 *.cloudflare.com
+one.dash.cloudflare.com
 dash.cloudflare.com
 cloudflareworkers.com
 *.teams.cloudflare.com
@@ -3960,7 +3961,6 @@ blog.irccloud.com
 custody.coinbase.com
 prime.coinbase.com
 international.coinbase.com
-nft.coinbase.com
 pro.coinbase.com
 api.custody.coinbase.com
 institutional.coinbase.com
@@ -3971,6 +3971,7 @@ coinbase.com
 *.cbhq.net
 *.coinbase.com
 cloud.coinbase.com
+nft.coinbase.com
 *.coinbase.com
 *.cbhq.net
 pro.coinbase.com
@@ -4039,9 +4040,9 @@ hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 app.pullrequest.com
 reviewer.pullrequest.com
 b5s.hackerone-ext-content.com
-api.hackerone.com
 www.hackerone.com
 hackerone.com
+api.hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
