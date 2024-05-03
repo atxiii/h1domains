@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri May  3 17:14:55 UTC 2024)
+## Domains with Bounties (Last Updated Fri May  3 18:19:29 UTC 2024)
 ```
 api.americanwagering.com
 caesarspalaceonline.com
@@ -23,8 +23,8 @@ https://caesarspalaceonline.com/us/pa/casino
 williamhill.us
 usercontent.koho.ca
 app.koho.ca
-webgateway.koho.ca
 www.koho.ca
+webgateway.koho.ca
 web.koho.ca
 web.koho.ca
 http://api.koho.ca/1.0
@@ -49,9 +49,9 @@ www.dyson.cz
 www.dyson.nl
 shop.dyson.co.za
 www.dyson.at
+www.dyson.ch
 api.dyson.it
 www.dyson.ie
-www.dyson.ch
 www.dyson.es
 *.dyson.com
 www.dyson.co.uk
@@ -434,8 +434,8 @@ store.23andme.com
 auth.23andme.com
 api.23andme.com
 you.23andme.com
-therapeutics.23andme.com
 medical.23andme.com
+therapeutics.23andme.com
 blog.23andme.com
 mediacenter.23andme.com
 research.23andme.com
@@ -712,11 +712,11 @@ visa.co.za
 www.fraedom.com
 www.practicalbusinessskills.org
 www.practicalmoneyskills.org
+bd.visa.com
 www.visa.com.ph
 www.visa.com.mx
 www.visa.co.jp
 bb.visa.com
-bd.visa.com
 visa.co.ni
 www.visa.com.kz
 www.visa.co.nz
@@ -798,8 +798,8 @@ sandbox.authorize.net
 developer.authorize.net
 developer.visa.com
 yourdomain.freshcaller.com
-yourdomain.freshdesk.com
 yourdomain.freshservice.com
+yourdomain.freshdesk.com
 yourdomain.freshchat.com
 yourdomain.myfreshworks.com
 yourdomain.freshdesk.com
@@ -852,12 +852,12 @@ developer.mozilla.org
 www.mozilla.org
 sync.services.mozilla.com
 hg.mozilla.org
-relay.firefox.com
 accounts.firefox.com
-stage.taskcluster.nonprod.cloudops.mozgcp.net
 community-tc.services.mozilla.com
+stage.taskcluster.nonprod.cloudops.mozgcp.net
 firefox-ci-tc.services.mozilla.com
 support.mozilla.org
+relay.firefox.com
 addons.allizom.org
 developer.mozilla.org
 accounts.firefox.com
@@ -914,9 +914,9 @@ hiltonbusinessonline.com
 hiltonlocalbiz.com
 hiltonhotels.jp
 *.oklink.com
+*.okg.com
 *.okx.com
 *.okcoin.com
-*.okg.com
 *.okx.com
 *.okcoin.com
 *.oklink.com
@@ -1052,7 +1052,6 @@ http://www.kiwi.com/stories
 jobs.kiwi.com
 sms.8x8.com
 *.p8t.us
-work.8x8.com
 uc.8x8pilot.com
 work-staging.8x8.com
 platform.8x8pilot.com
@@ -1061,13 +1060,14 @@ platform.8x8pilot.com
 voapi.8x8.com
 user-profile-staging.8x8.com
 *.8x8staging.com
-sso.8x8pilot.com
 platform.8x8.com
+sso.8x8pilot.com
 *.wavecell.com
-user-profile.8x8.com
 sso.8x8.com
 *.jitsi.net
 *.jit.si
+pay.8x8.com
+*.8x8.vc
 *.8x8.vc
 *.jit.si
 *.jitsi.net
@@ -1104,8 +1104,8 @@ admin.8x8.com
 *.magicjackpot.ro
 *.luckydays.com
 *.superbet.rs
-*.superbet.com
 *.superbet.ro
+*.superbet.com
 *.superbet.ro
 *.superbet.rs
 *.superbet.com
@@ -1215,9 +1215,9 @@ www.expediagroup.com
 www.flights.com
 www.expediataap.com
 *.magiceden.workers.dev
-*.magiceden.dev
 *.magiceden.io
 magiceden.io
+*.magiceden.dev
 magiceden.io
 *.magiceden.io
 *.magiceden.dev
@@ -1231,9 +1231,9 @@ zerobounce.net
 pb.deribit.com
 tools.deribit.com
 metrics.deribit.com
+insights.deribit.com
 *.deribit.com
 test.deribit.com
-insights.deribit.com
 *.deribit.com
 test.deribit.com
 insights.deribit.com
@@ -1317,9 +1317,9 @@ business.linkedin.com
 *.wealthsimple.com
 *.wealthsimple.com
 *.simpletax.ca
-www.swoodoo.com
 www.mundi.com.br
 www.checkfelix.com
+www.swoodoo.com
 business.kayak.com
 www.kayak.com
 www.cheapflights.com
@@ -1647,10 +1647,10 @@ www.fedramp.gov
 marketplace.fedramp.gov
 federalist.18f.gov
 federalist-docs.18f.gov
+cloud.gov
 dashboard.fr.cloud.gov
 api.data.gov
 ssh.fr.cloud.gov
-cloud.gov
 www.usa.gov
 *.login.gov
 federalist-proxy.app.cloud.gov
@@ -1740,11 +1740,11 @@ cloud.elastic.co
 api.taxjar.com
 *.reckoproduction.com
 *.link.co
+app.taxjar.com
 *.reckostaging.com
 *.recko.io
 js.stripe.com
 *.touchtechpayments.com
-app.taxjar.com
 api.stripe.com
 *.stripe.com
 api.stripe.com
@@ -1990,8 +1990,8 @@ api.adm.cloud.com
 (yoursubdomain).us.iws.cloud.com
 (yoursubdomain).ap.iws.cloud.com
 (yoursubdomain).eu.iws.cloud.com
-adm.cloud.com
 api.sharefile.com
+adm.cloud.com
 (youriwssubdomain).cloud.com
 secure.sharefile.com
 (yoursubdomain).sharefile.eu
@@ -2043,13 +2043,13 @@ affiliate-id.tokopedia.com
 www.pangleglobal.com
 business.tiktok.com
 developers.tiktok.com
-partner.tiktokshop.com
 live-backstage.tiktok.com
 creatormarketplace.tiktok.com
+partner.tiktokshop.com
 tiktok.com
-ads.tiktok.com
-*.tiktok.com
 *.tiktokv.com
+*.tiktok.com
+ads.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2101,8 +2101,8 @@ www.figma.com
 api.figma.com
 3d.cs.money
 blog.cs.money
-wiki.cs.money
 support.cs.money
+wiki.cs.money
 cs.money
 cs.money
 support.cs.money
@@ -2292,8 +2292,8 @@ wallet.polygon.technology
 faucet.polygon.technology
 burn.polygon.technology
 bridge-api.matic.network
-open-api.polygon.technology
 portal.polygon.technology
+open-api.polygon.technology
 wallet.polygon.technology
 staking-api.polygon.technology
 bridge-explorer.polygon.technology
@@ -2381,7 +2381,6 @@ super6.skysports.com
 itv7.itv.com
 *.amazon.cl
 *.amazon.co.za
-*.amazon.com.au
 *.amazon.com.ng
 *.amazon.sa
 *.amazon.com.tr
@@ -2404,6 +2403,7 @@ amazonpayinsurance.in
 *.amazon.com.br
 *.amazon.in
 *.amazon.ca
+*.amazon.com.au
 *.amazon.co.jp
 *.amazon.com
 *.amazon.cl
@@ -2484,8 +2484,8 @@ maria.casino
 *.casinohuone.com
 *.kindredext.net
 *.highrolling.nu
-*.unibet.fr
 *.kes.kindredext.net
+*.unibet.fr
 www.32red.com
 *.bingo.com
 *.unibet.com
@@ -2899,15 +2899,15 @@ service.racing.fanduel.com
 4njbets.us.betfair.com
 4njbets.tvg.com
 4njbets.com
-mobile-prod.tvg.com
-pabets.tvg.com
-service.tvg.com
-promos.tvg.com
 login-4njbets.us.betfair.com
 login-pabets.tvg.com
 login-ia.tvg.com
 m.4njbets.tvg.com
 login.tvg.com
+mobile-prod.tvg.com
+pabets.tvg.com
+service.tvg.com
+promos.tvg.com
 www.4njbets.com
 login-4ngbets.us.betfair.com
 login.pabets.tvg.com
@@ -2978,7 +2978,6 @@ py.pl
 *.hyperwallet.com
 *.venmo.com
 loanbuilder.com
-sandbox.braintreegateway.com
 paypalobjects.com
 www.loanbuilder.com
 *.braintreepayments.com
@@ -2987,6 +2986,7 @@ www.loanbuilder.com
 *.braintree-api.com
 my.swiftfinancial.com
 *.xoom.com
+sandbox.braintreegateway.com
 *.paypal.com
 *.xoom.com
 *.paypal.com
@@ -3089,7 +3089,6 @@ marquee.gs.com
 *.foliodigitalwealth.com
 *.foliofn.com
 *.nnip.com
-*.marcus.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -3174,9 +3173,9 @@ https://crypto.com/price
 bounty-node.rsk.co
 https://github.com/rsksmart/rsk-powhsm/
 bounty-node.rsk.co
-*.deliveroo.be
 *.deliveroo.ie
 *.deliveroo.it
+*.deliveroo.be
 *.deliveroo.com.hk
 *.deliveroo.com.kw
 *.deliveroo.com.qa
@@ -3255,10 +3254,10 @@ privatetarget-2-secure.zigzag
 *.beta.lahitapiola.fi
 yrityspalvelu.tapiola.fi
 verkkopalvelu.tapiola.fi
+api.lahitapiola.fi
 ext-gw.lahitapiola.fi
 www.lahitapiola.fi
 *.lahitapiola.fi
-api.lahitapiola.fi
 *.lahitapiolarahoitus.fi
 *.lahitapiola.fi
 *.tapiola.fi
@@ -3363,11 +3362,11 @@ ccardseu1.badoo.com
 ccardsus1.badoo.com
 chatdate.app
 getofficial.co
-*.avecspotify.com
 *.atspotify.com
+*.avecspotify.com
 *.enspotify.com
-*.fromspotify.com
 *.forspotify.com
+*.fromspotify.com
 *.tospotify.com
 assets.spotify.com
 backstage.io
@@ -3485,8 +3484,8 @@ www.starbucks.com.br
 openapi.starbucks.com
 card.starbucks.com.sg
 cart.starbucks.co.jp
-gift.starbucks.co.jp
 www.starbucks.com.sg
+gift.starbucks.co.jp
 www.starbucks.co.jp
 secureui.starbucks.com
 www.starbucks.co.uk
@@ -3684,10 +3683,10 @@ shopify.plus
 *.shopifycs.com
 arrive-server.shopifycloud.com
 *.shopifykloud.com
+shopifyinbox.com
 linkpop.com
 accounts.shopify.com
 *.shopifycloud.com
-shopifyinbox.com
 *.shopify.io
 your-store.myshopify.com
 shop.app
@@ -3819,8 +3818,8 @@ support-api.airbnb.com
 www.hoteltonight.com
 *.airbnb-aws.com
 www.airbnb.com
-*.airbnb.com
 *.withairbnb.com
+*.airbnb.com
 www.airbnb.com
 next.airbnb.com
 api.airbnb.com
@@ -3969,8 +3968,8 @@ institutional.coinbase.com
 commerce.coinbase.com
 api.coinbase.com
 coinbase.com
-*.coinbase.com
 *.cbhq.net
+*.coinbase.com
 cloud.coinbase.com
 *.coinbase.com
 *.cbhq.net
@@ -4041,8 +4040,8 @@ app.pullrequest.com
 reviewer.pullrequest.com
 b5s.hackerone-ext-content.com
 api.hackerone.com
-www.hackerone.com
 hackerone.com
+www.hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
@@ -4523,10 +4522,10 @@ api.greenhouse.io
 onboarding.greenhouse.io
 jss.greenhouse.io
 app.interseller.io
-interseller.io
 www.greenhouse.io
 support.greenhouse.io
 app.greenhouse.io
+interseller.io
 app.greenhouse.io
 boards.greenhouse.io
 api.greenhouse.io
