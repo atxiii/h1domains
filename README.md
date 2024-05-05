@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun May  5 10:15:28 UTC 2024)
+## Domains with Bounties (Last Updated Sun May  5 11:14:24 UTC 2024)
 ```
 *.us.williamhill.com
 caesarspalaceonline.com
@@ -432,8 +432,8 @@ https://passport.eufy.com/?app=eufy-us
 education.23andme.com
 store.23andme.com
 api.23andme.com
-medical.23andme.com
 therapeutics.23andme.com
+medical.23andme.com
 blog.23andme.com
 mediacenter.23andme.com
 research.23andme.com
@@ -502,8 +502,8 @@ indicative-pricing.taxi.booking.com
 taxi.booking.com
 marketing.fareharbor.com
 readonly.fareharbor.com
-taxis.booking.com
 demo.fareharbor.com
+taxis.booking.com
 sites.fareharbor.com
 widget.rentalcars.com
 cars.booking.com
@@ -515,8 +515,8 @@ fhdn.fareharbor.com
 *.rentalcars.com
 experiences.booking.com
 account.booking.com
-booking.com
 paymentcomponent.booking.com
+booking.com
 secure.booking.com
 chat.booking.com
 *.booking.com
@@ -712,11 +712,11 @@ visa.co.za
 www.fraedom.com
 www.practicalbusinessskills.org
 www.practicalmoneyskills.org
-bd.visa.com
 www.visa.com.ph
 www.visa.com.mx
 www.visa.co.jp
 bb.visa.com
+bd.visa.com
 visa.co.ni
 www.visa.com.kz
 www.visa.co.nz
@@ -896,9 +896,9 @@ api-eu.floqast.app
 *.hiltonlocalbiz.com
 hiltonbusinessonline.com
 hiltonlocalbiz.com
-*.hiltonhotels.jp
 *.hiltonbusinessonline.com
 hilton.io
+*.hiltonhotels.jp
 hiltonhotels.jp
 *.hilton.io
 hilton.com
@@ -942,9 +942,9 @@ volans.tech
 profile-api.eu-east-1.indriverapp.com
 ci.indrive.dev
 *.indrive.com
-*.indriverapp.com
 auth.indrive.tech
 *.indriver.com
+*.indriverapp.com
 *.indriverapp.com
 *.indrive.com
 *.indriver.com
@@ -1098,11 +1098,11 @@ admin.8x8.com
 *.napoleondice.be
 *.napoleongames.be
 *.napoleonsports.be
+*.luckydays.com
+*.superbet.rs
 *.luckydays.ca
 *.superbet.pl
 *.magicjackpot.ro
-*.luckydays.com
-*.superbet.rs
 *.superbet.com
 *.superbet.ro
 *.superbet.ro
@@ -1157,10 +1157,10 @@ hv-mtl.com
 *.wenewmoments.com
 dookeydash.com
 hv-mtl.com
-*.lastminute.co.nz
 www.stayz.com.au
 www.abritel.fr
 www.hotwirepartnercentral.com
+*.lastminute.co.nz
 *.travelocity.com
 www.flights.com
 www.ebookers.fi
@@ -1169,11 +1169,10 @@ www.bookabach.co.nz
 www.expediagroup.com
 www.expediapartnersolutions.com
 www.fewo-direkt.de
-*.cheaptickets.com
 www.mrjet.se
-www.ebookers.com
-www.expediaagents.com
 www.expediataap.com
+www.expediaagents.com
+www.ebookers.com
 www.orbitz.com
 *.vrbo.com
 *.expediapartnercentral.com
@@ -1185,6 +1184,7 @@ www.hotels.com
 *.hotwire.com
 www.expedia.com
 *.travelocity.ca
+*.cheaptickets.com
 *.vrbo.com
 *.hotwire.com
 *.carrentals.com
@@ -1345,9 +1345,9 @@ ws.sorare.com
 *.romwe.com
 *.sheingsp.com
 pwapi.ex2b.com
-api.excalls.mobi
 social-trading.exness.com
 exnessaffiliates.com
+api.excalls.mobi
 pay.ibex.exchange
 exness.com
 my.exness.com
@@ -1646,10 +1646,10 @@ www.fedramp.gov
 marketplace.fedramp.gov
 federalist.18f.gov
 federalist-docs.18f.gov
+cloud.gov
 dashboard.fr.cloud.gov
 api.data.gov
 ssh.fr.cloud.gov
-cloud.gov
 www.usa.gov
 *.login.gov
 federalist-proxy.app.cloud.gov
@@ -1739,11 +1739,11 @@ cloud.elastic.co
 api.taxjar.com
 *.reckoproduction.com
 *.link.co
-app.taxjar.com
 *.reckostaging.com
 *.recko.io
 js.stripe.com
 *.touchtechpayments.com
+app.taxjar.com
 api.stripe.com
 *.stripe.com
 api.stripe.com
@@ -1845,8 +1845,8 @@ wp-dev4.chime.com
 wp-dev5.chime.com
 wp-integ.chime.com
 app.chime.com
-wp-qa.chime.com
 www.chime.com
+wp-qa.chime.com
 *.chimebank.com
 *.1debit.com
 *.chime.com
@@ -2043,8 +2043,8 @@ business.tiktok.com
 partner.tiktokshop.com
 creatormarketplace.tiktok.com
 developers.tiktok.com
-live-backstage.tiktok.com
 ads.tiktok.com
+live-backstage.tiktok.com
 tiktok.com
 shop.tiktok.com
 *.tiktok.com
@@ -2291,8 +2291,8 @@ wallet.polygon.technology
 faucet.polygon.technology
 burn.polygon.technology
 bridge-api.matic.network
-open-api.polygon.technology
 portal.polygon.technology
+open-api.polygon.technology
 wallet.polygon.technology
 staking-api.polygon.technology
 bridge-explorer.polygon.technology
@@ -2402,8 +2402,8 @@ itv7.itv.com
 *.amazon.com.au
 *.amazon.in
 amazonpayinsurance.in
-*.amazon.it
 *.amazon.com
+*.amazon.it
 *.amazon.co.jp
 *.amazon.cl
 *.amazon.co.za
@@ -2629,10 +2629,10 @@ accounts.pixiv.net
 sketch.pixiv.net
 www.pixiv.net
 *.fanbox.cc
-vroid.com
-booth.pm
 hub.vroid.com
 neoket.net
+vroid.com
+booth.pm
 *.fanbox.cc
 booth.pm
 comic.pixiv.net
@@ -2887,28 +2887,28 @@ grammarly.ai
 *.grammarly.com
 grammarly.ai
 *.mgmt.fndlsb.net
-*.prd.fndlsb.net
 *.prod.fdbox.net
+*.prd.fndlsb.net
 *inf.fndlsb.net
 *racing.fanduel.com
 4njbets.tvgnetwork.com
 b2b.tvgnetwork.com
 service.racing.fanduel.com
+4njbets.us.betfair.com
 4njbets.tvg.com
 4njbets.com
-4njbets.us.betfair.com
 login-4njbets.us.betfair.com
 login-pabets.tvg.com
-mobile-prod.tvg.com
 login-ia.tvg.com
 m.4njbets.tvg.com
-pabets.tvg.com
 login.tvg.com
-login-4ngbets.us.betfair.com
-login.pabets.tvg.com
+mobile-prod.tvg.com
+pabets.tvg.com
 service.tvg.com
 promos.tvg.com
 www.4njbets.com
+login-4ngbets.us.betfair.com
+login.pabets.tvg.com
 com.fanduel.android.live
 www.tvg.com
 sportsbook.fanduel.com
@@ -3088,6 +3088,7 @@ marquee.gs.com
 *.foliodigitalwealth.com
 *.foliofn.com
 *.nnip.com
+api.foliofn.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -3153,8 +3154,8 @@ app.mona.co
 *.mona.co
 merchant.crypto.com
 tax.crypto.com
-www.crypto.com
 auth.crypto.com
+www.crypto.com
 js.crypto.com
 *.crypto.com
 *.crypto.com
@@ -3525,8 +3526,8 @@ ws.blockchain.info
 basicattentiontoken.org
 creators.basicattentiontoken.org
 account.brave.com
-talk.brave.com
 search.brave.com
+talk.brave.com
 brave.com
 brave.com
 basicattentiontoken.org
@@ -3682,15 +3683,15 @@ shopify.plus
 *.shopifycs.com
 arrive-server.shopifycloud.com
 *.shopifykloud.com
-shopifyinbox.com
 linkpop.com
 *.shopifycloud.com
+shopifyinbox.com
 *.shopify.io
 *.shopify.com
 your-store.myshopify.com
 accounts.shopify.com
-shop.app
 partners.shopify.com
+shop.app
 admin.shopify.com
 *.shopifycs.com
 *.shopify.io
@@ -3879,8 +3880,8 @@ grok.x.ai
 ide.x.ai
 api.x.ai
 gnip.com
-*.twitter.com
 x.com
+*.twitter.com
 *.twitter.com
 *.vine.co
 *.twimg.com
@@ -4037,8 +4038,8 @@ a5s.hackerone-ext-content.com
 api.hackerone.com
 b5s.hackerone-ext-content.com
 app.pullrequest.com
-www.hackerone.com
 hackerone.com
+www.hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
