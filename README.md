@@ -2,14 +2,14 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed May 15 02:00:46 UTC 2024)
+## Domains with Bounties (Last Updated Wed May 15 02:31:38 UTC 2024)
 ```
 api.americanwagering.com
 *.us.williamhill.com
-*.williamhill.us
-caesarspalaceonline.com
-williamhill.us
 sportsbook.caesars.com
+williamhill.us
+caesarspalaceonline.com
+*.williamhill.us
 *.us.williamhill.com
 *.williamhill.us
 sportsbook.caesars.com
@@ -45,9 +45,9 @@ www.dyson.fr
 www.dyson.cz
 www.dyson.nl
 shop.dyson.co.za
+www.dyson.ch
 api.dyson.it
 www.dyson.ie
-www.dyson.ch
 www.dyson.es
 www.dyson.se
 www.dyson.be
@@ -500,8 +500,8 @@ flights.booking.com
 indicative-pricing.taxi.booking.com
 marketing.fareharbor.com
 readonly.fareharbor.com
-demo.fareharbor.com
 taxis.booking.com
+demo.fareharbor.com
 widget.rentalcars.com
 cars.booking.com
 careers.booking.com
@@ -563,8 +563,8 @@ fhdn.fareharbor.com
 tableau.fareharbor.engineering
 *.bybit.com
 *.bybit.com
-api.au.frontegg.com
 portal.au.frontegg.com
+api.au.frontegg.com
 api.au.frontegg.com
 portal.au.frontegg.com
 api2.frontapp.com
@@ -847,8 +847,8 @@ lando.services.mozilla.com
 developer.mozilla.org
 sync.services.mozilla.com
 hg.mozilla.org
-community-tc.services.mozilla.com
 stage.taskcluster.nonprod.cloudops.mozgcp.net
+community-tc.services.mozilla.com
 firefox-ci-tc.services.mozilla.com
 www.mozilla.org
 monitor.mozilla.org
@@ -1055,9 +1055,9 @@ sms.8x8.com
 *.p8t.us
 uc.8x8pilot.com
 work-staging.8x8.com
+*.8x8.id
 platform.8x8pilot.com
 *.chalet.8x8.com
-*.8x8.id
 user-profile-staging.8x8.com
 platform.8x8.com
 sso.8x8pilot.com
@@ -1099,10 +1099,10 @@ admin.8x8.com
 *.napoleondice.be
 *.napoleongames.be
 *.napoleonsports.be
-*.luckydays.ca
-*.magicjackpot.ro
 *.luckydays.com
 *.superbet.rs
+*.luckydays.ca
+*.magicjackpot.ro
 *.superbet.ro
 *.superbet.com
 *.superbet.pl
@@ -1165,14 +1165,14 @@ www.flights.com
 www.bookabach.co.nz
 www.expediapartnersolutions.com
 www.expediaagents.com
-*.wotif.com
 *.travelocity.ca
+*.wotif.com
 www.orbitz.com
 www.ebookers.fi
 www.ebookers.com
+www.expediataap.com
 *.carrentals.com
 www.hotels.com
-www.expediataap.com
 www.vrbo.com
 www.expediagroup.com
 *.travelocity.com
@@ -1184,8 +1184,8 @@ www.expedia.com
 *.lastminute.com.au
 *.expediacruises.com
 *.hotwire.com
-www.fewo-direkt.de
 www.abritel.fr
+www.fewo-direkt.de
 *.vrbo.com
 *.hotwire.com
 *.carrentals.com
@@ -1648,10 +1648,10 @@ www.fedramp.gov
 marketplace.fedramp.gov
 federalist.18f.gov
 federalist-docs.18f.gov
+cloud.gov
 dashboard.fr.cloud.gov
 api.data.gov
 ssh.fr.cloud.gov
-cloud.gov
 *.login.gov
 federalist-proxy.app.cloud.gov
 account.fr.cloud.gov
@@ -1781,8 +1781,8 @@ api.reddit.com
 matrix.redditspace.com
 accounts.reddit.com
 www.spiketrap.io
-*.reddit.com
 oauth.reddit.com
+*.reddit.com
 new.reddit.com
 *.redditinc.com
 *.reddithelp.com
@@ -1923,8 +1923,8 @@ hackers_chosendomain.larksuite.com
 *.exodus.io
 *.a.exodus.io
 *.exodus.com
-identity.yoti.com
 ccloud.yoti.com
+identity.yoti.com
 core.yoti.com
 code.yoti.com
 www.yotisign.com
@@ -1947,8 +1947,8 @@ internal-docs.netlify.com
 netlify-rum.netlify.app
 screenshot-proxy.netlify.app
 *.services.netlify.com
-internal.netlify.com
 *.onegraph.com
+internal.netlify.com
 api.netlify.com
 app.netlify.com
 *.services.netlify.com
@@ -2421,8 +2421,8 @@ amazonpayinsurance.in
 *.tmall.com
 *.alibabacloud.com
 www.alibabagroup.com
-*.alibaba.com
 *.aliyun.com
+*.alibaba.com
 *.alibaba.com
 *.aliexpress.com
 *.taobao.com
@@ -2462,8 +2462,8 @@ maria.casino
 *.kes.kindredext.net
 *.unibet.fr
 *.kolikkopelit.com
-*.bingo.com
 *.kindredext.net
+*.bingo.com
 *.mariacasino.com
 www.32red.com
 *.unibet.com
@@ -2574,8 +2574,8 @@ app.nordpass.com
 *.line-apps.com
 *.line.biz
 *.linecorp.com
-*.line.me
 *.line.naver.jp
+*.line.me
 *.line.me
 *.line-apps.com
 *.line.naver.jp
@@ -2777,10 +2777,10 @@ booking.cheapcaribbean.com
 res.hyattinclusivecollection.com
 booking.applevacations.com
 login.www.vaxvacationaccess.com
-res.en.travelbrandsagent.com
 res.vacations.united.com
 vacations.united.com
 res.vacations.universalstudioshollywood.com
+res.en.travelbrandsagent.com
 hyatt.com
 www.hyatt.com
 world.hyatt.com
@@ -2938,16 +2938,16 @@ https://github.com/matomo-org/docker
 paypal.me
 *.braintree.tools
 *.paylution.com
-decision.swiftfinancial.com
+swiftfinancial.com
+prequal.swiftfinancial.com
+www.swiftcapital.com
+swiftcapital.com
 partner.swiftfinancial.com
 pigeon.swiftfinancial.com
 scrutiny.swiftfinancial.com
 www.swiftfinancial.com
-swiftfinancial.com
-prequal.swiftfinancial.com
 my.loanbuilder.com
-www.swiftcapital.com
-swiftcapital.com
+decision.swiftfinancial.com
 py.pl
 paypalobjects.com
 www.loanbuilder.com
@@ -3201,8 +3201,8 @@ falcon-sandbox.com
 *.preemptsecurity.com
 *.reposify.com
 *.humio.com
-*.preempt.com
 *.crowdstrike.com
+*.preempt.com
 www.crowdstrike.com
 hybrid-analysis.com
 *.bionic.ai
@@ -3420,8 +3420,8 @@ store.rockstargames.com
 lifeinvader.com
 circolocorecords.com/
 prod.ros.rockstargames.com
-*.rockstargames.com
 support.rockstargames.com
+*.rockstargames.com
 socialclub.rockstargames.com
 socialclub.rockstargames.com
 prod.ros.rockstargames.com
@@ -3461,8 +3461,8 @@ www.starbucks.com.br
 openapi.starbucks.com
 card.starbucks.com.sg
 cart.starbucks.co.jp
-gift.starbucks.co.jp
 www.starbucks.com.sg
+gift.starbucks.co.jp
 www.starbucks.co.jp
 secureui.starbucks.com
 www.starbucks.co.uk
@@ -3659,15 +3659,15 @@ yourcompany.udemy.com
 shopify.plus
 *.shopifycs.com
 *.shopifykloud.com
-*.shopifycloud.com
 shopifyinbox.com
+*.shopifycloud.com
 arrive-server.shopifycloud.com
 linkpop.com
 accounts.shopify.com
 shop.app
+your-store.myshopify.com
 *.shopify.io
 *.shopify.com
-your-store.myshopify.com
 partners.shopify.com
 admin.shopify.com
 *.shopifycs.com
@@ -3709,8 +3709,8 @@ www.bitmoji.com
 businesshelp.snapchat.com
 ads.snapchat.com
 developer.playcanvas.com
-playcanvas.com
 login.playcanvas.com
+playcanvas.com
 web.snapchat.com
 accounts.snapchat.com
 snappublisher.snapchat.com
@@ -3946,8 +3946,8 @@ commerce.coinbase.com
 cloud.coinbase.com
 api.coinbase.com
 coinbase.com
-*.coinbase.com
 nft.coinbase.com
+*.coinbase.com
 *.coinbase.com
 *.cbhq.net
 pro.coinbase.com
@@ -4008,14 +4008,14 @@ errors.hackerone.net
 reviewer.pullrequest.com
 hackerone-user-content.com
 hackerone.live
-profile-photos-us-east-2.hackerone-user-content.com
 www.wearehackerone.com
+profile-photos-us-east-2.hackerone-user-content.com
 hackathon-photos-us-east-2.hackerone-user-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
-api.hackerone.com
-ctf.hacker101.com
 b5s.hackerone-ext-content.com
 app.pullrequest.com
+api.hackerone.com
+ctf.hacker101.com
 a5s.hackerone-ext-content.com
 www.hackerone.com
 hackerone.com
