@@ -2,14 +2,14 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed May 15 09:18:15 UTC 2024)
+## Domains with Bounties (Last Updated Wed May 15 10:15:23 UTC 2024)
 ```
 api.americanwagering.com
 *.us.williamhill.com
-williamhill.us
 sportsbook.caesars.com
-caesarspalaceonline.com
+williamhill.us
 *.williamhill.us
+caesarspalaceonline.com
 *.us.williamhill.com
 *.williamhill.us
 sportsbook.caesars.com
@@ -45,9 +45,9 @@ www.dyson.fr
 www.dyson.cz
 www.dyson.nl
 shop.dyson.co.za
-www.dyson.ie
-api.dyson.it
 www.dyson.ch
+api.dyson.it
+www.dyson.ie
 www.dyson.es
 www.dyson.se
 www.dyson.be
@@ -418,11 +418,11 @@ app.dynamic-preprod.xyz
 demo.dynamic.xyz
 app.dynamic.xyz
 cpanel.hostinger.com
-builder.hostinger.com
 payments.hostinger.com
 *.000webhost.com
-hpanel.hostinger.com
 www.hostinger.com
+hpanel.hostinger.com
+builder.hostinger.com
 *.000webhost.com
 www.hostinger.com
 cpanel.hostinger.com
@@ -500,8 +500,8 @@ flights.booking.com
 indicative-pricing.taxi.booking.com
 marketing.fareharbor.com
 readonly.fareharbor.com
-demo.fareharbor.com
 taxis.booking.com
+demo.fareharbor.com
 widget.rentalcars.com
 cars.booking.com
 careers.booking.com
@@ -800,9 +800,9 @@ developer.authorize.net
 developer.visa.com
 yourdomain.freshcaller.com
 yourdomain.freshdesk.com
-yourdomain.freshservice.com
 yourdomain.freshchat.com
 yourdomain.myfreshworks.com
+yourdomain.freshservice.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -815,8 +815,8 @@ m.krisha.kz
 krisha.kz
 m.kolesa.kz
 api.kolesa.kz
-id.kolesa.kz
 kolesa.kz
+id.kolesa.kz
 kolesa.kz
 m.kolesa.kz
 krisha.kz
@@ -1059,8 +1059,8 @@ platform.8x8pilot.com
 *.chalet.8x8.com
 *.8x8.id
 user-profile-staging.8x8.com
-sso.8x8pilot.com
 platform.8x8.com
+sso.8x8pilot.com
 sso.8x8.com
 *.jitsi.net
 *.jit.si
@@ -1158,9 +1158,9 @@ hv-mtl.com
 *.wenewmoments.com
 dookeydash.com
 hv-mtl.com
+*.lastminute.co.nz
 www.stayz.com.au
 www.hotwirepartnercentral.com
-*.lastminute.co.nz
 www.flights.com
 www.bookabach.co.nz
 www.expediapartnersolutions.com
@@ -1175,10 +1175,9 @@ www.expediataap.com
 www.hotels.com
 www.vrbo.com
 www.expediagroup.com
-www.mrjet.se
 *.cheaptickets.com
+www.mrjet.se
 www.expedia.com
-*.expediapartnercentral.com
 *.lastminute.com.au
 *.travelocity.com
 *.hotwire.com
@@ -1186,6 +1185,7 @@ www.expedia.com
 www.abritel.fr
 *.vrbo.com
 www.fewo-direkt.de
+*.expediapartnercentral.com
 *.vrbo.com
 *.hotwire.com
 *.carrentals.com
@@ -1317,9 +1317,9 @@ business.linkedin.com
 *.wealthsimple.com
 *.wealthsimple.com
 *.simpletax.ca
+www.swoodoo.com
 www.mundi.com.br
 www.checkfelix.com
-www.swoodoo.com
 www.cheapflights.com
 www.hotelscombined.com
 www.momondo.com
@@ -1346,9 +1346,9 @@ ws.sorare.com
 *.romwe.com
 *.sheingsp.com
 pwapi.ex2b.com
-api.excalls.mobi
 social-trading.exness.com
 exnessaffiliates.com
+api.excalls.mobi
 pay.ibex.exchange
 exness.com
 my.exness.com
@@ -1442,8 +1442,8 @@ shoppers.instacart.com
 admin.instacart.com
 api.instacart.com
 www.instacart.com
-*.instacart.tools
 *.instacart.com
+*.instacart.tools
 *.instacart.com
 *.instacart.tools
 api.instacart.com
@@ -1781,16 +1781,16 @@ api.reddit.com
 matrix.redditspace.com
 accounts.reddit.com
 www.spiketrap.io
-*.reddit.com
 oauth.reddit.com
+*.reddit.com
 new.reddit.com
 *.redditinc.com
 *.reddithelp.com
 amp.reddit.com
 ads.reddit.com
-*.redditmedia.com
 ads-api.reddit.com
 www.reddit.com
+*.redditmedia.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1923,8 +1923,8 @@ hackers_chosendomain.larksuite.com
 *.exodus.io
 *.a.exodus.io
 *.exodus.com
-ccloud.yoti.com
 identity.yoti.com
+ccloud.yoti.com
 core.yoti.com
 code.yoti.com
 www.yotisign.com
@@ -2021,12 +2021,12 @@ www.pangleglobal.com
 shop.tiktok.com
 business.tiktok.com
 affiliate-id.tokopedia.com
-seller-id.tokopedia.com
-creatormarketplace.tiktok.com
 *.tiktokv.com
-ads.tiktok.com
+creatormarketplace.tiktok.com
+seller-id.tokopedia.com
 *.tiktok.com
 tiktok.com
+ads.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2247,8 +2247,8 @@ store.playstation.com
 my.playstation.com
 ca.account.sony.com
 *.playstation.net
-api.direct.playstation.com
 *.api.playstation.com
+api.direct.playstation.com
 *.playstation.net
 *.sonyentertainmentnetwork.com
 *.api.playstation.com
@@ -2459,8 +2459,8 @@ maria.casino
 *.storspiller.com
 *.casinohuone.com
 *.highrolling.nu
-*.unibet.fr
 *.kes.kindredext.net
+*.unibet.fr
 *.kolikkopelit.com
 *.kindredext.net
 *.bingo.com
@@ -2560,8 +2560,8 @@ kubernetes.io
 k8s.io
 kubernetes-csi.github.io
 downloads.datastax.com
-astra.datastax.com
 www.datastax.com
+astra.datastax.com
 docs.datastax.com
 www.datastax.com
 downloads.datastax.com
@@ -2938,16 +2938,16 @@ https://github.com/matomo-org/docker
 paypal.me
 *.braintree.tools
 *.paylution.com
-swiftfinancial.com
-prequal.swiftfinancial.com
-www.swiftcapital.com
-swiftcapital.com
+decision.swiftfinancial.com
 partner.swiftfinancial.com
 pigeon.swiftfinancial.com
 scrutiny.swiftfinancial.com
 www.swiftfinancial.com
+swiftfinancial.com
+prequal.swiftfinancial.com
 my.loanbuilder.com
-decision.swiftfinancial.com
+www.swiftcapital.com
+swiftcapital.com
 py.pl
 paypalobjects.com
 www.loanbuilder.com
@@ -3109,8 +3109,8 @@ www.counter-strike.net
 www.teamfortress.com
 api.steampowered.com
 partner.steamgames.com
-www.dota2.com
 www.valvesoftware.com
+www.dota2.com
 steamcommunity.com
 store.steampowered.com
 www.dota2.com
@@ -3150,8 +3150,8 @@ https://crypto.com/price
 bounty-node.rsk.co
 https://github.com/rsksmart/rsk-powhsm/
 bounty-node.rsk.co
-*.deliveroo.com.kw
 *.deliveroo.com.hk
+*.deliveroo.com.kw
 *.deliveroo.com.qa
 *.deliveroo.ae
 *.deliveroo.ie
@@ -3229,11 +3229,11 @@ verkkopalvelu.tapiola.fi
 api.lahitapiola.fi
 ext-gw.lahitapiola.fi
 *.beta.lahitapiola.fi
+www.lahitapiola.fi
 asiointi.lahitapiola.fi
 tunnistus.lahitapiola.fi
 yrityspalvelu.tapiola.fi
 secure.lahitapiola.fi
-www.lahitapiola.fi
 *.lahitapiola.fi
 *.lahitapiolarahoitus.fi
 *.lahitapiola.fi
@@ -3342,9 +3342,9 @@ getofficial.co
 *.avecspotify.com
 *.atspotify.com
 *.enspotify.com
-*.tospotify.com
 *.fromspotify.com
 *.forspotify.com
+*.tospotify.com
 assets.spotify.com
 *.withspotify.com
 backstage.io
@@ -3420,8 +3420,8 @@ store.rockstargames.com
 lifeinvader.com
 circolocorecords.com/
 prod.ros.rockstargames.com
-*.rockstargames.com
 support.rockstargames.com
+*.rockstargames.com
 socialclub.rockstargames.com
 socialclub.rockstargames.com
 prod.ros.rockstargames.com
@@ -3612,10 +3612,10 @@ dashboard.algolia.com
 secure-dfadmin.deriv.com
 *.derivws.com
 oauth.deriv.com
-smarttrader.deriv.com
 *.deriv.cloud
 derivws.com
 cashier.deriv.com
+smarttrader.deriv.com
 api.deriv.com
 *.binary.com
 app.deriv.com
@@ -3659,8 +3659,8 @@ yourcompany.udemy.com
 shopify.plus
 *.shopifycs.com
 *.shopifykloud.com
-*.shopifycloud.com
 shopifyinbox.com
+*.shopifycloud.com
 arrive-server.shopifycloud.com
 linkpop.com
 accounts.shopify.com
@@ -3714,8 +3714,8 @@ web.snapchat.com
 accounts.snapchat.com
 snappublisher.snapchat.com
 app.snapchat.com
-business.snapchat.com
 playcanvas.com
+business.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
@@ -3972,9 +3972,9 @@ slack-status.com
 slack-imgs.com
 app.slack.com
 *.quip.com
-api.slack.com
 slack.com
 www.quip.com
+api.slack.com
 slack.com
 api.slack.com
 slackb.com
@@ -4017,8 +4017,8 @@ ctf.hacker101.com
 api.hackerone.com
 a5s.hackerone-ext-content.com
 www.hackerone.com
-hackerone.com
 app.pullrequest.com
+hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
