@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun May 19 13:09:50 UTC 2024)
+## Domains with Bounties (Last Updated Sun May 19 14:13:56 UTC 2024)
 ```
 api.americanwagering.com
 *.us.williamhill.com
@@ -459,12 +459,12 @@ www.mercadopago.com.ar
 api.mercadolibre.com
 www.mercadolibre.com.mx
 www.mercadopago.cl
-www.mercadolibre.com.ar
 www.mercadopago.com.br
 www.mercadolibre.cl
+www.mercadolibre.com.ar
 www.mercadolivre.com.br
-www.mercadolibre.com.co
 www.mercadopago.com.mx
+www.mercadolibre.com.co
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -708,11 +708,11 @@ www.visa.co.uk
 visa.co.za
 www.fraedom.com
 www.practicalmoneyskills.org
-bd.visa.com
 www.visa.com.ph
 www.visa.com.mx
 www.visa.co.jp
 bb.visa.com
+bd.visa.com
 visa.co.ni
 www.visa.com.kz
 www.visa.co.nz
@@ -843,8 +843,8 @@ phabricator.allizom.org
 developer.mozilla.org
 sync.services.mozilla.com
 hg.mozilla.org
-stage.taskcluster.nonprod.cloudops.mozgcp.net
 community-tc.services.mozilla.com
+stage.taskcluster.nonprod.cloudops.mozgcp.net
 firefox-ci-tc.services.mozilla.com
 www.mozilla.org
 monitor.mozilla.org
@@ -1135,7 +1135,6 @@ doppler.team
 api.doppler.com
 dashboard.doppler.com
 share.doppler.com
-*.mdvmm.xyz
 *.yugalabs.io
 *.meebits.app
 dookeydash.com
@@ -1146,6 +1145,7 @@ hv-mtl.com
 *.yuga.com
 *.otherside.xyz
 *.boredapeyachtclub.com
+*.mdvmm.xyz
 *.boredapeyachtclub.com
 *.yuga.com
 *.yugalabs.io
@@ -1280,8 +1280,8 @@ royal.checksw.com
 *.superpal.io/*
 m.trendyol.com
 www.dolap.com
-www.trendyol.com
 www.trendyol-milla.com
+www.trendyol.com
 www.trendyol.com
 m.trendyol.com
 www.dolap.com
@@ -1316,9 +1316,9 @@ business.linkedin.com
 *.wealthsimple.com
 *.wealthsimple.com
 *.simpletax.ca
+www.swoodoo.com
 www.mundi.com.br
 www.checkfelix.com
-www.swoodoo.com
 www.cheapflights.com
 www.hotelscombined.com
 www.momondo.com
@@ -1605,8 +1605,8 @@ playwonderbox.com
 therecord.media
 geminiadvisory.io
 hatching.io
-app.recordedfuture.com
 id.recordedfuture.com
+app.recordedfuture.com
 api.recordedfuture.com
 securitytrails.com
 tria.ge
@@ -1647,10 +1647,10 @@ www.fedramp.gov
 marketplace.fedramp.gov
 federalist.18f.gov
 federalist-docs.18f.gov
+cloud.gov
 dashboard.fr.cloud.gov
 api.data.gov
 ssh.fr.cloud.gov
-cloud.gov
 inventory.data.gov
 federalist-proxy.app.cloud.gov
 account.fr.cloud.gov
@@ -1922,10 +1922,10 @@ hackers_chosendomain.larksuite.com
 *.exodus.io
 *.a.exodus.io
 *.exodus.com
-identity.yoti.com
 ccloud.yoti.com
-code.yoti.com
+identity.yoti.com
 core.yoti.com
+code.yoti.com
 www.yotisign.com
 api.yoti.com
 hub.yoti.com
@@ -1946,8 +1946,8 @@ internal-docs.netlify.com
 netlify-rum.netlify.app
 screenshot-proxy.netlify.app
 *.services.netlify.com
-*.onegraph.com
 internal.netlify.com
+*.onegraph.com
 api.netlify.com
 app.netlify.com
 *.services.netlify.com
@@ -2018,13 +2018,13 @@ effecthouse.tiktok.com
 affiliate-id.tokopedia.com
 creatormarketplace.tiktok.com
 *.tiktok.com
-shop-id.tokopedia.com
 developers.tiktok.com
-ads.tiktok.com
 tiktok.com
-*.tiktokv.com
+shop-id.tokopedia.com
+ads.tiktok.com
 live-backstage.tiktok.com
 seller-id.tokopedia.com
+*.tiktokv.com
 partner.tiktokshop.com
 *.tiktok.com
 business.tiktok.com
@@ -2772,8 +2772,8 @@ booking.applevacations.com
 login.www.vaxvacationaccess.com
 res.en.travelbrandsagent.com
 res.vacations.united.com
-res.vacations.universalstudioshollywood.com
 vacations.united.com
+res.vacations.universalstudioshollywood.com
 www.hyattconnect.com
 res.vacations.discoverycove.com
 assets.hyatt.com
@@ -2935,25 +2935,25 @@ https://github.com/matomo-org/docker
 paypal.me
 *.braintree.tools
 *.paylution.com
-scrutiny.swiftfinancial.com
-www.swiftfinancial.com
-swiftfinancial.com
-www.swiftcapital.com
-swiftcapital.com
 decision.swiftfinancial.com
 partner.swiftfinancial.com
+scrutiny.swiftfinancial.com
 pigeon.swiftfinancial.com
+www.swiftfinancial.com
+swiftfinancial.com
 prequal.swiftfinancial.com
 my.loanbuilder.com
+www.swiftcapital.com
+swiftcapital.com
 py.pl
 paypalobjects.com
 www.loanbuilder.com
 *.braintree-api.com
 api.loanbuilder.com
-sandbox.braintreegateway.com
 *.hyperwallet.com
-loanbuilder.com
+sandbox.braintreegateway.com
 api.swiftfinancial.com
+loanbuilder.com
 *.paypalcorp.com
 *.venmo.com
 my.swiftfinancial.com
@@ -3099,8 +3099,8 @@ api.foliofn.com
 *.folioinvesting.com
 developer.valvesoftware.com
 playartifact.com
-support.steampowered.com
 partner.steampowered.com
+support.steampowered.com
 help.steampowered.com
 www.counter-strike.net
 www.teamfortress.com
@@ -3147,8 +3147,8 @@ https://crypto.com/price
 bounty-node.rsk.co
 https://github.com/rsksmart/rsk-powhsm/
 bounty-node.rsk.co
-*.deliveroo.com.hk
 *.deliveroo.com.kw
+*.deliveroo.com.hk
 *.deliveroo.com.qa
 *.deliveroo.ie
 *.deliveroo.com.sg
@@ -3223,8 +3223,8 @@ sijoitusvakuutus.lahitapiola.fi
 privatetarget-1-www.zigzag
 privatetarget-2-secure.zigzag
 verkkopalvelu.tapiola.fi
-api.lahitapiola.fi
 ext-gw.lahitapiola.fi
+api.lahitapiola.fi
 *.beta.lahitapiola.fi
 www.lahitapiola.fi
 asiointi.lahitapiola.fi
@@ -3336,11 +3336,11 @@ ccardseu1.badoo.com
 ccardsus1.badoo.com
 chatdate.app
 getofficial.co
-*.avecspotify.com
 *.atspotify.com
+*.avecspotify.com
 *.enspotify.com
-*.fromspotify.com
 *.forspotify.com
+*.fromspotify.com
 *.tospotify.com
 assets.spotify.com
 backstage.io
@@ -3608,15 +3608,15 @@ www.algolia.com
 dashboard.algolia.com
 secure-dfadmin.deriv.com
 cashier.deriv.com
-oauth.deriv.com
 derivws.com
+oauth.deriv.com
 *.binary.com
 api.deriv.com
 *.deriv.cloud
-*.derivws.com
 smarttrader.deriv.com
 *.deriv.com
 app.deriv.com
+*.derivws.com
 *.deriv.com
 *.deriv.cloud
 *.derivws.com
@@ -3970,9 +3970,9 @@ slack-status.com
 slack-imgs.com
 *.quip.com
 www.quip.com
-api.slack.com
 slack.com
 app.slack.com
+api.slack.com
 slack.com
 api.slack.com
 slackb.com
