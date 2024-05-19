@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun May 19 22:16:18 UTC 2024)
+## Domains with Bounties (Last Updated Sun May 19 23:15:52 UTC 2024)
 ```
 api.americanwagering.com
 *.us.williamhill.com
@@ -708,11 +708,11 @@ www.visa.co.uk
 visa.co.za
 www.fraedom.com
 www.practicalmoneyskills.org
-bd.visa.com
 www.visa.com.ph
 www.visa.com.mx
 www.visa.co.jp
 bb.visa.com
+bd.visa.com
 visa.co.ni
 www.visa.com.kz
 www.visa.co.nz
@@ -843,8 +843,8 @@ phabricator.allizom.org
 developer.mozilla.org
 sync.services.mozilla.com
 hg.mozilla.org
-community-tc.services.mozilla.com
 stage.taskcluster.nonprod.cloudops.mozgcp.net
+community-tc.services.mozilla.com
 firefox-ci-tc.services.mozilla.com
 www.mozilla.org
 monitor.mozilla.org
@@ -1054,8 +1054,8 @@ sms.8x8.com
 *.p8t.us
 uc.8x8pilot.com
 work-staging.8x8.com
-*.8x8.id
 platform.8x8pilot.com
+*.8x8.id
 user-profile-staging.8x8.com
 platform.8x8.com
 sso.8x8pilot.com
@@ -1169,15 +1169,15 @@ www.hotels.com
 www.vrbo.com
 *.cheaptickets.com
 *.lastminute.com.au
-www.mrjet.se
-www.fewo-direkt.de
 *.expediapartnercentral.com
 www.expediagroup.com
+www.fewo-direkt.de
+www.mrjet.se
 *.carrentals.com
+*.travelocity.com
 www.expedia.com
 *.wotif.com
 www.abritel.fr
-*.travelocity.com
 *.vrbo.com
 www.orbitz.com
 www.flights.com
@@ -1345,8 +1345,8 @@ ws.sorare.com
 *.romwe.com
 *.sheingsp.com
 pwapi.ex2b.com
-api.excalls.mobi
 social-trading.exness.com
+api.excalls.mobi
 pay.ibex.exchange
 exnessaffiliates.com
 exness.com
@@ -1845,8 +1845,8 @@ wp-dev4.chime.com
 wp-dev5.chime.com
 wp-integ.chime.com
 app.chime.com
-www.chime.com
 wp-qa.chime.com
+www.chime.com
 *.chimebank.com
 *.1debit.com
 *.chime.com
@@ -1922,8 +1922,8 @@ hackers_chosendomain.larksuite.com
 *.exodus.io
 *.a.exodus.io
 *.exodus.com
-identity.yoti.com
 ccloud.yoti.com
+identity.yoti.com
 core.yoti.com
 code.yoti.com
 www.yotisign.com
@@ -1946,8 +1946,8 @@ internal-docs.netlify.com
 netlify-rum.netlify.app
 screenshot-proxy.netlify.app
 *.services.netlify.com
-internal.netlify.com
 *.onegraph.com
+internal.netlify.com
 api.netlify.com
 app.netlify.com
 *.services.netlify.com
@@ -2417,8 +2417,8 @@ www.alibabagroup.com
 *.1688.com
 *.Daraz.com
 *.taobao.com
-*.alibabacloud.com
 *.tmall.com
+*.alibabacloud.com
 *.aliyun.com
 *.aliexpress.com
 *.alibaba.com
@@ -2457,8 +2457,8 @@ maria.casino
 *.storspiller.com
 *.casinohuone.com
 *.highrolling.nu
-*.unibet.fr
 *.kes.kindredext.net
+*.unibet.fr
 *.kolikkopelit.com
 *.kindredext.net
 *.mariacasino.com
@@ -2770,10 +2770,10 @@ booking.cheapcaribbean.com
 res.hyattinclusivecollection.com
 booking.applevacations.com
 login.www.vaxvacationaccess.com
+res.en.travelbrandsagent.com
 res.vacations.united.com
 vacations.united.com
 res.vacations.universalstudioshollywood.com
-res.en.travelbrandsagent.com
 www.hyattconnect.com
 res.vacations.discoverycove.com
 assets.hyatt.com
@@ -3147,8 +3147,8 @@ https://crypto.com/price
 bounty-node.rsk.co
 https://github.com/rsksmart/rsk-powhsm/
 bounty-node.rsk.co
-*.deliveroo.com.hk
 *.deliveroo.com.kw
+*.deliveroo.com.hk
 *.deliveroo.com.qa
 *.deliveroo.ie
 *.deliveroo.com.sg
@@ -3223,12 +3223,12 @@ sijoitusvakuutus.lahitapiola.fi
 privatetarget-1-www.zigzag
 privatetarget-2-secure.zigzag
 verkkopalvelu.tapiola.fi
-api.lahitapiola.fi
 ext-gw.lahitapiola.fi
+api.lahitapiola.fi
 *.beta.lahitapiola.fi
-www.lahitapiola.fi
 asiointi.lahitapiola.fi
 tunnistus.lahitapiola.fi
+www.lahitapiola.fi
 yrityspalvelu.tapiola.fi
 secure.lahitapiola.fi
 *.lahitapiola.fi
@@ -3279,8 +3279,8 @@ api.grabpay.com
 kartaview.org
 *.taralite.com
 *.ovo.id
-wiki.grab.com
 *.myteksi.net
+wiki.grab.com
 *.grab-sure.com
 *.grab.com
 *.myteksi.com
@@ -3386,11 +3386,11 @@ api.wordpress.org
 *.buddypress.org
 bbpress.org
 profiles.wordpress.org
+*.wordpress.org
 *.trac.wordpress.org
  *.svn.wordpress.org
  *.git.wordpress.org
  github.com/WordPress
-*.wordpress.org
 *.wordpress.org
 *.buddypress.org
 bbpress.org
@@ -3705,8 +3705,8 @@ www.bitmoji.com
 businesshelp.snapchat.com
 developer.playcanvas.com
 login.playcanvas.com
-app.snapchat.com
 blog.playcanvas.com
+app.snapchat.com
 playcanvas.com
 web.snapchat.com
 snappublisher.snapchat.com
@@ -3789,10 +3789,10 @@ www.hoteltonight.com
 *.muscache.com
 *.withairbnb.com
 *.hoteltonight-test.com
-*.luxuryretreats.com
 *.airbnbcitizen.com
-www.airbnb.com
+*.luxuryretreats.com
 *.airbnb.com
+www.airbnb.com
 *.hoteltonight.com
 *.hoteltonight.com
 www.airbnb.com
@@ -3944,8 +3944,8 @@ commerce.coinbase.com
 cloud.coinbase.com
 nft.coinbase.com
 api.coinbase.com
-coinbase.com
 *.coinbase.com
+coinbase.com
 *.coinbase.com
 *.cbhq.net
 pro.coinbase.com
@@ -3995,19 +3995,19 @@ onepush.query.yahoo.com
 proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
-hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
-errors.hackerone.net
+profile-photos.hackerone-user-content.com
 cover-photos-us-east-2.hackerone-user-content.com
 cover-photos.hackerone-user-content.com
-hackerone-user-content.com
-profile-photos-us-east-2.hackerone-user-content.com
 hackathon-photos-us-east-2.hackerone-user-content.com
 hackathon-photos.hackerone-user-content.com
 *.vpn.hackerone.net
 a5s.hackerone-ext-content.com
 b5s.hackerone-ext-content.com
 hackerone-ext-content.com
-profile-photos.hackerone-user-content.com
+hackerone-user-content.com
+profile-photos-us-east-2.hackerone-user-content.com
+hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
+errors.hackerone.net
 reviewer.pullrequest.com
 www.wearehackerone.com
 mta-sts.wearehackerone.com
@@ -4247,8 +4247,8 @@ magentocommerce.com
 u.magento.com
 imagine.magento.com
 magentolive.com
-repo.magento.com
 accounts.magento.cloud
+repo.magento.com
 marketplace.magento.com
 account.magento.com
 magento.com
