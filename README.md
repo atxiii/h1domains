@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon May 20 16:17:38 UTC 2024)
+## Domains with Bounties (Last Updated Mon May 20 17:15:57 UTC 2024)
 ```
 api.americanwagering.com
 *.us.williamhill.com
@@ -436,9 +436,9 @@ mediacenter.23andme.com
 research.23andme.com
 blog.23andme.com
 medical.23andme.com
+auth.23andme.com
 store.23andme.com
 you.23andme.com
-auth.23andme.com
 api.23andme.com
 auth.23andme.com
 blog.23andme.com
@@ -460,8 +460,8 @@ www.mercadolibre.com.mx
 www.mercadopago.cl
 www.mercadolibre.com.co
 api.mercadolibre.com
-www.mercadolibre.cl
 www.mercadopago.com.br
+www.mercadolibre.cl
 www.mercadopago.com.mx
 www.mercadolivre.com.br
 www.mercadolibre.com.ar
@@ -900,9 +900,9 @@ hilton.io
 hiltonhotels.jp
 *.hilton.io
 *.hiltonhotels.jp
+*.hiltonbusinessonline.com
 hilton.com
 *.hilton.com
-*.hiltonbusinessonline.com
 *.hilton.com
 *.hilton.io
 *.hiltonbusinessonline.com
@@ -942,8 +942,8 @@ volans.tech
 new-order.eu-east-1.indriverapp.com
 ingest.clairvoyance.indrive.tech
 *.indrive.com
-cargo.indrive.com
 *.indriver.com
+cargo.indrive.com
 *.indriverapp.com
 *.indriverapp.com
 *.indrive.com
@@ -1601,8 +1601,8 @@ playwonderbox.com
 therecord.media
 geminiadvisory.io
 hatching.io
-app.recordedfuture.com
 id.recordedfuture.com
+app.recordedfuture.com
 api.recordedfuture.com
 securitytrails.com
 tria.ge
@@ -1918,10 +1918,10 @@ hackers_chosendomain.larksuite.com
 *.exodus.io
 *.a.exodus.io
 *.exodus.com
-identity.yoti.com
 ccloud.yoti.com
-code.yoti.com
+identity.yoti.com
 core.yoti.com
+code.yoti.com
 www.yotisign.com
 api.yoti.com
 hub.yoti.com
@@ -1944,8 +1944,8 @@ screenshot-proxy.netlify.app
 *.services.netlify.com
 *.onegraph.com
 internal.netlify.com
-api.netlify.com
 app.netlify.com
+api.netlify.com
 *.services.netlify.com
 *.services-prod.nsvcs.net
 *.infra-prod.nsvcs.net
@@ -2020,8 +2020,8 @@ developers.tiktok.com
 ads.tiktok.com
 tiktok.com
 seller-id.tokopedia.com
-*.tiktok.com
 *.tiktokv.com
+*.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2403,7 +2403,6 @@ amazonpayinsurance.in
 *.amazon.com
 www.amazon.*
 amazonpayinsurance.in
-*.aliexpress.ru
 *.alimama.com
 *.aliyun-inc.com
 *.alibaba-inc.com
@@ -2416,6 +2415,7 @@ www.alibabagroup.com
 *.taobao.com
 *.aliexpress.com
 *.alibabacloud.com
+*.aliexpress.ru
 *.alibaba.com
 *.aliexpress.com
 *.taobao.com
@@ -2764,10 +2764,10 @@ blueskytours.globalbookingsolutions.com
 booking.cheapcaribbean.com
 res.hyattinclusivecollection.com
 booking.applevacations.com
+res.en.travelbrandsagent.com
 res.vacations.united.com
 vacations.united.com
 res.vacations.universalstudioshollywood.com
-res.en.travelbrandsagent.com
 www.hyattconnect.com
 res.vacations.discoverycove.com
 assets.hyatt.com
@@ -2856,28 +2856,28 @@ grammarly.ai
 *.grammarly.com
 grammarly.ai
 *.mgmt.fndlsb.net
-*.prod.fdbox.net
 *.prd.fndlsb.net
+*.prod.fdbox.net
 *inf.fndlsb.net
 *racing.fanduel.com
 4njbets.tvgnetwork.com
 b2b.tvgnetwork.com
 service.racing.fanduel.com
-4njbets.us.betfair.com
 4njbets.tvg.com
 4njbets.com
+4njbets.us.betfair.com
 login-4njbets.us.betfair.com
 login-pabets.tvg.com
+mobile-prod.tvg.com
 login-ia.tvg.com
 m.4njbets.tvg.com
-login.tvg.com
-mobile-prod.tvg.com
 pabets.tvg.com
+login.tvg.com
+login-4ngbets.us.betfair.com
+login.pabets.tvg.com
 service.tvg.com
 promos.tvg.com
 www.4njbets.com
-login-4ngbets.us.betfair.com
-login.pabets.tvg.com
 com.fanduel.android.live
 www.tvg.com
 sportsbook.fanduel.com
@@ -3101,8 +3101,8 @@ www.counter-strike.net
 www.teamfortress.com
 api.steampowered.com
 partner.steamgames.com
-www.dota2.com
 www.valvesoftware.com
+www.dota2.com
 store.steampowered.com
 steamcommunity.com
 www.dota2.com
@@ -3121,8 +3121,8 @@ developer.valvesoftware.com
 js.crypto.com
 app.mona.co
 *.mona.co
-www.crypto.com
 tax.crypto.com
+www.crypto.com
 merchant.crypto.com
 auth.crypto.com
 *.crypto.com
@@ -3146,8 +3146,8 @@ bounty-node.rsk.co
 *.deliveroo.com.kw
 *.deliveroo.com.qa
 *.deliveroo.ie
-*.deliveroo.it
 *.deliveroo.com.sg
+*.deliveroo.it
 *.deliveroo.hk
 *.deliveroo.fr
 *.deliveroo.be
@@ -3218,8 +3218,8 @@ sijoitusvakuutus.lahitapiola.fi
 privatetarget-1-www.zigzag
 privatetarget-2-secure.zigzag
 verkkopalvelu.tapiola.fi
-api.lahitapiola.fi
 ext-gw.lahitapiola.fi
+api.lahitapiola.fi
 *.beta.lahitapiola.fi
 www.lahitapiola.fi
 asiointi.lahitapiola.fi
@@ -3532,10 +3532,10 @@ education.github.com
 gist.github.com
 npmjs.org
 npmjs.com
-api.github.com
 classroom.github.com
 *.githubapp.com
 github.com
+api.github.com
 github.com
 api.github.com
 gist.github.com
@@ -3563,8 +3563,8 @@ docs.gitlab.com
 *.gitlab.org
 *.gitlap.com
 about.gitlab.com
-gitlab.com
 *.gitlab.net
+gitlab.com
 *.gitlab.net
 *.gitlab.org
 *.gitlap.com
@@ -3608,10 +3608,10 @@ oauth.deriv.com
 api.deriv.com
 derivws.com
 *.derivws.com
-app.deriv.com
-smarttrader.deriv.com
 *.deriv.cloud
 *.deriv.com
+smarttrader.deriv.com
+app.deriv.com
 *.deriv.com
 *.deriv.cloud
 *.derivws.com
@@ -3651,8 +3651,8 @@ yourcompany.udemy.com
 shopify.plus
 *.shopifycs.com
 *.shopifykloud.com
-shopifyinbox.com
 *.shopifycloud.com
+shopifyinbox.com
 arrive-server.shopifycloud.com
 linkpop.com
 shop.app
@@ -3660,8 +3660,8 @@ shop.app
 *.shopify.com
 your-store.myshopify.com
 partners.shopify.com
-admin.shopify.com
 accounts.shopify.com
+admin.shopify.com
 *.shopifycs.com
 *.shopify.io
 *.shopify.com
@@ -3700,8 +3700,8 @@ www.bitmoji.com
 businesshelp.snapchat.com
 developer.playcanvas.com
 login.playcanvas.com
-app.snapchat.com
 blog.playcanvas.com
+app.snapchat.com
 playcanvas.com
 web.snapchat.com
 snappublisher.snapchat.com
@@ -3781,11 +3781,11 @@ support-api.airbnb.com
 *.muscache.com
 *.withairbnb.com
 www.hoteltonight.com
-m.airbnb.com
 *.luxuryretreats.com
 *.airbnbcitizen.com
 www.airbnb.com
 *.hoteltonight-test.com
+m.airbnb.com
 *.airbnb.com
 *.hoteltonight.com
 *.hoteltonight.com
@@ -3888,9 +3888,9 @@ api.tumblr.com
 *.tumblr.com
 wordpress.com
 mailpoet.com
-happy.tools
 akismet.com
 www.tumblr.com
+happy.tools
 *.tumblr.com
 *.srvcs.tumblr.com
 api.tumblr.com
@@ -3935,10 +3935,10 @@ institutional.coinbase.com
 commerce.coinbase.com
 *.cbhq.net
 cloud.coinbase.com
-nft.coinbase.com
 api.coinbase.com
-*.coinbase.com
+nft.coinbase.com
 coinbase.com
+*.coinbase.com
 *.coinbase.com
 *.cbhq.net
 pro.coinbase.com
@@ -3959,8 +3959,8 @@ edgeapi.slack.com
 slackatwork.com
 slack-redir.net
 spaces.pm
-slack-status.com
 slack-imgs.com
+slack-status.com
 *.quip.com
 www.quip.com
 slack.com
@@ -4008,8 +4008,8 @@ app.pullrequest.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 api.hackerone.com
 ctf.hacker101.com
-www.hackerone.com
 hackerone.com
+www.hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
