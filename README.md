@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun May 26 02:32:52 UTC 2024)
+## Domains with Bounties (Last Updated Sun May 26 03:15:37 UTC 2024)
 ```
 *.varonis.net
 *.varonis.io
@@ -10,12 +10,12 @@ hackerone "in-scope" domains
 *.varonis.com
 *.varonis.io
 *.varonis.net
-*.nflxvideo.net
-meechum.netflix.com
 *.nflxso.net
 *.prod.ftl.netflix.com
 customerevents.netflix.com
 *.prod.cloud.netflix.com
+meechum.netflix.com
+*.nflxvideo.net
 beacon.netflix.com
 nmtracking.netflix.com
 *.nflximg.net
@@ -43,6 +43,7 @@ presentationtracking.netflix.com
 nmtracking.netflix.com
 meechum.netflix.com
 platform.cat.earlywarning.io
+*.clearxchange.com
 earlywarningapi.force.com
 zellepay.force.com
 zelleservice.my.site.com
@@ -51,7 +52,6 @@ platformtest.cat.earlywarning.io
 api.zellepay.com
 *.zelle.com
 api.zmsp.earlywarning.com
-*.clearxchange.com
 *.earlywarning.com
 *.zellepay.com
 *.zellepay.com
@@ -69,10 +69,10 @@ zellepay.force.com
 zelleservice.my.site.com
 ews-fusion.my.site.com
 platform.cat.earlywarning.io
+*.us.williamhill.com
 api.americanwagering.com
 sportsbook.caesars.com
 *.williamhill.us
-*.us.williamhill.com
 wsop.com
 caesarspalaceonline.com
 williamhill.us
@@ -424,9 +424,9 @@ media.remitly.io
 partner-webhook.remitly.io
 rates.rewire.com
 app3.rewire.to
-getworldcoin.com
 *.worldcoin-distributors.com
 *.toolsforhumanity.com
+getworldcoin.com
 *.worldcoin.dev
 bioid-management.app
 *.consumer.worldcoin.org
@@ -526,9 +526,6 @@ store.23andme.com
 therapeutics.23andme.com
 you.23andme.com
 research.23andme.com
-api.mercadopago.com
-www.mercadolibre.com.mx
-www.mercadopago.com.mx
 www.mercadopago.com.co
 www.mercadopago.com.pe
 www.mercadopago.com.uy
@@ -537,10 +534,13 @@ www.mercadolibre.com.uy
 www.mercadolibre.com.co
 www.mercadolibre.cl
 www.mercadopago.cl
+www.mercadopago.com.mx
+www.mercadolibre.com.mx
+api.mercadopago.com
 www.mercadolivre.com.br
 www.mercadopago.com.ar
-www.mercadolibre.com.ar
 api.mercadolibre.com
+www.mercadolibre.com.ar
 www.mercadopago.com.br
 api.mercadopago.com
 www.mercadopago.com.ar
@@ -570,6 +570,7 @@ paynotifications.booking.com
 portal.taxi.booking.com
 secure-supply-xml.booking.com
 kyc-onboarding.booking.com
+fhdn.fareharbor.com
 spark.fareharbor.com
 flights.booking.com
 indicative-pricing.taxi.booking.com
@@ -588,12 +589,11 @@ cars.booking.com
 booking.com
 experiences.booking.com
 demo.fareharbor.com
-teleport.fareharbor.engineering
 account.booking.com
 webhooks.booking.com
 tableau.fareharbor.engineering
+teleport.fareharbor.engineering
 www.fareharbor.com
-*.rentalcars.com
 *.booking.com
 *.rentalcars.com
 *.fareharbor.engineering
@@ -659,8 +659,8 @@ api.mergify.com
 dashboard.mergify.com
 www.compass.com
 www.compass.com
-*.hypr.com
 *.gethypr.com
+*.hypr.com
 *.hypr.com
 *.gethypr.com
 cdn.moderntreasury.com
@@ -738,9 +738,9 @@ gamma.redoxstage.com
 launch.gamma.redoxstage.com
 sftp.gamma.redoxstage.com
 webhooks.gamma.redoxstage.com
-www.redoxengine.com
 testapp.redoxengine.com
 dashboard.gamma.redoxstage.com
+www.redoxengine.com
 10x.redoxengine.com
 10x.redoxengine.com
 testapp.redoxengine.com
@@ -785,12 +785,11 @@ www.visa.co.uk
 visa.co.za
 www.fraedom.com
 www.practicalmoneyskills.org
-www.visa.co.ve
+bd.visa.com
 www.visa.com.ph
 www.visa.com.mx
 www.visa.co.jp
 bb.visa.com
-bd.visa.com
 visa.co.ni
 www.visa.com.kz
 www.visa.co.nz
@@ -810,6 +809,7 @@ www.visa.com.cn
 www.cybersource.com
 www.authorize.net
 www.practicalbusinessskills.org
+sandbox.authorize.net
 aw.visa.com
 bb.visa.com
 bd.visa.com
@@ -919,8 +919,8 @@ phabricator.allizom.org
 developer.mozilla.org
 sync.services.mozilla.com
 hg.mozilla.org
-community-tc.services.mozilla.com
 stage.taskcluster.nonprod.cloudops.mozgcp.net
+community-tc.services.mozilla.com
 firefox-ci-tc.services.mozilla.com
 monitor.mozilla.org
 relay.firefox.com
@@ -932,8 +932,8 @@ www.mozilla.org
 shavar.services.mozilla.com
 api.profiler.firefox.com
 crash-stats.allizom.org
-addons.allizom.org
 support.mozilla.org
+addons.allizom.org
 accounts.firefox.com
 addons.allizom.org
 developer.mozilla.org
@@ -1072,13 +1072,13 @@ oneview.malwarebytes.com
 *.cloud.malwarebytes.com
 *.mwb-threatintel.com
 *.cyrus-security.com
+*.malwarebytes.com
 *.mwbsys.com
 my.malwarebytes.com
 *.mbamupdates.com
 *.threatdown.com
 cloud.malwarebytes.com
 www.malwarebytes.com
-*.malwarebytes.com
 *.mwbsys.com
 *.mb-cosmos.com
 *.mbamupdates.com
@@ -1133,8 +1133,8 @@ uc.8x8pilot.com
 work-staging.8x8.com
 platform.8x8pilot.com
 user-profile-staging.8x8.com
-sso.8x8pilot.com
 platform.8x8.com
+sso.8x8pilot.com
 sso.8x8.com
 *.jitsi.net
 *.jit.si
@@ -1235,6 +1235,7 @@ hv-mtl.com
 *.wenewmoments.com
 dookeydash.com
 hv-mtl.com
+www.vrbo.com
 www.hotwirepartnercentral.com
 *.lastminute.co.nz
 www.bookabach.co.nz
@@ -1251,10 +1252,9 @@ www.flights.com
 www.hotels.com
 *.wotif.com
 *.expediapartnercentral.com
-www.vrbo.com
 *.hotwire.com
-www.expediapartnersolutions.com
 www.orbitz.com
+www.expediapartnersolutions.com
 *.travelocity.ca
 *.travelocity.com
 *.vrbo.com
@@ -1390,9 +1390,9 @@ business.linkedin.com
 *.wealthsimple.com
 *.wealthsimple.com
 *.simpletax.ca
+www.swoodoo.com
 www.mundi.com.br
 www.checkfelix.com
-www.swoodoo.com
 www.cheapflights.com
 www.hotelscombined.com
 www.momondo.com
@@ -1419,8 +1419,8 @@ ws.sorare.com
 *.romwe.com
 *.sheingsp.com
 pwapi.ex2b.com
-api.excalls.mobi
 social-trading.exness.com
+api.excalls.mobi
 pay.ibex.exchange
 exnessaffiliates.com
 exness.com
@@ -1678,8 +1678,8 @@ playwonderbox.com
 therecord.media
 geminiadvisory.io
 hatching.io
-app.recordedfuture.com
 id.recordedfuture.com
+app.recordedfuture.com
 api.recordedfuture.com
 tria.ge
 securitytrails.com
@@ -1812,10 +1812,10 @@ cloud.elastic.co
 api.taxjar.com
 *.reckoproduction.com
 *.link.co
+app.taxjar.com
 *.reckostaging.com
 *.recko.io
 js.stripe.com
-app.taxjar.com
 *.touchtechpayments.com
 *.stripe.com
 api.stripe.com
@@ -1995,8 +1995,8 @@ hackers_chosendomain.larksuite.com
 *.exodus.io
 *.a.exodus.io
 *.exodus.com
-ccloud.yoti.com
 identity.yoti.com
+ccloud.yoti.com
 core.yoti.com
 code.yoti.com
 www.yotisign.com
@@ -2019,8 +2019,8 @@ internal-docs.netlify.com
 netlify-rum.netlify.app
 screenshot-proxy.netlify.app
 *.services.netlify.com
-*.onegraph.com
 internal.netlify.com
+*.onegraph.com
 api.netlify.com
 app.netlify.com
 *.services.netlify.com
@@ -2080,7 +2080,8 @@ api.adm.cloud.com
 (yoursubdomain).ap.iws.cloud.com
 (yoursubdomain).eu.iws.cloud.com
 (youriwssubdomain).cloud.com
-creatormarketplace.tiktok.com
+partner.tiktokshop.com
+business.tiktok.com
 careers.tiktok.com
 fp-sg.tiktokv.com
 academy-outbound-ads.tiktok.com
@@ -2088,14 +2089,13 @@ pay.tokopediax.com
 shop.tiktok.com
 shop-id.tokopedia.com
 developers.tiktok.com
-partner.tiktokshop.com
-business.tiktok.com
+creatormarketplace.tiktok.com
 seller-id.tokopedia.com
 live-backstage.tiktok.com
 *.tiktokv.com
 effecthouse.tiktok.com
-www.pangleglobal.com
 affiliate-id.tokopedia.com
+www.pangleglobal.com
 tiktok.com
 ads.tiktok.com
 *.tiktok.com
@@ -2316,8 +2316,8 @@ social.playstation.com
 my.playstation.com
 *.api.playstation.com
 api.direct.playstation.com
-*.playstation.net
 transact.playstation.com
+*.playstation.net
 store.playstation.com
 *.playstation.net
 *.sonyentertainmentnetwork.com
@@ -2425,10 +2425,6 @@ itv7.itv.com
 *.ppbdev.com
 super6.skysports.com
 itv7.itv.com
-*.amazon.ca
-*.amazon.ae
-*.amazon.cn
-*.amazon.fr
 *.amazon.cl
 *.amazon.co.za
 *.amazon.com.co
@@ -2446,6 +2442,10 @@ itv7.itv.com
 *.amazon.es
 *.amazon.com.br
 *.amazon.co.jp
+*.amazon.ca
+*.amazon.ae
+*.amazon.cn
+*.amazon.fr
 amazonpayinsurance.in
 *.amazon.co.uk
 *.amazon.com.au
@@ -2529,8 +2529,8 @@ maria.casino
 *.storspiller.com
 *.casinohuone.com
 *.highrolling.nu
-*.unibet.fr
 *.kes.kindredext.net
+*.unibet.fr
 *.kolikkopelit.com
 *.kindredext.net
 *.bingo.com
@@ -3224,8 +3224,8 @@ bounty-node.rsk.co
 *.deliveroo.com.kw
 *.deliveroo.com.qa
 *.deliveroo.ie
-*.deliveroo.com.sg
 *.deliveroo.it
+*.deliveroo.com.sg
 *.deliveroo.hk
 *.deliveroo.fr
 *.deliveroo.be
@@ -3409,12 +3409,12 @@ ccardseu1.badoo.com
 ccardsus1.badoo.com
 chatdate.app
 getofficial.co
-*.avecspotify.com
 *.atspotify.com
+*.avecspotify.com
 *.enspotify.com
-*.tospotify.com
-*.fromspotify.com
 *.forspotify.com
+*.fromspotify.com
+*.tospotify.com
 backstage.io
 assets.spotify.com
 *.byspotify.com
@@ -3459,11 +3459,11 @@ api.wordpress.org
 *.buddypress.org
 bbpress.org
 profiles.wordpress.org
+*.wordpress.org
 *.trac.wordpress.org
  *.svn.wordpress.org
  *.git.wordpress.org
  github.com/WordPress
-*.wordpress.org
 *.wordpress.org
 *.buddypress.org
 bbpress.org
@@ -3531,8 +3531,6 @@ www.starbucks.com.br
 openapi.starbucks.com
 card.starbucks.com.sg
 cart.starbucks.co.jp
-www.starbucks.com.cn
-app.starbucks.com
 gift.starbucks.co.jp
 secureui.starbucks.com
 www.starbucks.ca
@@ -3541,6 +3539,8 @@ login.starbucks.co.jp
 www.starbucks.co.uk
 www.starbucksreserve.com
 www.starbucks.com.sg
+app.starbucks.com
+www.starbucks.com.cn
 www.starbucks.com
 www.starbucks.co.jp
 www.starbucks.co.kr
@@ -3658,9 +3658,9 @@ api.grofers.com
 api2.grofers.com
 winecellar.zomato.com
 *.runnr.in
-*.hyperpure.com
-blinkit.com
 *.zomans.com
+blinkit.com
+*.hyperpure.com
 *.zomato.com
 *.zomato.com
 *.zdev.net
@@ -3736,8 +3736,8 @@ linkpop.com
 your-store.myshopify.com
 *.shopify.io
 admin.shopify.com
-*.shopify.com
 partners.shopify.com
+*.shopify.com
 accounts.shopify.com
 shop.app
 *.shopifycs.com
@@ -3775,8 +3775,8 @@ map.snapchat.com
 www.bitmoji.com
 developer.playcanvas.com
 login.playcanvas.com
-app.snapchat.com
 blog.playcanvas.com
+app.snapchat.com
 playcanvas.com
 snappublisher.snapchat.com
 ads.snapchat.com
@@ -3819,10 +3819,10 @@ map.snapchat.com
 story.snapchat.com
 *.sc-corp.net
 fw-update.ubnt.com
-rma.ui.com
 careers.ui.com
 unifi.ui.com
 *.ubnt.com
+ispdesign.ui.com
 *.ubnt.com
 *.ui.com
 store.ui.com
@@ -3853,6 +3853,7 @@ open.airbnb.com
 callbacks.airbnb.com
 *.atairbnb.com
 *.byairbnb.com
+www.airbnb.com
 assets.airbnb.com
 support-api.airbnb.com
 *.airbnb-aws.com
@@ -3861,7 +3862,6 @@ support-api.airbnb.com
 m.airbnb.com
 *.withairbnb.com
 api.airbnb.com
-www.airbnb.com
 www.hoteltonight.com
 *.luxuryretreats.com
 *.hoteltonight-test.com
@@ -3944,7 +3944,6 @@ api.cloudflare.com
 cloudflareworkers.com
 dash.cloudflare.com
 *.cloudflarepartners.com
-*.cloudflare.com
 dash.cloudflare.com
 cloudflareworkers.com
 *.teams.cloudflare.com
@@ -3961,6 +3960,8 @@ t.umblr.com
 my.pressable.com
 simplenote.com
 simperium.com
+wordpress.com
+*.tumblr.com
 intensedebate.com
 safe.tumblr.com
 assets.tumblr.com
@@ -3969,8 +3970,6 @@ api.tumblr.com
 mailpoet.com
 happy.tools
 akismet.com
-wordpress.com
-*.tumblr.com
 www.tumblr.com
 *.tumblr.com
 *.srvcs.tumblr.com
@@ -4069,18 +4068,18 @@ onepush.query.yahoo.com
 proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
+cover-photos-us-east-2.hackerone-user-content.com
 hackathon-photos-us-east-2.hackerone-user-content.com
 hackathon-photos.hackerone-user-content.com
-hackerone-user-content.com
 *.vpn.hackerone.net
-cover-photos-us-east-2.hackerone-user-content.com
-hackerone-ext-content.com
 b5s.hackerone-ext-content.com
+hackerone-ext-content.com
+hackerone-user-content.com
 profile-photos-us-east-2.hackerone-user-content.com
 errors.hackerone.net
 mta-sts.wearehackerone.com
-hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 hackerone.live
+hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 profile-photos.hackerone-user-content.com
 www.wearehackerone.com
 a5s.hackerone-ext-content.com
