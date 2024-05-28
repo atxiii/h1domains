@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue May 28 08:18:34 UTC 2024)
+## Domains with Bounties (Last Updated Tue May 28 09:15:25 UTC 2024)
 ```
 *.varonis.net
 *.varonis.io
@@ -111,17 +111,17 @@ api.dyson.de
 api.dyson.ie
 shop.dyson.ru
 www.dyson.fr
-www.dyson.ch
 www.dyson.cz
 www.dyson.nl
 shop.dyson.co.za
-www.dyson.ie
 api.dyson.it
+www.dyson.ie
 www.dyson.se
 *.cp.dyson.com
-api.dysoncanada.ca
 www.dyson.co.nz
+api.dysoncanada.ca
 api.dyson.es
+www.dyson.com.tr
 *.dyson.com
 www.dyson.co.uk
 www.dyson.com
@@ -444,11 +444,11 @@ bioid-management.app
 worldcoin.org
 customer-sessions.arkoselabs.com
 verify.arkoselabs.com
+iframe.arkoselabs.com
 cdn.arkoselabs.com
 client-api.arkoselabs.com
 demo.arkoselabs.com
 portal.arkoselabs.com
-iframe.arkoselabs.com
 www.arkoselabs.com
 client-api.arkoselabs.com
 cdn.arkoselabs.com
@@ -539,8 +539,8 @@ api.mercadolibre.com
 www.mercadopago.com.br
 www.mercadolibre.com.mx
 www.mercadopago.com.ar
-www.mercadolivre.com.br
 www.mercadolibre.cl
+www.mercadolivre.com.br
 www.mercadolibre.com.ar
 api.mercadopago.com
 www.mercadopago.com.ar
@@ -577,7 +577,6 @@ taxis.booking.com
 careers.booking.com
 paymentcomponent.booking.com
 taxi.booking.com
-compass.fareharbor.com
 supply-xml.booking.com
 chat.booking.com
 sites.fareharbor.com
@@ -594,6 +593,8 @@ tableau.fareharbor.engineering
 *.rentalcars.com
 secure.booking.com
 fhdn.fareharbor.com
+admin.booking.com
+*.fareharbor.com
 *.booking.com
 *.rentalcars.com
 *.fareharbor.engineering
@@ -695,8 +696,8 @@ manage-sandbox.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
 www.gocardless.com
-api-sandbox.gocardless.com
 *.gocardless-staging.io
+api-sandbox.gocardless.com
 *.gocardless-lab.io
 *.gocardless.io
 *.gocardless-banking.io
@@ -785,7 +786,6 @@ www.visa.co.uk
 visa.co.za
 www.fraedom.com
 www.practicalmoneyskills.org
-www.visa.co.ve
 www.visa.com.ph
 www.visa.com.mx
 www.visa.co.jp
@@ -810,6 +810,7 @@ www.cybersource.com
 www.authorize.net
 www.practicalbusinessskills.org
 sandbox.authorize.net
+bm.visa.com
 aw.visa.com
 bb.visa.com
 bd.visa.com
@@ -876,9 +877,9 @@ developer.authorize.net
 developer.visa.com
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
-yourdomain.myfreshworks.com
 yourdomain.freshdesk.com
 yourdomain.freshchat.com
+yourdomain.myfreshworks.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -891,8 +892,8 @@ app.krisha.kz
 api.kolesa.kz
 krisha.kz
 id.kolesa.kz
-m.kolesa.kz
 kolesa.kz
+m.kolesa.kz
 kolesa.kz
 m.kolesa.kz
 krisha.kz
@@ -1133,8 +1134,8 @@ uc.8x8pilot.com
 work-staging.8x8.com
 platform.8x8pilot.com
 user-profile-staging.8x8.com
-platform.8x8.com
 sso.8x8pilot.com
+platform.8x8.com
 sso.8x8.com
 *.jitsi.net
 *.jit.si
@@ -1260,8 +1261,8 @@ www.hotels.com
 www.fewo-direkt.de
 *.expediacruises.com
 *.expediapartnercentral.com
-*.travelocity.com
 *.lastminute.com.au
+*.travelocity.com
 *.vrbo.com
 *.hotwire.com
 *.carrentals.com
@@ -1473,8 +1474,8 @@ aggregator.etoro.com
 etoropartners.com
 cashier-src.etoro.com
 delta.app
-www.etoro.com
 bullsheet.me
+www.etoro.com
 www.etoro.com
 etoropartners.com
 partners.etoro.com
@@ -1765,10 +1766,10 @@ bridge.codefi.network
 canary.activate.codefi.network
 webhooks-api-experimental.codefi.network
 staking.consensys.io
-app.infura.io
 on-ramp.metaswap-dev.codefi.network
 support.metamask.io
 tickets.metamask.io
+app.infura.io
 activate.codefi.network
 activate.codefi.network
 canary.activate.codefi.network
@@ -1916,8 +1917,8 @@ wp-dev4.chime.com
 wp-dev5.chime.com
 wp-integ.chime.com
 app.chime.com
-wp-qa.chime.com
 www.chime.com
+wp-qa.chime.com
 *.chimebank.com
 *.1debit.com
 *.chime.com
@@ -1995,8 +1996,8 @@ hackers_chosendomain.larksuite.com
 *.exodus.com
 identity.yoti.com
 ccloud.yoti.com
-code.yoti.com
 core.yoti.com
+code.yoti.com
 api.yoti.com
 hub.yoti.com
 www.yotisign.com
@@ -2095,8 +2096,8 @@ effecthouse.tiktok.com
 ads.tiktok.com
 *.tiktok.com
 seller-id.tokopedia.com
-live-backstage.tiktok.com
 tiktok.com
+live-backstage.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2315,8 +2316,8 @@ transact.playstation.com
 store.playstation.com
 *.playstation.net
 api.direct.playstation.com
-*.api.playstation.com
 *.sonyentertainmentnetwork.com
+*.api.playstation.com
 *.playstation.net
 *.sonyentertainmentnetwork.com
 *.api.playstation.com
@@ -2437,9 +2438,9 @@ itv7.itv.com
 *.amazon.sg
 *.amazon.com.br
 *.amazon.co.jp
+*.amazon.ca
 *.amazon.cn
 *.amazon.fr
-*.amazon.ca
 *.amazon.co.uk
 *.amazon.com.au
 *.amazon.de
@@ -2527,8 +2528,8 @@ maria.casino
 *.storspiller.com
 *.casinohuone.com
 *.highrolling.nu
-*.unibet.fr
 *.kes.kindredext.net
+*.unibet.fr
 *.kolikkopelit.com
 *.kindredext.net
 *.bingo.com
@@ -2840,10 +2841,10 @@ blueskytours.globalbookingsolutions.com
 booking.cheapcaribbean.com
 res.hyattinclusivecollection.com
 booking.applevacations.com
+res.en.travelbrandsagent.com
 res.vacations.united.com
 vacations.united.com
 res.vacations.universalstudioshollywood.com
-res.en.travelbrandsagent.com
 www.hyattconnect.com
 res.vacations.discoverycove.com
 assets.hyatt.com
@@ -2924,8 +2925,8 @@ res.hyattinclusivecollection.com
 www.hyattinclusivecollection.com
 booking.applevacations.com
 *.grammarly.io
-*.grammarlyaws.com
 grammarly.ai
+*.grammarlyaws.com
 *.grammarly.com
 *.grammarly.io
 *.grammarlyaws.com
@@ -3005,22 +3006,22 @@ https://github.com/matomo-org/docker
 *.paydiant.com
 *.braintree.tools
 *.paylution.com
-decision.swiftfinancial.com
-partner.swiftfinancial.com
-scrutiny.swiftfinancial.com
-pigeon.swiftfinancial.com
-www.swiftfinancial.com
+sandbox.braintreegateway.com
 swiftfinancial.com
 prequal.swiftfinancial.com
-my.loanbuilder.com
 www.swiftcapital.com
 swiftcapital.com
+partner.swiftfinancial.com
+pigeon.swiftfinancial.com
+scrutiny.swiftfinancial.com
+www.swiftfinancial.com
+my.loanbuilder.com
+decision.swiftfinancial.com
 py.pl
 www.loanbuilder.com
 api.swiftfinancial.com
 loanbuilder.com
 my.swiftfinancial.com
-sandbox.braintreegateway.com
 *.braintreepayments.com
 api.loanbuilder.com
 paypalobjects.com
@@ -3294,11 +3295,11 @@ privatetarget-1-www.zigzag
 privatetarget-2-secure.zigzag
 verkkopalvelu.tapiola.fi
 ext-gw.lahitapiola.fi
+asiointi.lahitapiola.fi
+yrityspalvelu.tapiola.fi
 www.lahitapiola.fi
 secure.lahitapiola.fi
 tunnistus.lahitapiola.fi
-asiointi.lahitapiola.fi
-yrityspalvelu.tapiola.fi
 api.lahitapiola.fi
 *.beta.lahitapiola.fi
 *.lahitapiolarahoitus.fi
@@ -3484,12 +3485,12 @@ gutenberg.run
  *.git.wordpress.org
  github.com/WordPress
 rockstarnorth.com
-prod.ros.rockstargames.com
 store.rockstargames.com
 lifeinvader.com
 circolocorecords.com/
 socialclub.rockstargames.com
 support.rockstargames.com
+prod.ros.rockstargames.com
 *.rockstargames.com
 socialclub.rockstargames.com
 prod.ros.rockstargames.com
@@ -3537,8 +3538,8 @@ login.starbucks.co.jp
 www.starbucks.co.uk
 www.starbucksreserve.com
 www.starbucks.com.sg
-www.starbucks.com.cn
 app.starbucks.com
+www.starbucks.com.cn
 www.starbucks.com
 www.starbucks.co.kr
 www.starbucks.co.jp
@@ -3657,8 +3658,8 @@ api2.grofers.com
 winecellar.zomato.com
 *.runnr.in
 *.zomans.com
-*.hyperpure.com
 blinkit.com
+*.hyperpure.com
 *.zomato.com
 *.zomato.com
 *.zdev.net
@@ -3686,8 +3687,8 @@ app.deriv.com
 smarttrader.deriv.com
 oauth.deriv.com
 *.derivws.com
-*.deriv.com
 *.binary.com
+*.deriv.com
 *.deriv.com
 *.deriv.cloud
 *.derivws.com
@@ -3855,8 +3856,8 @@ assets.airbnb.com
 support-api.airbnb.com
 *.airbnb-aws.com
 *.muscache.com
-m.airbnb.com
 *.airbnbcitizen.com
+m.airbnb.com
 *.withairbnb.com
 api.airbnb.com
 www.hoteltonight.com
@@ -3864,8 +3865,8 @@ www.hoteltonight.com
 *.hoteltonight-test.com
 *.hoteltonight.com
 next.airbnb.com
-www.airbnb.com
 *.airbnb.com
+www.airbnb.com
 *.hoteltonight.com
 www.airbnb.com
 next.airbnb.com
@@ -3958,8 +3959,6 @@ t.umblr.com
 my.pressable.com
 simplenote.com
 simperium.com
-wordpress.com
-*.tumblr.com
 intensedebate.com
 safe.tumblr.com
 assets.tumblr.com
@@ -3968,6 +3967,8 @@ api.tumblr.com
 mailpoet.com
 happy.tools
 akismet.com
+wordpress.com
+*.tumblr.com
 www.tumblr.com
 *.tumblr.com
 *.srvcs.tumblr.com
@@ -4006,13 +4007,13 @@ blog.irccloud.com
 custody.coinbase.com
 prime.coinbase.com
 international.coinbase.com
+*.coinbase.com
 pro.coinbase.com
 institutional.coinbase.com
 commerce.coinbase.com
 *.cbhq.net
 cloud.coinbase.com
 api.custody.coinbase.com
-*.coinbase.com
 nft.coinbase.com
 api.coinbase.com
 *.base.org
