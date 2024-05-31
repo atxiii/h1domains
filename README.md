@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri May 31 17:13:58 UTC 2024)
+## Domains with Bounties (Last Updated Fri May 31 18:17:28 UTC 2024)
 ```
 app.circle.com
 api.circle.com
@@ -528,13 +528,13 @@ www.mercadopago.com.co
 www.mercadopago.com.pe
 www.mercadopago.com.uy
 www.mercadopago.cl
-www.mercadolibre.cl
+api.mercadolibre.com
 www.mercadopago.com.br
 www.mercadolivre.com.br
 www.mercadolibre.com.pe
-api.mercadolibre.com
 www.mercadolibre.com.ar
 www.mercadopago.com.ar
+www.mercadolibre.cl
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -734,8 +734,8 @@ fhir.redoxengine.com
 explore.redoxengine.com
 www.redoxengine.com
 help.redoxengine.com
-10x.redoxengine.com
 testapp.redoxengine.com
+10x.redoxengine.com
 10x.redoxengine.com
 testapp.redoxengine.com
 testapi.redoxengine.com
@@ -890,8 +890,8 @@ app.krisha.kz
 api.avtoelon.uz
 app.avtoelon.uz
 id.avtoelon.uz
-kolesa.kz
 m.kolesa.kz
+kolesa.kz
 kolesa.kz
 m.kolesa.kz
 krisha.kz
@@ -914,7 +914,6 @@ api.tideplatform.in
 api.tideplatform.in
 api.profiler.firefox.com
 monitor.mozilla.org
-www.mozilla.org
 addons.allizom.org
 developer.mozilla.org
 profiler.firefox.com
@@ -939,6 +938,7 @@ phabricator.allizom.org
 push.services.mozilla.com
 sync.services.mozilla.com
 accounts.firefox.com
+www.mozilla.org
 addons.allizom.org
 developer.mozilla.org
 accounts.firefox.com
@@ -982,8 +982,8 @@ hiltonlocalbiz.com
 *.hiltonbusinessonline.com
 *.hiltonlocalbiz.com
 *.hiltonhotels.jp
-hiltonhotels.jp
 *.hilton.com
+hiltonhotels.jp
 *.hilton.com
 *.hilton.io
 *.hiltonbusinessonline.com
@@ -1181,16 +1181,16 @@ pay.8x8.com
 admin.8x8.com
 *.napoleongames.be
 *.spinaway.com
-*.napoleondice.be
-*.napoleoncasino.be
-*.napoleonsports.be
-*.luckydays.ca
-*.luckydays.com
-*.superbet.ro
 *.superbet.rs
+*.luckydays.ca
+*.superbet.ro
+*.luckydays.com
 *.magicjackpot.ro
 *.superbet.pl
 *.superbet.com
+*.napoleonsports.be
+*.napoleoncasino.be
+*.napoleondice.be
 *.superbet.ro
 *.superbet.rs
 *.superbet.com
@@ -1389,8 +1389,8 @@ invoices.razorpay.com
 payroll.razorpay.com
 x.razorpay.com
 api.linkedin.com
-business.linkedin.com
 www.linkedin.com
+business.linkedin.com
 www.linkedin.com
 api.linkedin.com
 business.linkedin.com
@@ -1533,7 +1533,6 @@ admin.instacart.com
 shoppers.instacart.com
 databricks.com
 academy.databricks.com
-accounts.cloud.databricks.com
 demo.cloud.databricks.com
 docs.databricks.com
 help.databricks.com
@@ -1545,6 +1544,7 @@ community.databricks.com
 customer-academy.databricks.com
 labs.databricks.com
 marketplace.databricks.com
+accounts.cloud.databricks.com
 databricks.com
 academy.databricks.com
 accounts.cloud.databricks.com
@@ -1589,11 +1589,11 @@ admin.wickr.com
 *.clubhouse.com
 *.joinclubhouse.com
 *.clubhouseapi.com
-judge.me
 shop.judge.me
 woocommerce-adapter.judge.me
 bigcommerce-adapter.judge.me
 cache.judge.me
+judge.me
 judge.me
 https://judge.me/reviews
 shop.judge.me
@@ -2109,12 +2109,12 @@ seller-id.tokopedia.com
 shop-id.tokopedia.com
 pay.tokopediax.com
 affiliate-id.tokopedia.com
+*.tiktok.com
 academy-outbound-ads.tiktok.com
 *.tiktokv.com
-*.tiktok.com
-tiktok.com
 creatormarketplace.tiktok.com
 ads.tiktok.com
+tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2471,7 +2471,6 @@ itv7.itv.com
 *.amazon.ae
 *.amazon.ca
 *.amazon.eg
-*.amazon.es
 *.amazon.it
 *.amazon.nl
 *.amazon.sa
@@ -2481,12 +2480,13 @@ itv7.itv.com
 *.amazon.co.jp
 *.amazon.com.br
 *.amazon.com.co
-amazonpayinsurance.in
 *.amazon.de
 *.amazon.fr
-*.amazon.co.uk
+amazonpayinsurance.in
 *.amazon.com.tr
+*.amazon.co.uk
 *.amazon.in
+*.amazon.es
 *.amazon.com
 *.amazon.cl
 *.amazon.co.za
@@ -2542,11 +2542,11 @@ unibet.me
 maria.casino
 *.ottokasino.com
 *.vladcazino.ro
-*.unibet.com
 *.kindredext.net
 www.32red.com
 *.highrolling.nu
 *.kes.kindredext.net
+*.unibet.com
 *.unibet.com
 *.unibet.fr
 *.storspiller.com
@@ -2621,8 +2621,8 @@ www.goodrx.com
 www.goodrx.com
 *.ra.roblox.com
 *.rbx.com
-*.guilded.gg
 *.roblox.com
+*.guilded.gg
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -3046,8 +3046,8 @@ py.pl
 *.hyperwallet.com
 *.paylution.com
 sandbox.braintreegateway.com
-*.paypal.com
 *.braintreegateway.com
+*.paypal.com
 *.xoom.com
 *.paypal.com
 *.braintreegateway.com
@@ -3201,9 +3201,9 @@ api.foliofn.com
 *.folioinvesting.com
 playartifact.com
 help.steampowered.com
-developer.valvesoftware.com
 www.teamfortress.com
 www.counter-strike.net
+developer.valvesoftware.com
 www.dota2.com
 support.steampowered.com
 partner.steampowered.com
@@ -3504,11 +3504,11 @@ gutenberg.run
  github.com/WordPress
 socialclub.rockstargames.com
 rockstarnorth.com
-prod.ros.rockstargames.com
 support.rockstargames.com
 *.rockstargames.com
 store.rockstargames.com
 circolocorecords.com/
+prod.ros.rockstargames.com
 socialclub.rockstargames.com
 prod.ros.rockstargames.com
 support.rockstargames.com
@@ -3544,6 +3544,10 @@ https://enterprise-demo.portswigger.net/
 www.starbucks.co.kr
 card.starbucks.com.sg
 www.starbucks.com.sg
+app.starbucks.com
+cart.starbucks.co.jp
+openapi.starbucks.com
+secureui.starbucks.com
 www.starbucksreserve.com
 gift.starbucks.co.jp
 login.starbucks.co.jp
@@ -3554,10 +3558,6 @@ www.starbucks.fr
 www.starbucks.co.uk
 www.starbucks.com.br
 www.starbucks.ca
-cart.starbucks.co.jp
-openapi.starbucks.com
-secureui.starbucks.com
-app.starbucks.com
 www.starbucks.com
 www.starbucksreserve.com
 gift.starbucks.co.jp
@@ -3607,14 +3607,6 @@ yelptop100.com
 *.yelp-support.com
 *.yelpwifi.com
 yelptop100.com
-harvestapp.com
-forecastapp.com
-id.getharvest.com
-getharvest.com
-harvestapp.com
-forecastapp.com
-id.getharvest.com
-getharvest.com
 moneybirdstorage.com
 moneybird.com
 moneybird.com
@@ -3702,9 +3694,9 @@ derivws.com
 secure-dfadmin.deriv.com
 oauth.deriv.com
 api.deriv.com
-*.derivws.com
 app.deriv.com
 *.deriv.com
+*.derivws.com
 *.deriv.com
 *.deriv.cloud
 *.derivws.com
@@ -3883,8 +3875,8 @@ callbacks.airbnb.com
 *.luxuryretreats.com
 *.hoteltonight-test.com
 www.hoteltonight.com
-*.hoteltonight.com
 *.withairbnb.com
+*.hoteltonight.com
 *.airbnb.com
 *.hoteltonight.com
 www.airbnb.com
@@ -4090,6 +4082,8 @@ yimg.com
 data.mail.yahoo.com
 le.yahooapis.com
 onepush.query.yahoo.com
+proddata.xobni.yahoo.com
+apis.mail.yahoo.com
 data.mail.yahoo.com
 le.yahooapis.com
 onepush.query.yahoo.com
@@ -4115,9 +4109,9 @@ api.hackerone.com
 errors.hackerone.net
 cover-photos-us-east-2.hackerone-user-content.com
 www.hackerone.com
+hackerone.com
 hackerone.live
 app.pullrequest.com
-hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
@@ -4584,6 +4578,14 @@ app.legalrobot.com
 www.legalrobot.com
 www.legalrobot-test.com
 app.legalrobot-test.com
+harvestapp.com
+forecastapp.com
+id.getharvest.com
+getharvest.com
+harvestapp.com
+forecastapp.com
+id.getharvest.com
+getharvest.com
 *.secnews.gr
 *.secnews.gr
 api.kiwi.ki
