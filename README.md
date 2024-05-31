@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri May 31 20:15:43 UTC 2024)
+## Domains with Bounties (Last Updated Fri May 31 21:15:07 UTC 2024)
 ```
 api.circle.com
 app.circle.com
@@ -48,7 +48,6 @@ nmtracking.netflix.com
 meechum.netflix.com
 api.zmsp.earlywarning.com
 api.zellepay.com
-*.zellepay.com
 *.clearxchange.com
 *.zelle.com
 platformtest.cat.earlywarning.io
@@ -58,6 +57,7 @@ zellepay.force.com
 zelleservice.my.site.com
 ews-fusion.my.site.com
 *.earlywarning.com
+*.zellepay.com
 *.zellepay.com
 *.earlywarning.com
 *.clearxchange.com
@@ -403,8 +403,8 @@ media.remitly.io
 cardpayments.remitly.io
 partner-webhook.remitly.io
 ablink.info.remitly.com
-remitly.com
 api.remitly.io
+remitly.com
 *.int.remitly.com
 *.dev.remitly.com
 remitly.com
@@ -529,12 +529,12 @@ www.mercadopago.com.co
 www.mercadopago.com.pe
 www.mercadopago.com.uy
 www.mercadopago.cl
-www.mercadolibre.cl
-www.mercadopago.com.ar
 www.mercadolibre.com.pe
+www.mercadolibre.cl
 api.mercadolibre.com
-www.mercadolivre.com.br
 www.mercadopago.com.br
+www.mercadopago.com.ar
+www.mercadolivre.com.br
 www.mercadolibre.com.ar
 api.mercadopago.com
 www.mercadopago.com.ar
@@ -735,8 +735,8 @@ fhir.redoxengine.com
 explore.redoxengine.com
 www.redoxengine.com
 help.redoxengine.com
-10x.redoxengine.com
 testapp.redoxengine.com
+10x.redoxengine.com
 10x.redoxengine.com
 testapp.redoxengine.com
 testapi.redoxengine.com
@@ -761,7 +761,6 @@ www.practicalmoneyskills.com
 www.practicalbusinessskills.org
 www.practicalmoneyskills.org
 sandbox.secure.checkout.visa.com
-www.visainfinite.ca
 aw.visa.com
 bb.visa.com
 bd.visa.com
@@ -805,6 +804,7 @@ www.visa.co.nz
 www.visa.co.th
 www.visa.co.uk
 www.visa.co.ve
+visa.co.za
 aw.visa.com
 bb.visa.com
 bd.visa.com
@@ -931,7 +931,6 @@ contile.services.mozilla.com
 crash-reports.allizom.org
 crash-stats.allizom.org
 firefox-ci-tc.services.mozilla.com
-firefox.settings.services.mozilla.com
 lando.services.mozilla.com
 merino.services.mozilla.com
 mozilla-pontoon-staging.herokuapp.com
@@ -940,6 +939,7 @@ push.services.mozilla.com
 sync.services.mozilla.com
 www.mozilla.org
 accounts.firefox.com
+firefox.settings.services.mozilla.com
 addons.allizom.org
 developer.mozilla.org
 accounts.firefox.com
@@ -1096,10 +1096,10 @@ www.malwarebytes.com
 my.malwarebytes.com
 cloud.malwarebytes.com
 oneview.malwarebytes.com
-online.s-pankki.fi
+www.s-pankki.fi
 mobile.s-pankki.fi
 extranet.s-pankki.fi
-www.s-pankki.fi
+online.s-pankki.fi
 www.s-kaupat.fi
 tunnistus.s-ryhma.fi
 digili.s-cloud.fi
@@ -1123,8 +1123,8 @@ jobs.kiwi.com
 www.kiwi.com
 *.kiwi.com
 auth.skypicker.com
-*.skypicker.com
 tequila.kiwi.com
+*.skypicker.com
 *.kiwi.com
 *.skypicker.com
 www.kiwi.com
@@ -1184,14 +1184,14 @@ admin.8x8.com
 *.spinaway.com
 *.napoleonsports.be
 *.napoleondice.be
-*.superbet.ro
-*.superbet.rs
 *.luckydays.com
 *.magicjackpot.ro
 *.luckydays.ca
 *.superbet.com
-*.superbet.pl
+*.superbet.rs
 *.napoleoncasino.be
+*.superbet.pl
+*.superbet.ro
 *.superbet.ro
 *.superbet.rs
 *.superbet.com
@@ -1878,8 +1878,8 @@ app.spiketrap.io
 www.spiketrap.io
 redditforbusiness.com
 matrix.redditspace.com
-ads.reddit.com
 www.reddit.com
+ads.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -2184,9 +2184,9 @@ app.faraday.ai
 app.faraday.ai
 api.faraday.ai
 *.acronis.work
-account.acronis.com
 beta-cloud.acronis.com
 *-api-*.acronis.com
+account.acronis.com
 *.5nine.com
 *.devicelock.com
 *.acronis.com
@@ -2345,8 +2345,8 @@ transact.playstation.com
 wallets.api.playstation.com
 ca.account.sony.com
 my.account.sony.com
-*.sonyentertainmentnetwork.com
 *.playstation.net
+*.sonyentertainmentnetwork.com
 *.playstation.net
 *.sonyentertainmentnetwork.com
 *.api.playstation.com
@@ -2464,7 +2464,6 @@ itv7.itv.com
 *.amazon.cl
 *.amazon.co.za
 *.amazon.com.au
-*.amazon.com.mx
 *.amazon.com.ng
 *.amazon.pl
 *.amazon.com.be
@@ -2475,19 +2474,20 @@ itv7.itv.com
 *.amazon.se
 *.amazon.sg
 *.amazon.cn
-*.amazon.com.br
 *.amazon.com.co
-*.amazon.co.jp
 *.amazon.fr
-*.amazon.ca
 amazonpayinsurance.in
-*.amazon.de
-*.amazon.es
 *.amazon.com.tr
-*.amazon.in
-*.amazon.it
+*.amazon.co.jp
+*.amazon.com.br
+*.amazon.es
+*.amazon.de
 *.amazon.co.uk
+*.amazon.it
+*.amazon.ca
+*.amazon.com.mx
 *.amazon.com
+*.amazon.in
 *.amazon.cl
 *.amazon.co.za
 *.amazon.com.au
@@ -2621,8 +2621,8 @@ www.goodrx.com
 www.goodrx.com
 *.ra.roblox.com
 *.rbx.com
-*.guilded.gg
 *.roblox.com
+*.guilded.gg
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -2653,8 +2653,8 @@ app.nordpass.com
 app.nordpass.com
 *.line-apps.com
 *.line.naver.jp
-*.line.me
 *.linecorp.com
+*.line.me
 *.line.biz
 *.line.me
 *.line-apps.com
@@ -2819,9 +2819,7 @@ dashboard.omise.co
 offsite.omise.co
 www.omise.co
 www.opn.ooo
-hyatt.com
-www.hyatt.com
-assets.hyatt.com
+world.hyatt.com
 salesportal.hyatt.com
 meetings.hyatt.com
 ebsext.oft.hyatt.com
@@ -2832,7 +2830,8 @@ roominglist.hyatt.com
 soaext.oft.hyatt.com
 sso.oft.hyatt.com
 upsell.hyatt.com
-world.hyatt.com
+hyatt.com
+www.hyatt.com
 newsroom.images.hyatt.com
 www.hyattconnect.com
 jira.hyattdev.com
@@ -2865,6 +2864,7 @@ res.fr.travelbrandsagent.com
 res.southwestvacations.com
 res.universalorlandovacations.com
 res.vacations.united.com
+res.vacations.universalstudioshollywood.com
 hyatt.com
 www.hyatt.com
 world.hyatt.com
@@ -3018,9 +3018,9 @@ login-pabets.tvg.com
 matomo.cloud
 matomo.cloud
 https://github.com/matomo-org/docker
-*.xoom.com
-*.paydiant.com
-*.venmo.com
+paypalobjects.com
+paypal.me
+py.pl
 www.swiftcapital.com
 www.loanbuilder.com
 www.swiftfinancial.com
@@ -3040,9 +3040,9 @@ decision.swiftfinancial.com
 pigeon.swiftfinancial.com
 scrutiny.swiftfinancial.com
 *.paypalcorp.com
-paypalobjects.com
-paypal.me
-py.pl
+*.xoom.com
+*.paydiant.com
+*.venmo.com
 *.hyperwallet.com
 *.paylution.com
 sandbox.braintreegateway.com
@@ -3080,12 +3080,12 @@ loanbuilder.com
 swiftfinancial.com
 swiftcapital.com
 *.mmcdn.com
-secure.chaturbate.com
 chaturbate.com
 *.highwebmedia.com
 m.chaturbate.com
 *.securegatewayaccess.com
 billingsupport.chaturbate.com
+secure.chaturbate.com
 *.cb.dev
 *.mmwebc.dev
 *.highwebmedia.com
@@ -3256,10 +3256,10 @@ bounty-node.rsk.co
 *.deliveroo.it
 *.deliveroo.com.hk
 *.deliveroo.com.kw
-*.deliveroo.com.qa
 *.deliveroo.com.sg
 *.deliveroo.ae
 *.deliveroo.hk
+*.deliveroo.com.qa
 *.deliveroo.co.uk
 *.deliveroo.fr
 *.deliveroo.be
@@ -3544,6 +3544,10 @@ https://enterprise-demo.portswigger.net/
 www.starbucks.co.kr
 card.starbucks.com.sg
 www.starbucks.com.sg
+app.starbucks.com
+cart.starbucks.co.jp
+openapi.starbucks.com
+secureui.starbucks.com
 www.starbucksreserve.com
 gift.starbucks.co.jp
 login.starbucks.co.jp
@@ -3554,10 +3558,6 @@ www.starbucks.fr
 www.starbucks.co.uk
 www.starbucks.com.br
 www.starbucks.ca
-cart.starbucks.co.jp
-openapi.starbucks.com
-secureui.starbucks.com
-app.starbucks.com
 www.starbucks.com
 www.starbucksreserve.com
 gift.starbucks.co.jp
@@ -3619,8 +3619,8 @@ gist.github.com
 classroom.github.com
 *.githubapp.com
 *.githubusercontent.com
-github.com
 npmjs.com
+github.com
 github.com
 api.github.com
 gist.github.com
@@ -3667,8 +3667,8 @@ winecellar.zomato.com
 api.grofers.com
 api2.grofers.com
 *.zomato.com
-blinkit.com
 *.runnr.in
+blinkit.com
 *.zomato.com
 *.zdev.net
 *.zomans.com
@@ -3742,11 +3742,11 @@ linkpop.com
 shopifyinbox.com
 shop.app
 *.shopifycs.com
+*.shopify.com
 your-store.myshopify.com
 admin.shopify.com
 *.shopify.io
 accounts.shopify.com
-*.shopify.com
 *.shopifycs.com
 *.shopify.io
 *.shopify.com
@@ -3961,7 +3961,6 @@ cloudflareworkers.com
 *.teams.cloudflare.com
 api.cloudflare.com
 one.dash.cloudflare.com
-waf.cumulusfire.net
 dash.cloudflare.com
 cloudflareworkers.com
 *.teams.cloudflare.com
@@ -4359,15 +4358,15 @@ www.smartsheet.com
 *legal.trustpilot.com
 https://github.com/evolveum/midpoint
 https://svn.filezilla-project.org/svn/filezilla3/trunk/src/putty
-marketplace.magento.com
-magentocommerce.com
-repo.magento.com
-magento.com
 account.magento.com
 u.magento.com
 imagine.magento.com
 magentolive.com
 accounts.magento.cloud
+marketplace.magento.com
+magentocommerce.com
+repo.magento.com
+magento.com
 marketplace.magento.com
 magentocommerce.com
 repo.magento.com
