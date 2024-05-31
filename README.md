@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri May 31 18:17:28 UTC 2024)
+## Domains with Bounties (Last Updated Fri May 31 19:14:30 UTC 2024)
 ```
 app.circle.com
 api.circle.com
@@ -23,13 +23,13 @@ customerevents.netflix.com
 secure.netflix.com
 *.nflximg.net
 *.nflxso.net
-help.netflix.com
 ichnaea.netflix.com
 presentationtracking.netflix.com
 nmtracking.netflix.com
 www.netflix.com
 meechum.netflix.com
 *.nflxvideo.net
+help.netflix.com
 *.nflxext.com
 *.prod.ftl.netflix.com
 *.prod.cloud.netflix.com
@@ -114,6 +114,7 @@ api.dyson.be
 api.dyson.pt
 api.dyson.no
 api.dyson.de
+api.dyson.ch
 *.dyson.com
 www.dyson.co.uk
 www.dyson.com
@@ -529,12 +530,12 @@ www.mercadopago.com.pe
 www.mercadopago.com.uy
 www.mercadopago.cl
 api.mercadolibre.com
-www.mercadopago.com.br
 www.mercadolivre.com.br
 www.mercadolibre.com.pe
 www.mercadolibre.com.ar
-www.mercadopago.com.ar
 www.mercadolibre.cl
+www.mercadopago.com.ar
+www.mercadopago.com.br
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -734,8 +735,8 @@ fhir.redoxengine.com
 explore.redoxengine.com
 www.redoxengine.com
 help.redoxengine.com
-testapp.redoxengine.com
 10x.redoxengine.com
+testapp.redoxengine.com
 10x.redoxengine.com
 testapp.redoxengine.com
 testapi.redoxengine.com
@@ -937,8 +938,8 @@ mozilla-pontoon-staging.herokuapp.com
 phabricator.allizom.org
 push.services.mozilla.com
 sync.services.mozilla.com
-accounts.firefox.com
 www.mozilla.org
+accounts.firefox.com
 addons.allizom.org
 developer.mozilla.org
 accounts.firefox.com
@@ -1095,10 +1096,10 @@ www.malwarebytes.com
 my.malwarebytes.com
 cloud.malwarebytes.com
 oneview.malwarebytes.com
-www.s-pankki.fi
+online.s-pankki.fi
 mobile.s-pankki.fi
 extranet.s-pankki.fi
-online.s-pankki.fi
+www.s-pankki.fi
 www.s-kaupat.fi
 tunnistus.s-ryhma.fi
 digili.s-cloud.fi
@@ -1181,9 +1182,8 @@ pay.8x8.com
 admin.8x8.com
 *.napoleongames.be
 *.spinaway.com
-*.superbet.rs
-*.luckydays.ca
 *.superbet.ro
+*.superbet.rs
 *.luckydays.com
 *.magicjackpot.ro
 *.superbet.pl
@@ -1191,6 +1191,7 @@ admin.8x8.com
 *.napoleonsports.be
 *.napoleoncasino.be
 *.napoleondice.be
+*.luckydays.ca
 *.superbet.ro
 *.superbet.rs
 *.superbet.com
@@ -1389,8 +1390,8 @@ invoices.razorpay.com
 payroll.razorpay.com
 x.razorpay.com
 api.linkedin.com
-www.linkedin.com
 business.linkedin.com
+www.linkedin.com
 www.linkedin.com
 api.linkedin.com
 business.linkedin.com
@@ -1561,8 +1562,8 @@ customer-academy.databricks.com
 labs.databricks.com
 marketplace.databricks.com
 https://dbc-9a3f8ed1-7608.cloud.databricks.com
-*.payoneer.com
 payoneer.com.cn
+*.payoneer.com
 *.payoneer.com
 payoneer.com.cn
 krisp.ai
@@ -2109,12 +2110,12 @@ seller-id.tokopedia.com
 shop-id.tokopedia.com
 pay.tokopediax.com
 affiliate-id.tokopedia.com
-*.tiktok.com
 academy-outbound-ads.tiktok.com
 *.tiktokv.com
+*.tiktok.com
 creatormarketplace.tiktok.com
-ads.tiktok.com
 tiktok.com
+ads.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2135,7 +2136,6 @@ seller-id.tokopedia.com
 shop-id.tokopedia.com
 pay.tokopediax.com
 circle.logi.com
-id.logi.com
 accounts.logi.com
 www.logitech.com
 www.logitechg.com
@@ -2469,24 +2469,24 @@ itv7.itv.com
 *.amazon.pl
 *.amazon.com.be
 *.amazon.ae
-*.amazon.ca
 *.amazon.eg
-*.amazon.it
 *.amazon.nl
 *.amazon.sa
 *.amazon.se
 *.amazon.sg
-*.amazon.cn
-*.amazon.co.jp
-*.amazon.com.br
 *.amazon.com.co
-*.amazon.de
-*.amazon.fr
+*.amazon.cn
+*.amazon.com.br
 amazonpayinsurance.in
 *.amazon.com.tr
+*.amazon.de
 *.amazon.co.uk
-*.amazon.in
+*.amazon.co.jp
+*.amazon.fr
+*.amazon.ca
+*.amazon.it
 *.amazon.es
+*.amazon.in
 *.amazon.com
 *.amazon.cl
 *.amazon.co.za
@@ -2621,8 +2621,8 @@ www.goodrx.com
 www.goodrx.com
 *.ra.roblox.com
 *.rbx.com
-*.roblox.com
 *.guilded.gg
+*.roblox.com
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -2716,6 +2716,10 @@ logstash-props.devicecloud.acceptance.forescoutcloud.net
 www.forescout.com
 datapod-2-ingest.acceptance.forescoutcloud.net
 datapod-2-query.acceptance.forescoutcloud.net
+datapod-1-ingest.production.forescoutcloud.net
+datapod-1-query.production.forescoutcloud.net
+mgmtpod-1-dashboard.production.forescoutcloud.net
+mgmtpod-1.production.forescoutcloud.net
 www.forescout.com
 datapod-2-ingest.acceptance.forescoutcloud.net
 datapod-2-query.acceptance.forescoutcloud.net
@@ -3103,8 +3107,8 @@ testnet.bitmex.com
 testnet.bitmex.com
 staging.airtable.com
 *.staging-airtableblocks.com
-*.staging.airtable.com
 api-staging.airtable.com
+*.staging.airtable.com
 *.staging-airtableblocks.com
 *.staging.airtable.com
 staging.airtable.com
@@ -3134,14 +3138,14 @@ staging-shoppingcart.shipt.com
 shoppingcart.shipt.com
 www.shipt.com
 *.goldmanpfm.com
+*.marcus.co.uk
 research.gs.com
 *.gspublishing.com
 www.rocaton.com
-*.marcus.co.uk
 *.goldman.com
-*.goldmansachs.com
 *.marcus.com
 *.honestdollar.com
+*.goldmansachs.com
 *.ayco.com
 *.gsam.com
 *.gsselect.com
@@ -3201,7 +3205,6 @@ api.foliofn.com
 *.folioinvesting.com
 playartifact.com
 help.steampowered.com
-www.teamfortress.com
 www.counter-strike.net
 developer.valvesoftware.com
 www.dota2.com
@@ -3212,6 +3215,7 @@ www.valvesoftware.com
 api.steampowered.com
 partner.steamgames.com
 steamcommunity.com
+www.teamfortress.com
 www.dota2.com
 support.steampowered.com
 partner.steampowered.com
@@ -3544,10 +3548,6 @@ https://enterprise-demo.portswigger.net/
 www.starbucks.co.kr
 card.starbucks.com.sg
 www.starbucks.com.sg
-app.starbucks.com
-cart.starbucks.co.jp
-openapi.starbucks.com
-secureui.starbucks.com
 www.starbucksreserve.com
 gift.starbucks.co.jp
 login.starbucks.co.jp
@@ -3558,6 +3558,10 @@ www.starbucks.fr
 www.starbucks.co.uk
 www.starbucks.com.br
 www.starbucks.ca
+cart.starbucks.co.jp
+openapi.starbucks.com
+secureui.starbucks.com
+app.starbucks.com
 www.starbucks.com
 www.starbucksreserve.com
 gift.starbucks.co.jp
@@ -3667,8 +3671,8 @@ winecellar.zomato.com
 api.grofers.com
 api2.grofers.com
 blinkit.com
-*.zomato.com
 *.runnr.in
+*.zomato.com
 *.zomato.com
 *.zdev.net
 *.zomans.com
@@ -3875,9 +3879,9 @@ callbacks.airbnb.com
 *.luxuryretreats.com
 *.hoteltonight-test.com
 www.hoteltonight.com
-*.withairbnb.com
 *.hoteltonight.com
 *.airbnb.com
+*.withairbnb.com
 *.hoteltonight.com
 www.airbnb.com
 next.airbnb.com
@@ -3960,8 +3964,6 @@ dash.cloudflare.com
 cloudflareworkers.com
 *.teams.cloudflare.com
 api.cloudflare.com
-*.cloudflare.com
-*.cloudflarepartners.com
 one.dash.cloudflare.com
 waf.cumulusfire.net
 dash.cloudflare.com
@@ -4033,12 +4035,12 @@ prime.coinbase.com
 institutional.coinbase.com
 api.custody.coinbase.com
 *.coinbase.com
-coinbase.com
 international.coinbase.com
 *.base.org
 nft.coinbase.com
 cloud.coinbase.com
 api.coinbase.com
+coinbase.com
 *.coinbase.com
 *.cbhq.net
 pro.coinbase.com
@@ -4106,12 +4108,12 @@ hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 www.wearehackerone.com
 mta-sts.wearehackerone.com
 api.hackerone.com
-errors.hackerone.net
 cover-photos-us-east-2.hackerone-user-content.com
+errors.hackerone.net
+app.pullrequest.com
+hackerone.live
 www.hackerone.com
 hackerone.com
-hackerone.live
-app.pullrequest.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
