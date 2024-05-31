@@ -2,10 +2,10 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri May 31 12:23:02 UTC 2024)
+## Domains with Bounties (Last Updated Fri May 31 13:16:24 UTC 2024)
 ```
-app.circle.com
 api.circle.com
+app.circle.com
 api.circle.com
 app.circle.com
 *.varonis.com
@@ -441,8 +441,8 @@ customer-sessions.arkoselabs.com
 portal.arkoselabs.com
 verify.arkoselabs.com
 iframe.arkoselabs.com
-www.arkoselabs.com
 demo.arkoselabs.com
+www.arkoselabs.com
 client-api.arkoselabs.com
 cdn.arkoselabs.com
 customer-sessions.arkoselabs.com
@@ -531,8 +531,8 @@ www.mercadopago.com.pe
 www.mercadopago.com.uy
 www.mercadopago.cl
 www.mercadolivre.com.br
-www.mercadopago.com.br
 www.mercadopago.com.ar
+www.mercadopago.com.br
 api.mercadolibre.com
 www.mercadolibre.cl
 api.mercadopago.com
@@ -917,7 +917,6 @@ monitor.mozilla.org
 www.mozilla.org
 addons.allizom.org
 developer.mozilla.org
-accounts.firefox.com
 profiler.firefox.com
 vpn.mozilla.org
 relay.firefox.com
@@ -939,6 +938,7 @@ mozilla-pontoon-staging.herokuapp.com
 phabricator.allizom.org
 push.services.mozilla.com
 sync.services.mozilla.com
+accounts.firefox.com
 addons.allizom.org
 developer.mozilla.org
 accounts.firefox.com
@@ -1095,10 +1095,10 @@ www.malwarebytes.com
 my.malwarebytes.com
 cloud.malwarebytes.com
 oneview.malwarebytes.com
-www.s-pankki.fi
+online.s-pankki.fi
 mobile.s-pankki.fi
 extranet.s-pankki.fi
-online.s-pankki.fi
+www.s-pankki.fi
 www.s-kaupat.fi
 tunnistus.s-ryhma.fi
 digili.s-cloud.fi
@@ -1179,18 +1179,18 @@ https://webrtc.8x8.com/
 cloud8.8x8.com
 pay.8x8.com
 admin.8x8.com
-*.luckydays.ca
 *.napoleongames.be
 *.superbet.rs
 *.superbet.pl
 *.magicjackpot.ro
-*.spinaway.com
-*.napoleonsports.be
 *.napoleondice.be
 *.napoleoncasino.be
-*.superbet.com
 *.luckydays.com
+*.napoleonsports.be
+*.luckydays.ca
 *.superbet.ro
+*.superbet.com
+*.spinaway.com
 *.superbet.ro
 *.superbet.rs
 *.superbet.com
@@ -1414,9 +1414,9 @@ www.cheapflights.com
 www.hotelscombined.com
 www.mundi.com.br
 business.kayak.com
-sorare.com
 api.sorare.com
 ws.sorare.com
+sorare.com
 sorare.com
 api.sorare.com
 ws.sorare.com
@@ -2099,7 +2099,6 @@ api.adm.cloud.com
 careers.tiktok.com
 creatormarketplace.tiktok.com
 developers.tiktok.com
-*.tiktok.com
 business.tiktok.com
 ads.tiktok.com
 academy-outbound-ads.tiktok.com
@@ -2113,8 +2112,9 @@ affiliate-id.tokopedia.com
 seller-id.tokopedia.com
 shop-id.tokopedia.com
 pay.tokopediax.com
-tiktok.com
 *.tiktokv.com
+tiktok.com
+*.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2465,7 +2465,6 @@ amazonpayinsurance.in
 *.amazon.cl
 *.amazon.co.za
 *.amazon.com.au
-*.amazon.com.co
 *.amazon.com.mx
 *.amazon.com.ng
 *.amazon.com.tr
@@ -2482,12 +2481,13 @@ amazonpayinsurance.in
 *.amazon.se
 *.amazon.sg
 *.amazon.cn
-*.amazon.in
 *.amazon.co.jp
-*.amazon.com
-*.amazon.co.uk
 *.amazon.de
+*.amazon.co.uk
 *.amazon.com.br
+*.amazon.com
+*.amazon.com.co
+*.amazon.in
 *.amazon.cl
 *.amazon.co.za
 *.amazon.com.au
@@ -2716,6 +2716,10 @@ logstash-props.devicecloud.acceptance.forescoutcloud.net
 www.forescout.com
 datapod-2-ingest.acceptance.forescoutcloud.net
 datapod-2-query.acceptance.forescoutcloud.net
+datapod-1-ingest.production.forescoutcloud.net
+datapod-1-query.production.forescoutcloud.net
+mgmtpod-1-dashboard.production.forescoutcloud.net
+mgmtpod-1.production.forescoutcloud.net
 www.forescout.com
 datapod-2-ingest.acceptance.forescoutcloud.net
 datapod-2-query.acceptance.forescoutcloud.net
@@ -2819,8 +2823,7 @@ dashboard.omise.co
 offsite.omise.co
 www.omise.co
 www.opn.ooo
-hyatt.com
-www.hyatt.com
+world.hyatt.com
 assets.hyatt.com
 salesportal.hyatt.com
 meetings.hyatt.com
@@ -2832,7 +2835,8 @@ roominglist.hyatt.com
 soaext.oft.hyatt.com
 sso.oft.hyatt.com
 upsell.hyatt.com
-world.hyatt.com
+hyatt.com
+www.hyatt.com
 newsroom.images.hyatt.com
 www.hyattconnect.com
 jira.hyattdev.com
@@ -3018,11 +3022,9 @@ login-pabets.tvg.com
 matomo.cloud
 matomo.cloud
 https://github.com/matomo-org/docker
-*.xoom.com
-*.paypal.com
-*.braintreegateway.com
-*.paydiant.com
-*.venmo.com
+paypalobjects.com
+paypal.me
+py.pl
 www.swiftcapital.com
 www.loanbuilder.com
 www.swiftfinancial.com
@@ -3042,9 +3044,11 @@ decision.swiftfinancial.com
 pigeon.swiftfinancial.com
 scrutiny.swiftfinancial.com
 *.paypalcorp.com
-paypalobjects.com
-paypal.me
-py.pl
+*.xoom.com
+*.paypal.com
+*.braintreegateway.com
+*.paydiant.com
+*.venmo.com
 *.hyperwallet.com
 *.paylution.com
 sandbox.braintreegateway.com
@@ -3134,15 +3138,15 @@ staging-shoppingcart.shipt.com
 shoppingcart.shipt.com
 www.shipt.com
 *.goldmanpfm.com
-*.marcus.co.uk
 research.gs.com
 *.gspublishing.com
 www.rocaton.com
+*.marcus.co.uk
 *.gs.com
 *.goldman.com
+*.goldmansachs.com
 *.marcus.com
 *.honestdollar.com
-*.goldmansachs.com
 *.ayco.com
 *.gsam.com
 *.gsselect.com
@@ -3202,9 +3206,9 @@ api.foliofn.com
 *.folioinvesting.com
 playartifact.com
 help.steampowered.com
+developer.valvesoftware.com
 www.teamfortress.com
 www.counter-strike.net
-developer.valvesoftware.com
 www.dota2.com
 support.steampowered.com
 partner.steampowered.com
@@ -3622,13 +3626,13 @@ moneybird.com
 moneybirdstorage.com
 *.github.net
 education.github.com
-npmjs.com
 npmjs.org
 api.github.com
 gist.github.com
 classroom.github.com
 *.githubapp.com
 *.githubusercontent.com
+npmjs.com
 github.com
 github.com
 api.github.com
@@ -3747,7 +3751,6 @@ arrive-server.shopifycloud.com
 *.shopifykloud.com
 your-store.myshopify.com
 partners.shopify.com
-accounts.shopify.com
 *.shopify.io
 *.shopify.com
 *.shopifycloud.com
@@ -3756,6 +3759,7 @@ shopifyinbox.com
 shop.app
 *.shopifycs.com
 admin.shopify.com
+accounts.shopify.com
 *.shopifycs.com
 *.shopify.io
 *.shopify.com
@@ -3880,7 +3884,6 @@ callbacks.airbnb.com
 *.airbnb.com
 *.airbnbcitizen.com
 *.atairbnb.com
-*.withairbnb.com
 *.byairbnb.com
 *.muscache.com
 *.airbnb-aws.com
@@ -3888,6 +3891,7 @@ callbacks.airbnb.com
 *.hoteltonight-test.com
 www.hoteltonight.com
 *.hoteltonight.com
+*.withairbnb.com
 *.hoteltonight.com
 www.airbnb.com
 next.airbnb.com
@@ -4111,11 +4115,11 @@ hackerone.live
 www.wearehackerone.com
 mta-sts.wearehackerone.com
 api.hackerone.com
-errors.hackerone.net
 cover-photos-us-east-2.hackerone-user-content.com
-www.hackerone.com
+errors.hackerone.net
 app.pullrequest.com
 hackerone.com
+www.hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
@@ -4143,9 +4147,9 @@ hackerone.live
 williamhill.us
 *.williamhill.us
 *.us.williamhill.com
-sportsbook.caesars.com
 api.americanwagering.com
 caesarspalaceonline.com
+sportsbook.caesars.com
 *.us.williamhill.com
 *.williamhill.us
 sportsbook.caesars.com
@@ -4399,12 +4403,12 @@ mossy.breadcrumb.com
 payments.breadcrumb.com
 reports.breadcrumb.com
 pos.swipely.com
-app.upserve.com
-hq.breadcrumb.com
 payments.upserve.com
 orders.upserve.com
 d2evh2mef3r450.cloudfront.net
 swipely-merchant-assets.s3.amazonaws.com
+app.upserve.com
+hq.breadcrumb.com
 hq-api.upserve.com
 app.upserve.com
 hq.breadcrumb.com
