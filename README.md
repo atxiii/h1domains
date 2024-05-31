@@ -2,10 +2,10 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri May 31 11:14:22 UTC 2024)
+## Domains with Bounties (Last Updated Fri May 31 12:23:02 UTC 2024)
 ```
-api.circle.com
 app.circle.com
+api.circle.com
 api.circle.com
 app.circle.com
 *.varonis.com
@@ -177,7 +177,6 @@ shop.dyson.tw
 www.dyson.tw
 www.gr.dyson.com
 *.dyson.com
-business.truecaller.com
 account-noneu.truecaller.com
 account-onboarding-noneu.truecaller.com
 ads-audience-ingestion-noneu.truecaller.com
@@ -226,6 +225,7 @@ enterprise-reports-noneu.truecaller.com
 enterprise-service-management-noneu.truecaller.com
 enterprise-survey-asia-south1.truecaller.com
 enterprise-survey-noneu.truecaller.com
+enterprise-userfeedback-noneu.truecaller.com
 business.truecaller.com
 account-noneu.truecaller.com
 account-onboarding-noneu.truecaller.com
@@ -529,12 +529,12 @@ www.mercadopago.com.mx
 www.mercadopago.com.co
 www.mercadopago.com.pe
 www.mercadopago.com.uy
-www.mercadolibre.cl
 www.mercadopago.cl
-api.mercadolibre.com
 www.mercadolivre.com.br
 www.mercadopago.com.br
 www.mercadopago.com.ar
+api.mercadolibre.com
+www.mercadolibre.cl
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -556,7 +556,6 @@ www.temu.com
 booking.com
 careers.booking.com
 kyc-onboarding.booking.com
-*.booking.com
 *.rentalcars.com
 supplier.auth.toag.booking.com
 www.fareharbor.com
@@ -587,6 +586,7 @@ marketing.fareharbor.com
 sites.fareharbor.com
 teleport.fareharbor.engineering
 compass.fareharbor.com
+fhdn.fareharbor.com
 *.booking.com
 *.rentalcars.com
 *.fareharbor.engineering
@@ -1065,8 +1065,8 @@ skinport.com
 app.skinport.com
 api.skinport.com
 http://skinport.com/blog/
-miro.com
 api.miro.com
+miro.com
 http://miro.com/app
 miro.com
 api.miro.com
@@ -1179,17 +1179,17 @@ https://webrtc.8x8.com/
 cloud8.8x8.com
 pay.8x8.com
 admin.8x8.com
-*.luckydays.com
 *.luckydays.ca
-*.napoleoncasino.be
-*.napoleondice.be
 *.napoleongames.be
-*.napoleonsports.be
 *.superbet.rs
-*.superbet.com
 *.superbet.pl
 *.magicjackpot.ro
 *.spinaway.com
+*.napoleonsports.be
+*.napoleondice.be
+*.napoleoncasino.be
+*.superbet.com
+*.luckydays.com
 *.superbet.ro
 *.superbet.ro
 *.superbet.rs
@@ -1421,8 +1421,8 @@ sorare.com
 api.sorare.com
 ws.sorare.com
 *.sheingsp.com
-*.romwe.com
 *.shein.com
+*.romwe.com
 *.shein.com
 *.romwe.com
 *.sheingsp.com
@@ -1614,7 +1614,6 @@ api.evernote.com
 *.oncatapult.com
 *.fallguys.com
 *.mediatonic.co.uk
-*.artstation.com
 *.easy.ac
 *.psyonix.com
 *.unrealengine.com
@@ -1623,6 +1622,7 @@ metahuman.unrealengine.com
 twinmotion.unrealengine.com
 *.sketchfab.com
 *.quixel.com
+*.superawesome.com
 *.rocketleague.com
 *.psynet.gg
 *.unrealtournament.com
@@ -2113,8 +2113,8 @@ affiliate-id.tokopedia.com
 seller-id.tokopedia.com
 shop-id.tokopedia.com
 pay.tokopediax.com
-*.tiktokv.com
 tiktok.com
+*.tiktokv.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2465,7 +2465,6 @@ amazonpayinsurance.in
 *.amazon.cl
 *.amazon.co.za
 *.amazon.com.au
-*.amazon.com.br
 *.amazon.com.co
 *.amazon.com.mx
 *.amazon.com.ng
@@ -2474,8 +2473,6 @@ amazonpayinsurance.in
 *.amazon.com.be
 *.amazon.ae
 *.amazon.ca
-*.amazon.co.uk
-*.amazon.de
 *.amazon.eg
 *.amazon.es
 *.amazon.fr
@@ -2485,9 +2482,12 @@ amazonpayinsurance.in
 *.amazon.se
 *.amazon.sg
 *.amazon.cn
-*.amazon.co.jp
 *.amazon.in
+*.amazon.co.jp
 *.amazon.com
+*.amazon.co.uk
+*.amazon.de
+*.amazon.com.br
 *.amazon.cl
 *.amazon.co.za
 *.amazon.com.au
@@ -2654,8 +2654,8 @@ app.nordpass.com
 *.line-apps.com
 *.line.naver.jp
 *.line.biz
-*.linecorp.com
 *.line.me
+*.linecorp.com
 *.line.me
 *.line-apps.com
 *.line.naver.jp
@@ -3018,9 +3018,11 @@ login-pabets.tvg.com
 matomo.cloud
 matomo.cloud
 https://github.com/matomo-org/docker
-paypalobjects.com
-paypal.me
-py.pl
+*.xoom.com
+*.paypal.com
+*.braintreegateway.com
+*.paydiant.com
+*.venmo.com
 www.swiftcapital.com
 www.loanbuilder.com
 www.swiftfinancial.com
@@ -3040,11 +3042,9 @@ decision.swiftfinancial.com
 pigeon.swiftfinancial.com
 scrutiny.swiftfinancial.com
 *.paypalcorp.com
-*.xoom.com
-*.paypal.com
-*.braintreegateway.com
-*.paydiant.com
-*.venmo.com
+paypalobjects.com
+paypal.me
+py.pl
 *.hyperwallet.com
 *.paylution.com
 sandbox.braintreegateway.com
@@ -3703,8 +3703,8 @@ derivws.com
 secure-dfadmin.deriv.com
 oauth.deriv.com
 api.deriv.com
-*.deriv.com
 *.derivws.com
+*.deriv.com
 app.deriv.com
 *.deriv.com
 *.deriv.cloud
@@ -3800,8 +3800,8 @@ rt.playcanvas.com
 store.playcanvas.com
 playcanv.as
 *.sc-corp.net
-accounts.snapchat.com
 business.snapchat.com
+accounts.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
@@ -4103,7 +4103,6 @@ hackathon-photos-us-east-2.hackerone-user-content.com
 profile-photos.hackerone-user-content.com
 hackerone-user-content.com
 profile-photos-us-east-2.hackerone-user-content.com
-app.pullrequest.com
 reviewer.pullrequest.com
 ctf.hacker101.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
@@ -4111,11 +4110,12 @@ hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 hackerone.live
 www.wearehackerone.com
 mta-sts.wearehackerone.com
-hackerone.com
 api.hackerone.com
 errors.hackerone.net
 cover-photos-us-east-2.hackerone-user-content.com
 www.hackerone.com
+app.pullrequest.com
+hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
